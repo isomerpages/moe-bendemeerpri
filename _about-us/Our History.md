@@ -41,8 +41,7 @@ Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer
 * * *
 
 <img src="/images/Bendemeer%20Logos/Bendemeer-Primary-3.png"
-		 align="left"
-		 style="width:200px"/>
+		 style="width:200px; float:left"/>
 		 
 <img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png"
 		 style="width:200px"/>
