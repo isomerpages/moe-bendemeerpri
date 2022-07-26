@@ -1,5 +1,4 @@
 logo: /images/school logo2.png
 links:
-  - title: About us
-    url: /permalink
-    sublinks: []
+  - title: About Us
+    collection: about-us
