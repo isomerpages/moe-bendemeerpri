@@ -19,41 +19,46 @@ Our Origins
 -----------
 
 
-![bendemeer-pri.png](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/2019/About%20us/bendemeer-pri.png)  
-
-          
-
-    **Bendemeer Primary**   
+<img 
+		 src="/images/Bendemeer%20Logos/bendemeer-pri-1.png"
+		 align="left"
+		 style="width:200px"/> 
+		 
+	Bendemeer Primary
+Bendemeer started functioning in 1977 and was officially opened by Mr Sidek Bin Saniff, Member of Parliament for Kolam Ayer, on 10 March 1978.      
   
-   Bendemeer started functioning in 1977 and was officially opened by Mr Sidek Bin           Saniff, Member of Parliament for Kolam Ayer, on 10 March 1978.      
+
+***
+
+  
+<img 
+		 src="/images/Bendemeer%20Logos/Beng-Wan-Primary-2.png"
+		 align="left"
+		 style="width:200px"/>
+		 
+	Beng Wan Primary School
+Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer Mr Sidek Bin Saniff on 25 July 1978.  The school started functioning on 2 January 1977 with pupils from Griffiths, Beatty, Balestier Boys, Balestier Girls, Balestier Mixed and Kwong Avenue schools.
+
   
 
 * * *
 
-  
-![Beng-Wan-Primary.png](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/2019/About%20us/Beng-Wan-Primary.png)    **Beng Wan Primary School**  
-  
+<img src="/images/Bendemeer%20Logos/Bendemeer-Primary-3.png"
+		 align="left"
+		 style="width:200px"/>
+		 
+		  Bendemeer Primary School and Balestier Hill Primary School
 
-    Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer Mr         Sidek Bin Saniff on 25 July 1978.  The school started functioning on 2 January 1977 with               pupils from Griffiths, Beatty, Balestier Boys, Balestier Girls, Balestier Mixed and Kwong                 Avenue schools.
+ The former school crests of Bendemeer Primary School and Balestier Hill Primary School before the merge in 2019.
 
-  
-
-* * *
-
-    ![Beng-Wan-Primary-2.png](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/2019/About%20us/Beng-Wan-Primary-2.png)  
-
-  
-
+<img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png"
+		 align="left"
+		 style="width:200px"/>
   
 
            
 
-                 **Bendemeer Primary School and** **Balestier Hill Primary School**  
-
-               The former school crests of Bendemeer Primary School and Balestier Hill Primary                             School before the merge in 2019.
-
-![bhps-headerlogo.png](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/bhps-headerlogo.png)
-
+                
   
 
   
