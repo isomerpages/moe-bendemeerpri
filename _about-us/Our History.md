@@ -21,7 +21,7 @@ Our Origins
 <img 
 		 src="/images/Bendemeer%20Logos/bendemeer-pri-1.png"
 		 align="left"
-		 style="width:200px"/> 
+		 style="width:200px; margin:20px"/> 
 		 
 **Bendemeer Primary**
 
@@ -32,7 +32,7 @@ Bendemeer started functioning in 1977 and was officially opened by Mr Sidek BinÂ
 <img 
 		 src="/images/Bendemeer%20Logos/Beng-Wan-Primary-2.png"
 		 align="left"
-		 style="width:200px"/>
+		 style="width:200px; margin:0px 20px"/>
 		 
 **Beng Wan Primary School**
 
