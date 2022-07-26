@@ -47,42 +47,22 @@ Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer
 		 align="left"
 		 style="width:200px"/>
 		 
-		  Bendemeer Primary School and Balestier Hill Primary School
+<img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png"
+		 style="width:200px"/>
+		 
+		 Bendemeer Primary School and Balestier Hill Primary School
 
  The former school crests of Bendemeer Primary School and Balestier Hill Primary School before the merge in 2019.
 
-<img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png"
+
+ 
+ * * *
+
+<img src="/images/Bendemeer%20Logos/Bendemeer-Primary-Final.png"
 		 align="left"
 		 style="width:200px"/>
   
 
-           
-
-                
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-* * *
-
-![Beng-Wan-Primary-3.png](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/2019/About%20us/Beng-Wan-Primary-3.png)
-
-  
-
-**The new Bendemeer Primary School crest**  
-
-  
+	The new Bendemeer Primary School crest
 
 Established in 2019, the new school crest will serve the new Bendemeer Primary School.
