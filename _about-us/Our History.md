@@ -24,7 +24,7 @@ Our Origins
 		 align="left"
 		 style="width:200px"/> 
 		 
-	Bendemeer Primary
+**Bendemeer Primary**
 Bendemeer started functioning in 1977 and was officially opened by Mr Sidek Bin Saniff, Member of Parliament for Kolam Ayer, on 10 March 1978.      
   
 
@@ -36,7 +36,7 @@ Bendemeer started functioning in 1977 and was officially opened by Mr Sidek Bin�
 		 align="left"
 		 style="width:200px"/>
 		 
-	Beng Wan Primary School
+**Beng Wan Primary School**
 Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer Mr Sidek Bin Saniff on 25 July 1978.  The school started functioning on 2 January 1977 with pupils from Griffiths, Beatty, Balestier Boys, Balestier Girls, Balestier Mixed and Kwong Avenue schools.
 
   
@@ -50,7 +50,8 @@ Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer
 <img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png"
 		 style="width:200px"/>
 		 
-		 Bendemeer Primary School and Balestier Hill Primary School
+**Bendemeer Primary School and Balestier Hill Primary School**
+
 
  The former school crests of Bendemeer Primary School and Balestier Hill Primary School before the merge in 2019.
 
@@ -62,7 +63,6 @@ Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer
 		 align="left"
 		 style="width:200px"/>
   
-
-	The new Bendemeer Primary School crest
+**The new Bendemeer Primary School crest**
 
 Established in 2019, the new school crest will serve the new Bendemeer Primary School.
