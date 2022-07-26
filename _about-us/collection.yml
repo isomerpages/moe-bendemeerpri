@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Virtual Tour of BPS.md
       - Principal's Message.md
