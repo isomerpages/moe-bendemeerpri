@@ -32,9 +32,7 @@ b. If your child is non-SC / non-PR, you are not eligible for Phase 1. However, 
 
   
 
-3. For enquiries pertaining to the registration exercise, please contact the school’s General Office via phone at 
-
-    6298 2911 or via email at [Bendemeer\_ps@moe.edu.sg](mailto:Bendemeer_ps@moe.edu.sg).
+3\. For enquiries pertaining to the registration exercise, please contact the school’s General Office via phone at 6298 2911 or via email at [Bendemeer\_ps@moe.edu.sg](mailto:Bendemeer_ps@moe.edu.sg).
 
   
 
