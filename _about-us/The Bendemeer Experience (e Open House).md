@@ -28,21 +28,19 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 Sit back and enjoy our corporate video,   
 **The Bendemeer Experience**! (Click on the video)  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<iframe width="480" height="360" 
+				src="https://www.youtube.com/embed/QpXxmpp4BRE" 
+				title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
+				frameborder="0" 
+				allow="accelerometer; 
+							 autoplay; 
+							 clipboard-write; 
+							 encrypted-media; 
+							 gyroscope; 
+							 picture-in-picture" 
+				allowfullscreen
+				align="left"></iframe>  
+				
 Meet **Ben**, **our school mascot**, and together with  
 him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)  
   
