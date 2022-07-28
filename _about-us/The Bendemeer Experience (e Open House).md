@@ -8,9 +8,9 @@ description: ""
 	  
 ![Open House Banner](/images/banner%20eOpen%20House_2022.jpg)
   
-##### About Us @ Bendemeer Primary School (BPS)
+<h4 align="center"> About Us @ Bendemeer Primary School (BPS) </h4>
 
-_Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
+<em align="center" style="font-size:12px">Disclaimer: Media used in the videos were taken with Safe Management Measure in place.</em>
 
 <table>
 	<tr>
@@ -75,7 +75,8 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 
-##### Curriculum
+<h5 align="center"> Curriculum </h5>
+
 <table>
 	<tr>
 		<td>
@@ -89,7 +90,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 	
-##### Co-Curriculum
+<h5 align="center"> Co-Curriculum </h5>
 
 <table>
 	<tr>
@@ -106,7 +107,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
   
-##### Connecting With The Community
+<h5 align="center"> Connecting With The Community </h5>
 
 <table>
 	<tr>
@@ -121,7 +122,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 
-#### What's Buzzing @ BPS
+<h4 align="center"> What's Buzzing @ BPS </h4>
 
 <p align="center"> <b>Bendemeer News Channel (BNC)</b> <br> We are proud to have our own students' news channel, BNC, that provides news flash on school activities and events! </p>
 
@@ -181,7 +182,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 
-<p align="center" style="font-weight:700">Learning through Movement </p>
+<p align="center" style="font-weight:700">Learning through Movement </b>
 
 <table>
 	<tr>
@@ -207,46 +208,29 @@ Find out more about what happens for the teaching of Physical Education lessons,
 	</tr>
 </table>
 
+<h5 align="center">Our Publications</h5>
 
-  
-  
-  
-  
-  
-  
-  
+<p align="center" style="font-weight:700">ASPIRE Newsletter </p>
 
-**Our Publications**
+<table>
+	<tr>
+		<td>
+			<a href="">
+				<img src="/images/May%202022.jpg" />
+			</a>
+		</td>
+		<td> 
+			Find out more about the Bendemeer experience  
+through our bi-annual newsletter.  <br> (Click on the image)  
+		</td>
+	</tr>
+</table>
 
-  
+<h5 align="center">Get in touch with us!</h5>
 
-**ASPIRE Newsletter**
-
-   
-  ![May 2022.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/ASPIRE%20Issue/May%202022.jpg)
-
-Find out more about the Bendemeer experience  
-through our bi-annual newsletter.  
-(Click on the image)  
-  
-  
-  
-  
-  
-  
-  
-
-**Get in touch with us!**
-
-  
-
-**Address: 91 Bendemeer Road Singapore 339948**
-
-  
-
-**Tel: 6298 2911**
-
-**Fax: 6299 5735**
+**Address: 91 Bendemeer Road Singapore 339948
+Tel: 6298 2911
+Fax: 6299 5735**
 
   
 
