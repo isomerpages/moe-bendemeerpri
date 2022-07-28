@@ -12,7 +12,7 @@ description: ""
 
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
-<iframe width="479" height="315" 
+<iframe width="480" height="315" 
 				src="https://www.youtube.com/embed/zP7V99NsRpg" 
 				title="The Bendemeer Experience" 
 				frameborder="0" 
@@ -44,7 +44,17 @@ Sit back and enjoy our corporate video, 
 Meet **Ben**, **our school mascot**, and together with  
 him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)  
   
-  
+<iframe width="480" height="360" 
+				src="https://www.youtube.com/embed/OWI9WYkemqw" 
+				title="A Day As A Primary 1 Student in BPS" 
+				frameborder="0" 
+				allow="accelerometer; 
+							 autoplay; 
+							 clipboard-write; 
+							 encrypted-media; 
+							 gyroscope; 
+							 picture-in-picture" 
+				allowfullscreen></iframe>
   
   
   
