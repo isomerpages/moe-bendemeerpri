@@ -3,6 +3,7 @@ title: School Song
 permalink: /about-us/school-song
 description: ""
 ---
+### SCHOOL SONG
 
 <p align="center">
 	Altogether now we come as one <br>
@@ -25,4 +26,3 @@ description: ""
 	The mission which unites us all <br>
 	One Bendemeer One Family <br>
 </p>
-
