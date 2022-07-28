@@ -84,15 +84,16 @@ and widen their perspectives** in this section!
 	
  #### Co-Curriculum
 
-  
-![10.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/eOpenHouse/10.jpg)  
+<div>
+<a href="">
+	<img src="/images/Main%20Page/4fe8d32ea_246.jpg"
+		 width="300"
+		 align="left"/>
+	</a>
 
-  
+Find out more on how the different departments come together to **support our students’ holistic development**. (Click on the image)
 
-Find out more on how the different departments
-
-come together to **support our students’ holistic development**. (Click on the image)
-
+</div>
   
 
   
