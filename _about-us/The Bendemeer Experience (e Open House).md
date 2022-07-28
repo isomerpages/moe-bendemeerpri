@@ -141,70 +141,72 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 							allowfullscreen></iframe>
 		</td>
 		<td> 
-			<b>BNC News #1 </b><br>
+			<b>BNC News #1 </b><br> <br>
 			Click on the video to learn about the <b>key events</b> and programmes in Term 1 2022, reported by our very own <b>BNC news anchors.</b> (Click on the video)  
 		</td>
 	</tr>
 	<tr>
-		<td>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-
-![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Library/11.jpg)
-
-**Readers' Rendezvous @ BPS**  
-
-  
-Presenting our very own reading channel –  
-**Readers’ Rendezvous @BPS**! Through this channel,  
-students will be able to **enjoy read alouds and book  
-recommendations** from our BPS teachers!  
+		<td> 
+			<a href="">
+				<img src="images/11.jpg"/> 
+			</a>
+		</td>
+		<td> <b>Readers' Rendezvous @ BPS </b> <br> <br>
+			Presenting our very own reading channel –  
+			<b>Readers’ Rendezvous @BPS</b>! Through this channel, students will be able to <b>enjoy read alouds and book recommendations </b> from our BPS teachers!  
 (Click on the image)  
-  
-  
-  
-  
-  
-  
-  
-  
+		</td>
+	</tr>
+</table>
 
-**To Appreciate the Arts, To Nurture Talents, To Inspire Others  
-**
+<p align="center" style="font-weight:700"> To Appreciate the Arts, To Nurture Talents, To Inspire Others </p>
 
-  
+<table>
+	<tr>
+		<td>
+			<iframe width="474" height="354"
+							src="https://www.youtube.com/embed/jfuN16qfTOE"
+							title="PAM Final" 
+							frameborder="0" 
+							allow="accelerometer; 
+												  autoplay; 
+													clipboard-write; 
+												  encrypted-media; 
+												  gyroscope; 
+												  picture-in-picture" 
+							allowfullscreen></iframe>  
+		</td>
+		<td> Click on the video on the left to learn more about Aesthetics in BPS!  
+		</td>
+	</tr>
+</table>
 
-  
-  
-Click on the video on the left to learn more about Aesthetics in BPS!  
-  
-  
-  
-                                                                                                                                                           **  
+<p align="center" style="font-weight:700">Learning through Movement </p>
 
-**Learning through Movement**
-
-  
-
-
-**  
-      
-
-Do you want to find out about what happens during a Physical Education Lesson? What sort of programmes do we have in the school to **promote a healthy lifestyle, life skills and values through sports**?
+<table>
+	<tr>
+		<td>
+			<iframe width="480" height="360" 
+							src="https://www.youtube.com/embed/LF-PdsZjn10" 
+							title="BPS - Physical Education" 
+							frameborder="0" 
+							allow="accelerometer; 
+												  autoplay; 
+												  clipboard-write; 
+												  encrypted-media; 
+												  gyroscope; 
+												  picture-in-picture" 
+							allowfullscreen></iframe>
+		</td>
+		<td> 
+			Do you want to find out about what happens during a Physical Education Lesson? What sort of programmes do we have in the school to <b>promote a healthy lifestyle, life skills and values through sports</b>?
 
 Find out more about what happens for the teaching of Physical Education lessons, Annual Games Day, SwimSafer and Run for Life Programme.
-
 (Click on the video) 
+		</td>
+	</tr>
+</table>
+
 
   
   
