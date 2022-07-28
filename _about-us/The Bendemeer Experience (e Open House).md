@@ -12,7 +12,9 @@ description: ""
 
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
-<div>
+<table>
+<tr>
+	<td>
 <iframe width="480" height="315" 
 				src="https://www.youtube.com/embed/zP7V99NsRpg" 
 				title="The Bendemeer Experience" 
@@ -25,12 +27,14 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 							 picture-in-picture" 
 				allowfullscreen
 				align="left"></iframe>
-  
+	</td>
+	<td>
 Sit back and enjoy our corporate video,   
 **The Bendemeer Experience**! (Click on the video)  
-</div>
-
-<div>
+	</td>
+	</tr>
+<tr>
+	<td>
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/QpXxmpp4BRE" 
 				title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
@@ -43,12 +47,14 @@ Sit back and enjoy our corporate video, 
 							 picture-in-picture" 
 				allowfullscreen
 				align="left"></iframe>  
-				
+	</td>
+	<td>			
 Meet **Ben**, **our school mascot**, and together with  
 him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)  
-</div>
-
-<div>
+	</td>
+	</tr>
+<tr>
+	<td>
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/OWI9WYkemqw" 
 				title="A Day As A Primary 1 Student in BPS" 
@@ -61,26 +67,31 @@ him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)
 							 picture-in-picture" 
 				allowfullscreen
 				align="left"></iframe>
- 
+	</td>
+	<td>
 Being a Primary 1 student can be nerve-racking,  
 fret not, as _Xancie_ takes us on **A Day As A Primary 1  
 Student.** (Click on the video)  
-</div>
+	</td>
+	</tr>
+</table>
 
 #### Curriculum
-
-<div> 
+<table>
+<tr>
+	<td>
 <a href="">
-	<img src="/images/Main%20Page/2d41695da_245.jpg"
-		 width="300"
-		 align="left" /> 
+	<img src="/images/Main%20Page/2d41695da_245.jpg" /> 
 </a>
-  
+	</td>
+	<td> 
 Ready to explore our vibrant curriculum? Find out  
 more on how our students **deepen their learning  
 and widen their perspectives** in this section!  
 (Click on the image)  
-</div>
+	</td>
+	</tr>
+	<table>
 	
  #### Co-Curriculum
 
