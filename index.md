@@ -2,7 +2,7 @@
 layout: homepage
 title: Bendemeer Primary School
 description: Brief site description here
-image: /images/school logo2.png
+image: /images/Bendemeer Logos/Bendemeer-Primary-Final.png
 permalink: /
 notification: ""
 sections:
@@ -49,4 +49,5 @@ sections:
       image: /images/8892ffa55_249.jpg
       alt: Image alt text
 ---
+
 
