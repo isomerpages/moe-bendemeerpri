@@ -1,6 +1,6 @@
 title: Bendemeer Primary School
 url: ""
-favicon: /images/school logo2.png
+favicon: /images/Bendemeer Logos/Bendemeer-Primary-Final.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-bendemeerpri-staging.netlify.app
 prod: https://moe-bendemeerpri-prod.netlify.app
-shareicon: /images/school logo2.png
+shareicon: /images/Bendemeer Logos/Bendemeer-Primary-Final.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
