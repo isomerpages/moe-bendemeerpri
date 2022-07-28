@@ -92,12 +92,8 @@ and widen their perspectives** in this section!
 	</a>
 
 Find out more on how the different departments come together to **support our students’ holistic development**. (Click on the image)
-
 </div>
   
-
-  
-
 **Connecting With The Community**
 
 ![partners open house pic.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/partners%20open%20house%20pic.jpg)
