@@ -121,21 +121,32 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 
-  
+#### What's Buzzing @ BPS
 
-**What's Buzzing @ BPS**
+<p align="center"> <b>Bendemeer News Channel (BNC)</b> <br> We are proud to have our own students' news channel, BNC, that provides news flash on school activities and events! </p>
 
-  
-
-**Bendemeer News Channel (BNC)**
-
-We are proud to have our own students' news channel, BNC, that provides news flash on school activities and events!
-
-  
-  
-**BNC News #1  
-**Click on the video to learn about the **key events**  
-and programmes in Term 1 2022, reported by our very own **BNC news anchors.** (Click on the video)  
+<table>
+	<tr>
+		<td>
+			<iframe width="478" height="358" 
+						src="https://www.youtube.com/embed/UuZVCP3TwSg"
+							title="BNC 2022 #1" 
+							frameborder="0" 
+							allow="accelerometer; 
+												  autoplay; 
+												  clipboard-write; 
+												  encrypted-media; 
+												  gyroscope; 
+												  picture-in-picture" 
+							allowfullscreen></iframe>
+		</td>
+		<td> 
+			<b>BNC News #1 </b><br>
+			Click on the video to learn about the <b>key events</b> and programmes in Term 1 2022, reported by our very own <b>BNC news anchors.</b> (Click on the video)  
+		</td>
+	</tr>
+	<tr>
+		<td>
   
   
   
