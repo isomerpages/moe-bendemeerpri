@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Regulations.md
       - School Terms & Holidays.md
       - Admission.md
