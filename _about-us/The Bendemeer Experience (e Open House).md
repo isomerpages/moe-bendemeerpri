@@ -64,7 +64,9 @@ Student.** (Click on the video)
 #### Curriculum
 
   
-![13.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/eOpenHouse/13.jpg)  
+<img src="/images/Main%20Page/2d41695da_245.jpg"
+		 width="300"
+		 align="left" />
   
 Ready to explore our vibrant curriculum? Find out  
 more on how our students **deepen their learning  
