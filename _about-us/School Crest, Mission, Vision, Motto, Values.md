@@ -19,33 +19,28 @@ The shield is supported by our motto - "Today's Learners, Tomorrow's Leaders” 
 
   
 
-School Mission
---------------
+#### School Mission
 
 Nurturing and inspiring students to love learning, lead confidently, and make a difference in the lives of others  
 
-School Vision
--------------
+#### School Vision
 
 A gracious community of passionate learners and confident leaders
 
-School Motto
-------------
+#### School Motto
 
 Today’s Learners, Tomorrow’s Leaders
 
-School Values
--------------
+#### School Values
 
 Our School Values are Adaptability, Self-Discipline, Passion, Integrity, Resilience and Empathy (ASPIRE)
 
-School Philosophy
------------------
+#### School Philosophy
 
 To bring out the best in every child
 
-School Strategic Thrust
------------------------
+#### School Strategic Thrust
+
 Thrust 1
 
 Holistic Student Development
