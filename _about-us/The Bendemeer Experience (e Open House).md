@@ -8,7 +8,7 @@ description: ""
 	  
 ![Open House Banner](/images/banner%20eOpen%20House_2022.jpg)
   
-#### About Us @ Bendemeer Primary School (BPS)
+##### About Us @ Bendemeer Primary School (BPS)
 
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
@@ -75,7 +75,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 
-#### Curriculum
+##### Curriculum
 <table>
 	<tr>
 		<td>
@@ -89,7 +89,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
 	
-#### Co-Curriculum
+##### Co-Curriculum
 
 <table>
 	<tr>
@@ -106,7 +106,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 	</tr>
 </table>
   
-#### Connecting With The Community
+##### Connecting With The Community
 
 <table>
 	<tr>
@@ -120,8 +120,6 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
 		</td>
 	</tr>
 </table>
-
-**
 
   
 
