@@ -3,14 +3,13 @@ title: School Rules
 permalink: /about-us/School-Information/school-rules
 description: ""
 ---
-
 ### SCHOOL RULES
 
 The following school rules and regulations are put in place to develop good behaviour and good attitude among pupils.
 
 All pupils are expected to:
 
-1.  Be punctual for school and all school activities. 
+1\.  Be punctual for school and all school activities. <br>
 2. Hand in all assignments on time.  
 3. Be responsible for their own personal tidiness and dress smartly.
 4. Students must wear the prescribed school uniform and modifications to the uniform is not allowed.  
