@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Aspire Newsletter.md
       - School Mascot.md
       - The Bendemeer Experience (e Open House).md
       - About Us.md
