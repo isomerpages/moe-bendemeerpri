@@ -3,8 +3,6 @@ title: School Crest, Mission, Vision, Motto, Values
 permalink: /about-us/school-mission
 description: ""
 ---
-[| Home|](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/) > [| ABOUT US|](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/about-us) > School Crest, Mission, Vision, Motto, Values
-
 ![school crest](/images/Bendemeer%20Logos/Bendemeer-Primary-Final.png)
 
 The school badge of Bendemeer Primary School is created as a result of the merger of Balestier Hill Primary School and Bendemeer Primary School in 2019.
