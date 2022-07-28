@@ -4,6 +4,8 @@ permalink: /about-us/School-Information/operation-hours
 description: ""
 third_nav_title: School Information
 ---
+### OPERATION HOURS
+
 **School Hours** <br>
 <u>Primary 1 - Primary 6 </u> <br>
 Monday – Friday <br>
