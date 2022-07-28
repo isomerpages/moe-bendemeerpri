@@ -8,7 +8,7 @@ description: ""
 	  
 ![](/images/banner%20eOpen%20House_2022.jpg)
   
- **About Us @ Bendemeer Primary School (BPS)**
+#### About Us @ Bendemeer Primary School (BPS)
 
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
@@ -55,39 +55,13 @@ him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)
 							 gyroscope; 
 							 picture-in-picture" 
 				allowfullscreen></iframe>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ 
 Being a Primary 1 student can be nerve-racking,  
-fret not, as _Xancie_ takes us on **A** **Day As A Primary 1  
+fret not, as _Xancie_ takes us on **A Day As A Primary 1  
 Student.** (Click on the video)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
-**Curriculum**
+
+#### Curriculum
 
   
 ![13.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/eOpenHouse/13.jpg)  
