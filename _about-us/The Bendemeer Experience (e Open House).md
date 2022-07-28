@@ -27,7 +27,9 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
   
 Sit back and enjoy our corporate video,   
 **The Bendemeer Experience**! (Click on the video)  
-----------------------------------
+
+----------
+
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/QpXxmpp4BRE" 
 				title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
@@ -43,6 +45,8 @@ Sit back and enjoy our corporate video, 
 				
 Meet **Ben**, **our school mascot**, and together with  
 him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)  
+
+------------------
   
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/OWI9WYkemqw" 
@@ -54,19 +58,23 @@ him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)
 							 encrypted-media; 
 							 gyroscope; 
 							 picture-in-picture" 
-				allowfullscreen></iframe>
+				allowfullscreen
+				align="left"></iframe>
  
 Being a Primary 1 student can be nerve-racking,  
 fret not, as _Xancie_ takes us on **A Day As A Primary 1  
 Student.** (Click on the video)  
 
+---------
 
 #### Curriculum
 
   
-<img src="/images/Main%20Page/2d41695da_245.jpg"
+<a href="">
+	<img src="/images/Main%20Page/2d41695da_245.jpg"
 		 width="300"
-		 align="left" />
+		 align="left" /> 
+</a>
   
 Ready to explore our vibrant curriculum? Find out  
 more on how our students **deepen their learning  
