@@ -44,7 +44,6 @@ To bring out the best in every child
 
 School Strategic Thrust
 -----------------------
-
 Thrust 1
 
 Holistic Student Development
