@@ -2,10 +2,10 @@ collections:
   school-information:
     output: true
     order:
+      - Admission/.keep
+      - Admission/Admission.md
       - Admission/Phase 1 Sibling Registration and Letter of Consent,
         Undertaking.md
-      - Admission/Admission.md
-      - Admission/.keep
       - Calendar.md
       - Operation Hours.md
       - School Rules.md
