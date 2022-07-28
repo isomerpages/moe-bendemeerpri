@@ -2,6 +2,8 @@ collections:
   school-information:
     output: true
     order:
+      - Admission/Phase 1 Sibling Registration and Letter of Consent,
+        Undertaking.md
       - Admission/Admission.md
       - Admission/.keep
       - Calendar.md
