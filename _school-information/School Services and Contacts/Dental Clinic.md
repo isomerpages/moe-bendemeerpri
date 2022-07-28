@@ -7,10 +7,12 @@ third_nav_title: School Services and Contacts
 ### DENTAL CLINIC
 
 Monday, Tuesday & Thursday: 8:00am to 5:30pm  <br>
-Lunch Time: 12:30pm to 1:30pm
+Lunch Time: 12:30pm to 1:30pm 
 
 Tel: 63920215
-  
+<br>
+<br>
+<br>
 Pupils who require URGENT dental treatment on days when the school dental clinic is closed may visit any of the following school dental clinics:<br>
 Please contact the dental school clinic to ensure the dental staff is on duty before going to the clinic.
 
