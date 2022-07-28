@@ -17,14 +17,9 @@ a. If you have a SC or PR child eligible for Phase 1, please submit the online f
 
 b. If your child is non-SC / non-PR, you are not eligible for Phase 1. However, you can submit an online Indication of        Interest between 31 May and 6 Jun 2022 at [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration).
 
-  
-
 2\. You may refer to the MOE website at [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration) for updates on the 2022 P1 Registration exercise.
 
-  
-
-3\. For enquiries pertaining to the registration exercise, please contact the school’s General Office via phone at 6298 2911 or via email at <a href="mailto:Bendemeer_ps@moe.edu.sg"> Bendemeer_ps@moe.edu.sg</a>
-
+3\. For enquiries pertaining to the registration exercise, please contact the school’s General Office via phone at 6298 2911 or via email at [Bendemeer_ps@moe.edu.sg](mailto:Bendemeer_ps@moe.edu.sg)
   
 
 Thank you.
