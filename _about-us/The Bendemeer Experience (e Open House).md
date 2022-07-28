@@ -13,109 +13,113 @@ description: ""
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
 <table>
-<tr>
-	<td>
-<iframe width="480" height="315" 
-				src="https://www.youtube.com/embed/zP7V99NsRpg" 
-				title="The Bendemeer Experience" 
-				frameborder="0" 
-				allow="accelerometer; 
-							 autoplay; 
-							 clipboard-write; 
-							 encrypted-media; 
-							 gyroscope; 
-							 picture-in-picture" 
-				allowfullscreen
-				align="left"></iframe>
-	</td>
-	<td>
-Sit back and enjoy our corporate video,   
-**The Bendemeer Experience**! (Click on the video)  
-	</td>
+	<tr>
+		<td>
+			<iframe width="480" height="315" 
+						src="https://www.youtube.com/embed/zP7V99NsRpg" 
+						title="The Bendemeer Experience" 
+						frameborder="0" 
+						allow="accelerometer; 
+											  autoplay; 
+											  clipboard-write; 
+											  encrypted-media; 
+											  gyroscope; 
+											  picture-in-picture" 
+						allowfullscreen
+						align="left"></iframe>
+		</td>
+		<td>
+				<br> <br>Sit back and enjoy our corporate video,   <br>
+				<b> The Bendemeer Experience</b>! (Click on the video) 
+		</td>
 	</tr>
-<tr>
-	<td>
-<iframe width="480" height="360" 
-				src="https://www.youtube.com/embed/QpXxmpp4BRE" 
-				title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
-				frameborder="0" 
-				allow="accelerometer; 
-							 autoplay; 
-							 clipboard-write; 
-							 encrypted-media; 
-							 gyroscope; 
-							 picture-in-picture" 
-				allowfullscreen
-				align="left"></iframe>  
-	</td>
-	<td>			
-Meet **Ben**, **our school mascot**, and together with  
-him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)  
-	</td>
+	<tr>
+		<td>
+			<iframe width="480" height="360" 
+					src="https://www.youtube.com/embed/QpXxmpp4BRE" 
+					title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
+					frameborder="0" 
+					allow="accelerometer; 
+											autoplay; 
+										  clipboard-write; 
+										  encrypted-media; 
+										  gyroscope; 
+										  picture-in-picture" 
+					allowfullscreen
+					align="left"></iframe>  
+		</td>
+		<td>			
+		Meet <b>Ben, our school mascot</b>, and together with  
+		him are our <b>Student Leaders</b>, <em>Vivienne and Rafiq</em>! (Click on the video)  
+		</td>
 	</tr>
-<tr>
-	<td>
-<iframe width="480" height="360" 
-				src="https://www.youtube.com/embed/OWI9WYkemqw" 
-				title="A Day As A Primary 1 Student in BPS" 
-				frameborder="0" 
-				allow="accelerometer; 
-							 autoplay; 
-							 clipboard-write; 
-							 encrypted-media; 
-							 gyroscope; 
-							 picture-in-picture" 
-				allowfullscreen
-				align="left"></iframe>
-	</td>
-	<td>
-Being a Primary 1 student can be nerve-racking,  
-fret not, as _Xancie_ takes us on **A Day As A Primary 1  
-Student.** (Click on the video)  
-	</td>
+	<tr>
+		<td>
+			<iframe width="480" height="360" 
+					src="https://www.youtube.com/embed/OWI9WYkemqw" 
+					title="A Day As A Primary 1 Student in BPS" 
+					frameborder="0" 
+					allow="accelerometer; 
+											autoplay; 
+										  clipboard-write; 
+										  encrypted-media; 
+										  gyroscope; 
+										  picture-in-picture" 
+					allowfullscreen
+					align="left"></iframe>
+		</td>
+		<td>
+			Being a Primary 1 student can be nerve-racking,  
+		fret not, as <em>Xancie</em> takes us on <b>A Day As A Primary 1 Student.</b>(Click on the video)  
+		</td>
 	</tr>
 </table>
 
 #### Curriculum
 <table>
-<tr>
-	<td>
-<a href="">
-	<img src="/images/Main%20Page/2d41695da_245.jpg" />
-</a>
-	</td>
-	<td> 
-Ready to explore our vibrant curriculum? Find out  
-more on how our students **deepen their learning  
-and widen their perspectives** in this section!  
-(Click on the image)  
-	</td>
+	<tr>
+		<td>
+			<a href="">
+				<img src="/images/Main%20Page/2d41695da_245.jpg" />
+			</a>
+		</td>
+		<td> 
+			Ready to explore our vibrant curriculum? Find out more on how our students <b>deepen their learning and widen their perspectives</b> in this section!  (Click on the image)  
+		</td>
 	</tr>
-	<table>
+</table>
 	
- #### Co-Curriculum
+#### Co-Curriculum
 
-<div>
-<a href="">
-	<img src="/images/Main%20Page/4fe8d32ea_246.jpg"
-		 width="300"
-		 align="left"/>
-	</a>
-
-Find out more on how the different departments come together to **support our students’ holistic development**. (Click on the image)
-</div>
+<table>
+	<tr>
+		<td>
+			<a href="">
+				<img src="/images/Main%20Page/4fe8d32ea_246.jpg"
+						width="300"
+						align="left"/>
+			</a>
+		</td>
+		<td>
+			Find out more on how the different departments come together to <b>support our students’ holistic development</b>. (Click on the image)
+		</td>
+	</tr>
+</table>
   
-**Connecting With The Community**
+#### Connecting With The Community
 
-![partners open house pic.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/partners%20open%20house%20pic.jpg)
-
-**
-
-Discover how we work closely with our external partners to **deliver the best learning**
-
-**experiences** to both students and staff through giving back to the community and participating as
-
-responsible citizens while **forging mutually-beneficial relationships**. (Click on the image)
+<table>
+	<tr>
+		<td>
+			<a href="">
+				<img src="/images/partners%20open%20house%20pic.jpg"/>
+			</a>
+		</td>
+		<td>
+			Discover how we work closely with our external partners to <b>deliver the best learning experiences </b> to both students and staff through giving back to the community and participating as responsible citizens while <b>forging mutually-beneficial relationships</b>. (Click on the image)
+		</td>
+	</tr>
+</table>
 
 **
 
