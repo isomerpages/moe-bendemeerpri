@@ -27,7 +27,7 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
   
 Sit back and enjoy our corporate video,   
 **The Bendemeer Experience**! (Click on the video)  
-  
+----------------------------------
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/QpXxmpp4BRE" 
 				title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
