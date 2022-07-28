@@ -228,12 +228,10 @@ through our bi-annual newsletter.  <br> (Click on the image)
 
 <h5 align="center">Get in touch with us!</h5>
 
-**Address: 91 Bendemeer Road Singapore 339948
-Tel: 6298 2911
-Fax: 6299 5735**
+**Address: 91 Bendemeer Road Singapore 339948**
 
-  
+**Tel: 6298 2911 <br>
+Fax: 6299 5735** 
 
-Got a question or comment? Drop us an email!  
-
-**Email: [bendemeer\_ps@moe.edu.sg](mailto:bendemeer_ps@moe.edu.sg)**
+Got a question or comment? Drop us an email!  <br>
+**Email: [bendemeer_ps@moe.edu.sg](mailto:bendemeer_ps@moe.edu.sg)**
