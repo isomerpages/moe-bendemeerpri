@@ -4,6 +4,7 @@ permalink: /principal-message
 description: ""
 image: ""
 ---
+### PRINCIPAL'S MESSAGE
 
 **Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2022**
 
