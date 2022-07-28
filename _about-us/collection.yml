@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/Operation Hours.md
       - School Information/Calendar.md
       - School Information/.keep
       - School Song.md
