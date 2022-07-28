@@ -4,8 +4,10 @@ permalink: /about-us/our-history
 description: ""
 image: ""
 ---
-School History & Background
----------------------------
+### OUR HISTORY
+
+#### School History & Background
+
 
 Bendemeer Primary School started in 1977 and was officially opened by Mr Sidek Saniff, Member of Parliament for Kolam Ayer on March 1978. Under PRIME, the school merged with Beng Wan Primary School on Jan 2004. Balestier Hill Primary School was established in January 2002 following the merger of Moulmein Primary School and Swiss Cottage Primary School. The school was declared officially open on Nov 2004 by Minister of Health Mr Khaw Boon Wan. 
 
@@ -15,8 +17,8 @@ In 2019, Bendemeer Primary School and Balestier Hill Primary School merged to fo
 
   
 
-Our Origins
------------
+#### Our Origins
+
 
 <img 
 		 src="/images/Bendemeer%20Logos/bendemeer-pri-1.png"
