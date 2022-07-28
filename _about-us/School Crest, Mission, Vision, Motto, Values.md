@@ -27,8 +27,7 @@ Nurturing and inspiring students to love learning, lead confidently, and make a 
 
 A gracious community of passionate learners and confident leaders
 
-#### School Motto
-
+#### School Motto 
 Today’s Learners, Tomorrow’s Leaders
 
 #### School Values
