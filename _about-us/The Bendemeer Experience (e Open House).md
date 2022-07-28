@@ -6,12 +6,13 @@ description: ""
 ### THE BENDEMEER EXPERIENCE (E-OPEN HOUSE)
 
 	  
-![](/images/banner%20eOpen%20House_2022.jpg)
+![Open House Banner](/images/banner%20eOpen%20House_2022.jpg)
   
 #### About Us @ Bendemeer Primary School (BPS)
 
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
+<div>
 <iframe width="480" height="315" 
 				src="https://www.youtube.com/embed/zP7V99NsRpg" 
 				title="The Bendemeer Experience" 
@@ -27,9 +28,9 @@ _Disclaimer: Media used in the videos were taken with Safe Management Measure in
   
 Sit back and enjoy our corporate video,   
 **The Bendemeer Experience**! (Click on the video)  
+</div>
 
-----------
-
+<div>
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/QpXxmpp4BRE" 
 				title="BPS Virtual Tour - Introduction by Student Leaders & Ben" 
@@ -45,9 +46,9 @@ Sit back and enjoy our corporate video, 
 				
 Meet **Ben**, **our school mascot**, and together with  
 him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)  
+</div>
 
-------------------
-  
+<div>
 <iframe width="480" height="360" 
 				src="https://www.youtube.com/embed/OWI9WYkemqw" 
 				title="A Day As A Primary 1 Student in BPS" 
@@ -64,12 +65,11 @@ him are our **Student Leaders**, _Vivienne and Rafiq_! (Click on the video)
 Being a Primary 1 student can be nerve-racking,  
 fret not, as _Xancie_ takes us on **A Day As A Primary 1  
 Student.** (Click on the video)  
-
----------
+</div>
 
 #### Curriculum
 
-  
+<div> 
 <a href="">
 	<img src="/images/Main%20Page/2d41695da_245.jpg"
 		 width="300"
@@ -80,15 +80,9 @@ Ready to explore our vibrant curriculum? Find out
 more on how our students **deepen their learning  
 and widen their perspectives** in this section!  
 (Click on the image)  
-  
-  
-  
-  
-  
-  
-  
-
-**Co-Curriculum**
+</div>
+	
+ #### Co-Curriculum
 
   
 ![10.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/eOpenHouse/10.jpg)  
