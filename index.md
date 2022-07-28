@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: Our Vision
       description: A gracious community of passionate and confident leaders
-      image: /images/2d41695da_245.jpg
+      image: /images/Main Page/2d41695da_245.jpg
   - infopic:
       title: School Philosophy
       description: To bring out the best in every child
@@ -49,5 +49,3 @@ sections:
       image: /images/8892ffa55_249.jpg
       alt: Image alt text
 ---
-
-
