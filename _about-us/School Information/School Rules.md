@@ -12,7 +12,7 @@ All pupils are expected to:
 
 1.  Be punctual for school and all school activities. 
 2. Hand in all assignments on time.  
-3. Be responsible for their own personal tidiness and dress smartly.    
+3. Be responsible for their own personal tidiness and dress smartly.
 4. Students must wear the prescribed school uniform and modifications to the uniform is not allowed.  
 5. Be responsible for the cleanliness of their classroom and the school compound.  
 6. Respect school property and the property of others.  
@@ -23,35 +23,20 @@ All pupils are expected to:
   
 
 <u>Prohibited Items</u> <br>
-All pupils are not allowed to have in their possession any weapon. They are also not allowed to bring weapon-like items or items which are banned by State, prohibited for use in school and/or cause nuisance or disruption to other students or teachers and items which are used or intended to be used to cause harm to others. Items that can be confiscated include:
+All pupils are not allowed to have in their possession any weapon. They are also not allowed to bring weapon-like items or items which are banned by State, prohibited for use in school and/or cause nuisance or disruption to other students or teachers and items which are used or intended to be used to cause harm to others. Items that can be confiscated include: 
 
-  
-
-\-combs with pointed ends
-
-\-knives (including penknives)
-
-\-lighter
-
-\-laser pointer
-
-\-magic cards and all other playing cards
-
-\-mobile phones (if seen or heard)
-
-\-electronic toys/ soft toys
-
-\-music players
-
-\-cigarettes
-
-\-substances that can be abused
-
-\-chewing gum
-
-\-accessories that are not part of the school uniform, if worn e.g: bandannas, nose studs
-
-  
+\-combs with pointed ends <br>
+\-knives (including penknives) <br>
+\-lighter <br>
+\-laser pointer <br>
+\-magic cards and all other playing cards <br>
+\-mobile phones (if seen or heard) <br>
+\-electronic toys/ soft toys <br>
+\-music players <br>
+\-cigarettes <br>
+\-substances that can be abused <br>
+\-chewing gum <br>
+\-accessories that are not part of the school uniform, if worn e.g: bandannas, nose studs 
 
 Parents/guardians will be called to collect the confiscated items from the school. All confiscated items will be handed over to the parents after they have signed an acknowledgement letter of the child irresponsible behaviour.
 
@@ -69,11 +54,7 @@ Parents/guardians will be called to collect the confiscated items from the schoo
 
 16. Behave well and be courteous within and outside the school premises.
 
-  
-
-Handphone Policy
-
-  
+<u> Handphone Policy </u>
 
 17. We strongly encourage our students to use the school’s phone in the General Office to contact parents if they are not feeling well or in an emergency. Hence, there is no need for them to bring a handphone to school.
 
