@@ -2,3 +2,10 @@ logo: /images/school logo2.png
 links:
   - title: About Us
     collection: about-us
+  - title: Co-Curriculum
+    url: /co-curriculum/ALP
+    sublinks:
+      - title: ALP
+        url: /co-curriculum/ALP
+      - title: CCA
+        url: /co-curriculum/CCA
