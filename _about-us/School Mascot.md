@@ -13,11 +13,7 @@ Prefects worked as a team to brainstorm a variety of names and presented to the 
 
 Ben is now a new member who has joined our Bendemeer family and will always be part of our school’s future vital events. 
 
-![](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
-
-  < insert video here >
-
-  
+  < insert <a href="https://bendemeerpri-moe-edu-sg-admin.cwp.sg/about-us/school-mascot">video</a> here >
 
 **Digital Illustrations of Ben** 
 
@@ -25,4 +21,4 @@ With the introduction of our school mascot, BEN the otter, last year, Bendemeer 
 
 **School’s Values Ambassador.** He serves to reinforce **key messages and values** that every student should aspire towards. He also represents the different vital aspects of our school. The eight images are namely Ben the **Explorer, Learner, Host, Values Ambassador, Athlete, Musician, Artist and ICT Champ.**
 
-**![Ben illustrations.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Website%20Updates/May/Student%20Leadership/Ben%20illustrations/Ben%20illustrations.jpg)**
+![](/images/Ben%20illustrations.jpg)
