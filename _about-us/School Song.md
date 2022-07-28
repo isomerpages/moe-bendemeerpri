@@ -27,4 +27,4 @@ description: ""
 	One Bendemeer One Family <br>
 </p>
 
-< insert video here >
+< insert <a href="https://bendemeerpri-moe-edu-sg-admin.cwp.sg/about-us/school-song">video</a> here >
