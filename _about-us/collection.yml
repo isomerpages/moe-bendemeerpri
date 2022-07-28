@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - The Bendemeer Experience (e Open House).md
       - About Us.md
       - School Song.md
       - School Crest, Mission, Vision, Motto, Values.md
