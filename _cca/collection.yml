@@ -2,4 +2,4 @@ collections:
   cca:
     output: true
     order:
-      - Example Title.md
+      - niche.md
