@@ -81,7 +81,7 @@ Student.** (Click on the video)
 <tr>
 	<td>
 <a href="">
-	<img src="/images/Main%20Page/2d41695da_245.jpg" /> 
+	<img src="/images/Main%20Page/2d41695da_245.jpg" />
 </a>
 	</td>
 	<td> 
