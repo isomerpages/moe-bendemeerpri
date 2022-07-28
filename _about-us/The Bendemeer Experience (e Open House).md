@@ -12,9 +12,9 @@ description: ""
 
 _Disclaimer: Media used in the videos were taken with Safe Management Measure in place._
 
-<iframe width="560" height="315" 
+<iframe width="479" height="315" 
 				src="https://www.youtube.com/embed/zP7V99NsRpg" 
-				title="YouTube video player" 
+				title="The Bendemeer Experience" 
 				frameborder="0" 
 				allow="accelerometer; 
 							 autoplay; 
