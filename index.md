@@ -32,20 +32,20 @@ sections:
   - infopic:
       title: School Philosophy
       description: To bring out the best in every child
-      image: /images/4fe8d32ea_246.jpg
+      image: /images/Main Page/4fe8d32ea_246.jpg
   - infopic:
       title: Our Mission
       description: Nurturing and inspiring students to love learning, lead
         confidently, and make a difference in the lives of others
-      image: /images/c1124fafd_247.jpg
+      image: /images/Main Page/c1124fafd_247.jpg
   - infopic:
       title: School Motto
       description: Today's Learners Tomorrow's Leaders
-      image: /images/402c2064b_248.jpg
+      image: /images/Main Page/402c2064b_248.jpg
   - infopic:
       title: Our Values
       description: Adaptability, Self-Discipline, Passion, Integrity, Resilience and
         Empathy (ASPIRE)
-      image: /images/8892ffa55_249.jpg
+      image: /images/Main Page/8892ffa55_249.jpg
       alt: Image alt text
 ---
