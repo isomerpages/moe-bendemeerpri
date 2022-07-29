@@ -93,4 +93,4 @@ The programme hours for MK and KCare are as follows:
 	</tr>
 </table>
 
-For more information on MOE Kindergarten, Open House and Registration Exercise for K1 Admission, you can visit www.moe.gov.sg/mk, or call the MOE Customer Service Centre at 6872 2220 (Mondays to Fridays: 8.30 a.m. to 5.30 p.m.).
+For more information on MOE Kindergarten, Open House and Registration Exercise for K1 Admission, you can visit [www.moe.gov.sg/mk](www.moe.gov.sg/mk), or call the MOE Customer Service Centre at 6872 2220 (Mondays to Fridays: 8.30 a.m. to 5.30 p.m.).
