@@ -36,9 +36,7 @@ The siting of an MK in our school will offer enriched learning experiences for t
 				 width="466"
 				 height="296"/>
 
-
-
-MK Classrooms
+<p align="center"><b><u>MK Classrooms</u></b></p>
 
 
 
