@@ -151,8 +151,7 @@ description: ""
 	<tr>
 		<td> 
 			<a href="">
-				<img src="images/11.jpg"
-						 width="480"/> 
+				<img src="images/11.jpg"/> 
 			</a>
 		</td>
 		<td> <b>Readers' Rendezvous @ BPS </b> <br> <br>
