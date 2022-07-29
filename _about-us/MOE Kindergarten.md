@@ -55,94 +55,42 @@ The siting of an MK in our school will offer enriched learning experiences for t
 				 width="466"
 				 height="296"/>
 
+<p align="center"> <b> <u> Outdoor Play Areas </u> </b> </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Outdoor Play Areas
-
-
-
-In support of our MK operations, the school will also offer Kindergarten Care (KCare) services to our MK students before or after their Kindergarten curriculum time. KCare is an optional add-on care service to provide our children with varied play experiences through specially designed environments and carefully chosen resources.
-
- 
+In support of our MK operations, the school will also offer **Kindergarten Care (KCare)** services to our MK students before or after their Kindergarten curriculum time. KCare is an optional add-on care service to provide our children with varied play experiences through specially designed environments and carefully chosen resources. 
 
 The programme hours for MK and KCare are as follows:
-
-
-
-MK Programme only
-
-(4-hr sessions, follows MOE Sch Calendar)
-
-Full-day MK & KCare Programme
-
-(Mon – Fri, closed on Sat, Sun & PHs)
-
-MK (AM Session)
-
-MK (PM Session)
-
-MK (AM Session)
-
-MK (PM Session)
-
-8am – 12pm (MK)
-
-1pm – 5pm (MK)
-
-7am - 8am (KCare)
-
-8am - 12pm (MK)
-
-12pm - 7pm (KCare)
-
-7am - 1pm (KCare)
-
-1pm - 5pm (MK)
-
-5pm – 7pm (KCare)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<table style="text-align:center">
+	<tr>
+		<td colspan=2> 
+			<b> MK Programme only </b> <br>
+			(4-hr sessions, follows MOE Sch Calendar)
+		</td>
+		<td colspan=2>
+			<b>Full-day MK & KCare Programme </b> <br>
+			(Mon – Fri, closed on Sat, Sun & PHs)
+		</td>
+	</tr>
+	<tr>
+		<td>			<b> MK (AM Session) </b>		</td>
+		<td>			<b> MK (PM Session) </b>    </td>
+		<td>			<b> MK (AM Session) </b>		</td>
+		<td>			<b> MK (PM Session) </b>    </td>
+	</tr>
+	<tr>
+		<td> 8am – 12pm (MK) </td>
+		<td> 1pm – 5pm (MK) </td>
+		<td> 
+			7am - 8am (KCare) <br>
+			8am - 12pm (MK) <br>
+			12pm - 7pm (KCare)
+		</td>
+		<td>
+			7am - 1pm (KCare) <br>
+			1pm - 5pm (MK) <br>
+			5pm – 7pm (KCare) 
+		</td>
+	</tr>
+</table>
 
 For more information on MOE Kindergarten, Open House and Registration Exercise for K1 Admission, you can visit www.moe.gov.sg/mk, or call the MOE Customer Service Centre at 6872 2220 (Mondays to Fridays: 8.30 a.m. to 5.30 p.m.).
