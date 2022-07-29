@@ -37,6 +37,5 @@ Aspire Newsletter Issue 2 2019
 
 Aspire Newsletter Issue 1 2019  
 14 May 2019  
-[](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/)![aspire.jpg](/images/aspire.jpg)  
-
-[Download PDF](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/About%20Us/Aspire%20Newsletter/Aspire%20Newsletter%20web.pdf)
+![aspire.jpg](/images/aspire.jpg)  
+[Download PDF](/files/Aspire%20Newsletter%20web.pdf)
