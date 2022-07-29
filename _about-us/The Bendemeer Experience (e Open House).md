@@ -81,7 +81,8 @@ description: ""
 	<tr>
 		<td>
 			<a href="">
-				<img src="/images/Main%20Page/2d41695da_245.jpg" />
+				<img src="/images/Main%20Page/2d41695da_245.jpg" 
+						 width="480"/>
 			</a>
 		</td>
 		<td> 
@@ -97,8 +98,7 @@ description: ""
 		<td>
 			<a href="">
 				<img src="/images/Main%20Page/4fe8d32ea_246.jpg"
-						width="300"
-						align="left"/>
+						width="480"/>
 			</a>
 		</td>
 		<td>
@@ -113,7 +113,9 @@ description: ""
 	<tr>
 		<td>
 			<a href="">
-				<img src="/images/partners%20open%20house%20pic.jpg"/>
+					<img
+							src="/images/partners%20open%20house%20pic.jpg"
+							width="480"/>
 			</a>
 		</td>
 		<td>
@@ -129,8 +131,8 @@ description: ""
 <table>
 	<tr>
 		<td>
-			<iframe width="478" height="358" 
-						src="https://www.youtube.com/embed/UuZVCP3TwSg"
+			<iframe width="480" height="358" 
+					src="https://www.youtube.com/embed/UuZVCP3TwSg"
 							title="BNC 2022 #1" 
 							frameborder="0" 
 							allow="accelerometer; 
@@ -149,7 +151,8 @@ description: ""
 	<tr>
 		<td> 
 			<a href="">
-				<img src="images/11.jpg"/> 
+				<img src="images/11.jpg"
+						 width="480"/> 
 			</a>
 		</td>
 		<td> <b>Readers' Rendezvous @ BPS </b> <br> <br>
@@ -165,7 +168,7 @@ description: ""
 <table>
 	<tr>
 		<td>
-			<iframe width="474" height="354"
+			<iframe width="480" height="354"
 							src="https://www.youtube.com/embed/jfuN16qfTOE"
 							title="PAM Final" 
 							frameborder="0" 
@@ -216,7 +219,8 @@ Find out more about what happens for the teaching of Physical Education lessons,
 	<tr>
 		<td>
 			<a href="">
-				<img src="/images/May%202022.jpg" />
+				<img src="/images/May%202022.jpg"
+						 width="480"/>
 			</a>
 		</td>
 		<td> 
