@@ -182,7 +182,7 @@ description: ""
 	</tr>
 </table>
 
-<p align="center" style="font-weight:700">Learning through Movement </b>
+<p align="center" style="font-weight:700">Learning through Movement </p>
 
 <table>
 	<tr>
