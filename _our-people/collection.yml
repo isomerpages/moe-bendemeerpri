@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - For Parents.md
       - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
       - Non Teaching Staff.md
