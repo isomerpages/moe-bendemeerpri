@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Primary 2 Teachers.md
       - Teaching Staff/Primary 1 Teachers.md
       - Teaching Staff/Level Managers & Coordinators.md
       - Teaching Staff/.keep
