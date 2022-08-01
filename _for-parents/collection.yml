@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - FAQs for COVID19 in Singapore.md
       - The Growing Years Programme for P5 & P6.md
       - HPB Modern Parent.md
       - Letter to Parents.md
