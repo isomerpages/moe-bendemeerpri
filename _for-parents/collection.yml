@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Engagement Resources/Parents Engagement Resources.md
       - Parents Engagement Resources/.keep
