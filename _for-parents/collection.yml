@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - HPB Modern Parent.md
       - Letter to Parents.md
       - Academic Matters/Overview.md
       - Academic Matters/Subject Based Banding (Primary) (SBB(Pri)).md
