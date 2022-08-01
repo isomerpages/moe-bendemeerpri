@@ -7,6 +7,7 @@ third_nav_title: Teaching Staff
 ### LEVEL MANAGERS & COORDINATORS
 
 #### Level Managers
+
 | | | |
 |---|---|---|
 | Primary 1  | Ms Ho Shang Wei Dorothy  | [ho\_shang\_wei\_dorothy@moe.edu.sg](mailto:ho_shang_wei_dorothy@moe.edu.sg)   |
@@ -17,6 +18,7 @@ third_nav_title: Teaching Staff
 | Primary 6 | Mdm Phyllis Kwei | [kwei\_seng\_poh@moe.edu.sg](mailto:kwei_seng_poh@moe.edu.sg)
 
 #### Coordinators
+
 | | | |
 |---	|---	|---	|
 | English & School Library Coordinator 	| Mdm Seetha Kumari 	| [seetha\_kumari\_jeet\_singh@moe.edu.sg](mailto:seetha_kumari_jeet_singh@moe.edu.sg) 	|
