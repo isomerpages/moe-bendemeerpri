@@ -3,6 +3,8 @@ title: Non Teaching Staff
 permalink: /our-people/non-teaching-staff
 description: ""
 ---
+### NON TEACHING STAFF
+
 ||||
 |--- |--- |--- |
 | Administration Manager | Mr Ang Ting Wei | [derrick\_ang@moe.edu.sg](mailto:derrick_ang@moe.edu.sg)  |
