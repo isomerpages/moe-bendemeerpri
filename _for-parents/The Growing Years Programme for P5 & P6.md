@@ -5,7 +5,7 @@ description: ""
 ---
 ### THE GROWING YEARS PROGRAMME FOR P5 & P6
  
- <p align="center"/> 
+<p align="center"/> 
 	 <b> 
 			BENDEMEER PRIMARY SCHOOL 
 			<br>
