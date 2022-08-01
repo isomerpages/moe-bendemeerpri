@@ -4,11 +4,10 @@ permalink: /our-people/teaching-staff/p2-teachers
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### PRIMARY 2 TEACHERS
 
 ##### Primary 2 Teachers
+
 |  	|  	|  	|
 |---	|---	|---	|
 | 2 Adaptability 	| Mdm Aziana<br>Mdm Goon Yar Guan 	| [aziana\_aziz@moe.edu.sg](mailto:aziana_aziz@moe.edu.sg)<br>[goon\_yar\_guan@moe.edu.sg](mailto:goon_yar_guan@moe.edu.sg) 	|
