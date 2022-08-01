@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - Our Partners/.keep
+      - Our partners/.keep
       - For Parents.md
       - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
