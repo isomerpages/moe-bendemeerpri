@@ -4,11 +4,10 @@ permalink: /our-people/teaching-staff/p1-teachers
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### PRIMARY 1 TEACHERS
 
 ##### Primary 1 Teachers
+
 |  	|  	|  	|
 |---	|---	|---	|
 | 1 Adaptability 	| Ms Sulasteri<br>Mdm Lee Giak Choo 	| [sulasteri\_mohammad\_sidek@moe.edu.sg](mailto:sulasteri_mohammad_sidek@moe.edu.sg)  <br>[lee\_giak\_choo@moe.edu.sg](mailto:lee_giak_choo@moe.edu.sg) 	|
