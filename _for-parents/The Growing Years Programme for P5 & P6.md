@@ -116,181 +116,66 @@ c.        Character and Citizenship Education (CCE)
 </table>
   
 
-**PRIMARY 6**
-
-| 
-**UNIT**
-
- | 
-
-**LESSONS / DURATION**
-
- | 
-
-**Lesson Objectives**
-
-**At the end of the lesson, pupils will be able to:**
-
- | 
-
-**TIME PERIOD**
-
-**(e.g. Term 1 Week 2)**
-
- |
-| --- | --- | --- | --- |
-| 
-
-Are We More Than Friends?
-
- | 
-
-Who Are My Friends?
-
-(30 min)
-
- | 
-
-·       identify the qualities of a healthy friendship
-
-·       recognise the importance of making wise choices in friendship
-
- | 
-
-Term 3 Week 2
-
- |
-| 
-
-Am I A Good Friend?
-
-(30 min)
-
- | 
-
-·       identify the qualities that they have as a friend
-
-·       recognise the importance of developing in oneself the qualities of a good friend
-
- | 
-
-Term 3 Week 2
-
- |
-| 
-
-What is Love?
-
-(30 min)
-
- | 
-
-·       identify the characteristics of love and infatuation
-
-·       distinguish between the characteristics of love versus infatuation
-
-·       identify strong feelings arising from infatuation
-
- | 
-
-Term 3 Week 2
-
- |
-| 
-
-Am I Falling In Love?
-
-(30 min)
-
- | 
-
-·       manage strong feelings arising from infatuation
-
-·       identify ways to manage and cope with teasing from peers
-
- | 
-
-Term 3 Week 2
-
- |
-| 
-
-Main Task
-
- (30 min)
-
- | 
-
-Description of the Main Task:
-
-Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.
-
- | 
-
-Term 3 Week 3
-
- |
-| 
-
-Friends or Foes?
-
- | 
-
-Are You Really My Friend?
-
-(30 min)
-
- | 
-
-·       identify the pros and cons of forming relationships through social networking websites
-
-·       know ways to keep themselves safe when using social networking websites
-
- | 
-
-Term 3 Week 3
-
- |
-| 
-
-Is It All Safe?
-
-(30 min)
-
- | 
-
-·       know that some information (like pornography) received through the Internet may be harmful
-
-·       know ways to keep themselves safe when using social networking websites or the Internet
-
- | 
-
-Term 3 Week 3
-
- |
-| 
-
-Main Task
-
- (30 min)
-
- | 
-
-Description of the Main Task:
-
-Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.
-
- | 
-
-Term 3 Week 3
-
- |
+<p align="center"> <b> PRIMARY 6 </b></p>
+
+<table>
+<thead>
+  <tr>
+		<th> <p align="center">UNIT</p> </th>
+		<th> <p align="center">LESSONS / DURATION</p> </th>
+    <th> <p align="center">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</p> </th>
+		<th> <p align="center">TIME PERIOD<br>(e.g. Term 1 Week 2)</p> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="5">Are We More Than Friends?</td>
+    <td>Who Are My Friends?<br>(30 min)</td>
+    <td>·       identify the qualities of a healthy friendship<br>·       recognise the importance of making wise choices in friendship</td>
+    <td>Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td>Am I A Good Friend?<br>(30 min)</td>
+    <td>·       identify the qualities that they have as a friend<br>·       recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td>Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td>What is Love?<br>(30 min)</td>
+    <td>·       identify the characteristics of love and infatuation<br>·       distinguish between the characteristics of love versus infatuation<br>·       identify strong feelings arising from infatuation</td>
+    <td>Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td>Am I Falling In Love?<br>(30 min)</td>
+    <td>·       manage strong feelings arising from infatuation<br>·       identify ways to manage and cope with teasing from peers</td>
+    <td>Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td>Main Task<br> (30 min)</td>
+    <td>Description of the Main Task:<br> <br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td>Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Friends or Foes?</td>
+    <td>Are You Really My Friend?<br>(30 min)</td>
+    <td>·       identify the pros and cons of forming relationships through social networking websites<br>·       know ways to keep themselves safe when using social networking websites</td>
+    <td>Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td>Is It All Safe?<br>(30 min)</td>
+    <td>·       know that some information (like pornography) received through the Internet may be harmful<br>·       know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td>Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td>Main Task<br> (30 min)</td>
+    <td>Description of the Main Task:<br> <br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.<br> </td>
+    <td>Term 3 Week 3</td>
+  </tr>
+</tbody>
+</table>
 
   
 
 **INFORMATION FOR PARENTS**   
-
-  
 
 8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
