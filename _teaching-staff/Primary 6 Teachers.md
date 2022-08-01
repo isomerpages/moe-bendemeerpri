@@ -3,6 +3,10 @@ title: Primary 6 Teachers
 permalink: /our-people/teaching-staff/p6-teachers
 description: ""
 ---
+### PRIMARY 6 TEACHERS
+
+##### Primary 6 Teachers
+
 |  	|  	|  	|
 |---	|---	|---	|
 | 6 Adaptability 	| Ms Karin Lee<br>Mdm Lam Shuzhen 	| [lee\_karin@moe.edu.sg](mailto:lee_karin@moe.edu.sg) <br>[lam\_shuzhen@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg) 	|
