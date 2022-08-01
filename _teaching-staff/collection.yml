@@ -2,5 +2,4 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Mother Tongue Teachers.md
       - Allied Educators (T&L).md
