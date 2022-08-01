@@ -52,11 +52,11 @@ c.        Character and Citizenship Education (CCE)
 
   
 
-**At Bendemeer Primary School, the following lessons from the Growing Years Programme will be taught in 2022:** 
+**At Bendemeer Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:** 
 
   
 
-**PRIMARY 5**
+<p align="center"><b>PRIMARY 5</b></p>
 
 <table>
 <thead>
