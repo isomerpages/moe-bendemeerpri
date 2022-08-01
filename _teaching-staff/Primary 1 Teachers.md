@@ -5,6 +5,7 @@ description: ""
 ---
 ### PRIMARY 1 TEACHERS
 
+##### Primary 1 Teachers
 |  	|  	|  	|
 |---	|---	|---	|
 | 1 Adaptability 	| Ms Sulasteri<br>Mdm Lee Giak Choo 	| sulasteri_mohammad_sidek@moe.edu.sg<br>lee_giak_choo@moe.edu.sg 	|
