@@ -8,4 +8,4 @@ third_nav_title: Academic Matters
 
 Web link: [bit.ly/moe-amaa-hbl](http://bit.ly/moe-amaa-hbl)
 
-[Resource Kit - HBL (Part 2).pdf](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/2020/admin%20matters/Resource%20Kit%20-%20HBL%20(Part%202).pdf)
+[Resource Kit - HBL (Part 2).pdf](/files/Resource%20Kit%20-%20HBL%20(Part%202).pdf)
