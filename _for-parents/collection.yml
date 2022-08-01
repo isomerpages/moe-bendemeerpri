@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Academic Matters/Home Based Learning = Don't Worry, Be Steady! Part2.md
       - Academic Matters/.keep
       - Positive Parenting Programmes/Overview.md
       - Positive Parenting Programmes/Positive Parenting Programme (Triple P)
