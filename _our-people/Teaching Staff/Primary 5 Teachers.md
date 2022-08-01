@@ -4,8 +4,6 @@ permalink: /our-people/teaching-staff/p5-teachers
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### PRIMARY 5 TEACHERS
 
 ##### Primary 5 Teachers
