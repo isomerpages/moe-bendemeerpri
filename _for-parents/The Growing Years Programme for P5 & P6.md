@@ -3,7 +3,7 @@ title: The Growing Years Programme for P5 & P6
 permalink: /our-people/for-parents/growing-years
 description: ""
 ---
- ### THE GROWING YEARS PROGRAMME FOR P5 & P6
+### THE GROWING YEARS PROGRAMME FOR P5 & P6
  
  <p align="center"/> 
 	 <b> 
@@ -58,210 +58,62 @@ c.        Character and Citizenship Education (CCE)
 
 **PRIMARY 5**
 
-| 
-**UNIT**
-
- | 
-
-**LESSONS / DURATION**
-
- | 
-
-**Lesson Objectives**
-
-**At the end of the lesson, pupils will be able to:**
-
- | 
-
-**TIME PERIOD**
-
-**(e.g. Term 1 Week 2)**
-
- |
-| --- | --- | --- | --- |
-| 
-
-Gosh! I Am Changing
-
- | 
-
-What Is Happening To Me?
-
-(30 min)
-
- | 
-
-·       know what puberty is
-
-·       identify the physical changes during puberty
-
- | 
-
-Term 1 Week 7 /
-
-Term 3 Week 8
-
- |
-| 
-
-What Can I Do? (Part 1)
-
- (30 min)
-
- | 
-
-·       identify the stresses caused by physical and emotional changes during puberty
-
-·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty
-
-·       describe the emotions caused by physical changes during puberty
-
-·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty
-
- | 
-
-Term 1 Week 7 /
-
-Term 3 Week 8
-
- |
-| 
-
-What Can I Do? (Part 2)
-
- (30 min)
-
- | 
-
-·       identify the stresses caused by physical and emotional changes during puberty
-
-·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty
-
-·       describe the emotions caused by physical changes during puberty
-
-·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty
-
- | 
-
-Term 1 Week 7 / 
-
-Term 3 Week 9
-
- |
-| 
-
-Main Task
-
-(30 min)
-
- | 
-
-Description of the Main Task:
-
-Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.
-
- | 
-
-Term 1 Week 7 / 
-
-Term 3 Week 9
-
- |
-| 
-
-Where I Belong
-
- | 
-
-What Are Families?
-
-(30 min)
-
- | 
-
-·       know that there are different types of family structures
-
-·       know that every family is unique
-
-·       state that the three basic functions of families are to provide love, protection and guidance
-
-·       identify the right sources of help to turn to when in need
-
- | 
-
-Term 1 Week 8 / 
-
-Term 3 Week 10
-
- |
-| 
-
-Where I Belong
-
- | 
-
-What is My Role?
-
- (30 min)
-
- | 
-
-·       know that gender is about being male or female
-
-·       choose not to stereotype by gender
-
- | 
-
-Term 1 Week 8 / 
-
-Term 3 Week 10
-
- |
-| 
-
-How Do I Keep Myself Safe?
-
- | 
-
-What is Safety?
-
-(30 min)
-
- | 
-
-·       know what sexual abuse is
-
-·       know that there are laws in Singapore that can protect them from sexual abuse
-
-·       know their rights in keeping themselves safe from sexual abuse
-
- | 
-
-Term 1 Week 8 / 
-
-Term 3 Week 10
-
- |
-| 
-
-Stop It! Run! Tell!
-
-(30 min)
-
- | 
-
-·       protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult
-
-·       know their responsibilities in minimising the risk of sexual harm
-
- | 
-
-Term 1 Week 8 / 
-
-Term 3 Week 10
-
- |
-
+<table>
+<thead>
+  <tr>
+    <th>UNIT</th>
+    <th>LESSONS / DURATION</th>
+    <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">Gosh! I Am Changing</td>
+    <td>What Is Happening To Me?<br>(30 min)</td>
+    <td>·       know what puberty is<br>·       identify the physical changes during puberty</td>
+    <td>Term 1 Week 7 /<br>Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td>What Can I Do? (Part 1)<br> (30 min)</td>
+    <td>·       identify the stresses caused by physical and emotional changes during puberty<br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·       describe the emotions caused by physical changes during puberty<br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td>Term 1 Week 7 /<br>Term 3 Week 8<br> </td>
+  </tr>
+  <tr>
+    <td>What Can I Do? (Part 2)<br> (30 min)</td>
+    <td>·       identify the stresses caused by physical and emotional changes during puberty<br>·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·       describe the emotions caused by physical changes during puberty<br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td>Term 1 Week 7 / <br>Term 3 Week 9<br> </td>
+  </tr>
+  <tr>
+    <td>Main Task<br>(30 min)</td>
+    <td>Description of the Main Task:<br> <br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td>Term 1 Week 7 / <br>Term 3 Week 9<br> </td>
+  </tr>
+  <tr>
+    <td>Where I Belong</td>
+    <td>What Are Families?<br>(30 min)<br> </td>
+    <td>·       know that there are different types of family structures<br>·       know that every family is unique<br>·       state that the three basic functions of families are to provide love, protection and guidance<br>·       identify the right sources of help to turn to when in need</td>
+    <td>Term 1 Week 8 / <br>Term 3 Week 10<br> </td>
+  </tr>
+  <tr>
+    <td>Where I Belong</td>
+    <td>What is My Role?<br> (30 min)</td>
+    <td>·       know that gender is about being male or female<br>·       choose not to stereotype by gender</td>
+    <td>Term 1 Week 8 / <br>Term 3 Week 10<br> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">How Do I Keep Myself Safe?</td>
+    <td>What is Safety?<br>(30 min)</td>
+    <td>·       know what sexual abuse is<br>·       know that there are laws in Singapore that can protect them from sexual abuse<br>·       know their rights in keeping themselves safe from sexual abuse</td>
+    <td>Term 1 Week 8 / <br>Term 3 Week 10<br> </td>
+  </tr>
+  <tr>
+    <td>Stop It! Run! Tell!<br>(30 min)</td>
+    <td>·       protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>·       know their responsibilities in minimising the risk of sexual harm</td>
+    <td>Term 1 Week 8 / <br>Term 3 Week 10<br> </td>
+  </tr>
+</tbody>
+</table>
   
 
 **PRIMARY 6**
