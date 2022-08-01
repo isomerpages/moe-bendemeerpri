@@ -3,6 +3,8 @@ title: FAQs for COVID19 in Singapore
 permalink: /our-people/for-parents/covid-19-faqs
 description: ""
 ---
+### FAQS FOR COVID-19 IN SINGAPORE
+
 Dear Parents, 
 
 In school, we are teaching our children about the novel coronavirus and the good personal hygiene practices to protect themselves against transmission. 
