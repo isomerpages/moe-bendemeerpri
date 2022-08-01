@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Primary 5 Teachers.md
       - Teaching Staff/Primary 4 Teachers.md
       - Teaching Staff/Primary 3 Teachers.md
       - Teaching Staff/Primary 2 Teachers.md
