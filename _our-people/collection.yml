@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/.keep
       - Allied Educators (T&L).md
       - Mother Tongue Teachers.md
       - Primary 6 Teachers.md
