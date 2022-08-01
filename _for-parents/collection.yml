@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Important Information for Primary 1.md
       - Featured on.md
       - FAQs for COVID19 in Singapore.md
       - The Growing Years Programme for P5 & P6.md
