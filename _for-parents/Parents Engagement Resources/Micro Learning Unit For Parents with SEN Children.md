@@ -28,15 +28,11 @@ Thank you.
 <p align="center"> <b> Reading </b> </p>
 
 < insert video here >
-  
 
-Link: [Repeated Reading slides.pdf](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/MLU%20SEN/Repeated%20Reading%20slides.pdf)  
+Link: [Repeated Reading slides.pdf](/files/Repeated%20Reading%20slides.pdf)
   
+<p align="center"> <b>Cued Spelling </b> </p>
+
+< insert video here >
   
-
-**Cued Spelling**
-
-![](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
-
-  
-Link: [Cued Spelling slides.pdf](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/MLU%20SEN/Cued%20Spelling%20slides.pdf)
+[Cued Spelling slides.pdf](/files/Cued%20Spelling%20slides.pdf)
