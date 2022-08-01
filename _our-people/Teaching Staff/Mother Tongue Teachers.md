@@ -4,13 +4,12 @@ permalink: /our-people/teaching-staff/mt-teachers
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### MOTHER TONGUE TEACHERS
 
 ##### Mother Tongue Teachers
 
 ##### Chinese
+
 |  	|  	|
 |---	|---	|
 | Mdm Yeo Kwang Yee 	| [yeo\_kwang\_yee@moe.edu.sg](mailto:yeo_kwang_yee@moe.edu.sg) 	|
@@ -27,6 +26,7 @@ third_nav_title: Teaching Staff
 | Mdm Xin Hong 	| [xin\_hong@schools.gov.sg](mailto:xin_hong@schools.gov.sg)	|
 
 ##### Tamil
+
 |  	|  	|
 |---	|---	|
 | Mdm M Meenatchi 	| [m\_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg) 	|
@@ -34,6 +34,7 @@ third_nav_title: Teaching Staff
 | Mrs Vannan 	| [parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
 
 ##### Malay
+
 |  	|  	|
 |---	|---	|
 | Mdm Amnah Bte Jantan 	| [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 	|
