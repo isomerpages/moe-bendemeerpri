@@ -8,7 +8,7 @@ third_nav_title: Parents Engagement Resources
 
 <table>
 	<tr>
-		<td>
+		<td width="183px">
 			<img src="/images/Nurture.jpg"
 					 style="height:256px;
 											width:183px"/> <br>
@@ -16,7 +16,7 @@ third_nav_title: Parents Engagement Resources
 				Nuture SG
 			</p>
 		</td>
-		<td>
+		<td width="183px">
 			<img src="/images/resilience.jpg"
 					 style="height:256px;
 											width:183px"/><br>
@@ -58,7 +58,7 @@ third_nav_title: Parents Engagement Resources
 				</a> <br> < file exceeds 5MB >
 			</p>
 		</td>
-		<td>
+		<td width="183px">
 			<img src="/images/raising.jpg"
 					 style="height:256px;
 											width:183px"/> <br>
@@ -71,9 +71,7 @@ third_nav_title: Parents Engagement Resources
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/HBL%20Part%203%20Cover%20Page.jpg"
-					 style="height:256px;
-											width:183px"/> <br>
+			<img src="/images/HBL%20Part%203%20Cover%20Page.jpg"/> <br>
 			<p align="center">
 				<a href="/files/Resource%20Kit%20-%20HBL%20(Part%203).pdf">
 					HBL Resource Kit Part 3 April 2020
@@ -81,12 +79,31 @@ third_nav_title: Parents Engagement Resources
 			</p>
 		</td>
 		<td>
-			<img src="/images/HBL%20Part%205%20Cover%20Page.jpg"
-					 style="height:256px;
-											width:183px"/> <br>
+			<img src="/images/HBL%20Part%205%20Cover%20Page.jpg"/> <br>
 			<p align="center">
 				<a href="/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf">
 					HBL Resource Kit Part 5 School Holiday Edition
 				</a>
 			</p>
 		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/HBL%20Part%206%20Cover%20Page.jpg"/> <br>
+			<p align="center">
+				<a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School%20(Updated-final).pdf">
+					HBL Resource Kit Part 6  Transitioning Back to School June 2020
+				</a>
+			</p>
+		</td>
+		<td>
+			<img src="/images/MyIndpLearner.jpg"/> <br>
+			<p align="center">
+				<a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20My%20Independent%20Learner.pdf">
+					Parent Kit - My Independent Learner
+				</a>
+			</p>
+		</td>
+		
+								 
+					 
