@@ -18,4 +18,18 @@ With reference to our “Welcome Letter for 2022 Primary 1 cohort” dated 7 Oct
 | MOE Financial Assistance Form<br>(if applicable)<br>  	| [MOE FAS application form](/files/MOE-FAS-application-form.pdf) or collect a copy at our school. Submit the completed form with all relevant documents directly to the school.<br>Tip: If you have children in different government or government-aided schools, you can submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome. 	|
 | Consent for Dental Treatment 	| To enrol your child in our dental programme , please submit the consent form via Child Consent Portal [http://childconsent.hpb.gov.sg](http://childconsent.hpb.gov.sg/)<br><b><em>Tentatively from 1 Jan onwards </em></b>	|
 
-<b><u>
+<h4> <u>Information for Purchase of School Books and Uniforms </u></h4>
+
+| | |
+|--- |--- |
+| Walk in Purchase ofSchools Books & Uniforms 	| Book an appointment using the link provided:<br>[https://shop.shanghai-uniforms.com/appointment-booking/](https://shop.shanghai-uniforms.com/appointment-booking/)<br> <br>Do select ‘Bendemeer Primary School’ as the school’s location when prompted.<br> <br>Safe Management Measures: In view of Covid-19 situation, please adhere to the day and time slot you have booked. You are able to purchase both books and uniforms when you make an appointment booking from the link above. 	|
+| Online Purchase for School Books 	| For Delivery & Collection:  <br><br>Please login to : [www.thecontinental.sg/bendemeer](http://www.thecontinental.sg/bendemeer) <br> For the PIN Number, refer to letter/email sent on 18 October 2021.<br><br>P1 Booklist: Click [here](/files/Bendemeer%20Booklist%202022%20Primary%201.pdf)<br> <br>From 01 November to 18 December<br> <br>Do note that online orders require at least 5 working days for processing.<br> <br>Contact Details:<br>Online order enquiry: 67488798<br><br>Other enquiry: 62960519 (Bookshop)/ 62478482<br> <br>Email: [info@the-continental.com.sg](mailto:info@the-continental.com.sg) 	|
+| Online Purchase for School Uniforms 	| For Delivery Only:<br> <br>Please login to : [https://shop.shanghai-uniforms.com/product-catergory/bendemeer-primary/](https://shop.shanghai-uniforms.com/product-catergory/bendemeer-primary/)<br><br>From 01 October to 15 December 2021<br> <br>Do note that online orders require at least 5 working days for processing.<br><br>Contact Details:Online order enquiry: 63522741<br>(Monday to Friday: 10.00am to 6.00pm;<br> 1pm to 2pm lunch break)<br> <br>Email: [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com) 	|
+
+<h4> <u>Slides for eOrientation held on 12 Nov 2021 </u></h4>
+
+| | | 
+| --- | --- |
+| <u>Briefing by Year Head, Mrs Png  </u> | [Briefing Slides by YH.pdf](/files/Briefing%20Slides%20by%20YH.pdf) |
+| <u>Briefing by Class Teachers  </u> | [Briefing Slides by Class Teachers.pdf](/files/Briefing%20slides%20by%20Class%20Teachers.pdf) |
+| Dental Sharing | < insert video here > |
