@@ -2,5 +2,6 @@ collections:
   2022-communications:
     output: true
     order:
+      - Term 1 2022/28 Jan 2022 = Stepping Up Programme for P5.md
       - Term 1 2022/.keep
       - 2022 Communications.md
