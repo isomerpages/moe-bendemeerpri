@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 2022 Direct School Admission for Secondary School.md
       - P1 Parents Seminar 2022.md
       - Important Information for Primary 1.md
       - Featured on.md
