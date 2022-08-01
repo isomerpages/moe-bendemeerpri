@@ -25,6 +25,15 @@ links:
         url: /about-us/moe-kindergarten
       - title: Gallery
         url: /about-us/gallery
+  - title: Our People
+    url: /our-people/exco
+    sublinks:
+      - title: Executive Committee (EXCO)
+        url: /our-people/exco
+      - title: Teaching Staff
+        url: /permalink
+      - title: Non Teaching Staff
+        url: /permalink
   - title: Co-Curriculum
     url: /co-curriculum/ALP
     sublinks:
