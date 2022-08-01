@@ -1,5 +1,4 @@
 collections:
   teaching-staff:
     output: true
-    order:
-      - Allied Educators (T&L).md
+    order: []
