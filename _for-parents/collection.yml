@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - P1 Parents Seminar 2022.md
       - Important Information for Primary 1.md
       - Featured on.md
       - FAQs for COVID19 in Singapore.md
