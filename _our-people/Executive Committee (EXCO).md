@@ -3,6 +3,8 @@ title: Executive Committee (EXCO)
 permalink: /our-people/exco
 description: ""
 ---
+### EXECUTIVE COMMITTEE (EXCO)
+
 |||| 
 |---|---|---|
 | Principal 	| Mrs Tan-Lim Kim Gek 	| lim_kim_gek@schools.gov.sg 	|
