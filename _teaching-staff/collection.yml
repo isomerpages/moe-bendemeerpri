@@ -2,12 +2,12 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Allied Educators (T&L).md
-      - Mother Tongue Teachers.md
-      - Primary 6 Teachers.md
-      - Primary 5 Teachers.md
-      - Primary 4 Teachers.md
-      - Primary 3 Teachers.md
-      - Primary 2 Teachers.md
-      - Primary 1 Teachers.md
       - Level Managers & Coordinators.md
+      - Primary 1 Teachers.md
+      - Primary 2 Teachers.md
+      - Primary 3 Teachers.md
+      - Primary 4 Teachers.md
+      - Primary 5 Teachers.md
+      - Primary 6 Teachers.md
+      - Mother Tongue Teachers.md
+      - Allied Educators (T&L).md
