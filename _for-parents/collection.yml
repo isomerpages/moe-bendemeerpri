@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Letter to Parents/2022 Communications.md
       - Letter to Parents/.keep
       - Academic Matters/Overview.md
       - Academic Matters/Subject Based Banding (Primary) (SBB(Pri)).md
