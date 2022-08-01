@@ -4,14 +4,11 @@ permalink: /our-people/teaching-staff/level-managers
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### LEVEL MANAGERS & COORDINATORS
 
 #### Level Managers
-| | | |
-|---|---|---|
 | Primary 1  | Ms Ho Shang Wei Dorothy  | ho_shang_wei_dorothy@moe.edu.sg   |
+|--- |--- |--- |
 | Primary 2 | Mdm Nursuhaila Bte Abdul Samad | nursuhaila_abdul_samad@moe.edu.sg  |
 | Primary 3 | Ms Chua Wen Qian | chua_wen_qian@moe.edu.sg  |
 | Primary 4 | Ms Soon Lay Har | soon_lay_har@moe.edu.sg  |
