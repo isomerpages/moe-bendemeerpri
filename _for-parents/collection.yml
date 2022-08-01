@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Positive Parenting Programmes/Positive Parenting Programme (Triple P)
+        Level 2 Seminar Runs.md
       - Positive Parenting Programmes/.keep
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
