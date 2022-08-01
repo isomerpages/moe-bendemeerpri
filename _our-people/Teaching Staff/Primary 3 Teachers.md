@@ -4,11 +4,10 @@ permalink: /our-people/teaching-staff/p3-teachers
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### PRIMARY 3 TEACHERS
 
 ##### Primary 3 Teachers
+
 |  	|  	|  	|
 |---	|---	|---	|
 | 3 Adaptability 	| Mdm Koh Siok Hui<br>Mrs Elis Tjandra<br>Mdm Teoh Hai Wei 	| [koh\_siok\_hui@moe.edu.sg](mailto:koh_siok_hui@moe.edu.sg) <br>[elis\_tjandra@moe.edu.sg](mailto:elis_tjandra@moe.edu.sg) <br>[teoh\_hai\_wei@moe.edu.sg](mailto:teoh_hai_wei@moe.edu.sg) 	|
