@@ -31,9 +31,17 @@ links:
       - title: Executive Committee (EXCO)
         url: /our-people/exco
       - title: Teaching Staff
-        url: /permalink
+        url: /our-people/teaching-staff/level-managers
       - title: Non Teaching Staff
-        url: /permalink
+        url: /our-people/non-teaching-staff
+      - title: Parent Support Group (PSG)
+        url: /our-people/psg
+      - title: School Advisory Committee SAC
+        url: /our-people/sac
+      - title: For Parents
+        url: /our-people/for-parents
+      - title: Our Partners
+        url: /our-people/our-partners
   - title: Co-Curriculum
     url: /co-curriculum/ALP
     sublinks:
@@ -41,5 +49,3 @@ links:
         url: /co-curriculum/ALP
       - title: CCA
         url: /co-curriculum/CCA
-  - title: Menu Title
-    url: /our-people/for-parents/growing-years
