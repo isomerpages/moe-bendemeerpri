@@ -4,11 +4,19 @@ permalink: /about-us/gallery
 description: ""
 ---
 ### GALLERY
-
+<table>
+	<tr>
+		<td>
 <a href="https://drive.google.com/drive/folders/1EELtVNDkitcpQtBUh87qk5ecLmAbKzoh?usp=sharing">
 	<img src="/images/ae6d4a82e_66418.jpeg"/>
+	</td>
+			<td>
 	CNY Celebrations 2022
+		</td>
 </a>
+</tr>
+<tr>
+	<td>
 
 <br>
 <br>
