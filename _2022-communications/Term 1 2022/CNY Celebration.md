@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Term 1 2022
 ---
 ### CNY Celebration
-
 ***17 Jan 2022***
 
 Dear Parents, 
