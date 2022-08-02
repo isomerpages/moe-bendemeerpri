@@ -28,4 +28,4 @@ Our school is glad to be working closely with TOUCH in providing parenting suppo
 
   
 
-For more information on the parenting services provided by TOUCH and their contact details, please access the website at **http://www.touch.org.sg/parenting**.
+For more information on the parenting services provided by TOUCH and their contact details, please access the website at **[http://www.touch.org.sg/parenting](http://www.touch.org.sg/parenting)**.
