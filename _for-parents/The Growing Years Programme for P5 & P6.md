@@ -183,4 +183,4 @@ c.        Character and Citizenship Education (CCE)
 
 [**Opt-out Form**](https://form.gov.sg/61e0d43a63dd6a001317b610)
 
-10. Parents can contact Mdm Aisha, the Sexuality Education Coordinator at siti\_aisha\_juraimi@schools.gov.sg or call 6298 2911 ext 246 for discussion or to seek clarification about the school’s sexuality education programme.
+10. Parents can contact Mdm Aisha, the Sexuality Education Coordinator at [siti\_aisha\_juraimi@schools.gov.sg](mailto:siti_aisha_juraimi@schools.gov.sg) or call 6298 2911 ext 246 for discussion or to seek clarification about the school’s sexuality education programme.
