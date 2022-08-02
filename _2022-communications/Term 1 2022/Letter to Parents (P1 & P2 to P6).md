@@ -4,7 +4,7 @@ permalink: /our-people/for-parents/Letter-to-Parents/2022-communications/Term-1-
 description: ""
 third_nav_title: Term 1 2022
 ---
-### LETTER FOR PARENTS
+### LETTER FOR PARENTS (P1 & P2-P6)
 ***3 Jan 2022***
 
 ##### For Parents of P1 Students
