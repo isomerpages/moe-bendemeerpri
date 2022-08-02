@@ -4,3 +4,14 @@ permalink: /our-people/for-parents/Letter-to-Parents/2022-communications/Term-1-
 description: ""
 third_nav_title: Term 1 2022
 ---
+### CNY Celebration
+
+***17 Jan 2022***
+
+Dear Parents, 
+
+Please click on the attachment below for the letter to parents with regard to Chinese New Year celebration 2022.  
+  
+Thank you.  
+  
+[Chinese New Year Celebration 2022.pdf](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Letter%20to%20Parents/Term%201%202022/Chinese%20New%20Year%20Celebration%202022.pdf)
