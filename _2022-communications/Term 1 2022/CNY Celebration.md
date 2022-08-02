@@ -14,4 +14,4 @@ Please click on the attachment below for the letter to parents with regard to Ch
   
 Thank you.  
   
-[Chinese New Year Celebration 2022.pdf](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Letter%20to%20Parents/Term%201%202022/Chinese%20New%20Year%20Celebration%202022.pdf)
+[Chinese New Year Celebration 2022.pdf](/files/Chinese%20New%20Year%20Celebration%202022.pdf)
