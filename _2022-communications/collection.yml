@@ -2,6 +2,7 @@ collections:
   2022-communications:
     output: true
     order:
+      - Term 4 2022/.keep
       - Term 1 2022/Letter to Parents (P1 & P2 to P6).md
       - Term 1 2022/Welcome Letter (P5 & P6).md
       - Term 1 2022/P6 CA1 Timetable.md
