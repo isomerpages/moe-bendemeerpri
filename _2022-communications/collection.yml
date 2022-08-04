@@ -2,6 +2,7 @@ collections:
   2022-communications:
     output: true
     order:
+      - Term 2 2022/.keep
       - Term 3 2022/.keep
       - Term 3 2022/Overview.md
       - Term 3 2022/27 Jun 2022 Letter to Parents.md
