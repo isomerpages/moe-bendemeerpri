@@ -112,12 +112,11 @@ We had our inaugural virtual immersion with Sichuan Da Yi Bei Jie Primary Schoo
 	</tr>
 	<tr>
 		<td colspan="2">
-			
-[](https://youtu.be/ngFZINmW0rk)
-
-Left picture: Our teachers and students with the lovely flower craftwork they had made.
-
-RIght picture: An innovative way of forging partnership and connecting with our overseas friends via ZOOM.
+			Left picture: Our teachers and students with the lovely flower craftwork they had made.<br>
+			RIght picture: An innovative way of forging partnership and connecting with our overseas friends via ZOOM.
+		</td>
+	</tr>
+</table>
 
 **Rubik’s Cube friendly tournament organised by BPS’s partner school**  
 
@@ -128,39 +127,36 @@ Please click this link to view the Rubik’s Cube tournament (Filmed by Chengdu 
 Please click this link to view our P6 students solving their Rubik’s cubes (Filmed by Bendemeer Primary School): [https://youtu.be/ngFZINmW0rk](https://youtu.be/ngFZINmW0rk)
 
   
-
-![12.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/12.jpg)![13.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/13.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-Left picture: Our very own P6 Rubik’s Cubes professionals!
-
-Right picture:  Look at that set up done by our partner school! (Photo from Chengdu ShiShi High School)
-
-**![14.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/14.jpg)**
-
-The teachers and students of Chengdu ShiShi High School cheering all participants! (Photo from Chengdu ShiShi High School)  
+<table>
+	<tr>
+		<td>
+			<img src="/images/12.jpg"/>
+		</td>
+		<td>
+			<img src="/images/13%20(1).jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">  
+			Left picture: Our very own P6 Rubik’s Cubes professionals! <br>
+			Right picture:  Look at that set up done by our partner school! (Photo from Chengdu ShiShi High School)
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/images/14.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			The teachers and students of Chengdu ShiShi High School cheering all participants! (Photo from Chengdu ShiShi High School)  
+		</td>
+	</tr>
+</table>
 
   
 
-**Our past events:**  
+**<u>Our past events:</u>**  
 
 2020
 
