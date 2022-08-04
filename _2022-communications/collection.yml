@@ -2,6 +2,7 @@ collections:
   2022-communications:
     output: true
     order:
+      - Term 2 2022/Overview.md
       - Term 2 2022/Start of T2.md
       - Term 2 2022/SOTA e Open House 2022.md
       - Term 2 2022/2022 P3 to P6 WA1 Schedule & Topics.md
