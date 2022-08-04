@@ -158,17 +158,18 @@ Please click this link to view our P6 students solving their Rubik’s cubes (Fi
 
 **<u>Our past events:</u>**  
 
-2020
-
-Partnership with Singapore General Hospital
-
-Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/thank-you-cards-for-healthcare-professionals-a-partnership-with-sgh) to read more!Partnership with Project Chulia Street  
-Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/well-wishes-to-our-migrant-workers-a-partnership-with-project-chulia-street) to read more!Partnership with MINDEF  
+2020 <br>
+<u>Partnership with Singapore General Hospital</u> <br>
+Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/thank-you-cards-for-healthcare-professionals-a-partnership-with-sgh) to read more! <br>
+<u>Partnership with Project Chulia Street </u> <br>
+Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/well-wishes-to-our-migrant-workers-a-partnership-with-project-chulia-street) to read more! <br>
+<u>Partnership with MINDEF  </u> <br>
 Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/partnership-with-the-ministry-of-defence) to read more!  
   
   
 
-2021  
+2021  <br>
 Virtual Kindergarten Visit @ Bendemeer  
-Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/virtual-kindergarten-visit-at-bendemeer) for more info!BPS Teachers' Day Tribute 2021  
+Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/virtual-kindergarten-visit-at-bendemeer) for more info! <br>
+BPS Teachers' Day Tribute 2021  
 Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/bendemeer-primary-school-teachers-day-tribute-2021) for more info!
