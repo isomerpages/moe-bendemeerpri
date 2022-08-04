@@ -11,6 +11,6 @@ Dear Parents,
   
 Please refer to the document below for the letter to parents dated 1 July 2022.  
   
-[T3\_Parents Letter\_1\_Jul\_2022.pdf](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Letter%20to%20Parents/Term%203%202022/T3_Parents%20Letter_1_Jul_2022.pdf)  
+[T3_Parents Letter_1_Jul_2022.pdf](/files/T3_Parents%20Letter_1_Jul_2022.pdf)
   
 Thank you.
