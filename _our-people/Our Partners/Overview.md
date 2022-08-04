@@ -156,8 +156,7 @@ Please click this link to view our P6 students solving their Rubik’s cubes (Fi
 
   
 
-**<u>Our past events:</u>**  
-
+**<u>Our past events:</u>**  <br>
 2020 <br>
 <u>Partnership with Singapore General Hospital</u> <br>
 Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/thank-you-cards-for-healthcare-professionals-a-partnership-with-sgh) to read more! <br>
