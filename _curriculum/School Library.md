@@ -143,14 +143,12 @@ Perform a search of books and resources available in the school library at this 
 [**https://childrenandteens.nlb.gov.sg/**](https://childrenandteens.nlb.gov.sg/)<br>
 Access [storytelling videos](https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main), [e-books](https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p), [book recommendations](https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary) and other reading-related resources at NLB discoveReads. You will need an account to borrow e-books. Students may sign up for an account, with their parent's Singpass, [**here**](https://account.nlb.gov.sg/).
 
-### 6\. Unite for Literacy**:** [**https://www.uniteforliteracy.com/**](https://www.uniteforliteracy.com/)
+6\. Unite for Literacy: [**https://www.uniteforliteracy.com/**](https://www.uniteforliteracy.com/) <br>
+Enjoy simple books at Unite for Literacy.
 
-###     Enjoy simple books at Unite for Literacy.
+7\. Audible: [**stories.audible.com/discovery**](http://stories.audible.com/discovery) <br>
+Enjoy free (for a limited time) audio books at Audible.
 
-### 7\. Audible**:** [**stories.audible.com/discovery**](http://stories.audible.com/discovery)
+8\. National Geographic Kids: [**https://kids.nationalgeographic.com/**](https://kids.nationalgeographic.com/)
 
-###     Enjoy free (for a limited time) audio books at Audible.
-
-### 8\. National Geographic Kids**:** [**https://kids.nationalgeographic.com/**](https://kids.nationalgeographic.com/)
-
-### 9\. Science News for Students**:** [**https://www.sciencenewsforstudents.org/**](https://www.sciencenewsforstudents.org/)
+9\. Science News for Students: [**https://www.sciencenewsforstudents.org/**](https://www.sciencenewsforstudents.org/)
