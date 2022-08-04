@@ -17,31 +17,29 @@ The Covid-19 situation ignited a very important partnership opportunity for us. 
 <table>
 	<tr>
 		<td>
-<img src="/images/1%20(1).jpg"/>
+			<img src="/images/1%20(1).jpg"/>
 		</td>
 		<td>
-<img src="/images/2%20(1).jpg"/>
+			<img src="/images/2%20(1).jpg"/>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="2">
-Left picture: Mrs Tan (Principal) and students presenting CDs with colourful Kolam designs to our non-teaching staff for Deepavali 2021.
-
-Right picture: Mrs Ravi (Vice-Principal) and a student presenting beautiful tiger-themed craftwork and oranges to our friendly canteen vendor for Chinese New Year 2022.
+			Left picture: Mrs Tan (Principal) and students presenting CDs with colourful Kolam designs to our non-teaching staff for Deepavali 2021. <br>
+			Right picture: Mrs Ravi (Vice-Principal) and a student presenting beautiful tiger-themed craftwork and oranges to our friendly canteen vendor for Chinese New Year 2022.
 		</td>
 	</tr>
 	<tr>
 		<td colspan="2">
-
-![3.jpg](/images/3%20(1).jpg)
+			<img src="/images/3%20(1).jpg"/>
 		</td>
-		</tr>
-			<tr>
-				<td colspan="2">
-Mrs Tan (Principal) and students presenting colourful 3-D festive decorations to our office staff for Hari Raya Puasa 2022.  
-				</td>
 	</tr>
-	</table>
+	<tr>
+		<td colspan="2">
+			Mrs Tan (Principal) and students presenting colourful 3-D festive decorations to our office staff for Hari Raya Puasa 2022.  
+		</td>
+	</tr>
+</table>
 
 
 
@@ -64,13 +62,15 @@ SBS Transit invited our school to participate in SBS Transit Kindness Month in N
 <img src="/images/6%20(1).jpg"/>
 		</td>
 	</tr>
-	</table>
+</table>
+
+
+
 **Kindergarten E-Visit @ BPS 2022**  
 
 As part of our community outreach effort to prepare Kindergarten students for primary school, our school hosted 24 kindergartens on an E-Visit on 13 April 2022. This experience provided both the K2 students and their parents with a timely opportunity to learn about the interesting programmes, infrastructure and latest facilities Bendemeer Primary School has to offer. Ben, our school mascot, was featured together with our student leaders in a video about life in BPS. There were also many light-hearted moments when our Head Prefect, Jeannette Tham Shi Tong of 6 Adaptability, and Vice-Head Prefect, Goh Ying Hui Zoey also of 6 Adaptability, answered questions from the curious younger kinder!
 
-![7.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/7.jpg)  
-
+![7.jpg](/images/7%20(1).jpg)
   
 
 **SCDF Junior Lionhearter Challenge 2022**  
@@ -80,55 +80,38 @@ A group of P4 and P5 National Education (NE) Champs took park in the SCDF Junior
 These NE Champs were also trained to serve as Emergency Preparedness (EP) ambassadors in own schools, spreading awareness amongst their fellow schoolmates, family members and friends on the importance of knowing life-saving skills and helping one another in an emergency.
 
   
-
-![8.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/8.jpg)![9.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/9.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Left picture: Our NE Champs busy preparing for the SCDF Junior Lionhearter Challenge 2022.
-
-Right picture: Our NE Champs learning how to handle a fire extinguisher in an emergency.
+<table>
+	<tr>
+		<td>
+			<img src="/images/8%20(1).jpg"/>
+		</td>
+		<td>
+			<img src="/images/9%20(1).jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			Left picture: Our NE Champs busy preparing for the SCDF Junior Lionhearter Challenge 2022. <br>
+			Right picture: Our NE Champs learning how to handle a fire extinguisher in an emergency.
+		</td>
+	</tr>
+</table>
 
 **Virtual Partnership – Friendship Beyond Boundaries**  
 
 We had our inaugural virtual immersion with Sichuan Da Yi Bei Jie Primary School (大邑县北街小学) on 22 April 2022. The theme of ‘Friendship Beyond Boundaries’ was apparent and achieved as the students and teachers from both schools warmly welcomed one another, watched cultural performances and proceeded to work together to create lovely flower craftwork which symbolises unity, friendship and happiness. This immersion programme has not only allowed our students to connect with their foreign counterparts, but it also affirms the friendship and partnership between both schools.
 
-![10.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/10.jpg)![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/Our%20partners/11.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+<table>
+	<tr>
+		<td>
+			<img src="/images/10%20(1).jpg"/>
+		</td>
+		<td>
+			<img src="/images/11%20(1).jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
 [](https://youtu.be/ngFZINmW0rk)
 
 Left picture: Our teachers and students with the lovely flower craftwork they had made.
