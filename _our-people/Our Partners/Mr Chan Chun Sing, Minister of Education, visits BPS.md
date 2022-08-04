@@ -31,3 +31,6 @@ These dialogue sessions were enriching and informative as both students and staf
 	<tr>
 		<td colspan="2" >
 			<img src="/images/MinChan_schoolvisit_20220524_BPS_205.jpeg"/>
+		</td>
+	</tr>
+</table>
