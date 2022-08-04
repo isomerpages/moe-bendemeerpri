@@ -2,20 +2,8 @@ collections:
   2022-communications:
     output: true
     order:
-      - Term 2 2022/Overview.md
-      - Term 2 2022/Start of T2.md
-      - Term 2 2022/SOTA e Open House 2022.md
-      - Term 2 2022/2022 P3 to P6 WA1 Schedule & Topics.md
-      - Term 2 2022/Revised SMMs wef 26 April 2022.md
-      - Term 2 2022/P6 June Hols Supplementary Classes.md
-      - Term 2 2022/.keep
-      - Term 3 2022/.keep
-      - Term 3 2022/Overview.md
-      - Term 3 2022/27 Jun 2022 Letter to Parents.md
-      - Term 3 2022/WA2 & Prelim Timetable & Topics.md
-      - Term 3 2022/1 Jul 2022 Letter to Parents.md
-      - Term 4 2022/Overview.md
-      - Term 4 2022/.keep
+      - 2022 Communications.md
+      - Term 1 2022/.keep
       - Term 1 2022/Overview.md
       - Term 1 2022/Letter to Parents (P1 & P2 to P6).md
       - Term 1 2022/Welcome Letter (P5 & P6).md
@@ -25,5 +13,17 @@ collections:
         (Priority Order 2).md
       - Term 1 2022/CNY Celebration.md
       - Term 1 2022/Stepping Up Programme for P5.md
-      - Term 1 2022/.keep
-      - 2022 Communications.md
+      - Term 2 2022/.keep
+      - Term 2 2022/Overview.md
+      - Term 2 2022/Start of T2.md
+      - Term 2 2022/SOTA e Open House 2022.md
+      - Term 2 2022/2022 P3 to P6 WA1 Schedule & Topics.md
+      - Term 2 2022/Revised SMMs wef 26 April 2022.md
+      - Term 2 2022/P6 June Hols Supplementary Classes.md
+      - Term 3 2022/.keep
+      - Term 3 2022/Overview.md
+      - Term 3 2022/27 Jun 2022 Letter to Parents.md
+      - Term 3 2022/WA2 & Prelim Timetable & Topics.md
+      - Term 3 2022/1 Jul 2022 Letter to Parents.md
+      - Term 4 2022/.keep
+      - Term 4 2022/Overview.md
