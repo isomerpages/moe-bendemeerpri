@@ -2,6 +2,8 @@ collections:
   our-people:
     output: true
     order:
+      - Our Partners/.keep
+      - Our Partners/Overview.md
       - Our Partners/'Thank You' Cards For Healthcare Professionals, A
         Partnership with SGH.md
       - Our Partners/Well Wishes to our migrant workers, A partnership with
@@ -12,8 +14,6 @@ collections:
       - Our Partners/Dr Wan Rizal, Member of Parliament for Kolam Ayer, visits
         Bendemeer Primary School.md
       - Our Partners/Mr Chan Chun Sing, Minister of Education, visits BPS.md
-      - Our Partners/Overview.md
-      - Our Partners/.keep
       - For Parents.md
       - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
