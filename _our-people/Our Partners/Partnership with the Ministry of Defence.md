@@ -10,4 +10,8 @@ To support and to pay tribute to all our National Servicemen and women, our P3 s
 
 #WeSupportNS #SGUnited #BPSUnited
 
-< insert video here >
+< insert video #1 here >
+
+A version of this video combined with other schools’ message dedications can be found on the ‘We Are Total Defence’ Facebook page.
+
+< insert video #2 here >
