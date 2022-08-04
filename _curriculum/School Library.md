@@ -127,29 +127,21 @@ The Book Stop was created to bring a snippet of the library to the canteen. This
 
 #### _<u>Useful Links</u>_
 
-1. NLB Overdrive ([https://nlb.overdrive.com/](https://nlb.overdrive.com/))  
-  
+1\. NLB Overdrive ([https://nlb.overdrive.com/](https://nlb.overdrive.com/)) 
 
-2. Storyline Online **(**[**https://www.storylineonline.net/**](https://www.storylineonline.net/)**)**
+2\. Storyline Online **([https://www.storylineonline.net/](https://www.storylineonline.net/))** <br> 
+Enjoy videos of children’s books read aloud alongside creatively produced illustrations at Storyline Online. 
 
-    Enjoy videos of children’s books read aloud alongside creatively produced illustrations at Storyline Online. 
+3\. School eResource Repository (SERR) <br>  [**https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT**](https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT) <br>
+The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. The repository provides easy access to online resources. 
 
-3. School eResource Repository (SERR)
+4\. Bendemeer Primary School Library OPAC (Online Public Access Catalogue <br>
+[**https://schoolibrary.moe.edu.sg/bendemeerpri**](https://schoolibrary.moe.edu.sg/bendemeerpri) <br>
+Perform a search of books and resources available in the school library at this website.  
 
-    [**https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT**](https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT) 
-
-    The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as
-
-    well as support learning for students across various subject areas. The repository provides easy access to
-
-    online resources**.**
-
-### 4\. Bendemeer Primary School Library OPAC (Online Public Access Catalogue)
-
-###     [**https://schoolibrary.moe.edu.sg/bendemeerpri**](https://schoolibrary.moe.edu.sg/bendemeerpri) 
-
-###     Perform a search of books and resources available in the school library at this website.  
-5\. NLB discoveReads (Children & Teens Services):    [**https://childrenandteens.nlb.gov.sg/**](https://childrenandteens.nlb.gov.sg/)Access [storytelling videos](https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main), [e-books](https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p), [book recommendations](https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary) and other reading-related resources at NLB discoveReads. You will need an account to borrow e-books. Students may sign up for an account, with their parent's Singpass, [**here**](https://account.nlb.gov.sg/).
+5\. NLB discoveReads (Children & Teens Services): <br>
+[**https://childrenandteens.nlb.gov.sg/**](https://childrenandteens.nlb.gov.sg/)<br>
+Access [storytelling videos](https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main), [e-books](https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p), [book recommendations](https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary) and other reading-related resources at NLB discoveReads. You will need an account to borrow e-books. Students may sign up for an account, with their parent's Singpass, [**here**](https://account.nlb.gov.sg/).
 
 ### 6\. Unite for Literacy**:** [**https://www.uniteforliteracy.com/**](https://www.uniteforliteracy.com/)
 
