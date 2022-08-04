@@ -2,5 +2,5 @@ collections:
   curriculum:
     output: true
     order:
-      - School Library/School Library.md
+      - School Library/Overview.md
       - School Library/.keep
