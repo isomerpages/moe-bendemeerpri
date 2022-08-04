@@ -112,6 +112,7 @@ We had our inaugural virtual immersion with Sichuan Da Yi Bei Jie Primary Schoo
 	</tr>
 	<tr>
 		<td colspan="2">
+			
 [](https://youtu.be/ngFZINmW0rk)
 
 Left picture: Our teachers and students with the lovely flower craftwork they had made.
