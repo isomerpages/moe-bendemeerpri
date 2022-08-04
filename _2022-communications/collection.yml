@@ -2,6 +2,7 @@ collections:
   2022-communications:
     output: true
     order:
+      - Term 3 2022/WA2 & Prelim Timetable & Topics.md
       - Term 3 2022/Letter to Parents.md
       - Term 3 2022/Overview.md
       - Term 3 2022/.keep
