@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Partners/Mr Chan Chun Sing, Minister of Education, visits BPS.md
       - Our Partners/Overview.md
       - Our Partners/.keep
       - For Parents.md
