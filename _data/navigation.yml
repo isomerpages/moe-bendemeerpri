@@ -42,6 +42,9 @@ links:
         url: /our-people/for-parents
       - title: Our Partners
         url: /our-people/our-partners/overview
+  - title: Curriculum
+    url: /Curriculum
+    sublinks: []
   - title: Co-Curriculum
     url: /co-curriculum/ALP
     sublinks:
