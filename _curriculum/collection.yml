@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - School Library/.keep
-      - School Library.md
