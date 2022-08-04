@@ -5,27 +5,27 @@ description: ""
 ---
 ### CURRICULUM
 
-<table>
+<table width="100%">
 	<tbody><tr>
-		<td>
+		<td width="25%">
 			<a href="">
 				<img src="/images/DSC00220.jpg">
 				<p align="center"> English </p>
 			</a>
 		</td>
-		<td>
+		<td width="25%">
 			<a href="">
 				<img src="/images/DSC00304.jpg">
 				<p align="center"> Mother Tongue </p>
 			</a>
 		</td>
-		<td>
+		<td width="25%">
 			<a href="">
 				<img src="/images/DSC00138.jpg">
 				<p align="center"> Mathematics </p>
 			</a>
 		</td>
-		<td>
+		<td width="25%">
 			<a href="">
 				<img src="/images/DSC00567.jpg">
 				<p align="center"> Science </p>
