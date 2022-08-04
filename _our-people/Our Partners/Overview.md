@@ -169,7 +169,7 @@ Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partne
   
 
 2021  <br>
-Virtual Kindergarten Visit @ Bendemeer  
+<u>Virtual Kindergarten Visit @ Bendemeer  </u> <br>
 Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/virtual-kindergarten-visit-at-bendemeer) for more info! <br>
-BPS Teachers' Day Tribute 2021  
+<u>BPS Teachers' Day Tribute 2021  </u> <br>
 Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/bendemeer-primary-school-teachers-day-tribute-2021) for more info!
