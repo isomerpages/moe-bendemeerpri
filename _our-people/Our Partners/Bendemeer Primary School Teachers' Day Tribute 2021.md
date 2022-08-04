@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our Partners
 ---
 ### BENDEMEER PRIMARY SCHOOL TEACHERS' DAY TRIBUTE 2021
+
 **Thank You’ Cher! You are ‘Our Shining Stars, Our Inspiration’!**
 
 Bendemeer Primary School Teachers’ Day Tribute 2021
@@ -18,9 +19,5 @@ At the same time, MOE has created the Gratitude Portal to thank our educators in
 You can also read others’ messages across Singapore schools, and explore videos and articles on teachers (and their good work). Posts are tagged by school, and submissions can be filtered to show posts thanking teachers, and staff of individual schools.
 
 Let’s take the opportunity to show our gratitude to the teachers who have made a positive difference and tell them the reasons they are ‘Our Shining Stars, Our Inspiration’!
-
-  
-
-  
 
 ![](/images/qr%20code_teachers%20wishes.jpg)
