@@ -56,53 +56,17 @@ _Please note that SingPass Mobile login is currently not yet supported for Andro
 
 ##### MOE Promotional Video
 
-![moe pg video.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/ICT/moe%20pg%20video.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+[![moe pg video.jpg](/images/moe%20pg%20video.jpg)](https://www.youtube.com/embed/PCM5o8jAncc?feature=oembed)
 
 Parents Gateway is a one-stop platform setup to bring about greater convenience for parents in their day-to-day administrative activities and enhance interaction between parents and school.
 
-****Parents Gateway Onboarding Video for Parents****
+##### Parents Gateway Onboarding Video for Parents
 
-**![onboard PG.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/June%202022/ICT/onboard%20PG.jpg)  
-**
-
-  
+[![onboard PG.jpg](/images/onboard%20PG.jpg)](https://www.youtube.com/embed/tW9jwyuovOo?start=123&feature=oembed)
 
   
 
-  
+##### FAQ for Parents
 
-  
-
-  
-
-  
-
-  
-
-[](https://pg.moe.edu.sg/faq)
-
-**FAQ for Parents**
-
-Please click on the link below:
-
+Please click on the link below: <br>
 [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
