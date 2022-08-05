@@ -5,7 +5,7 @@ description: ""
 ---
 ### PARENTS GATEWAY
 
-<img style="width:65px; height:65px;" align="left" src="/images/PG1.jpg"> <br>
+<img style="width:65px; height:65px;" align="left" src="/images/PG1.jpg" /> <br>
   
 
 ##### What is Parents Gateway?
