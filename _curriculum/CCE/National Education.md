@@ -89,8 +89,15 @@ SLS Activity where the students show their appreciation to the NSmen in their fa
 
 <img src="/images/8%20(3).jpg"
 		 align="left"
-		 style="width:30%"/>
+		 style="width:33%"/>
 		 
+ <img src="/images/10%20(3).jpg"
+		 align="right"
+		 style="width:33%"/>
+		 
+<img src="/images/9%20(3).jpg"
+		 align="center"
+		 style="width:33%"/>
 
 
 ![8.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/8.jpg)![9.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/9.jpg)![10.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/10.jpg)  
