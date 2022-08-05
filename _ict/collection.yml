@@ -2,4 +2,5 @@ collections:
   ict:
     output: true
     order:
+      - Student Learning Space.md
       - NEU PC Plus Programme.md
