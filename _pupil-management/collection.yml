@@ -2,6 +2,8 @@ collections:
   pupil-management:
     output: true
     order:
+      - Student Leadership/Values Talk for P1 & P2 Students by P5 Senior
+        Prefects.md
       - Student Leadership/'For Students By Students' Project.md
       - Student Leadership/Good Deed Project by P4 Junior Prefects.md
       - Student Leadership/Safety Ambassadors, P6 EXCO Team.md
