@@ -47,7 +47,7 @@ During these leadership sessions, NE Champs are informed on the roles and respon
 
 ![4.jpg](/images/4%20(5).jpg)
 
-NE Champs enriching themselves at another leadership session where they had to brainstorm for the upcoming NE events in school.
+<p align="center">NE Champs enriching themselves at another leadership session where they had to brainstorm for the upcoming NE events in school. </p>
 
   
 
