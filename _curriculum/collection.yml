@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Health Education.md
       - Pupil Management/.keep
       - Physical Education.md
       - School Library/.keep
