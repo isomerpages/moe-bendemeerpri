@@ -51,41 +51,34 @@ During these leadership sessions, NE Champs are informed on the roles and respon
 
   
 
-![5.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/5.jpg)
+![5.jpg](/images/5%20(5).jpg)
 
-Proud NE Champs with their “Lion Head” badges as a reward for their participation in the leadership sessions.
+<p align="center">Proud NE Champs with their “Lion Head” badges as a reward for their participation in the leadership sessions. </p>
 
-![6.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/6.jpg)
+![6.jpg](/images/6%20(5).jpg)
 
-NE Champ presenting her group’s discussions with confidence.
+<p align="center">NE Champ presenting her group’s discussions with confidence.</p>
 
-![7.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/7.jpg)
+![7.jpg](/images/7%20(3).jpg)
 
-NE Champs reflected on what skills a good leader should possess.
+<p align="center">NE Champs reflected on what skills a good leader should possess.</p>
 
   
 
-### **Core Events**
+#### Core Events
 
 Annually schools observe 4 NE commemorative days which have been identified as defining moments in Singapore's history.  The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.
 
-The 4 events are:
-
-1.       Total Defence Day
-
-2.      International Friendship Day
-
-3.      Racial Harmony Day
-
-4.     National Day
-
-  
+The 4 events are: <br>
+1.       Total Defence Day <br>
+2.      International Friendship Day <br>
+3.      Racial Harmony Day <br>
+4.     National Day <br>
   
 
-**Total Defence Day Commemoration (TDD) 2022 @BPS** 
-
+##### Total Defence Day Commemoration (TDD) 2022 @BPS
   
-![tdd.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/tdd.jpg)  
+![tdd.jpg](/images/tdd.jpg)
 
 This year, Bendemeer Primary School commemorated Total Defence Day (TDD) in February 2022. The theme this year is, ‘Together We Keep Singapore Strong.’ This involves every Singaporean playing a part, individually and collectively, to build a strong, secure, and cohesive nation. When we are strong, we can deal with any crisis. Our main focus over these few years is the current pandemic, Covid-19. In line with CCE 2021, students are encouraged to play a greater role in TDD, and these activities and exposure would highlight the different ways that they can contribute towards TDD. Students would also be prepared for future threats and challenges and would learn to show resilience when crises strike. The citizenship dispositions, Sense of Belonging, Hope, Reality, and the Will to Act would be triggered in the students through this wide range of activities carried out.
 
