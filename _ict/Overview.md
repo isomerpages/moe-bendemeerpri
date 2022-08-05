@@ -39,16 +39,15 @@ The main objectives of the E-Learning are: <br>
 1. To provide an alternative platform for continuous learning in case of school closure due to emergencies.<br>
 2. To develop students to be self-directed and independent learners.
 
-The school has stipulated certain days in the school’s calendar as E-Learning days as students need not attend school. They are expected to complete the online assignments found in [**SLS Portal**](/curriculum/ict/student-learning-space) assigned by their subject teachers. 
+The school has stipulated certain days in the school’s calendar as E-Learning days as students need not attend school. They are expected to complete the online assignments found in [**SLS Portal**](/our-people/for-parents/ict-matters/student-learning-space) assigned by their subject teachers. 
 
   
 
-**Code For Fun @ BPS**
+##### Code For Fun @ BPS
 
 The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary schools. The school embarked on the Code for Fun programme, for our primary 5 students since 2020.  The Code for Fun programme plays an important role in MOE’s computer Science Education roadmap.
 
-The aim of this programme is to:
-
+The aim of this programme is to: 
 *   develop an appreciation of core computational thinking and coding concepts through simple visual programming-based lessons ·       
 *   Exposure to emerging technologies such as artificial intelligence. Computational thinking is a learned approach and one of the better ways to learn it, is through programming. 
 
@@ -56,47 +55,17 @@ This learning approach employs all the components of computational thinking and 
 
 During the Code for Fun workshops, students use block-based programming to programme the Sphero Bolt and complete exciting challenges.
 
-**Micro:Bit Learning @ BPS**
+##### Micro:Bit Learning @ BPS
 
 As part of the modular CCA programme, all P5 Students went through the Micro:Bits Coding Programme  to encourage innovation, foster collaboration and empower students to create with technology. Students underwent training and built Smart Homes using smart sensors. The students created innovative smart homes with the Design Thinking approach. On the last day of their training, each group presented their smart homes and shared about the sensor they had incorporated in their smart homes. This programme had provided the opportunity to develop creative and innovative citizens of tomorrow. 
 
   
+| ![](/images/3%20(3).jpg) | ![](/images/4%20(3).jpg) |
+| --- | --- |
 
-![3.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/ICT/3.jpg)![4.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/ICT/4.jpg)  
+<p align="center">P5 Students working on their Smart Homes using Micro:Bit and sensors  </p>
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-P5 Students working on their Smart Homes using Micro:Bit and sensors  
-
-  
-
-  
-
-**Mobile Trail @ BPS**
+##### Mobile Trail @ BPS
 
 At Bendemeer Primary School, there are many interesting learning spaces. The mobile trails came about to make these learning spaces come alive and to extend learning beyond the classroom.
 
