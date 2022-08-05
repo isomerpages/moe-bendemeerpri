@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Health Education.md
-      - Pupil Management/.keep
       - Physical Education.md
       - School Library/.keep
       - School Library/Overview.md
