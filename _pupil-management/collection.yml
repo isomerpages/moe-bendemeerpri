@@ -2,6 +2,7 @@ collections:
   pupil-management:
     output: true
     order:
+      - Overview.md
       - Student Leadership/Overview.md
       - Student Leadership/Prefects Investiture 2021.md
       - Student Leadership/Cohort Leadership Training.md
