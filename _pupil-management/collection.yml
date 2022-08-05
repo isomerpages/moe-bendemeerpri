@@ -2,4 +2,5 @@ collections:
   pupil-management:
     output: true
     order:
+      - Student Leadership/Zero Plastic Day In Collaboration With Earth Day.md
       - Student Leadership/.keep
