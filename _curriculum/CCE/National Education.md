@@ -28,24 +28,24 @@ Selected P4 to P6 students  begin their journey of being an ‘NE Champ’ of t
 
 Some of the duties of the NE Champs are to assist new and foreign students to understand our National Anthem, Singapore state flag and Pledge. NE Champs also take pride to share the school values, good citizenry and even share the latest Singapore news with their classmates!
 
-### **NE Champs Training Session on Leadership Day**
+##### NE Champs Training Session on Leadership Day
 
 During these leadership sessions, NE Champs are informed on the roles and responsibilities of being an NE Champ. They also discuss and reflect on their purpose and how they can contribute to serve the school and community. The training then continues with an ICT hands-on session where the students pair up and participate in an NE Trail in school and during the pandemic this was carried out via the zoom platform. The NE Champs also undergo specialized training in their areas to learn more about their roles in the student leadership of the school. The NE Champs are trained to engage the other students during recess time and during the NE Core Events. Therefore, they help anchor and spread the NE Messages and exhibit the school values to fellow students and staff. 
 
       
-![2.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/2.jpg)
+![2.jpg](/images/2%20(7).jpg)
 
-NE Champs reading the information about Singapore along the walls of the stairway.
-
-  
-
-![3.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/3.jpg)
-
-NE Champs assisting the younger members using the iPads to look for clues during hands-on session.
+<p align="center">NE Champs reading the information about Singapore along the walls of the stairway. </p>
 
   
 
-![4.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/4.jpg)
+![3.jpg](/images/3%20(5).jpg)
+
+<p align="center">NE Champs assisting the younger members using the iPads to look for clues during hands-on session.</p>
+
+  
+
+![4.jpg](/images/4%20(5).jpg)
 
 NE Champs enriching themselves at another leadership session where they had to brainstorm for the upcoming NE events in school.
 
