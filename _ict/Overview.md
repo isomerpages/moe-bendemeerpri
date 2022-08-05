@@ -27,53 +27,19 @@ The baseline ICT standards are sets of essential skills developed to enable all 
 
   
 
-![1.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/ICT/1.jpg)![2.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/ICT/2.jpg)  
+| ![](/images/1%20(4).jpg) | ![](/images/2%20(6).jpg) |
+| --- | --- |
+| <small align="center">Students engaged with online class activities </small>| <small align="center">P4 students editing their video during Video Journalism Training </small>|
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-                Students engaged with online class activities                             P4 students editing their video during Video Journalism Training
-
-  
-
-  
-
-  
-
-**Blended Learning during weekly HBL lessons & E Learning Days**
+##### Blended Learning during weekly HBL lessons & E Learning Days
 
 In the digital era, it is important for our students to be equipped with the necessary knowledge, skills and dispositions to thrive in an interconnected, diverse and rapidly changing world. Hence, Blended Learning will be a key feature of the schooling experience to further develop students’ ability to be self-directed, passionate and life-long learners. Through Blended Learning, weekly HBL lessons and E- Learning Days will complement teaching and learning in schools.
 
-The main objectives of the E-Learning are:
+The main objectives of the E-Learning are: <br>
+1. To provide an alternative platform for continuous learning in case of school closure due to emergencies.<br>
+2. To develop students to be self-directed and independent learners.
 
-1.      To provide an alternative platform for continuous learning in case of school closure due to emergencies.
-
-2.      To develop students to be self-directed and independent learners.
-
-The school has stipulated certain days in the school’s calendar as E-Learning days as students need not attend school. They are expected to complete the online assignments found in [**SLS Portal**](https://bendemeerpri.moe.edu.sg/our-people/for-parents/ict-matters/student-learning-space]) assigned by their subject teachers. 
+The school has stipulated certain days in the school’s calendar as E-Learning days as students need not attend school. They are expected to complete the online assignments found in [**SLS Portal**](/curriculum/ict/student-learning-space) assigned by their subject teachers. 
 
   
 
