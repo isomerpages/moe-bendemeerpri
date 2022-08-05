@@ -41,7 +41,7 @@ Bendemeer Primary School believes that parents play an important role in develop
  4.  [Cyber Threats Tip Sheet (PDF)](/files/Cyberthreats%20Tip%20Sheet%202017.pdf)<br>
  5.  [Excessive Internet Use (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Excessive%20Internet%20Use%20Slides_Parents.pptx) <br>
  6.  [Excessive Internet Use Tip Sheet (PDF)](/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf) <br>
- 7.  [Using Mobile Devices Responsibly](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/ict-matters/information-on-cyber-wellness/using-mobile-devices-responsibly)
+ 7.  [Using Mobile Devices Responsibly](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/ict-matters/information-on-cyber-wellness/using-mobile-devices-responsibly) < broken link >
 
   
 
