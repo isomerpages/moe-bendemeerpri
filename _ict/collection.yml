@@ -2,5 +2,6 @@ collections:
   ict:
     output: true
     order:
+      - Parents Gateway.md
       - Student Learning Space.md
       - NEU PC Plus Programme.md
