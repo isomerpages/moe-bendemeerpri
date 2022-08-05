@@ -1,0 +1,4 @@
+collections:
+  pupil-management:
+    output: true
+    order: []
