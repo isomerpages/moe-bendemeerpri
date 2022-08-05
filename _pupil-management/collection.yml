@@ -2,6 +2,7 @@ collections:
   pupil-management:
     output: true
     order:
+      - Student Leadership/Prefects Investiture 2021.md
       - Student Leadership/Cohort Leadership Training.md
       - Student Leadership/Public Speaking and Presentation Skills Training.md
       - Student Leadership/Tier 2 Student Leadership Training.md
