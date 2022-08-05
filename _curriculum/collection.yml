@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/National Education.md
       - CCE/.keep
       - Health Education.md
       - Physical Education.md
