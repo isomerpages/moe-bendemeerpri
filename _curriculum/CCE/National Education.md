@@ -22,7 +22,7 @@ CITIZENSHIP DISPOSITIONS: NE provides opportunities for our students to explore 
 
 #### _<u>Programmes</u>_
 
-### **The Journey of Bendemeer Primary NE Champs**
+##### The Journey of Bendemeer Primary NE Champs
 
 Selected P4 to P6 students  begin their journey of being an ‘NE Champ’ of the school. These P4 to P6 students embody good citizenship of the school and of Singapore! As an NE Champ, they will be leaders at the forefront to spread the  messages of being a good, caring, concerned citizen in our modern world and society. To achieve this, NE Champs use their presentation skills to interact with others when they support the 4 NE Core Events. NE Champs are the key to the events’ success! In fact, they are champions in more ways than they can think of!
 
