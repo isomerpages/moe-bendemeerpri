@@ -35,12 +35,12 @@ Primary 3 to Primary 6 students who are selected as the Cyber Wellness Student A
 Bendemeer Primary School believes that parents play an important role in developing their child to be future ready and digitally responsible citizen.  Parents can look out for our termly Cyber Wellness tips, resources and useful links which help to reinforce Cyber Wellness education at home.  
 
  Click on the following links to find out more information on Cyber Wellness. <br>
- 1. [Cyberbullying (Slides)](https://go.gov.sg/bps-cyberbullying-slides) <br>
- 2. [Cyberbullying Tip Sheet (PDF)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf) <br>
+ 1. [Cyberbullying (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Cyber%20Bullying%20Slides_Parents.pptx) <br>
+ 2. [Cyberbullying Tip Sheet (PDF)](/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf) <br>
  3. [Cyber Threats (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/Cyberthreats%20%202017.pptx)<br>
- 4.  [Cyber Threats Tip Sheet (PDF)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/Cyberthreats%20Tip%20Sheet%202017.pdf)<br>
+ 4.  [Cyber Threats Tip Sheet (PDF)](/files/Cyberthreats%20Tip%20Sheet%202017.pdf)<br>
  5.  [Excessive Internet Use (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Excessive%20Internet%20Use%20Slides_Parents.pptx) <br>
- 6.  [Excessive Internet Use Tip Sheet (PDF)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf) <br>
+ 6.  [Excessive Internet Use Tip Sheet (PDF)](/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf) <br>
  7.  [Using Mobile Devices Responsibly](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/ict-matters/information-on-cyber-wellness/using-mobile-devices-responsibly)
 
   
