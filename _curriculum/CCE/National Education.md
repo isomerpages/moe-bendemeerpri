@@ -202,27 +202,27 @@ BPS commemorated National Day from 2 August to 6 August this year. The National 
 
 <p align="center">Commemoration ‘live’ from the school hall.</p>
 
+<table>
+	<tr>
+		<td width="50%">
+<img src="/images/25.jpg"/>
+		</td>
+		<td width="50%">  
+<img src="/images/26.jpg"/>
+		</td>
+	</tr>
+</table>
 
-  
-![](/images/26.jpg)
-  
-  
-  
-  
-  
-  
-
-Staff and students immersed in the ‘Together Our Singapore Spirit!’
+<p align="center">Staff and students immersed in the ‘Together Our Singapore Spirit!’ </p>
   
 ![](/images/27.jpg)
 
-Students wrote Gratitude Notes to those who protect our country.
+<p align="center">Students wrote Gratitude Notes to those who protect our country.</p>
 
   
 
-[](http://www.nhb.gov.sg/)
 
-Useful Links
+<u>Useful Links</u>
 
 **Ministry of Education**
 
