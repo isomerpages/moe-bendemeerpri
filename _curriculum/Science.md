@@ -5,9 +5,7 @@ description: ""
 ---
 ### SCIENCE
 
-![1.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Science/1.jpg)  
-
-  
+![](/images/1%20(10).jpg)
 
 Bendemeer Primary School follows the Science Curriculum Framework that guides all schools in the design and enactment of the school-based science curriculum.
 
@@ -15,13 +13,11 @@ Through the inculcation of the spirit of science inquiry, the department envisio
 
 In Bendemeer Primary School, the science curriculum is planned based on the three aspects shown below (content, pedagogy and assessment), with each aspect linked to the others in a two-way manner.
 
-  
-
-![2.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Science/2.jpg)  
+![](/images/2%20(11).jpg)
 
 **Pedagogical Approach**
 
-![3.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Science/3.jpg)
+![](/images/3%20(8).jpg)
 
 In delivering the science curriculum, the department leverages on the pedagogy of “Science Play, Science Talk”. As shown above, this pedagogical approach is founded on the five elements of Science as Inquiry, highlighted in the Science Curriculum Framework.
 
@@ -35,13 +31,7 @@ By adopting student–centric approach in our curriculum, pedagogy and assessmen
 
 The school has two science laboratories that are fully equipped with apparatus and resources to facilitate the teaching and learning of Science. Science practical lessons are conducted in the two laboratories. To allow students to learn beyond the walls of the classroom, our school has a Science Garden and Science pond so that outdoor lessons can be planned for the students.
 
-  
-
-**
-
 **Useful Links**
-
-**
 
 How Stuff Works - [http://www.howstuffworks.com](http://www.howstuffworks.com/)
 
