@@ -29,9 +29,7 @@ Capturing the art processes as the school leverages E-pedagogy in Art lessons.
 
   
 
-**CCA Modular Programmes (Visual Art and Performing Arts)**
-
-  
+#### CCA Modular Programmes (Visual Art and Performing Arts)
 
 | Level |  Visual Art |  Programming Arts |
 | --- | --- | --- |
@@ -53,7 +51,7 @@ Building students’ confidence through Mosaic Art.
 
 
 
-**_Think Safe, Act Safe through Art_** **Programme**
+##### _Think Safe, Act Safe through Art_ Programme
 
 As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
 
@@ -71,7 +69,7 @@ As part of the school’s effort in instilling greater awareness in students on 
 				P1
 		</td>
 		<td rowspan="2">
-			Safety Motto: Think Safe, Act Safe
+			Safety Motto: <br>Think Safe, Act Safe
 		</td>
 	</tr>
 	<tr>
@@ -113,16 +111,8 @@ As part of the school’s effort in instilling greater awareness in students on 
 	</tr>
 </table>
 	
-			
-		
-  
-  
-  
-  
 
-
-
-**_Outreach Programme_**
+##### _Outreach Programme_
 
 Working on the community approach, the school
 
@@ -136,6 +126,11 @@ levels of students designed and created mementos for
 
 the non-teaching staff and the canteen vendors.  
 
+| Level | Theme |
+| --- | --- |
+| P1 and P2 | Deepavali | 
+| P3 and P4 | Hari Raya |
+| P5 and P6 | Chinese New Year |
   
 ![6.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Aesthetics/6.jpg)
 
