@@ -50,7 +50,7 @@ During these leadership sessions, NE Champs are informed on the roles and respon
 <p align="center">NE Champs enriching themselves at another leadership session where they had to brainstorm for the upcoming NE events in school. </p>
 
   
-
+	
 ![5.jpg](/images/5%20(5).jpg)
 
 <p align="center">Proud NE Champs with their “Lion Head” badges as a reward for their participation in the leadership sessions. </p>
@@ -76,7 +76,7 @@ The 4 events are: <br>
 4.     National Day <br>
   
 
-##### Total Defence Day Commemoration (TDD) 2022 @BPS
+##### <u>Total Defence Day Commemoration (TDD) 2022 @BPS</u>
   
 ![tdd.jpg](/images/tdd.jpg)
 
@@ -87,9 +87,11 @@ As we celebrate 55 years of National Service in 2022, the students were exposed 
   
 SLS Activity where the students show their appreciation to the NSmen in their families by writing a ‘Thank you’ message for them.   
 
+<table>
+	<tr>
+		<td width="25%">
 <img src="/images/8%20(3).jpg"
-		 align="left"
-		 style="width:33%"/>
+		 align="left">
 		 
  <img src="/images/10%20(3).jpg"
 		 align="right"
