@@ -101,89 +101,74 @@ SLS Activity where the students show their appreciation to the NSmen in their fa
 	</tr>
 </table>
   
+	
+	
 P6 students created SG Unite! Card designs on possible crisis situations.  
-![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/11.jpg)![12.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/12.jpg)  
+<table>
+	<tr>
+		<td>
+<img src="/images/11%20(3).jpg"/>
+		</td>
+		<td>
+<img src="/images/12%20(1).jpg"/>
+		</td>
+	</tr>
+</table>
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Recess exhibition where students learnt more about the uniformed groups in Singapore and their roles in defending the country.  
-![13.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/13.jpg)![14.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/14.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![15.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/15.jpg)                                                                    P6 students playing with SG Unite! cards.
 
-**International Friendship Day (IFD) 2022 @ BPS**
+Recess exhibition where students learnt more about the uniformed groups in Singapore and their roles in defending the country.  
+<table>
+	<tr>
+		<td width="50%">
+<img src="/images/13%20(2).jpg"/>
+		</td>
+		<td width="50%">
+<img src="/images/14%20(1).jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/images/15.jpg"/>
+			<p align="center">P6 students playing with SG Unite! cards.</p>
+		</td>
+	</tr>
+</table>
+  
+##### <u>International Friendship Day (IFD) 2022 @ BPS</u>
 
 The theme for International Friendship Day (IFD) this year was, “Singapore in Asia”. International cooperation remains key in our complex world. Asia is the world's fastest-growing region, and Singapore continues to facilitate closer economic, political, social, and cultural cooperation within ASEAN and in Asia. By recognizing the importance of connectedness between our neighbouring countries, our youth can play an active role in fostering people-to-people ties, and thus celebrate the region's diversity and vibrancy and promote the spirit of friendship and collaboration. In addition, our older students can deepen their understanding of Singapore's realities as a small state and appreciate how we can safeguard our national interest and have much to contribute to efforts at international cooperation.
 
 The students had a rich lesson on why Singapore needs to maintain friendship with her neighbours. The lessons were expanded to include the world issues like the war between Russia and Ukraine. The importance of having strong friendly bonds with the countries around was explored. As April is the month of Earth movements and initiatives, students embarked in, “Upcycling for Friendship” where they upcycled tetra packs and old cloth stripes to create bookmarks for their friends.
 
    
+![](/images/16.jpg)
 
-![16.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/16.jpg)
+<p align="center">First presentation by students to the school cohort on International Friendship Day. </p>
 
-First presentation by students to the school cohort on International Friendship Day.
+![](/images/17.jpg)
 
-![17.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/17.jpg)
+<p align="center">Teacher giving instructions on how to upcycle the tetra packs into bookmarks at the Innovation Lab. </p>  
 
-Teacher giving instructions on how to upcycle the tetra packs into bookmarks at the Innovation Lab.
+![](/images/18.jpg)
 
-  
+<p align="center">Friends exchanging friendship bookmarks! </p>
 
-![18.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/18.jpg)
+![](/images/19.jpg)
 
-Friends exchanging friendship bookmarks!
-
-  
-
-![19.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/19.jpg)
-
-A proud student with her upcycled bookmark.
+<p align="center">A proud student with her upcycled bookmark.</p>
 
   
 
   
 
-**Racial Harmony Day (RHD) 2021 @ BPS**
+##### <u>Racial Harmony Day (RHD) 2021 @ BPS</u>
 
-We commemorated RHD on common spaces shared by the different communities in Singapore. Students were given a range of learning opportunities. They learnt more about different spaces/areas in Singapore where its history was related to a certain culture. Students intentionally identified and articulated their gratitude to the multiculturalism in Singapore_.  
-_  
-![20.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/20.jpg)
+We commemorated RHD on common spaces shared by the different communities in Singapore. Students were given a range of learning opportunities. They learnt more about different spaces/areas in Singapore where its history was related to a certain culture. Students intentionally identified and articulated their gratitude to the multiculturalism in Singapore.
 
-Students designed their own Ethnic Singa !
+![](/images/20.jpg)
+
+<p align="center">Students designed their own Ethnic Singa ! </p>
 
   
 
