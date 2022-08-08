@@ -89,17 +89,17 @@ SLS Activity where the students show their appreciation to the NSmen in their fa
 
 <table>
 	<tr>
-		<td width="25%">
-<img src="/images/8%20(3).jpg"
-		 align="left">
-		 
- <img src="/images/10%20(3).jpg"
-		 align="right"
-		 style="width:33%"/>
-		 
-<img src="/images/9%20(3).jpg"
-		 align="center"
-		 style="width:33%"/>
+		<td width="33%">
+<img src="/images/8%20(3).jpg"/>
+		</td>
+		<td width="33%">
+			<img src="/images/10%20(3).jpg"/>		 
+		</td>
+		<td width="33%">
+<img src="/images/9%20(3).jpg"/>
+		</td>
+	</tr>
+</table>
   
 P6 students created SG Unite! Card designs on possible crisis situations.  
 ![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/11.jpg)![12.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/12.jpg)  
