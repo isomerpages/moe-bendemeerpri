@@ -61,26 +61,59 @@ As part of the school’s effort in instilling greater awareness in students on 
 	<th>
 		<td>
 			Level
-	</td>
-	<td>
-		Theme
-	</td>
-	</th>
+		</td>
+		<td>
+			Theme
+		</td>
+		</th>
+		<tr>
+			<td>
+				P1
+		</td>
+		<td rowspan="2">
+			Safety Motto: Think Safe, Act Safe
+		</td>
+	</tr>
 	<tr>
 		<td>
-			P1
-	</td>
-	<td rowspan="2">
-		Safety Motto: Think Safe, Act Safe
-	</td>
-</tr>
-<tr>
-	<td>
-		P2 
-	</td>
-</tr>
-<tr>
+				P2 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			P3
+		</td>
+		<td>
+			Health Matters
+		</td>
+	</tr>
+	<tr>
+		<td>
+			P4 
+		</td>
+		<td>
+			Road Safety
+		</td>
+	</tr>
+	<tr>
+		<td>
+			P5
+		</td>
+		<td>
+			Weather & Environment 
+		</td>
+	</tr>
+	<tr> 
+		<td>
+			P6
+		</td>
+		<td>
+			Vigilance (Cyber Wellness)
+		</td>
+	</tr>
+</table>
 	
+			
 		
   
   
