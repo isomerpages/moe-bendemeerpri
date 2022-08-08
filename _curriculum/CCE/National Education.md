@@ -224,18 +224,14 @@ BPS commemorated National Day from 2 August to 6 August this year. The National 
 
 <u>Useful Links</u>
 
-**Ministry of Education**
-
+**Ministry of Education** <br>
  [http://www.moe.gov.sg](http://www.moe.gov.sg/)
 
-**Total Defence Day**
-
+**Total Defence Day** <br>
 [http://www.totaldefence.sg/](http://www.totaldefence.sg/)
 
-**National Archives of Singapore**
+**National Archives of Singapore** <br>
+[http://www.nas.gov.sg/nas/](http://www.nas.gov.sg/nas/) < broken link > 
 
-[http://www.nas.gov.sg/nas/](http://www.nas.gov.sg/nas/)
-
-**National Heritage Board**
-
+**National Heritage Board** <br>
 [http://www.nhb.gov.sg/](http://www.nhb.gov.sg/)
