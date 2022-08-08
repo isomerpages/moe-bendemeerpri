@@ -21,8 +21,6 @@ In Bendemeer Primary School, the science curriculum is planned based on the thre
 
 In delivering the science curriculum, the department leverages on the pedagogy of “Science Play, Science Talk”. As shown above, this pedagogical approach is founded on the five elements of Science as Inquiry, highlighted in the Science Curriculum Framework.
 
-  
-
 ##### Programmes
 
 By adopting student–centric approach in our curriculum, pedagogy and assessment, the department strives to develop in our students the 21st Century competencies. Through the various programmes and activities planned by the department, students are presented with opportunities to use ICT tools as they collaborate and exhibit critical and analytical thinking skills. For example, through the hydroponics programme, students get to work with their classmates to plant and grow their own vegetables through the hydroponics and planting kits provided for them. Environmental activities are organized for students throughout the year in collaboration with the Environment Club and the Applied Learning committee. The students participate in the school’s weekly recycling programme where they would recycle their used papers and plastic bottles. The school also commemorates World Water Day and Earth Day yearly by holding a host of recess activities. To further inculcate their love for their environment, pre-assembly talks are conducted by the Science teachers on a termly basis.  
