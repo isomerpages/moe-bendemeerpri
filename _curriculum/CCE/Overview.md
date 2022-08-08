@@ -54,96 +54,50 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 Bendemeer Primary belongs to all our students. To inculcate a sense of responsibility in keeping their shared environment clean and pleasant, students are involved in various activities at the start and end of each term, such as ‘Groom My Class’ and ‘Use My Hands’ that provide opportunities for students and their form teachers to bond by tidying up their classroom and demonstrating a commitment to this collective effort together. The daily end of day classroom cleaning and canteen cleaning also cultivates a good habit to be disciplined and follow-through in ensuring that the state of their classroom and canteen remains clean after use. While recognising that mistakes can be made, through the Happy Mop programme, students learn to develop the value of Self-Discipline by taking responsibility for the water spilled and taking the initiative to locate the nearest mop to clean up after themselves.
 
 ![](/images/1%20(7).jpg)
-**4\. Be like BEN**  
 
-**Objective** 
+![](/images/2%20(8).jpg)
+
+#### <u>4. Be like BEN</u>
+
+##### Objective
 
 To create an immersive environment whereby students can be reminded of how they could emulate the school mascot, Ben, in exhibiting the school ASPIRE values.
 
-  
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/3%20(6).jpg"/>
+		</td>
+		<td>
+			<img src="/images/4%20(6).jpg"/>
+		</td>
+	</tr>
+</table>
+ 
+ #### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
 
-![3.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Website%20Updates/January/CCE/3.jpg)![4.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Website%20Updates/January/CCE/4.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R<sup>3</sup>ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it. 
 
   
 
-  
+#### <u>6. Sustaining Toilets As Restrooms (STAR)</u>
 
-  
+##### Objective
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-**5\. Enhanced CCE lessons (ECCE) Lower Primary**
-
-As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R3ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it. 
-
-  
-
-**6.** **Sustaining Toilets As Restrooms (STAR)**
-
-**Objective**  
-
-1) To educate our students and all stakeholders of the school in embracing a quality   restroom culture. 
+1) To educate our students and all stakeholders of the school in embracing a quality restroom culture. 
 
 2) To provide opportunity for students to be responsible by practicing proper restroom habits and to be gracious in adopting the restrooms.
 
-  
-
-Activities:
+##### Activities:
 
 Our Primary 4 CCE (EL) students were appointed as P4 star ambassadors (SUSTAINING TOILETS AS RESTROOMS (STAR) and scheduled on a duty roster to carry out daily inspections of the washrooms. Students were briefed and educated by their CCE teacher on the learning objectives of the programme and their roles and responsibilities as star ambassadors. At the end of the programme, our students were educated
 
-(1) on the positive and negative impact their actions have in building a quality restroom culture,
-
-(2) to show care and responsibility to the community by practicing good restroom habits.
-
+(1) on the positive and negative impact their actions have in building a quality restroom culture, <br>
+(2) to show care and responsibility to the community by practicing good restroom habits. <br>
 (3) to improve the lives of people in the school community.
 
 Every day, students would make their rounds to perform the checks. At the end of each assessment, students submitted their inspection checklist to the teacher-in-charge. In the event of immediate severe problems, students reported their findings or any problems to the Teacher-in-charge.
 
-![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Website%20Updates/January/CCE/11.jpg)  
+![](/images/11%20(4).jpg)
 
 We are proud to announce that in 2021, our school has been awarded the Platinum STAR which is awarded to schools for achieving Gold in three consecutive years.
