@@ -58,14 +58,14 @@ Building students’ confidence through Mosaic Art.
 As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
 
 <table>
-	<th>
-		<td>
+	<tr>
+		<th>
 			Level
-		</td>
-		<td>
-			Theme
-		</td>
 		</th>
+		<th>
+			Theme
+		</th>
+		</tr>
 		<tr>
 			<td>
 				P1
