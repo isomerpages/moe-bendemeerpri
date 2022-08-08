@@ -15,7 +15,7 @@ In Bendemeer Primary School, the science curriculum is planned based on the thre
 
 ![](/images/2%20(11).jpg)
 
-**Pedagogical Approach**
+##### Pedagogical Approach
 
 ![](/images/3%20(8).jpg)
 
@@ -23,15 +23,15 @@ In delivering the science curriculum, the department leverages on the pedagogy o
 
   
 
-**Programmes**
+##### Programmes
 
 By adopting student–centric approach in our curriculum, pedagogy and assessment, the department strives to develop in our students the 21st Century competencies. Through the various programmes and activities planned by the department, students are presented with opportunities to use ICT tools as they collaborate and exhibit critical and analytical thinking skills. For example, through the hydroponics programme, students get to work with their classmates to plant and grow their own vegetables through the hydroponics and planting kits provided for them. Environmental activities are organized for students throughout the year in collaboration with the Environment Club and the Applied Learning committee. The students participate in the school’s weekly recycling programme where they would recycle their used papers and plastic bottles. The school also commemorates World Water Day and Earth Day yearly by holding a host of recess activities. To further inculcate their love for their environment, pre-assembly talks are conducted by the Science teachers on a termly basis.  
 
-**Resources**
+##### Resources
 
 The school has two science laboratories that are fully equipped with apparatus and resources to facilitate the teaching and learning of Science. Science practical lessons are conducted in the two laboratories. To allow students to learn beyond the walls of the classroom, our school has a Science Garden and Science pond so that outdoor lessons can be planned for the students.
 
-**Useful Links**
+##### Useful Links
 
 How Stuff Works - [http://www.howstuffworks.com](http://www.howstuffworks.com/)
 
