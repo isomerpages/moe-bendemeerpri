@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Example Aesthetics.md
       - CCE/Overview.md
       - CCE/National Education.md
       - CCE/.keep
