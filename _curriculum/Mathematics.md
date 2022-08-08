@@ -46,17 +46,6 @@ P1 – 6 mathematics curriculum aims to build strong foundation in mathematical 
   
 <img src="/images/2%20(12).jpg"/>
   
-
-###   
-
-###   
-
-###   
-
-###   
-
-###   
-
 ###   
 
 **Learning Programmes that support diverse learners** 
