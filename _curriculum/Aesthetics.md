@@ -57,8 +57,31 @@ Building students’ confidence through Mosaic Art.
 
 As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
 
-  
-  
+<table>
+	<th>
+		<td>
+			Level
+	</td>
+	<td>
+		Theme
+	</td>
+	</th>
+	<tr>
+		<td>
+			P1
+	</td>
+	<td rowspan="2">
+		Safety Motto: Think Safe, Act Safe
+	</td>
+</tr>
+<tr>
+	<td>
+		P2 
+	</td>
+</tr>
+<tr>
+	
+		
   
   
   
