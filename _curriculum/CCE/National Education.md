@@ -171,37 +171,26 @@ We commemorated RHD on common spaces shared by the different communities in Sing
 <p align="center">Students designed their own Ethnic Singa ! </p>
 
   
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/21.jpg"/>
+		</td>
+		<td width="50%">
+			<img src="/images/22.jpg"/>
+		</td>
+	</tr>
+</table>  
 
-![21.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/21.jpg)![22.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/22.jpg)  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-Staff were in ethnic wear too with our own Insta frame!
+<p align="center">Staff were in ethnic wear too with our own Insta frame! </p>
 
   
 
-  
+##### <u>National Day 2021 @ BPS</u>
 
-  
-
-**National Day 2021 @ BPS**
-
-![23.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/23.jpg)  
-
-  
+<img src="/images/23.jpg" 
+		 align="left"
+		 style="height:206px; width:184px"/>
 
   
 
@@ -209,24 +198,13 @@ BPS commemorated National Day from 2 August to 6 August this year. The National 
 
   
 
-  
+<img src="/images/24.jpg"/>
 
-![24.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/24.jpg)
+<p align="center">Commemoration ‘live’ from the school hall.</p>
 
-Commemoration ‘live’ from the school hall.
 
   
-  
-![25.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/25.jpg)![26.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/26.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![](/images/26.jpg)
   
   
   
@@ -235,12 +213,8 @@ Commemoration ‘live’ from the school hall.
   
 
 Staff and students immersed in the ‘Together Our Singapore Spirit!’
-
   
-
-  
-
-![27.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/NE/27.jpg)
+![](/images/27.jpg)
 
 Students wrote Gratitude Notes to those who protect our country.
 
