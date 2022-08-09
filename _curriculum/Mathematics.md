@@ -75,15 +75,24 @@ P3 – 6 Math Board Games <br>
 P4 – 6 Math Olympiad Programme <br>
 P4 – 6 Math Competitions
 
-![](/images/4%20(9).jpg)
+<table>
+	<tr>
+		<td>
+			<img src="/images/3%20(9).jpg"/>
+		</td>
+		<td>
+			<img src="/images/4%20(9).jpg"/>
+		</td>
+	</tr>
+</table>
 
   
 
-**_Useful Links_**  
+#### <u><em>Useful Links</em></u>
 
-[](https://www.mathplayground.com/)[https://www.mathplayground.com/](https://www.mathplayground.com/)  
-[](https://www.mathsisfun.com/)[https://www.mathsisfun.com](https://www.mathsisfun.com/)  
-[](https://toytheater.com/)[https://toytheater.com/](https://toytheater.com/)  
-[](https://www.hoodamath.com/)[https://www.hoodamath.com/](https://www.hoodamath.com/)  
-[](https://mathigon.org/polypad)[https://mathigon.org/polypad](https://mathigon.org/polypad)  
-[](https://www.mathlearningcenter.org/apps)[https://www.mathlearningcenter.org/apps](https://www.mathlearningcenter.org/apps)
+[https://www.mathplayground.com/](https://www.mathplayground.com/)  
+[https://www.mathsisfun.com](https://www.mathsisfun.com/)  
+[https://toytheater.com/](https://toytheater.com/)  
+[https://www.hoodamath.com/](https://www.hoodamath.com/)  
+[https://mathigon.org/polypad](https://mathigon.org/polypad)  
+[https://www.mathlearningcenter.org/apps](https://www.mathlearningcenter.org/apps)
