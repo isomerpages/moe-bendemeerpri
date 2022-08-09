@@ -3,20 +3,18 @@ title: Overview
 permalink: /curriculum/overview
 description: ""
 ---
-
-
 ### CURRICULUM
 
 <table width="100%">
 	<tbody><tr>
 		<td width="25%">
-			<a href="">
+			<a href="/curriculum/english">
 				<img src="/images/DSC00220.jpg">
 				<p align="center"> English </p>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="">
+			<a href="/curriculum/Mother-Tongue/overview">
 				<img src="/images/DSC00304.jpg">
 				<p align="center"> Mother Tongue </p>
 			</a>
