@@ -16,10 +16,10 @@ The Chinese New Year celebrations is one of the festive occasions that students 
 
 <table>
 	<tr>
-		<td>
+		<td width="50%">
 			<img src="/images/1%20(16).jpg"/>
 		</td>
-		<td>
+		<td width="50%">
 			<img src="/images/2%20(18).jpg"/>
 		</td>
 	</tr>
