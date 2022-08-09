@@ -26,7 +26,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="">
+			<a href="/curriculum/science">
 				<img src="/images/DSC00567.jpg">
 				<p align="center"> Science </p>
 			</a>
@@ -34,19 +34,19 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<a href="">
+			<a href="/curriculum/aesthetics">
 				<img src="/images/DSC00693.jpg">
 				<p align="center"> Aesthetics </p>
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="/curriculum/CCE/overview">
 				<img src="/images/DSB09868.jpg">
 				<p align="center"> Character and Citizenship Education </p>
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="/curriculum/School-Library/overview">
 				<img src="/images/DSC00372.jpg">
 				<p align="center"> School Library </p>
 			</a>
