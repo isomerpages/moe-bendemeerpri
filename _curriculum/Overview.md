@@ -52,7 +52,7 @@ description: ""
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="/curriculum/pupil-management/overview">
 				<img src="/images/DSC00299.jpg">
 				<p align="center"> Pupil Management </p>
 			</a>
@@ -60,13 +60,13 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<a href="">
+			<a href="/curriculum/physical-education">
 				<img src="/images/DSC00541.jpg">
 				<p align="center"> Physical Education </p>
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="/curriculum/ict/overview">
 				<img src="/images/DSC09565.jpg">
 				<p align="center"> Information Communication Technology (ICT) </p>
 			</a>
