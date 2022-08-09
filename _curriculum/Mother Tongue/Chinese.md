@@ -33,44 +33,28 @@ The Chinese New Year celebrations is one of the festive occasions that students 
 	</tr>
 </table>
 
-**Mother Tongue Language (MTL) Fortnight**  
+#### Mother Tongue Language (MTL) Fortnight
 
 Mother Tongue Language Fortnight is a key annual event to provide an engaging environment for the learning of Mother Tongue Languages (MTL). 
 
-**Key Highlights of MTL Fortnight:**
+##### Key Highlights of MTL Fortnight:
 
-MTL Fortnight Activities and Competition
+<u>MTL Fortnight Activities and Competition</u>
 
 A variety of activities are organised to encourage pupils to actively use MTL and appreciate its culture. Pupils also participate in various MTL competitions such as storytelling, choral recitation, singing, penmanship and creative writing competition.
 
-![5.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Chinese/5.jpg)![6.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Chinese/6.jpg)  
+<table>
+	<tr>
+		<td>
+			<img src="/images/5%20(10).jpg"/>
+		</td>
+		<td>
+			<img src="/images/6%20(9).jpg"/>
+		</td>
+	</tr>
+</table>
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 Cultural Appreciation Activities
 
 Cultural activities allow pupils to experience their culture through hand-on activities. Different levels were exposed to different cultural activities such as Chinese brush painting, bean art and paper puppet .
