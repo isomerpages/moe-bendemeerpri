@@ -66,13 +66,30 @@ Reading Stars: Selected Primary 1 and Primary 2 students are provided with addit
 
 A spiral progression of skills is key to systematic teaching and learning of writing. Building on the principles of the Modified Language Experience Approach (MLEA) at the Lower Primary, the Writing Process Cycle (WPC) continues to provide pupils with guidance in planning, writing and reviewing their work at the Middle and Upper Primary levels. Students practise writing on their free writing journals and tailored Writing Packages. In addition, Bendemeer Otter Times is the school’s annual publication that showcases good English compositions by our very own budding writers. In each issue, readers follow Ben, the school mascot, on an adventure to get inspiration and tips for good writing. In the process, our students are also inspired to adopt a Growth Mindset, taking concrete steps to improve their writing. 
 
+<table>
+	<tr>
+		<td>
+			<img src="/images/7%20(6).jpg"/>
+		</td>
+		<td>
+			<img src="/images/8%20(4).jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/9%20(4).jpg"/>
+		</td>
+		<td>
+			<img src="/images/10%20(4).jpg"/>
+		</td>
+	</tr>
+</table>
 
-
-Writing is so much fun in Bendemeer!
+<p align="center">Writing is so much fun in Bendemeer!</p>
 
   
 
-**Bendemeer OTTER Times**
+##### Bendemeer OTTER Times
 
 The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read the publication.
 
