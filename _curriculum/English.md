@@ -91,38 +91,26 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 
 ##### Bendemeer OTTER Times
 
-The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read the publication.
+The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) < file above 5MB> to read the publication.
+![Otter Times 2021_1.jpg](/images/Otter%20Times%202021_1.jpg)
 
-**![Otter Times 2021_1.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/Otter%20Times%202021_1.jpg)**
+Issue 1: Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) < file above 5MB > to read!
 
-**
+![Otter Times Nov 2021.jpg](/images/Otter%20Times%20Nov%202021.jpg)
+Issue 2: Click [here](/files/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf) to read!  
 
-**
-
-Issue 1: Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read!
-
-**
-
-**
-
-**![Otter Times Nov 2021.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/Otter%20Times%20Nov%202021.jpg)**
-
-Issue 2: Click [here](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf) to read!  
-
-**Oracy**  
+##### Oracy
 
 The objectives of the Bendemeer Oracy Programme are to build confident and competent communicators who 1) understand the key features of spoken language; and 2) can craft presentations using a variety of skills and strategies, according to the purpose, audience, context and culture.
 
-| ![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/EL/11.jpg)  
- | ![12.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/EL/12.jpg)  
- |
+| ![](/images/11%20(5).jpg)  |![](/images/12%20(2).jpg) |
 | --- | --- |
 
-Learning oracy through fun and authentic ways!
+<p align="center"> Leaning oracy through fun and authentic ways! </p>
 
   
 
-**A Vibrant English Environment**
+##### A Vibrant English Environment
 
 English Week
 
@@ -140,52 +128,38 @@ Speak Good English at BPS
 
 The school’s very own Good English speaking mascot- Grammar Grandma makes her appearance once a term to remind students on the importance of speaking well. In addition to her highly entertaining yet educational talks there are quizzes for both staff and students on the right way to speak English!
 
-![13.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/EL/13.jpg)
+![](/images/13%20(3).jpg)
 
 Our students’ very own reader’s theatre performance with their handmade character masks.
 
   
 
-**Useful Links**  
+#### Useful Links
 
-**Good for online stories and games**
-
-[https://www.storylineonline.net/](https://www.storylineonline.net/)
-
-[https://www.abcya.com/](https://www.abcya.com/)
-
-[http://www.bbc.co.uk/cbeebies/](http://www.bbc.co.uk/cbeebies/%C2%A0%C2%A0)  
-
+**Good for online stories and games** <br>
+[https://www.storylineonline.net/](https://www.storylineonline.net/) <br>
+[https://www.abcya.com/](https://www.abcya.com/) <br>
+[http://www.bbc.co.uk/cbeebies/](http://www.bbc.co.uk/cbeebies/%C2%A0%C2%A0)   <br>
 [http://www.roythezebra.com/](http://www.roythezebra.com/)
 
-**Good for downloading poems and teaching poetry**
-
+**Good for downloading poems and teaching poetry** <br>
 [http://www.poetry4kids.com](http://www.poetry4kids.com/)
 
-**Good for downloading Children's Songs**
-
+**Good for downloading Children's Songs** <br>
 [http://www.songsforteaching.com/animalsongs.htm](http://www.songsforteaching.com/animalsongs.htm) 
 
-**Good for teaching reading through phonics**
-
+**Good for teaching reading through phonics** <br>
 [http://www.starfall.com](http://www.starfall.com/)
 
-**Reference Resources**
+#### Reference Resources
 
-**Dictionaries**
-
+**Dictionaries** <br>
 [http://dictionary.reference.com/](http://dictionary.reference.com/) (Good pronunciation feature)
 
-**Good for advice on Teaching English and Reading**
-
-[http://www.rif.org/](http://www.rif.org/)
-
-[http://www.teachingenglish.org.uk/](http://www.teachingenglish.org.uk/)
-
+**Good for advice on Teaching English and Reading** <br>
+[http://www.rif.org/](http://www.rif.org/) <br>
+[http://www.teachingenglish.org.uk/](http://www.teachingenglish.org.uk/) <br>
 [http://www.pbs.org/launchingreaders/](http://www.pbs.org/launchingreaders/)
 
-**NLB online catalogue**
-
-[](http://www.nlb.gov.sg/)
-
+**NLB online catalogue** <br>
 [http://www.nlb.gov.sg/](http://www.nlb.gov.sg/)
