@@ -43,8 +43,30 @@ links:
       - title: Our Partners
         url: /our-people/our-partners/overview
   - title: Curriculum
-    url: /Curriculum
-    sublinks: []
+    url: /curriculum/overview
+    sublinks:
+      - title: English
+        url: /curriculum/english
+      - title: Mother Tongue
+        url: /curriculum/Mother-Tongue/overview
+      - title: Mathematics
+        url: /curriculum/mathematics
+      - title: Science
+        url: /curriculum/science
+      - title: Aesthetics
+        url: /curriculum/aesthetics
+      - title: CCE
+        url: /curriculum/CCE/overview
+      - title: Health Education
+        url: /curriculum/health-education
+      - title: ICT
+        url: /curriculum/ict/overview
+      - title: Pupil Management
+        url: /curriculum/pupil-management/overview
+      - title: Physical Education
+        url: /curriculum/physical-education
+      - title: School Library
+        url: /curriculum/School-Library/overview
   - title: Co-Curriculum
     url: /co-curriculum/ALP
     sublinks:
