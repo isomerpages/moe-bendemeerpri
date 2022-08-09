@@ -27,40 +27,11 @@ Earth Day + World Water Day 2022  <br>
 Our CCA members being environmental ambassadors!   
 
   
+![](/images/WhatsApp%20Image%202022-03-25%20at%2010-23-36%20AM.jpeg)
 
-![WhatsApp Image 2022-03-25 at 10.23.36 AM.jpeg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Environment/WhatsApp%20Image%202022-03-25%20at%2010.23.36%20AM.jpeg)
+<p align="center">Created PowerPoint Slides for assembly and presented it to the whole school</p>
 
-Created PowerPoint Slides for assembly and presented it to the whole school
-
-  
-
-![WhatsApp Image 2022-03-30 at 11.04.15 AM 1.jpeg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Environment/WhatsApp%20Image%202022-03-30%20at%2011.04.15%20AM%201.jpeg)
-
-![WhatsApp Image 2022-04-11 at 11.18.54 AM.jpeg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/Environment/WhatsApp%20Image%202022-04-11%20at%2011.18.54%20AM.jpeg)  
-  
-
-[](https://www.pub.gov.sg/)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="/images/WhatsApp%20Image%202022-03-30%20at%2011-04-15%20AM%201.jpeg" align="left" style="width:50%"/>
+<img src="/images/WhatsApp%20Image%202022-04-11%20at%2011-18-54%20AM.jpeg" align="right" style="width:50%"/> 
 
 Taught their fellow Primary 2 schoolmates about design thinking and how to upcycle magazines into mini trash bins
