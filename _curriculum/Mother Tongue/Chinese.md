@@ -55,31 +55,31 @@ A variety of activities are organised to encourage pupils to actively use MTL an
 </table>
 
   
-Cultural Appreciation Activities
+<u>Cultural Appreciation Activities</u>
 
 Cultural activities allow pupils to experience their culture through hand-on activities. Different levels were exposed to different cultural activities such as Chinese brush painting, bean art and paper puppet .
 
-**MTL Cultural Camp**
+#### MTL Cultural Camp
 
 Mother Tongue Language Cultural Camp is an annual key programme for our P3 pupils. It creates an exciting environment for pupils to learn and appreciate Mother Tongue Language (MTL) and its culture.
 
   
 
-**Conversational Chinese Programme**
+#### Conversational Chinese Programme
 
 Conversational Chinese Programme is organised to expose our P3 and P4 non-Chinese pupils to Chinese Language and its culture. By exposing our pupils to different Mother Tongue languages, we hope to emphasise the importance of racial harmony to our pupils.
 
    
 
-**Reading Programme**
+#### Reading Programme
 
 The Reading Programme aims to instil a love for reading through structured curriculum reading periods, silent reading every Wednesday morning, coupled with other school-based reading activities such as buddy reading and reading mums. 
 
-**Useful Links**
+#### Useful Links
 
 早报校园 Zao Bao Schools - [https://www.zbschools.sg/](https://www.zbschools.sg/)  
 
-早报Zao Bao - [http://www.zaobao.com/](http://www.zaobao.com/)   
+早报Zao Bao - [http://www.zaobao.com/](http://www.zaobao.com/)__
 
 MTL Symposium 2021 - [https://www.mtls.edu.sg/sharing-sessions/%E5%8D%8E%E6%96%87%E8%A7%86%E9%A2%91/](https://www.mtls.edu.sg/sharing-sessions/%E5%8D%8E%E6%96%87%E8%A7%86%E9%A2%91/)  
 
