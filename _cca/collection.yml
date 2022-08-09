@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - overview.md
+      - modular.md
       - Niche/.keep
       - Niche/Overview.md
-      - modular.md
