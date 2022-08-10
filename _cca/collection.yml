@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - overview.md
+      - Overview.md
       - Modular CCAs.md
       - Niche CCAs/.keep
       - Niche CCAs/Overview.md
