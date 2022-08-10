@@ -16,7 +16,6 @@ Ms Edna Teo (coach)
 
 #### CCA Schedule  
 
-
 | Day | Time | 
 | --- | --- |
 | Tuesday | 7.30am - 9am | 
@@ -38,10 +37,12 @@ Source: [https://en.wikipedia.org/wiki/Skipping_rope](https://en.wikipedia.org/
 2.  To instill sportsmanship and fair play among pupils.
 
 #### Achievements
+
 **National Junior Rope skipping Championship 2019**  <br>
 Junior Boys – Top 8 (5th position) for Double Dutch
 
 #### Photos/Gallery
+
 ![](/images/1%20(22).jpg)
 ![](/images/2%20(22).jpg)
 ![](/images/3%20(19).jpg)
