@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - modular.md
+      - Modular.md
       - Niche/.keep
       - Niche/Overview.md
       - Niche/Concert Band.md
