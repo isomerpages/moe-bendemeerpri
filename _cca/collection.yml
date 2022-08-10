@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - Modular.md
+      - Modular CCAs.md
       - Niche CCAs/.keep
       - Niche CCAs/Overview.md
       - Niche CCAs/Concert Band.md
