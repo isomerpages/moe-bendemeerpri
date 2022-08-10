@@ -35,7 +35,7 @@ The Indian Dance Club was formed in 2007 with a small group of P2 pupils. Curren
 *   2018 SYF Arts Presentation  - Certificate of Distinction
 *   2016 SYF Arts Presentation  - Certificate of Accomplishment
 
-#### Public Performances
+#### [Public Performances](/cca/Niche/indian-dance/public-performances)
 
 *   Mother Tongue Language Symposium 2019 - Opening Ceremony 
 
