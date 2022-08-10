@@ -4,7 +4,7 @@ permalink: /cca/Niche/chinese-dance
 description: ""
 third_nav_title: Niche
 ---
-![](/images/SYF%202020%20Rehearsal%202.jpeg)![](/images/SYF%202020%20Rehearsal%203.jpeg)![](/images/SYF%202020%20Rehearsal%204.jpeg)### CHINESE DANCE
+### CHINESE DANCE
 
 #### Teachers in charge
 
@@ -47,3 +47,6 @@ Chinese Dance members perform during school events such as Chinese New Year, Nat
 #### Photos/Gallery
 
 ![](/images/SYF%202020%20Rehearsal%201.jpeg)
+![](/images/SYF%202020%20Rehearsal%202.jpeg)
+![](/images/SYF%202020%20Rehearsal%203.jpeg)
+![](/images/SYF%202020%20Rehearsal%204.jpeg)
