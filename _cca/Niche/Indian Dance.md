@@ -37,24 +37,22 @@ The Indian Dance Club was formed in 2007 with a small group of P2 pupils. Curren
 
 #### Public Performances
 
-*   Mother Tongue Language Symposium 2019 - Opening Ceremony
+*   Mother Tongue Language Symposium 2019 - Opening Ceremony 
 
 Our Indian Dancer's performance at the MTLS Opening Ceremony on 24 August 2019
 
   
 
-FB post of Minister for Education, Mr Ong Ye Kung:
-
+FB post of Minister for Education, Mr Ong Ye Kung: <br>
 [https://www.facebook.com/916503765030893/posts/2836969756317608/](https://www.facebook.com/916503765030893/posts/2836969756317608/)  
   
 Newpaper article published in Tamil Murasu on 25 August 2019  
   
 ![Tamil Newspaper - Indian Dance Performance @ Suntec City.bmp](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/Tamil%20Newspaper%20-%20Indian%20Dance%20Performance%20@%20Suntec%20City.bmp)  
-  
+< image exceeds 5MB >
   
   
 
-Photos/Gallery
---------------
+#### Photos/Gallery
 
-![1.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/2019/Co-curriculumn/CCA/Niche%20CCAs/indian%20dance/1.jpg)
+![](/images/1%20(23).jpg)
