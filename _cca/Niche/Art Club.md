@@ -23,8 +23,6 @@ Mdm Sheila Chow
 Every Wednesday <br>
 2pm - 4pm
 
-  
-
 ### Highlights of our Creative Exposure Activities
 
 
@@ -43,66 +41,21 @@ Every Wednesday <br>
 
 <h5 align="center">Art  Club members in action..</h5>
 
-![1.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/art%20club/1.jpg)
+![](/images/1%20(19).jpg)
 
-Outdoor drawing
+<p align="center">Outdoor drawing</p>
 
-  
+![](/images/2%20(20).jpg)
 
-![2.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/art%20club/2.jpg)
+<p align="center">Exploring with mixed media</p>
 
-Exploring with mixed media
+| ![](/images/3%20(17).jpg) | ![](/images/4%20(14).jpg) | 
+| --- | --- |
 
-![3.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/art%20club/3.jpg)
+![](/images/5%20(12).jpg)
 
-![4.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/art%20club/4.jpg)
+<p align="center">Dotted painting</p>  
 
-  
+![](/images/6%20(10).jpg)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![5.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/art%20club/5.jpg)Dotted painting
-
-  
-
-![6.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/art%20club/6.jpg)Still life drawing
+<p align="center">Still life drawing</p>
