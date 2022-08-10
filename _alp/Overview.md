@@ -91,5 +91,5 @@ In addition, our students’ learning experience has been enhanced by integrati
 ![](/images/4%20(19).jpg)
 
 **<u>Staff development</u>**  
-A school-wide design thinking training for all P5 teachers on design thinking protocols is carried out to equip them with the necessary skills and knowledge to facilitate the conduct of P5 ALP lessons.  
+A school-wide design thinking training for all P5 teachers on design thinking protocols is carried out to equip them with the necessary skills and knowledge to facilitate the conduct of P5 ALP lessons.  <br>
 E2SL committee members go for learning journeys to schools with ALP and Maker Education to learn from their best practices.
