@@ -4,6 +4,8 @@ collections:
     order:
       - overview.md
       - modular.md
+      - Niche/.keep
+      - Niche/Overview.md
       - Niche/Concert Band.md
       - Niche/Chinese Dance.md
       - Niche/Malay Dance.md
@@ -15,5 +17,3 @@ collections:
       - Niche/Track and Field.md
       - Niche/Art Club.md
       - Niche/Environmental Science Club.md
-      - Niche/.keep
-      - Niche/Overview.md
