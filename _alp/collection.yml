@@ -2,5 +2,6 @@ collections:
   alp:
     output: true
     order:
+      - Primary 1 & 2.md
       - Primary 3 & 4.md
       - Innovation Day 2022.md
