@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/1%20(29).jpg)
 
-### Value Proposition
+**Value Proposition**
 
 Develop future-ready students  <br>
 Nurture a gracious community of students  <br>
@@ -73,10 +73,10 @@ In line with our school’s mission: ‘Nurturing and inspiring students to love
 
 ![](/images/10%20(5).jpg)
 
-**IFD collaboration between E2SL committee and SS unit where students created an upcycled bookmark for their friends in the Maker’s Innovation Lab during recess**
+<p align="center"><b>IFD collaboration between E2SL committee and SS unit where students created an upcycled bookmark for their friends in the Maker’s Innovation Lab during recess</b></p>
 
-**![11.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/ALP/11.jpg)![12.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2022%20Matters/Website%20Updates%202022/April%202022/ALP/12.jpg)  
-**
+| ![](/images/11%20(6).jpg) | ![](/images/12%20(3).jpg) |
+| --- | --- |
 
 **P5 ALP Programme 2022:**
 
@@ -86,11 +86,10 @@ Early this year in term 1, they have undergone a cohort level Design Thinking tr
 
 In addition, our students’ learning experience has been enhanced by integrating microbit programming into their prototype. This has enabled every group of students to have at least 1 sustainable feature using a microbit sensor. Our students have gone through an enriching learning journey that has given them many opportunities to exercise the transfer of learning seamlessly from their design-thinking workshop to their microbit programming into their ALP project on building a sustainable home using recyclables(as part of the Makers Education).
 
-  
+![](/images/3%20(25).jpg)
 
-### ![3.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Website%20Updates/May/ALP/3.jpg)
+![](/images/4%20(19).jpg)
 
-### ![4.jpg](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Website%20Updates/May/ALP/4.jpg)  
-**Staff development**  
+**<u>Staff development</u>**  
 A school-wide design thinking training for all P5 teachers on design thinking protocols is carried out to equip them with the necessary skills and knowledge to facilitate the conduct of P5 ALP lessons.  
 E2SL committee members go for learning journeys to schools with ALP and Maker Education to learn from their best practices.
