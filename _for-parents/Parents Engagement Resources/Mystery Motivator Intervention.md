@@ -4,8 +4,8 @@ permalink: /our-people/for-parents/Parents-Engagement-Resources/mlu/mmi
 description: ""
 third_nav_title: Parents Engagement Resources
 ---
-  ### MYSTERY MOTIVATOR INTERVENTION
-	
+### MYSTERY MOTIVATOR INTERVENTION
+
 Dear Parents,  
   
 Please watch the video to learn more about Mystery Motivator Intervention.  
