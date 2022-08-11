@@ -4,13 +4,15 @@ permalink: /about-us/principal-message
 description: ""
 image: ""
 ---
-
-
 ### PRINCIPAL'S MESSAGE
 
 **Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2022**
 
-![Mrs Tan.jpg](/images/Mrs%20Tan.jpg)Warmest greetings to all! Welcome back to a brand new year.
+<img src="/images/Mrs%20Tan.jpg"
+		 style="width:35%"
+		 align="left"/>
+
+Warmest greetings to all! Welcome back to a brand new year.
 
 This year’s focus is ‘Know me. Affirm me. Nurture me.’ Through this, we hope to understand the unique profile of each student better and cater more effectively to their needs. By affirming our students, we hope to build their confidence and in turn promote positive motivation for them to succeed and follow their dreams. We know our students of Bendemeer are worthy and capable of great things. We want our students to also be nurtured well and develop in themselves our ASPIRE values of Adaptability, Self-Discipline, Integrity, Resilience and Empathy. This is our Bendemeer experience. Where educating our students centres on the belief that each student is unique and their individual abilities differ widely.
 
