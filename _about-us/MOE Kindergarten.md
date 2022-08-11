@@ -40,22 +40,24 @@ The siting of an MK in our school will offer enriched learning experiences for t
 
 <p align="center"><b><u>MK Classrooms</u></b></p>
 
-<img src="/images/5_LC.jpg"
-				 align="left"
-				 width="466"
-				 height="296"/>
-<img src="/images/6_LC.jpg"
-				align="right"
-				 width="466"
-				 height="296"/>
-<img src="/images/7_LC.jpg"
-				 align="left"
-				 width="466"
-				 height="296"/>
-<img src="/images/8_LC.jpg"
-				align="right"
-				 width="466"
-				 height="296"/>
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/5_LC.jpg"/>
+		</td>
+		<td width="50%">
+			<img src="/images/6_LC.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/7_LC.jpg"/>
+		</td>
+		<td>
+			<img src="/images/8_LC.jpg"/>
+		</td>
+	</tr>
+</table>
 
 <p align="center"> <b> <u> Outdoor Play Areas </u> </b> </p>
 
