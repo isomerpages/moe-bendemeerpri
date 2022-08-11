@@ -13,10 +13,8 @@ The PSG is now a motivated and innovative voluntary wing of our school’s Pupil
 
 ##### Objectives:  
 
-To provide opportunities for parents to be involved in the school activities
-
-To foster greater bonding between school and families
-
+To provide opportunities for parents to be involved in the school activities <br>
+To foster greater bonding between school and families <br>
 To give children a sense of pride as they witness the involvement of their parents in school
  
 
