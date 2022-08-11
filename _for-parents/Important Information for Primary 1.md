@@ -33,4 +33,4 @@ With reference to our “Welcome Letter for 2022 Primary 1 cohort” dated 7 Oct
 | --- | --- |
 | <u>Briefing by Year Head, Mrs Png  </u> | [Briefing Slides by YH.pdf](/files/Briefing%20Slides%20by%20YH.pdf) |
 | <u>Briefing by Class Teachers  </u> | [Briefing Slides by Class Teachers.pdf](/files/Briefing%20slides%20by%20Class%20Teachers.pdf) |
-| Dental Sharing | < insert video here > |
+| Dental Sharing | < insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/important-information-for-primary-1) here > |
