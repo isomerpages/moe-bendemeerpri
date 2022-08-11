@@ -35,4 +35,4 @@ Link: [Repeated Reading slides.pdf](/files/Repeated%20Reading%20slides.pdf)
 
 < insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/parents-engagement-resources/micro-learning-unit-for-parents-with-sen-children) here >
   
-[Cued Spelling slides.pdf](/files/Cued%20Spelling%20slides.pdf)
+Link: [Cued Spelling slides.pdf](/files/Cued%20Spelling%20slides.pdf)
