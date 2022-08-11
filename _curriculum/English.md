@@ -92,12 +92,16 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 ##### Bendemeer OTTER Times
 
 The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) < file above 5MB> to read the publication.
-![Otter Times 2021_1.jpg](/images/Otter%20Times%202021_1.jpg)
+<img src="/images/Otter%20Times%202021_1.jpg"
+		 style="width:60%"/>
 
-Issue 1: Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) < file above 5MB > to read!
+<p align="center">Issue 1: Click <a href=
+https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf">here</a> < file above 5MB > to read!</p>
 
-![Otter Times Nov 2021.jpg](/images/Otter%20Times%20Nov%202021.jpg)
-Issue 2: Click [here](/files/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf) to read!  
+<img src="/images/Otter%20Times%20Nov%202021.jpg"
+		 style="width:60%"/>
+
+<p align="center">Issue 2: Click <a href="/files/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf"> here </a>to read!  </p>
 
 ##### Oracy
 
