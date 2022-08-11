@@ -6,7 +6,8 @@ description: ""
 ### IMPORTANT INFORMATION FOR PRIMARY 1
 Bendemeer Primary extends a warm welcome to all parents of the 2022 Primary cohort!  
 
-With reference to our “Welcome Letter for 2022 Primary 1 cohort” dated 7 October 2021, please refer to the links below for your child’s Primary 1 Registration
+With reference to our “Welcome Letter for 2022 Primary 1 cohort” dated 7 October 2021, please refer to the links below for your child’s Primary 1 Registration.
+
 | Form 	| Website links/Forms 	|
 |---	|---	|
 | BPS P1 2022 First Day of School 	|[https://go.gov.sg/qr38ef](https://go.gov.sg/qr38ef)	|
