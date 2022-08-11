@@ -96,7 +96,7 @@ description: ""
 <table>
 	<tr>
 		<td>
-			<a href="">
+			<a href="/co-curriculum">
 				<img src="/images/Main%20Page/4fe8d32ea_246.jpg"
 						width="480"/>
 			</a>
@@ -112,7 +112,7 @@ description: ""
 <table>
 	<tr>
 		<td>
-			<a href="">
+			<a href="/our-people/Our-Partners/overview">
 					<img
 							src="/images/partners%20open%20house%20pic.jpg"
 							width="480"/>
@@ -150,7 +150,7 @@ description: ""
 	</tr>
 	<tr>
 		<td> 
-			<a href="">
+			<a href="/curriculum/School-Library/readers-rendezvous">
 				<img src="images/11.jpg"/> 
 			</a>
 		</td>
@@ -217,7 +217,7 @@ Find out more about what happens for the teaching of Physical Education lessons,
 <table>
 	<tr>
 		<td>
-			<a href="">
+			<a href="/about-us/aspire-newsletter">
 				<img src="/images/May%202022.jpg"
 						 width="480"/>
 			</a>
