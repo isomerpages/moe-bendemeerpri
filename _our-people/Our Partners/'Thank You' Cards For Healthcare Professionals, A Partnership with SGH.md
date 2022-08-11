@@ -29,6 +29,4 @@ As part of Values in Action (VIA) in Character and Citizenship Education, the Pr
 	</tr>
 </table>
 
-< insert video here >
-
- 
+< insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/thank-you-cards-for-healthcare-professionals-a-partnership-with-sgh) here >
