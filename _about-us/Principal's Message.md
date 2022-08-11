@@ -9,7 +9,7 @@ image: ""
 **Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2022**
 
 <img src="/images/Mrs%20Tan.jpg"
-		 style="width:40%; padding: 10px"
+		 style="width:45%; padding: 10px"
 		 align="left"/>
 
 Warmest greetings to all! Welcome back to a brand new year.
