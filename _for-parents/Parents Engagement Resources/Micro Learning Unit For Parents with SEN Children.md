@@ -13,11 +13,7 @@ These micro-learning units aim to: <br>
 1\. To empower and equip you with strategies on learning and behavioural aspects which have been proven to work according to research. <br>
 2\. To provide an additional platform for home-school collaboration.
 
-  
-
 We hope that the evidence-based strategies that you have learnt will help you to support your child at home.
-
-  
 
 Thank you.
 
