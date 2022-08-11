@@ -9,10 +9,8 @@ third_nav_title: Parents Engagement Resources
 Dear Parents  
   
 
-These micro-learning units aim to:
-
-1\. To empower and equip you with strategies on learning and behavioural aspects which have been proven to work according to research.
-
+These micro-learning units aim to: <br>
+1\. To empower and equip you with strategies on learning and behavioural aspects which have been proven to work according to research. <br>
 2\. To provide an additional platform for home-school collaboration.
 
   
