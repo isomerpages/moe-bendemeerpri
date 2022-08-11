@@ -5,10 +5,10 @@ description: ""
 ---
 ### FOR PARENTS
 
-[Parents Engagement Resources](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/parents-engagement-resources)  <br>
-[Information on Parents' Workshop/Briefing](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/information-on-parents-workshop-briefing)  <br>
-[Positive Parenting Programmes](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/positive-parenting-programmes)  <br>
-[Academic Matters](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/academic-matters)  <br>
-[Administrative Matters](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/administrative-matters)<br>
-[ICT Matters](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/ict-matters)  <br>
-[HPB Modern Parent](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/hpb-modern-parent)
+[Parents Engagement Resources](/our-people/for-parents/Parents-Engagement-Resources/overview)  <br>
+[Information on Parents' Workshop/Briefing](/our-people/for-parents/information-on-parents-workshop-briefing)  <br>
+[Positive Parenting Programmes](/our-people/for-parents/Positive-Parenting-Programmes/overview)  <br>
+[Academic Matters](/our-people/for-parents/Academic-Matters/overview)  <br>
+[Administrative Matters](/our-people/for-parents/administrative-matters)<br>
+[ICT Matters](/our-people/for-parents/ict-matters)  <br>
+[HPB Modern Parent](/our-people/for-parents/HPB-modern-parent)
