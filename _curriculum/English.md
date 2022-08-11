@@ -95,8 +95,7 @@ The attractive format of the publication inspires students to write well while e
 <img src="/images/Otter%20Times%202021_1.jpg"
 		 style="width:60%"/>
 
-<p align="center">Issue 1: Click <a href=
-https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf">here</a> < file above 5MB > to read!</p>
+<p align="center">Issue 1: Click <a href="https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf">here</a> < file above 5MB > to read!</p>
 
 <img src="/images/Otter%20Times%20Nov%202021.jpg"
 		 style="width:60%"/>
