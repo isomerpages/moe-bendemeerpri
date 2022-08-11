@@ -51,7 +51,8 @@ SBS Transit invited our school to participate in SBS Transit Kindness Month in N
 
 [https://www.youtube.com/watch?v=6x6L8-PoUxU](https://www.youtube.com/watch?v=6x6L8-PoUxU)
 
-![4.jpg](/images/4%20(1).jpg)
+<img src="/images/4%20(1).jpg"
+		 style="width:35%"/>
 
 <table>
 	<tr>
