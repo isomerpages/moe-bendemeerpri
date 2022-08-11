@@ -101,7 +101,7 @@ https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%2
 <img src="/images/Otter%20Times%20Nov%202021.jpg"
 		 style="width:60%"/>
 
-<p align="center">Issue 2: Click <a href="/files/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf"> here </a>to read!  </p>
+<p align="center">Issue 2: Click <a href="/files/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf">here</a> to read!  </p>
 
 ##### Oracy
 
