@@ -21,4 +21,4 @@ With the introduction of our school mascot, BEN the otter, last year, Bendemeer 
 
 **School’s Values Ambassador.** He serves to reinforce **key messages and values** that every student should aspire towards. He also represents the different vital aspects of our school. The eight images are namely Ben the **Explorer, Learner, Host, Values Ambassador, Athlete, Musician, Artist and ICT Champ.**
 
-![](/images/Ben%20illustrations.jpg)
+<img src="/images/Ben%20illustrations.jpg" style="width:50%"/>
