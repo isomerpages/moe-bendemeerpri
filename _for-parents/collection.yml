@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - ICT Matters/Student Learning Space.md
       - ICT Matters/.keep
       - Administrative Matters.md
       - Information on Parents Workshop Briefing.md
