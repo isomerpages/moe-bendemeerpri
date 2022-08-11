@@ -3,7 +3,6 @@ title: Operation Hours
 permalink: /about-us/School-Information/operation-hours
 description: ""
 ---
-
 ### OPERATION HOURS
 
 **School Hours** <br>
@@ -44,4 +43,4 @@ Monday, Thursday <br>
   
 
 **CCA (for Niche groups)** <br>
-Please refer to the respective CCA timings [here](/cca/niche/overview).
+Please refer to the respective CCA timings [here](/cca/Niche/overview).
