@@ -80,7 +80,7 @@ description: ""
 <table>
 	<tr>
 		<td>
-			<a href="">
+			<a href="/curriculum/overview">
 				<img src="/images/Main%20Page/2d41695da_245.jpg" 
 						 width="480"/>
 			</a>
