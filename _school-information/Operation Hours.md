@@ -31,11 +31,7 @@ Monday – Friday <br>
 | Primary 1 & Primary 4 |  10.00 a.m. - 10.30 a.m. | 12.00 noon <br>\*Additional snack break for P1 at 8.30am |
 | Primary 3 & Primary 6 |  10.30 a.m. - 11.00 a.m. | 8.30 a.m. |
 
-  
 
-  
-
-  
 
 **Supplementary / Remedial** <br>
 Monday, Thursday <br>
