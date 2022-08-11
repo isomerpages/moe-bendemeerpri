@@ -105,6 +105,7 @@ The objectives of the Bendemeer Oracy Programme are to build confident and compe
 
 | ![](/images/11%20(5).jpg)  |![](/images/12%20(2).jpg) |
 | --- | --- |
+| | |
 
 <p align="center"> Leaning oracy through fun and authentic ways! </p>
 
