@@ -68,7 +68,7 @@ links:
       - title: School Library
         url: /curriculum/School-Library/overview
   - title: Co-Curriculum
-    url: /co-curriculum/ALP
+    url: /co-curriculum
     sublinks:
       - title: ALP
         url: /alp/overview
