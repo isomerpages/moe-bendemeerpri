@@ -10,8 +10,8 @@ To support and to pay tribute to all our National Servicemen and women, our P3 s
 
 #WeSupportNS #SGUnited #BPSUnited
 
-< insert video #1 here >
+< insert [video #1](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/partnership-with-the-ministry-of-defence) here >
 
 A version of this video combined with other schools’ message dedications can be found on the ‘We Are Total Defence’ Facebook page.
 
-< insert video #2 here >
+< insert [video #2](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/partnership-with-the-ministry-of-defence) here >
