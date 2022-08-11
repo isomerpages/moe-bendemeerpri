@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - e Open House.md
-      - The Bendemeer Experience Corporate Video.md
       - Overview.md
       - Principal's Message.md
       - Our History.md
@@ -15,3 +13,5 @@ collections:
       - Aspire Newsletter.md
       - MOE Kindergarten.md
       - Gallery.md
+      - e Open House.md
+      - The Bendemeer Experience Corporate Video.md
