@@ -23,7 +23,7 @@ sections:
             url: /our-people/for-parents/Letter-to-Parents/2022-communications/Term-3-2022/overview
           - title: Aspire Issue 1 2022
             url: /about-us/aspire-newsletter
-          - title: e-Open House <broken link>
+          - title: e-Open House <>
             url: /about-us/new-e-open-house
           - title: Updates on MK in BPS
             url: /about-us/moe-kindergarten
