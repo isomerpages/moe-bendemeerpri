@@ -74,3 +74,5 @@ links:
         url: /alp/overview
       - title: CCA
         url: /cca/overview
+  - title: Links
+    collection: links
