@@ -9,12 +9,8 @@ description: ""
 
 **Secretary:** Mrs Tan-Lim Kim Gek
 
-**Members:**
-
-Mrs Helen Soh
-
-Mr Loo Chin Nong PBM
-
-Mr Vishnatha Ramasubramanian
-
+**Members:** <br>
+Mrs Helen Soh <br>
+Mr Loo Chin Nong PBM <br>
+Mr Vishnatha Ramasubramanian<br>
 Mr Yiew Siew Mong
