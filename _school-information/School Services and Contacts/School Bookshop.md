@@ -22,7 +22,7 @@ Mondays to Fridays  <br>
 8.30 am to 2.30pm
 
 For Parents: <br>
-Mondays to Fridays   <br>
+Mondays to Fridays <br>
 11am to 12noon <br>
 2pm to 2.30pm
 
