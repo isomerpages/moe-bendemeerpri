@@ -6,7 +6,7 @@ third_nav_title: Our Partners
 ---
 ### BENDEMEER PRIMARY SCHOOL TEACHERS' DAY TRIBUTE 2021
 
-**Thank You’ Cher! You are ‘Our Shining Stars, Our Inspiration’!**
+**'Thank You' Cher! You are ‘Our Shining Stars, Our Inspiration’!**
 
 Bendemeer Primary School Teachers’ Day Tribute 2021
 
