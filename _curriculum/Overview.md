@@ -20,7 +20,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="">
+			<a href="/curriculum/mathematics">
 				<img src="/images/DSC00138.jpg">
 				<p align="center"> Mathematics </p>
 			</a>
