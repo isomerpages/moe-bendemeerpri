@@ -4,7 +4,8 @@ permalink: /about-us/moe-kindergarten
 description: ""
 ---
 <img src="/images/05%20MOE%20Kindergarten%20Logo.jpg"
-		 align="center" />
+		 align="center" 
+		 style="width:30%"/>
 
 <p align="center"> <b> <u>MOE Kindergarten at Bendemeer Primary School</u> </b> </p>
 
