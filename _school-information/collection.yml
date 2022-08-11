@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Information.md
       - Calendar.md
       - Operation Hours.md
       - School Rules.md
