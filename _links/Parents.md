@@ -7,7 +7,7 @@ description: ""
 
 <table style="width:45%; float:left">
 	<tr>
-		<td width="40%">
+		<td width="35%">
 			<img src="/images/formSGlogo.jpg"/>
 		</td>
 		<td>
