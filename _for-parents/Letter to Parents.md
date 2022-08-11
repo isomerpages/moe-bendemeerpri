@@ -5,4 +5,4 @@ description: ""
 ---
 ### LETTER TO PARENTS
 
-[2022 Communications](/our-people/Letter-to-Parents/2022-communications)
+[2022 Communications](/our-people/for-parents/Letter-to-Parents/2022-communications)
