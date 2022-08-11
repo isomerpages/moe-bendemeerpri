@@ -3,7 +3,6 @@ title: School Regulations
 permalink: /about-us/School-Information/school-regulations
 description: ""
 ---
-
 ### SCHOOL REGULATIONS
 
 #### School Uniform
@@ -20,7 +19,9 @@ description: ""
 \- no slippers or sandals
 * White socks which are visible above the ankles without any designs and brand  
 
-![](/images/uniform_1.jpg)
+<img src="/images/uniform_1.jpg"
+		 style="width:40%"/>
+		 
 <p align="center">Name tag to be placed at the position of the arrow </p>
 
 #### PE Attire
@@ -32,7 +33,9 @@ description: ""
 
 2. The colour of the PE t-shirt and the name tags are based on the school's  House System.
 
-![](/images/pe_1.jpg)
+<img src="/images/pe_1.jpg"
+		 style="width:40%"/>
+		 
 <p align="center">Name tag to be placed at the position of the arrow</p>
 
 
@@ -56,7 +59,7 @@ description: ""
 ##### Boys
 
 1. Hair must be neatly cropped and combed.  
-2. No sideburns are to be kept.  The hair must not touch the eyebrows, ears or the collar of the shirt (no high shaved                        sides/back).  
+2. No sideburns are to be kept.  The hair must not touch the eyebrows, ears or the collar of the shirt (no high shaved sides/back).  
 3. The back of the hair must be sloped and squared (no 'tail').  
 4. Male pupils must be neat in appearance, clean-shaven and no facial hair is allowed.  
 5. Spiky, punky, outlandish or coloured hair is not allowed.
