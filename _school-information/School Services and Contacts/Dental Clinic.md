@@ -13,7 +13,8 @@ Tel: 63920215
 <br>
 <br>
 <br>
-Pupils who require URGENT dental treatment on days when the school dental clinic is closed may visit any of the following school dental clinics:<br>
+Pupils who require URGENT dental treatment on days when the school dental clinic is closed may visit any of the following school dental clinics:
+
 Please contact the dental school clinic to ensure the dental staff is on duty before going to the clinic.
 
 | Dental Clinic | Tel No | Address | Clinic opens on|
