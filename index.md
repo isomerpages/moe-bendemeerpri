@@ -11,10 +11,6 @@ sections:
       dropdown:
         title: Announcements
         options:
-          - title: BPS Virtual Tour
-            url: /about-us/virtual-tour-of-bps
-          - title: The Bendemeer Experience <>
-            url: /about-us/the-bendemeer-experience-corporate-video
           - title: Mystery Motivator Intervention
             url: /our-people/for-parents/Parents-Engagement-Resources/mlu/mmi
           - title: Minister Chan Visits BPS!
@@ -27,6 +23,10 @@ sections:
             url: /about-us/new-e-open-house
           - title: Updates on MK in BPS
             url: /about-us/moe-kindergarten
+          - title: BPS Virtual Tour
+            url: /about-us/virtual-tour-of-bps
+          - title: The Bendemeer Experience <>
+            url: /about-us/the-bendemeer-experience-corporate-video
   - infopic:
       title: Our Vision
       description: A gracious community of passionate and confident leaders
