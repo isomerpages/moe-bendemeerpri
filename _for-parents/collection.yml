@@ -2,11 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - ICT Matters/Overview.md
-      - ICT Matters/Student Learning Space.md
-      - ICT Matters/.keep
-      - Administrative Matters.md
-      - Information on Parents Workshop Briefing.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
       - Parents Engagement Resources/Micro Learning Unit For Parents with SEN
@@ -30,3 +25,8 @@ collections:
       - Important Information for Primary 1.md
       - P1 Parents Seminar 2022.md
       - 2022 Direct School Admission for Secondary School.md
+      - ICT Matters/.keep
+      - ICT Matters/Overview.md
+      - ICT Matters/Student Learning Space.md
+      - Administrative Matters.md
+      - Information on Parents Workshop Briefing.md
