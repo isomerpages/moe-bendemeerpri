@@ -13,6 +13,7 @@ Monday – Friday <br>
 <br>
 
 **School Gates Opening Hours**
+
 | Gate | Gate Opening Time |
 | --- | --- |
 | Gate C & E | 6.45am - 7.30am\* |
