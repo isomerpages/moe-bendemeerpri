@@ -11,5 +11,5 @@ With the recent rise in cases of migrant workers contracting Covid-19, Bendemeer
 Find out more about Project Chulia Street - [http://www.chuliastreet.org/](http://www.chuliastreet.org/)
 
   
-< insert video here > <br>
+< insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/our-partners/well-wishes-to-our-migrant-workers-a-partnership-with-project-chulia-street) here > <br>
 <small>Music credit – “The Light” featuring Daryl-Ann, Desmond Tan, Fang Rong, Felicia Chin, James Seah, Liwani Izzati, Richie Koh and Sharon Shobana</small>
