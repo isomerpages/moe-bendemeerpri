@@ -15,14 +15,16 @@ sections:
             url: ""
           - title: The Bendemeer Experience
             url: ""
+          - title: Mystery Motivator Intervention
+            url: /our-people/for-parents/Parents-Engagement-Resources/mlu/mmi
           - title: Minister Chan Visits BPS!
-            url: ""
+            url: /our-people/Our-Partners/mr-chan-chun-sing-minister-for-education-visits-bps
           - title: T3 2022 Letter to Parents
-            url: ""
+            url: /our-people/for-parents/Letter-to-Parents/2022-communications/Term-3-2022/overview
           - title: Aspire Issue 1 2022
-            url: ""
-          - title: e-Open House
-            url: ""
+            url: /about-us/aspire-newsletter
+          - title: e-Open House <broken link>
+            url: /about-us/new-e-open-house
           - title: Updates on MK in BPS
             url: ""
   - infopic:
