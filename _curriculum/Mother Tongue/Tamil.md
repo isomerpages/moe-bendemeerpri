@@ -12,9 +12,11 @@ third_nav_title: Mother Tongue
 
 Mother Tongue Fortnight is a key annual event to provide an engaging environment for the learning of Mother Tongue Languages (MTL). A variety of activities is organised to encourage the pupils to actively use their MTL and appreciate their MTL and associated culture. This year we had activities such as Traditional Tamil Games, Murukku making station and competitions. Competitions included Poetry Recitation, Story Telling, Jingles and Touch Typing.
 
-![](/images/1%20(13).jpg)
-![](/images/2%20(14).jpg)
-![](/images/3%20(12).jpg)
+<img src="/images/1%20(13).jpg" style="width:50%"/>
+<br>
+<img src="/images/2%20(14).jpg" style="width:50%"/>
+<br>
+<img src="/images/3%20(12).jpg" style="width:50%"/>
 
 #### Reading Mum
 
