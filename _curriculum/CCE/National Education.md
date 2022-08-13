@@ -142,19 +142,19 @@ The theme for International Friendship Day (IFD) this year was, “Singapore in 
 The students had a rich lesson on why Singapore needs to maintain friendship with her neighbours. The lessons were expanded to include the world issues like the war between Russia and Ukraine. The importance of having strong friendly bonds with the countries around was explored. As April is the month of Earth movements and initiatives, students embarked in, “Upcycling for Friendship” where they upcycled tetra packs and old cloth stripes to create bookmarks for their friends.
 
    
-![](/images/16.jpg)
+<img src="/images/16.jpg" style="width:50%"/>
 
 <p align="center">First presentation by students to the school cohort on International Friendship Day. </p>
 
-![](/images/17.jpg)
+<img src="/images/17.jpg" style="width:50%"/>
 
 <p align="center">Teacher giving instructions on how to upcycle the tetra packs into bookmarks at the Innovation Lab. </p>  
 
-![](/images/18.jpg)
+<img src="/images/18.jpg" style="width:50%"/>
 
 <p align="center">Friends exchanging friendship bookmarks! </p>
 
-![](/images/19.jpg)
+<img src="/images/19.jpg" style="width:50%"/>
 
 <p align="center">A proud student with her upcycled bookmark.</p>
 
