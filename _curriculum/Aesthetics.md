@@ -54,86 +54,60 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 
 <p align="center">Building students’ confidence through Mosaic Art.</p>
 
-##### _Think Safe, Act Safe through Art_ Programme
-
-As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
-
 <table>
 	<tr>
-		<th>
-			Level
-		</th>
-		<th>
-			Theme
-		</th>
+		<td rowspan="7" width="60%">
+			<h5> <em>Think Safe, Act Safe through Art</em> Programme </h5>
+As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
+		</td>
+		<th> Level	</th>
+		<th> Theme	</th>
 		</tr>
 		<tr>
-			<td>
-				P1
-		</td>
-		<td rowspan="2">
-			Safety Motto: <br>Think Safe, Act Safe
-		</td>
+			<td> P1 </td>
+		<td rowspan="2">	Safety Motto: <br>Think Safe, Act Safe </td>
 	</tr>
 	<tr>
-		<td>
-				P2 
-		</td>
+		<td>	P2 </td>
 	</tr>
 	<tr>
-		<td>
-			P3
-		</td>
-		<td>
-			Health Matters
-		</td>
+		<td>	P3 </td>
+		<td> Health Matters </td>
 	</tr>
 	<tr>
-		<td>
-			P4 
-		</td>
-		<td>
-			Road Safety
-		</td>
+		<td> P4 </td>
+		<td> Road Safety </td>
 	</tr>
 	<tr>
-		<td>
-			P5
-		</td>
-		<td>
-			Weather & Environment 
-		</td>
+		<td> P5	</td>
+		<td> Weather & Environment </td>
 	</tr>
 	<tr> 
-		<td>
-			P6
+		<td> P6 </td>
+		<td> Vigilance (Cyber Wellness) <td>
+	</tr>
+	<tr><br></tr>
+	<tr>
+		<td rowspan="4">
+			<h5><em>Outreach Programme</em></h5>
+Working on the community approach, the school continue to reach out to our school partners. In conjunction tothe major festivals celebrated in school, through a tiered approach, different levels of students designed and created mementos for the non-teaching staff and the canteen vendors.  
 		</td>
-		<td>
-			Vigilance (Cyber Wellness)
-		</td>
+		<th> Level </th>
+		<th> Theme </th>
+	</tr>
+	<tr>
+		<td> P1 and P2 </td>
+		<td> Deepavali </td>
+	</tr>
+	<tr>
+		<td> P3 and P4 </td>
+		<td> Hari Raya </td>
+	</tr>
+	<tr>
+		<td> P5 and P6 </td>
+		<td> Chinese New Year </td>
 	</tr>
 </table>
-	
-
-##### _Outreach Programme_
-
-Working on the community approach, the school
-
-continue to reach out to our school partners.
-
-In conjunction tothe major festivals celebrated in
-
-school, through a tiered approach, different
-
-levels of students designed and created mementos for
-
-the non-teaching staff and the canteen vendors.  
-
-| Level | Theme |
-| --- | --- |
-| P1 and P2 | Deepavali | 
-| P3 and P4 | Hari Raya |
-| P5 and P6 | Chinese New Year |
   
 ![](/images/6%20(6).jpg)
 
