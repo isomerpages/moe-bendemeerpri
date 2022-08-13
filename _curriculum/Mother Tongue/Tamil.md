@@ -40,8 +40,6 @@ Deepavali Musical was conducted by the Tamil Department successfully in the year
 
 #### <u><em>Useful Links</em></u>
 
-Online exercises assigned by Teachers: [https://www.pazhahutamil.com/login/](https://www.pazhahutamil.com/login/)
-
-Interactive lesson packages assigned by Teachers: [https://www.imtl.sg/login/index.php](https://www.imtl.sg/login/index.php)
-
+Online exercises assigned by Teachers: [https://www.pazhahutamil.com/login/](https://www.pazhahutamil.com/login/) <br>
+Interactive lesson packages assigned by Teachers: [https://www.imtl.sg/login/index.php](https://www.imtl.sg/login/index.php) <br>
 Open source software- Tamil99 Keyboard free download to practice touch-typing at home: [https://www.branah.com/tamil](https://www.branah.com/tamil)
