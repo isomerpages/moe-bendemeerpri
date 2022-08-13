@@ -8,7 +8,7 @@ third_nav_title: Mother Tongue
 
 ![](/images/1%20(15).jpg)
 
-<p align="center"><small>From left to right): Ms Mariam Ibrahim, Mdm Zakiyah Ab Karim, Mdm Amnah Jantan, Mdm Farhanah Suratman & Mdm Diyanah Zahirah</small></p>
+<p align="center"><small>From left to right: Ms Mariam Ibrahim, Mdm Zakiyah Ab Karim, Mdm Amnah Jantan, Mdm Farhanah Suratman & Mdm Diyanah Zahirah</small></p>
 
 #### Vision
 
@@ -96,7 +96,7 @@ Objectives of the programme: <br>
 
 
 P1 to P6 – SLS & IMTL portal  <br>
-iMTL – [imtl.moe.edu.sg](http://www.imtl.sg/) <br>
-eCekap - [tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html) <br>
-eMekar - [tinta.moe.edu.sg/mekar/slot/u112/ML/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ML/index.html) <br>
+iMTL – [imtl.moe.edu.sg](http://www.imtl.sg/) < broken link ><br>
+eCekap - [tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html) < broken link ><br>
+eMekar - [tinta.moe.edu.sg/mekar/slot/u112/ML/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ML/index.html) < broken link ><br>
 Dictionary Online - [prpm.dbp.gov.my](http://prpm.dbp.gov.my/)
