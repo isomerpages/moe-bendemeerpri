@@ -25,13 +25,27 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 
 #### CCA Modular Programmes (Visual Art and Performing Arts)
 
-| Level |  Visual Art |  Programming Arts |
-| --- | --- | --- |
-| P5 | Manga Art |  Ethnic Percussion |
-| P6 | Mosaic Art |  Dance Genres |
+<table>
+	<tr>
+		<td rowspan="3">
+			Leveraging the department’s motto of appreciating the Arts, the students in P5 and P6 were introduced to different Visual Art and Performing Arts forms. Being passionate learners, students acquired new learning and skill sets beyond the Art and Music curriculum.  
+		</td>
+		<th> Level </th>
+		<th> Visual Art </th>
+		<th> Programming Arts </th>
+	</tr>
+	<tr>
+		<td> P5 </td>
+		<td> Manga Art </td>
+		<td> Ethnic Percussion </td>
+	</tr>
+	<tr>
+		<td> P6 </td>
+		<td> Mosaic Art </td>
+		<td> Dance Genres </td>
+	</tr>
+</table>
 
-Leveraging the department’s motto of appreciating the Arts, the students in P5 and P6 were introduced to different Visual Art and Performing Arts forms. Being passionate learners, students acquired new learning and skill sets beyond the Art and Music curriculum.  
-  
 ![](/images/4%20(7).jpg)
 
 <p align="center">Ethnic percussion lesson via a Zoom session.</p>
