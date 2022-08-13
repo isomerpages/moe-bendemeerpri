@@ -59,7 +59,7 @@ During these leadership sessions, NE Champs are informed on the roles and respon
 
 <p align="center">NE Champ presenting her group’s discussions with confidence.</p>
 
-![7.jpg](/images/7%20(3).jpg)
+<img src="/images/7%20(3).jpg" style="width:50%"/>
 
 <p align="center">NE Champs reflected on what skills a good leader should possess.</p>
 
@@ -78,7 +78,7 @@ The 4 events are: <br>
 
 ##### <u>Total Defence Day Commemoration (TDD) 2022 @BPS</u>
   
-![tdd.jpg](/images/tdd.jpg)
+<img src="/images/tdd.jpg" style="width:40%"/>
 
 This year, Bendemeer Primary School commemorated Total Defence Day (TDD) in February 2022. The theme this year is, ‘Together We Keep Singapore Strong.’ This involves every Singaporean playing a part, individually and collectively, to build a strong, secure, and cohesive nation. When we are strong, we can deal with any crisis. Our main focus over these few years is the current pandemic, Covid-19. In line with CCE 2021, students are encouraged to play a greater role in TDD, and these activities and exposure would highlight the different ways that they can contribute towards TDD. Students would also be prepared for future threats and challenges and would learn to show resilience when crises strike. The citizenship dispositions, Sense of Belonging, Hope, Reality, and the Will to Act would be triggered in the students through this wide range of activities carried out.
 
@@ -93,10 +93,10 @@ SLS Activity where the students show their appreciation to the NSmen in their fa
 <img src="/images/8%20(3).jpg"/>
 		</td>
 		<td width="33%">
-			<img src="/images/10%20(3).jpg"/>		 
+			<img src="/images/9%20(3).jpg"/>		 
 		</td>
 		<td width="33%">
-<img src="/images/9%20(3).jpg"/>
+<img src="/images/10%20(3).jpg"/>
 		</td>
 	</tr>
 </table>
