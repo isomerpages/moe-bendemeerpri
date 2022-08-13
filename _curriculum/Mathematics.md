@@ -30,15 +30,19 @@ Teaching should build on students' knowledge; take cognizance of students' inter
 
 Teaching should connect learning to the real world, harness ICT tools and emphasise 21st century competencies.
 
-<img src="/images/2%20(13).jpg"
-		 align="left"
-		 style="width:50%"/>
-
-#### 3 Phases of Learning (Pedagogy) in Mathematics Education  
-
-*   Readiness to learn
-*   Engagement in learning
-*   Mastery of learning
+<table>
+	<tr>
+		<td>
+			<img src="/images/2%20(13).jpg"/>
+		</td>
+		<td>
+			<h4>3 Phases of Learning (Pedagogy) in Mathematics Education  </h4>
+			*   Readiness to learn <br>
+			*   Engagement in learning <br>
+			*   Mastery of learning <br>
+		</td>
+	</tr>
+</table>
 
 #### Core Teaching and Learning
 
