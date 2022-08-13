@@ -4,9 +4,6 @@ permalink: /curriculum/School-Library/overview
 description: ""
 third_nav_title: School Library
 ---
-
-
-
 ### SCHOOL LIBRARY
 
 Our school library committee aims to promote and cultivate a positive disposition towards books and support students in their learning. Our activities aim to help students develop a lifelong habit of reading for enjoyment. We aim to continue our efforts to enthuse and nurture a love of reading in all our students.
@@ -71,7 +68,7 @@ Storytelling is brought to life with the use of puppets, pop-up books and Kamish
 
 <p align="center"><u>P1 Gracious Book Talk in classroom</u></p>
 
-![5.jpg](/images/5%20(3).jpg)
+<img src="/images/5%20(3).jpg" style="width:50%"/>
 
 <p align="center"><u>P5 Empathy Book Talk in library</u></p>
 
@@ -97,7 +94,7 @@ Students shared about the characters they have dressed up as and introduced vari
 
 <p align="center"><u>P6 Adaptability</u></p>
 
-![8.jpg](/images/8%20(2).jpg)
+<img src="/images/8%20(2).jpg" style="width:50%"/>
 
 <p align="center"><u>P1 Gracious</u></p>
 
@@ -136,11 +133,11 @@ The Book Stop was created to bring a snippet of the library to the canteen. This
 2\. Storyline Online **([https://www.storylineonline.net/](https://www.storylineonline.net/))** <br> 
 Enjoy videos of children’s books read aloud alongside creatively produced illustrations at Storyline Online. 
 
-3\. School eResource Repository (SERR) <br>  [**https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT**](https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT) <br>
+3\. School eResource Repository (SERR) <br>  [**https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT**](https://schoolibrary.moe.edu.sg/eresourcespri/cgibin/spydus.exe/MSGTRNGEN/WPAC/ABOUT) < broken link ><br>
 The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. The repository provides easy access to online resources. 
 
 4\. Bendemeer Primary School Library OPAC (Online Public Access Catalogue <br>
-[**https://schoolibrary.moe.edu.sg/bendemeerpri**](https://schoolibrary.moe.edu.sg/bendemeerpri) <br>
+[**https://schoolibrary.moe.edu.sg/bendemeerpri**](https://schoolibrary.moe.edu.sg/bendemeerpri) < broken link ><br>
 Perform a search of books and resources available in the school library at this website.  
 
 5\. NLB discoveReads (Children & Teens Services): <br>
