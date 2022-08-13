@@ -55,7 +55,7 @@ Bendemeer Primary belongs to all our students. To inculcate a sense of responsib
 
 ![](/images/1%20(7).jpg)
 
-![](/images/2%20(8).jpg)
+<img src="/images/2%20(8).jpg" style="width:40%"/>
 
 #### <u>4. Be like BEN</u>
 
