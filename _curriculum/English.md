@@ -118,12 +118,9 @@ The objectives of the Bendemeer Oracy Programme are to build confident and compe
 
 English Week
 
-The objectives of English Week are to:   
-
-· Arouse pupils’ interest in English Language through fun, engaging activities
-
-· Provide students with a platform to showcase their productions in various forms and to engage in purposeful communication with their teachers and peers
-
+The objectives of English Week are to:   <br>
+· Arouse pupils’ interest in English Language through fun, engaging activities <br>
+· Provide students with a platform to showcase their productions in various forms and to engage in purposeful communication with their teachers and peers <br>
 · Engage students in various areas of English language learning (speaking, writing, reading, listening) through modes beyond the scheme of work e.g. literature appreciation and language games
 
 Students engage in activities such as a reader’s theatre performance, journalism and English Language games. It is truly a week where students enjoy the wonders of the English Language.
