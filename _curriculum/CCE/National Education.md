@@ -215,7 +215,7 @@ BPS commemorated National Day from 2 August to 6 August this year. The National 
 
 <p align="center">Staff and students immersed in the ‘Together Our Singapore Spirit!’ </p>
   
-![](/images/27.jpg)
+<img src="/images/27.jpg" style="width:70%"/>
 
 <p align="center">Students wrote Gratitude Notes to those who protect our country.</p>
 
