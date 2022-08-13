@@ -39,7 +39,7 @@ During these leadership sessions, NE Champs are informed on the roles and respon
 
   
 
-![3.jpg](/images/3%20(5).jpg)
+<img src="/images/3%20(5).jpg" style="width:50%"/>
 
 <p align="center">NE Champs assisting the younger members using the iPads to look for clues during hands-on session.</p>
 
