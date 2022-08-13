@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Pupil Management.md
       - Overview.md
       - English.md
       - Mother Tongue/.keep
@@ -18,6 +17,7 @@ collections:
       - CCE/National Education.md
       - Health Education.md
       - Information Communication Technology (ICT).md
+      - Pupil Management.md
       - Physical Education.md
       - School Library/.keep
       - School Library/Overview.md
