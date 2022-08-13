@@ -3,7 +3,6 @@ title: Physical Education
 permalink: /curriculum/physical-education
 description: ""
 ---
-
 ### PHYSICAL EDUCATION
 
 <p align="center"><b>A learner who is able to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active and healthy living</b></p>
@@ -16,19 +15,19 @@ All our school’s staff and students are assigned to 4 different Houses, namely
 
 <p align="center"><b>Red Rhino</b></p>
 
-![redrhino.jpg](/images/redrhino.jpg)
+<img src="/images/redrhino.jpg" style="width:30%"/>
 
 <p align="center"><b>Blue Manta</b></p>
 
-![bluemanta.png](/images/bluemanta.png)
+<img src="/images/bluemanta.png" style="width:30%"/>
 
 <p align="center"><b>Yellow Cheetah</b></p>
 
-![yellowcheetah.png](/images/yellowcheetah.png)
+<img src="/images/yellowcheetah.png" style="width:30%"/>
 
 <p align="center"><b>Green Eagles</b></p>
 
-![greeneagle.png](/images/greeneagle.png)
+<img src="/images/greeneagle.png" style="width:30%"/>
 
 
 ##### Programmes
@@ -38,7 +37,7 @@ As part of our school’s programme to develop self-directed learners through Ph
 This serves as a guide for students to take ownership of their own fitness level and strive to achieve targets set in terms of the number of steps to be taken every day. <br>
 Students will also be taught on how to use the heart rate to monitor their own activity level.
 
-![2.jpg](/images/2%20(4).jpg)
+<img src="/images/2%20(4).jpg" style="width:30%"/>
 
 <u>P4 SwimSafer Programme</u> <br>
 Our school started our P4 SwimSafer Programme for all Primary 4 students in Term 3 this year. <br>
