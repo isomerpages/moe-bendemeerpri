@@ -5,7 +5,8 @@ description: ""
 ---
 ### SCIENCE
 
-![](/images/1%20(10).jpg)
+<img src="/images/1%20(10).jpg" 
+		 style="width:50%"/>
 
 Bendemeer Primary School follows the Science Curriculum Framework that guides all schools in the design and enactment of the school-based science curriculum.
 
@@ -13,11 +14,13 @@ Through the inculcation of the spirit of science inquiry, the department envisio
 
 In Bendemeer Primary School, the science curriculum is planned based on the three aspects shown below (content, pedagogy and assessment), with each aspect linked to the others in a two-way manner.
 
-![](/images/2%20(11).jpg)
+<img src="/images/2%20(11).jpg" 
+		 style="width:50%"/>
 
 ##### Pedagogical Approach
 
-![](/images/3%20(8).jpg)
+<img src="/images/3%20(8).jpg"
+		 style="width:50%"/>
 
 In delivering the science curriculum, the department leverages on the pedagogy of “Science Play, Science Talk”. As shown above, this pedagogical approach is founded on the five elements of Science as Inquiry, highlighted in the Science Curriculum Framework.
 
@@ -31,10 +34,7 @@ The school has two science laboratories that are fully equipped with apparatus a
 
 ##### Useful Links
 
-How Stuff Works - [http://www.howstuffworks.com](http://www.howstuffworks.com/)
-
-National Geographic kids - [http://video.nationalgeographic.com/video/kids/](http://video.nationalgeographic.com/video/kids/)
-
-National Geographic channel - [http://video.nationalgeographic.com/video/national-geographic-channel](http://video.nationalgeographic.com/video/national-geographic-channel)
-
+How Stuff Works - [http://www.howstuffworks.com](http://www.howstuffworks.com/) <br>
+National Geographic kids - [http://video.nationalgeographic.com/video/kids/](http://video.nationalgeographic.com/video/kids/) <br>
+National Geographic channel - [http://video.nationalgeographic.com/video/national-geographic-channel](http://video.nationalgeographic.com/video/national-geographic-channel) <br>
 Discovery channel kids -[http://kids.discovery.com/tell-me](http://kids.discovery.com/tell-me)
