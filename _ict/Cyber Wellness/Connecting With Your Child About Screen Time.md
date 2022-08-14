@@ -8,6 +8,6 @@ third_nav_title: Cyber Wellness
 
 ![Screen Time.jpg](/images/Screen%20Time.jpg)
 
-<p align="center"> <em> Source: [https://idm.opal2.moe.edu.sg/](https://idm.opal2.moe.edu.sg/) </em> </p>
+<p align="center"> <em> Source: <a href="https://idm.opal2.moe.edu.sg/"> https://idm.opal2.moe.edu.sg/ </a> </em> </p>
 
 Link to Family Media Plan: <br>[https://www.healthychildren.org/English/media/Pages/default.aspx#wizard](https://www.healthychildren.org/English/media/Pages/default.aspx#wizard)
