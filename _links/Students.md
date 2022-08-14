@@ -7,7 +7,7 @@ description: ""
 
 <table>
 	<tr>
-		<td>
+		<td width="50%">
 <table>
 	<tr>
 		<td width="50%">
