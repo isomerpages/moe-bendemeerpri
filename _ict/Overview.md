@@ -63,7 +63,6 @@ As part of the modular CCA programme, all P5 Students went through the Micro:Bit
 | --- | --- |
 |![](/images/3%20(3).jpg)|![](/images/4%20(3).jpg)|
 
-
 <p align="center">P5 Students working on their Smart Homes using Micro:Bit and sensors  </p>
 
 ##### Mobile Trail @ BPS
