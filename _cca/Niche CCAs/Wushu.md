@@ -68,7 +68,7 @@ Pupils also learn to work cooperatively with peers and demonstrate values of tea
 
 #### Photos
 ![](/images/1%20(21).jpg)
-![](/images/2%20(21).jpg)
+<img src="/images/2%20(21).jpg" style="width:40%"/>
 ![](/images/3%20(18).jpg)
-![](/images/4%20(15).jpg)
-![](/images/5%20(13).jpg)
+<img src="/images/4%20(15).jpg" style="width:60%"/>
+<img src="/images/5%20(13).jpg" style="width:60%"/>
