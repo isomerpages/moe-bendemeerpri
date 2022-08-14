@@ -66,6 +66,7 @@ description: ""
 				<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login">
 					iMTL Portal
 				</a>
+			</p>
 		</td>
 	</tr>
 	<tr>
@@ -117,4 +118,3 @@ description: ""
 		</td>
   </tr>
 </table>
-			
