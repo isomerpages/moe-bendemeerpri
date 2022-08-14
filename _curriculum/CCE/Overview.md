@@ -27,11 +27,15 @@ Guided by our school vision, mission and the principles in developing a student-
 | <p align="center">**Resilience**  <br>Keep trying and never give up </p> | Student does not give up easily when facing difficulties.  | Student handles conflicts and setbacks well to maintain positive relationships with others. | Student perseveres in the face of challenges and is able to manage conflicts effectively.  |
 | <p align="center">**Empathy**<br> Think, feel and do good for others </p> | Student shows understanding and shares the feelings of others.    | Student shows care and kindness within his /her community.    | Student is responsive to the needs of others and takes initiative to help.   |
 
+
+
 #### <u>1. ASPIRE Wednesdays</u>
 
 ##### Objective
 
 At Bendemeer Primary School, we strive to develop our students to become persons of good character with sound moral values. As part of values education and to provide an opportunity to strengthen teacher-student relationship, we conduct our department designed ASPIRE sessions every Wednesday mornings. Teachers share and explore contemporary and social issues with the focus of creating teachable moments to inculcate values in our students.
+
+
 
 #### <u>2. Mindfulness Practices - ‘Start Each Day With A Grateful Heart’, Bendemeer Student Pledge and Daily Quiet Time Exercise</u>
 
@@ -49,6 +53,8 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 	</tr>
 </table>
 
+
+
 #### <u>3. Our Everyday Responsibilities</u>
 
 Bendemeer Primary belongs to all our students. To inculcate a sense of responsibility in keeping their shared environment clean and pleasant, students are involved in various activities at the start and end of each term, such as ‘Groom My Class’ and ‘Use My Hands’ that provide opportunities for students and their form teachers to bond by tidying up their classroom and demonstrating a commitment to this collective effort together. The daily end of day classroom cleaning and canteen cleaning also cultivates a good habit to be disciplined and follow-through in ensuring that the state of their classroom and canteen remains clean after use. While recognising that mistakes can be made, through the Happy Mop programme, students learn to develop the value of Self-Discipline by taking responsibility for the water spilled and taking the initiative to locate the nearest mop to clean up after themselves.
@@ -56,6 +62,8 @@ Bendemeer Primary belongs to all our students. To inculcate a sense of responsib
 ![](/images/1%20(7).jpg)
 
 <img src="/images/2%20(8).jpg" style="width:40%"/>
+
+
 
 #### <u>4. Be like BEN</u>
 
@@ -73,6 +81,8 @@ To create an immersive environment whereby students can be reminded of how they 
 		</td>
 	</tr>
 </table>
+ 
+ 
  
  #### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
 
