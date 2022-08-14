@@ -57,8 +57,8 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 <table>
 	<tr>
 		<td rowspan="7" width="60%">
-			<h5> <em>Think Safe, Act Safe through Art</em> Programme </h5>
-As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
+			<h5> <em>Think Safe, Act Safe through Art</em> Programme </h5> <br>
+			As part of the school’s effort in instilling greater awareness in students on the schools’ safety culture, our students embarked on different themes. Taking a whole-school approach, students’ artworks are displayed at strategic places in school to reinforce safety habits among students.   
 		</td>
 		<th> Level	</th>
 		<th> Theme	</th>
@@ -89,8 +89,8 @@ As part of the school’s effort in instilling greater awareness in students on 
 	<tr><br></tr>
 	<tr>
 		<td rowspan="4">
-			<h5><em>Outreach Programme</em></h5>
-Working on the community approach, the school continue to reach out to our school partners. In conjunction tothe major festivals celebrated in school, through a tiered approach, different levels of students designed and created mementos for the non-teaching staff and the canteen vendors.  
+			<h5><em>Outreach Programme</em></h5>  <br>
+			Working on the community approach, the school continue to reach out to our school partners. In conjunction tothe major festivals celebrated in school, through a tiered approach, different levels of students designed and created mementos for the non-teaching staff and the canteen vendors.  
 		</td>
 		<th> Level </th>
 		<th> Theme </th>
