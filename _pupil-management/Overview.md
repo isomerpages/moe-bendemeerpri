@@ -37,11 +37,11 @@ The main aims of BEES are as follows: <br>
 *   To develop self- awareness and gain confidence
 *   To identify and examine key skills for healthy growth and development 
 
-<img src="/images/1%20(5).jpg" style="width:60%"/>
+<img src="/images/1%20(5).jpg" style="width:80%"/>
 
 <p align="center">Pupils from the BEES club were eagerly making their dumplings. </p>
 
-<img src="/images/2%20(5).jpg" style="width:60%"/>
+![2.jpg](/images/2%20(5).jpg)
 
 <p align="center">Drumming performance by pupils from BEES club for the Annual Prize Giving Day </p>
 
