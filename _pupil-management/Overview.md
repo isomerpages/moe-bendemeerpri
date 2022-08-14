@@ -63,4 +63,4 @@ The Police give assembly talks and set up booths in school to promote road safet
 
 <img src="/images/5%20(4).jpg" style="width:60%"/>
 
-<img src="/images/6%20(4).jpg" style="width:60%"/>
+<img src="/images/6%20(4).jpg" style="width:70%"/>
