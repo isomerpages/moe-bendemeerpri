@@ -55,12 +55,12 @@ Students are introduced to the problem of food waste in Singapore and around the
   
 ![](/images/p4%201.jpg)
 
-**<p align="center">Working together to build our composting bin</p>**
+<p align="center"><b>Working together to build our composting bin</b></p>
 
 ![](/images/p4%202.jpg)
 
-**<p align="center">We are proud of our work!</p>**
+<p align="center"><b>We are proud of our work!</b></p>
 
 ![](/images/p4%203.jpg)
 
-**<p align="center">Our compost bin design and presentation</p>**
+<p align="center"><b>Our compost bin design and presentation</b></p>
