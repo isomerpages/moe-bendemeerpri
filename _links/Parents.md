@@ -5,7 +5,10 @@ description: ""
 ---
 ### PARENTS
 
-<table style="width:45%; float:left">
+<table>
+	<tr>
+		<td>
+<table>
 	<tr>
 		<td width="35%">
 			<img src="/images/formSGlogo.jpg"/>
@@ -43,8 +46,9 @@ description: ""
 		</td>
 	</tr>
 </table>
-
-<table style="width:45%; float:right">
+		</td>
+		<td>
+<table>
 	<tr>
 		<td width="30%">
 			<img src="/images/seab.png"/>
@@ -82,3 +86,6 @@ description: ""
 		</td>
 	</tr>
 </table>
+		</td>
+	</tr>
+	</table>
