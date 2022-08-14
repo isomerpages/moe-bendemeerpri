@@ -71,7 +71,7 @@ In line with our school’s mission: ‘Nurturing and inspiring students to love
 
 <img src="/images/9(5).jpg" align="right" style="width:45.2%"/>
 
-![](/images/10%20(5).jpg)
+<img src="/images/10%20(5).jpg" style="width:50%"/>
 
 <p align="center"><b>IFD collaboration between E2SL committee and SS unit where students created an upcycled bookmark for their friends in the Maker’s Innovation Lab during recess</b></p>
 
