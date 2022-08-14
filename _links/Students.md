@@ -5,7 +5,10 @@ description: ""
 ---
 ### STUDENTS
 
-<table style="width:45%; float:left">
+<table>
+	<tr>
+		<td>
+<table>
 	<tr>
 		<td width="50%">
 			<img src="/images/google_logo.jpg"/>
@@ -55,8 +58,9 @@ description: ""
 		</td>
 	</tr>
 </table>
-
-<table style="width:45%; float:right">
+		</td>
+		<td>
+<table>
   <tr>
     <td width="50%">
 			<img src="/images/iMTL Logo.jpg"/>
@@ -118,3 +122,6 @@ description: ""
 		</td>
   </tr>
 </table>
+		</td>
+	</tr>
+</table
