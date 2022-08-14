@@ -108,7 +108,9 @@ Working on the community approach, the school continue to reach out to our schoo
 		<td> Chinese New Year </td>
 	</tr>
 </table>
-  
+
+
+
 ![](/images/6%20(6).jpg)
 
 <p align="center">Preparation of the CNY mementos using recycled materials.</p>
