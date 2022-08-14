@@ -92,8 +92,8 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 			<h5><em>Outreach Programme</em></h5>  <br>
 			Working on the community approach, the school continue to reach out to our school partners. In conjunction tothe major festivals celebrated in school, through a tiered approach, different levels of students designed and created mementos for the non-teaching staff and the canteen vendors.  
 		</td>
-		<th> Level </th>
-		<th> Theme </th>
+		<td><b> Level </b></td>
+		<td><b> Theme </b></td>
 	</tr>
 	<tr>
 		<td> P1 and P2 </td>
