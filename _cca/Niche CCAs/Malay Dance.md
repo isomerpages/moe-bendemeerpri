@@ -9,10 +9,10 @@ third_nav_title: Niche CCAs
 #### Teachers in charge
 
 1\. Mdm Zakiyah A. Karim (1st IC) <br>
-2. Mdm Amnah Jantan (2nd IC) <br>
-3. Mrs Tina Lee <br>
-4. Mdm Diyanah Zahirah <br>
-5. Mdm Elis Tjandra
+2\. Mdm Amnah Jantan (2nd IC) <br>
+3\. Mrs Tina Lee <br>
+4\. Mdm Diyanah Zahirah <br>
+5\. Mdm Elis Tjandra
 
 #### CCA Schedule
 
