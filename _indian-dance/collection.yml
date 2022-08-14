@@ -1,4 +1,5 @@
 collections:
   indian-dance:
     output: true
-    order: []
+    order:
+      - Indian Dance Public Performances.md
