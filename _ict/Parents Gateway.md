@@ -25,9 +25,18 @@ Parents Gateway contains sensitive information about students and their parents.
 Please visit the SingPass website ([https://www.singpass.gov.sg), or scan the QR](https://www.singpass.gov.sg/)\_codes below to register for a SingPass and set up the 2-Step Verification (2FA). <br>
 Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
 
-| ![singpass.jpg](/images/singpass.jpg) | ![2FA.jpg](/images/2FA.jpg) |
-| --- | --- |
-| <p align="center">SingPass Registration</p> | <p align="center">2FA Activation </p>|
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/singpass.jpg"/> <br>
+			<p align="center"> Singpass Registration </p>
+		</td>
+		<td>
+			<img src="/images/2FA.jpg"/> <br>
+			<p align="center">2FA Activation </p>
+		</td>
+	</tr>
+</table>
 
 
 _Please note that SingPass Mobile login is currently not yet supported for Android version of Parents Gateway. Parents using Android devices are advised to login using SMS 2FA or OneKey token in the meantime._
@@ -39,9 +48,16 @@ _Please note that SingPass Mobile login is currently not yet supported for Andro
 1\. Open the Apple App Store or Google Play Store app on your mobile phone. <br>
 2\. Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
 
-| <p align="center">Android</p> | <p align="center">iOS</p> |
-| --- | --- |
-| ![android.png](/images/android.png) | ![iOS.png](/images/iOS.png) |
+<table>
+	<tr>
+		<th width="50%"> <p align="center"> Android </p> </th>
+		<th width="50%"> <p align="center"> iOS </p> </th>
+	</tr>
+	<tr>
+		<td><img src="/images/android.png"/></td>
+		<td><img src="/images/iOS.png"/></td>
+	</tr>
+</table>
 
 <p align="center"> <b>Note:</b> Supported OS Versions - <b>Android 5.0 or later</b> & <b>iOS 9.1 or later</b> </p>
 
