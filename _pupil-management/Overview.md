@@ -37,11 +37,11 @@ The main aims of BEES are as follows: <br>
 *   To develop self- awareness and gain confidence
 *   To identify and examine key skills for healthy growth and development 
 
-![1.jpg](/images/1%20(5).jpg)
+<img src="/images/1%20(5).jpg" style="width:60%"/>
 
 <p align="center">Pupils from the BEES club were eagerly making their dumplings. </p>
 
-![2.jpg](/images/2%20(5).jpg)
+<img src="/images/2%20(5).jpg" style="width:60%"/>
 
 <p align="center">Drumming performance by pupils from BEES club for the Annual Prize Giving Day </p>
 
@@ -55,12 +55,12 @@ The main aims of BEES are as follows: <br>
 1\.  Professional support are engaged from MOE Guidance Branch/ MSF/Vendors/Welfare Homes/Children Societies /Child Guidance Clinic/Family Service Centers /Police/Dyslexic Association of Singapore etc <br>
 2\.  Speakers from external organizations eg Dyslexic Association of Singapore are engaged to empower the staff, pupils and parents with knowledge and skills in the needs identified.
 
-![3.jpg](/images/3%20(4).jpg)
+<img src="/images/3%20(4).jpg" style="width:60%"/>
 
-![4.jpg](/images/4%20(4).jpg)
+<img src="/images/4%20(4).jpg" style="width:60%"/>
 
 The Police give assembly talks and set up booths in school to promote road safety.
 
-![5.jpg](/images/5%20(4).jpg)
+<img src="/images/5%20(4).jpg" style="width:60%"/>
 
-![6.jpg](/images/6%20(4).jpg)
+<img src="/images/6%20(4).jpg" style="width:60%"/>
