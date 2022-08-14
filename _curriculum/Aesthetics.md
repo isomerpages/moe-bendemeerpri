@@ -84,7 +84,7 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 	</tr>
 	<tr> 
 		<td> P6 </td>
-		<td> Vigilance (Cyber Wellness) <td>
+		<td> Vigilance (Cyber Wellness) </td>
 	</tr>
 	<tr>
 		<td rowspan="4">
@@ -108,7 +108,6 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 	</tr>
 </table>
 
-
-<img src="/images/6%20(6).jpg"/>
+![](/images/6%20(6).jpg)
 
 <p align="center">Preparation of the CNY mementos using recycled materials.</p>
