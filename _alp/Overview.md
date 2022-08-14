@@ -75,8 +75,9 @@ In line with our school’s mission: ‘Nurturing and inspiring students to love
 
 <p align="center"><b>IFD collaboration between E2SL committee and SS unit where students created an upcycled bookmark for their friends in the Maker’s Innovation Lab during recess</b></p>
 
-| ![](/images/11%20(6).jpg) | ![](/images/12%20(3).jpg) |
+| | |
 | --- | --- |
+| ![](/images/11%20(6).jpg) | ![](/images/12%20(3).jpg) |
 
 **P5 ALP Programme 2022:**
 
