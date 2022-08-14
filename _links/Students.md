@@ -124,4 +124,4 @@ description: ""
 </table>
 		</td>
 	</tr>
-</table
+</table>
