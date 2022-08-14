@@ -4,7 +4,6 @@ permalink: /cca/Niche/art-club
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### ART CLUB
 
 #### Vision
@@ -50,13 +49,14 @@ Every Wednesday <br>
 
 <p align="center">Exploring with mixed media</p>
 
-| ![](/images/3%20(17).jpg) | ![](/images/4%20(14).jpg) | 
+| | | 
 | --- | --- |
+| ![](/images/3%20(17).jpg) | ![](/images/4%20(14).jpg) | 
 
-![](/images/5%20(12).jpg)
+<img src="/images/5%20(12).jpg" style="width:70%"/>
 
 <p align="center">Dotted painting</p>  
 
-![](/images/6%20(10).jpg)
+<img src="/images/6%20(10).jpg" style="width:70%"/>
 
 <p align="center">Still life drawing</p>
