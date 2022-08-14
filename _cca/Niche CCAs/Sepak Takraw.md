@@ -4,16 +4,15 @@ permalink: /cca/Niche/sepak-takraw
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### SEPAK TAKRAW
 
 #### Teachers in charge
 
 1\.  Mr. Azimi bin Ahmad (1st IC) <br>
-2.  Mr. Tan Chun Chiah (2nd IC) <br>
-3.  Mr Andrew Wu <br>
-4.  Mr Roy Ngai <br>
-5.  Mdm Farhanah
+2\.  Mr. Tan Chun Chiah (2nd IC) <br>
+3\.  Mr Andrew Wu <br>
+4\.  Mr Roy Ngai <br>
+5\.  Mdm Farhanah
 
 Coach <br>
 Mr. Mohamed Noor bin Mahmood
