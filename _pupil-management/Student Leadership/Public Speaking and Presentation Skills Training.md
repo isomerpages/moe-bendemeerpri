@@ -10,6 +10,6 @@ As part of the effort to level up our student leaders and to increase their conf
   
 Through the workshop, the student leaders were taught how to prepare their presentation speech, importance of body language, articulation exercises and many more important skills related to public speaking. Towards the end of the workshop, our student leaders had to prepare a presentation and presented their speech confidently to their fellow peers.  
   
-![public speaking 1.jpg](/images/public%20speaking%201.jpg)
+<img src="/images/public%20speaking%201.jpg" style="width:50%"/>
 
 ![public speaking 2.jpg](/images/public%20speaking%202.jpg)
