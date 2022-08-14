@@ -4,7 +4,6 @@ permalink: /cca/Niche/wushu
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### WUSHU
 
 #### Teachers in charge
@@ -45,7 +44,7 @@ Fist Routines for Intermediate Learners: <br>
 Weapon Routines for Intermediate Learners: <br>
 \- 5-Duan Broadsword (五段刀) <br>
 \- 5-Duan Spear (五段枪) <br>
-\- - 5-Duan Cudgel (五段棍)  
+\- 5-Duan Cudgel (五段棍)  
 
 Fist Routines for Advance Learners: <br>
 \- Jing Sai Nan Quan (竞赛南拳) <br>
