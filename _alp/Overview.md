@@ -5,7 +5,7 @@ description: ""
 ---
 ### Applied Learning Programme (ALP)
 
-![](/images/1%20(29).jpg)
+<img src="/images/1%20(29).jpg" style="width:40%"/>
 
 **Value Proposition**
 
