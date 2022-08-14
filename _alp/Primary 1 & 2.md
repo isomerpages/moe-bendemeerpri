@@ -24,7 +24,7 @@ Our Primary 1 students embarked on our inaugural Primary 1 ALP lessons which wa
 
 <p align="center"><b>A completed prototype which was used by teams to explain how it will work.</b></p>
 
-![](/images/6%20(12).jpg)
+<img src="/images/6%20(12).jpg" style="width:50%"/>
   
 #### Primary 2
 
