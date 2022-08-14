@@ -4,7 +4,6 @@ permalink: /cca/Niche/floorball
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### FLOORBALL
 
 #### Teacher in charge
@@ -49,4 +48,4 @@ Junior Boys – 2nd in tier 3 for SPSSC Floorball National School Games in 201
 | ![](/images/floorball3.jpg) | ![](/images/floorball4.jpg) | 
 | ![](/images/floorball5.jpg) | ![](/images/floorball6.jpg) | 
 
-![](/images/floorball7.jpg)
+<img src="/images/floorball7.jpg" style="width:50%"/>
