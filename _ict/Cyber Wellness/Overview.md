@@ -51,10 +51,8 @@ Health Hub:
 [Explore the suite of self-care tools and resources designed to help better understand Cyber Wellness](https://www.healthhub.sg/programmes/186/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths?utm_source=google&utm_medium=sem&utm_campaign=fy22mh_ao&utm_content=cyber_wellness#home)  
   
 
-Ministry of Education:
-
-**[Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)**
-
+Ministry of Education: <br>
+**[Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)** <br>
 _[Cyber Wellness education focuses on helping your child to be a responsible digital learner.  
 Learn more about the programme and curriculum](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)_
 
