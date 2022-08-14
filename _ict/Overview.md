@@ -60,7 +60,7 @@ During the Code for Fun workshops, students use block-based programming to progr
 As part of the modular CCA programme, all P5 Students went through the Micro:Bits Coding Programme  to encourage innovation, foster collaboration and empower students to create with technology. Students underwent training and built Smart Homes using smart sensors. The students created innovative smart homes with the Design Thinking approach. On the last day of their training, each group presented their smart homes and shared about the sensor they had incorporated in their smart homes. This programme had provided the opportunity to develop creative and innovative citizens of tomorrow. 
 
   
-| ![](/images/3%20(3).jpg) | ![](/images/4%20(3).jpg) |
+|![](/images/3%20(3).jpg)|![](/images/4%20(3).jpg)|
 | --- | --- |
 
 <p align="center">P5 Students working on their Smart Homes using Micro:Bit and sensors  </p>
