@@ -51,4 +51,4 @@ It is a platform for all students to have a wide variety of learning experiences
 
 ![](/images/6%20(11).jpg)
 
-<p align="center"><b>P6 students learning shooting through the Modular Archery Programme**</b></p>
+<p align="center"><b>P6 students learning shooting through the Modular Archery Programme</b></p>
