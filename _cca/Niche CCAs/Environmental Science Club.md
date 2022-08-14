@@ -4,7 +4,6 @@ permalink: /cca/Niche/environmental-science-club
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### ENVIRONMENTAL SCIENCE CLUB
 
 **<u>Teachers in charge</u>** <br>
@@ -28,11 +27,11 @@ Earth Day + World Water Day 2022  <br>
 Our CCA members being environmental ambassadors!   
 
   
-![](/images/WhatsApp%20Image%202022-03-25%20at%2010-23-36%20AM.jpeg)
+<img src="/images/WhatsApp%20Image%202022-03-25%20at%2010-23-36%20AM.jpeg" style="width:70%"/>
 
 <p align="center">Created PowerPoint Slides for assembly and presented it to the whole school</p>
 
-<img src="/images/WhatsApp%20Image%202022-03-30%20at%2011-04-15%20AM%201.jpeg" align="left" style="width:50%"/>
-<img src="/images/WhatsApp%20Image%202022-04-11%20at%2011-18-54%20AM.jpeg" align="right" style="width:50%"/> 
+<img src="/images/WhatsApp%20Image%202022-03-30%20at%2011-04-15%20AM%201.jpeg" align="left" style="width:50%;padding:10px"/>
+<img src="/images/WhatsApp%20Image%202022-04-11%20at%2011-18-54%20AM.jpeg" align="right" style="width:50%;padding:10px"/> 
 
 Taught their fellow Primary 2 schoolmates about design thinking and how to upcycle magazines into mini trash bins
