@@ -17,10 +17,24 @@ Students will learn the importance of reducing waste and the impact of the accum
 
 <h5 align="center"> Some of our upcycled creations </h5>
 
-| | |
-| --- | --- |
-| ![](/images/p3%201.jpg) | <p align="center">A mailbox to send letters to our friends</p> |
-| ![](/images/p3%202.jpg)  | <p align="center">A stationery organizer for our desks  </p> |
+<table>
+	<tr>
+		<td width="40%">
+			<img src="/images/p3%201.jpg"/>
+		</td>
+		<td>
+			<p align="center">A mailbox to send letters to our friends</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/p3%202.jpg"/>
+		</td>
+		<td>
+			<p align="center">A stationery organizer for our desks  </p>
+		</td>
+	</tr>
+</table>
 
   
 
