@@ -4,7 +4,6 @@ permalink: /cca/Niche/track-and-field
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### TRACK AND FIELD
 
 #### Teachers in charge
@@ -17,12 +16,14 @@ third_nav_title: Niche CCAs
 #### CCA Schedule
 
 **Term 2**
+
 | Day | Time | Pupil Involved |
 | --- | --- | --- |
 | Every Wednesday | 2.00 p.m. - 4.00 p.m. | P3, P5 and P6|
 | Every Friday | 2.00 p.m. - 4.00 p.m. | P4, P5 and P6 |
 
 **Term 3**
+
 | Day | Time | Pupil Involved |
 | --- | --- | --- |
 | Every Tuesday | 7.30 a.m. – 9.00 a.m. | P3, P4 and P5 |
@@ -30,6 +31,7 @@ third_nav_title: Niche CCAs
 | Every Friday | 2.00 p.m. - 4.00 p.m. | P4 and P5 |
 
 **Term 4**
+
 | Day | Time | Pupil Involved |
 | --- | --- | --- |
 | Every Tuesday | 7.30 a.m. – 9.00 a.m. | P3, P4 and P5 |
