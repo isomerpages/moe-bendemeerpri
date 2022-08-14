@@ -57,6 +57,5 @@ _[Cyber Wellness education focuses on helping your child to be a responsible dig
 Learn more about the programme and curriculum](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)_
 
   
-Media Literacy Council:
-
+Media Literacy Council: <br>
 Information, tips and resources by Media Literacy Council [https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)
