@@ -62,9 +62,9 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 		</td>
 		<th> Level	</th>
 		<th> Theme	</th>
-		</tr>
-		<tr>
-			<td> P1 </td>
+	</tr>
+	<tr>
+		<td> P1 </td>
 		<td rowspan="2">	Safety Motto: <br>Think Safe, Act Safe </td>
 	</tr>
 	<tr>
@@ -86,7 +86,6 @@ Through the Aesthetics domain, every student is given the opportunities to appre
 		<td> P6 </td>
 		<td> Vigilance (Cyber Wellness) <td>
 	</tr>
-	<tr><br></tr>
 	<tr>
 		<td rowspan="4">
 			<h5><em>Outreach Programme</em></h5>  <br>
