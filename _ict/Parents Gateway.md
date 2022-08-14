@@ -73,7 +73,9 @@ _Please note that SingPass Mobile login is currently not yet supported for Andro
 ##### MOE Promotional Video
 
 <a href="https://www.youtube.com/embed/PCM5o8jAncc?feature=oembed">
-	<img src="/images/moe%20pg%20video.jpg" style="width:40%"/>
+	<img src="/images/moe%20pg%20video.jpg" 
+			 align="left"
+			 style="width:40%"/>
 </a>
 
 Parents Gateway is a one-stop platform setup to bring about greater convenience for parents in their day-to-day administrative activities and enhance interaction between parents and school.
@@ -81,7 +83,9 @@ Parents Gateway is a one-stop platform setup to bring about greater convenience 
 ##### Parents Gateway Onboarding Video for Parents
 
 <a href="https://www.youtube.com/embed/tW9jwyuovOo?start=123&feature=oembed">
-	<img src="/images/onboard%20PG.jpg" style="width:40%"/>
+	<img src="/images/onboard%20PG.jpg" 
+			 align="left"
+			 style="width:40%"/>
 </a>
 
 ##### FAQ for Parents
