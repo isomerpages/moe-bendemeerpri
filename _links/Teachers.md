@@ -5,7 +5,10 @@ description: ""
 ---
 ### TEACHERS
 
-<table style="width:45%; float:left">
+<table>
+	<tr>
+		<td>
+<table>
 	<tr>
 		<td width="50%">
 			<img src="/images/exploreICTBPS.jpg"/>
@@ -91,8 +94,9 @@ description: ""
 		</td>
 	</tr>
 </table>
-
-<table style="width:45%; float:right">
+		</td>
+<td>
+<table>
 	<tr>
 		<td width="50%">
 			<img src="/images/SCMobile.png"/>
@@ -178,5 +182,5 @@ description: ""
 		</td>
 	</tr>
 </table>
-			
-			
+		</td>
+		</table>
