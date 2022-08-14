@@ -22,7 +22,7 @@ Through our ALP, our P2 to P6 students will use their knowledge gained about env
 
  Based on the school’s mission, vision and values, every Bendemeer student is a passionate learner who can learn and lead. Hence, E2SL will empower our students with the knowledge, values and dispositions to make environment friendly decisions for sustainable living. This programme is delivered to students through the E3A approach (Exposure, Engagement, Extension, Awareness & Advocacy), with a focus on Science, Technology, Engineering, Aesthetics and Mathematics (STEAM).  
 
-![](/images/2%20(28).jpg)
+<img src="/images/2%20(28).jpg" style="width:70%"/>
 
 | Lower primary students are inspired to love learning by: | Middle primary students are encouraged to show empathy by: | Upper primary students are encouraged to be adaptable and resilient in a VUCA world |
 | --- | --- | --- |
