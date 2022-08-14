@@ -28,37 +28,37 @@ Guided by our school vision, mission and the principles in developing a student-
 </thead>
 <tbody>
   <tr>
-		<td><b>Adaptability</b><br> Handle changes positively and look for opportunities in challenges </td>
+		<td><p align="center"><b>Adaptability</b><br> Handle changes positively and look for opportunities in challenges</p> </td>
     <td>Student respects and is open towards the views of others.</td>
     <td>Student is positive towards feedback given and finds ways to overcome challenges.</td>
     <td>Student is able to respond positively to changes and challenges and seeks solutions to problems.</td>
   </tr>
   <tr>
-		<td><b>Self-discipline</b> <br> Control one’s words, actions and behaviour and work hard in all that one does </td>
+		<td><p align="center"><b>Self-discipline</b> <br> Control one’s words, actions and behaviour and work hard in all that one does </p></td>
     <td>Students  is able to control his impulses and demonstrate some form of self-control in the way he interacts with others.</td>
     <td>Student is able to think before reacting and exercises patience.</td>
     <td>Student sets clear goals and follows through on his words and plans.</td>
   </tr>
   <tr>
-		<td><b>Passion</b>  <br> Love for Self, family, nation and learning </td>
+		<td><p align="center"><b>Passion</b>  <br> Love for Self, family, nation and learning </p></td>
     <td>Student shows love and concern to self, family and nation. <br> Student shows passion in learning new things, participates actively and works well with others during school activities.</td>
     <td>Student forges meaningful friendships and demonstrates an appreciation of the people from multi-cultural society. <br>Student has an inquisitive mind, is curious to gain new knowledge and is able to work collaboratively with others.</td>
     <td>Student develops a sense of national identity and an awareness of global issues. <br> Student understands the importance of collaborative learning by being proactive to extend their learning and shares the new knowledge with others.</td>
   </tr>
   <tr>
-		<td><b>Integrity</b> <br>Think, speak and live right</td>
+		<td><p align="center"><b>Integrity</b> <br>Think, speak and live right</p></td>
     <td>Student is honest and tells the truth.</td>
     <td>Student is reliable and makes responsible decisions.</td>
     <td>Student is reliable and makes responsible decisions.</td>
   </tr>
   <tr>
-		<td><b>Resilience</b>  <br>Keep trying and never give up </td>
+		<td><p align="center"><b>Resilience</b>  <br>Keep trying and never give up </p></td>
     <td>Student does not give up easily when facing difficulties.</td>
     <td>Student handles conflicts and setbacks well to maintain positive relationships with others.</td>
     <td>Student perseveres in the face of challenges and is able to manage conflicts effectively.</td>
   </tr>
   <tr>
-		<td><b>Empathy</b><br> Think, feel and do good for others </td>
+		<td><p align="center"><b>Empathy</b><br> Think, feel and do good for others </p></td>
     <td>Student shows understanding and shares the feelings of others.</td>
     <td>Student shows care and kindness within his /her community.</td>
     <td>Student is responsive to the needs of others and takes initiative to help.</td>
