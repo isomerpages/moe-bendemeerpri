@@ -4,14 +4,13 @@ permalink: /cca/Niche/indian-dance
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### INDIAN DANCE
 
 #### Teachers in charge
 
 1\.  Mrs Vannan (1st IC)  <br>
-2.  Ms Renaa Bhai   <br>
-3.  Mdm Serene
+2\.  Ms Renaa Bhai   <br>
+3\.  Mdm Serene
 
 Instructor <br>
 Mdm Jeyanthi Kesavan
