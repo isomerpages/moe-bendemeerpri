@@ -32,7 +32,7 @@ Teaching should connect learning to the real world, harness ICT tools and emphas
 
 <table>
 	<tr>
-		<td>
+		<td width="40%">
 			<img src="/images/2%20(13).jpg"/>
 		</td>
 		<td>
