@@ -1,8 +1,8 @@
 ---
 title: Calendar
-permalink: /about-us/School-Information/calendar
+permalink: /about-us/School-Information/calendar/
 description: ""
 ---
 ### CALENDAR
 
-< insert google calendar here >
+< [insert](https://support.google.com/calendar/answer/41207?hl=en) google calendar here. >
