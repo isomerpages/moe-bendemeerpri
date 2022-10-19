@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Cropped Banner.gif
+      background: /images/Banner.gif
       dropdown:
         title: Announcements
         options:
