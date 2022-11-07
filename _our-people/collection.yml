@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - School Mascot.md
       - Executive Committee (EXCO).md
       - Teaching Staff/.keep
       - Teaching Staff/Level Managers & Coordinators.md
@@ -30,3 +29,4 @@ collections:
       - Our Partners/Dr Wan Rizal, Member of Parliament for Kolam Ayer, visits
         Bendemeer Primary School.md
       - Our Partners/Mr Chan Chun Sing, Minister of Education, visits BPS.md
+      - School Mascot.md
