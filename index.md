@@ -17,5 +17,5 @@ sections:
           url: /links/students
         - title: Virtual Tour
           description: ""
-          url: ""
+          url: https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps
 ---
