@@ -19,7 +19,7 @@ description: ""
 
 ***
 
-### T3 2022 Letters to Parents
+##### T3 2022 Letters to Parents
 
 **Click [here](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview) to read more.**
 
@@ -29,10 +29,29 @@ description: ""
 
 **Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter) to read our latest issue.**
 
-**[E - Open House](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house)**
+***
 
-**[Updates on MK in BPS](https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten)**
+##### E-Open House
 
-**[BPS Virtual Tour](https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps)**
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house) to see!**
 
-**[The Bendemeer Experience](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video)**
+***
+
+##### Update on MK in BPS
+
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten) for more details!**
+
+***
+
+##### BPS Virtual Tour
+
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps) to view our virtual tour!**
+
+***
+
+##### The Bendemeer Experience
+
+
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video) to see the experience!**
+
+***
