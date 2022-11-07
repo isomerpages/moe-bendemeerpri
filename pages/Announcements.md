@@ -15,10 +15,10 @@ description: ""
 
 **[Aspire](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter)**
 
-**[E - Open House]([https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house))**
+**[E - Open House](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house)**
 
-**[Updates on MK in BPS]([https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten](https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten))**
+**[Updates on MK in BPS](https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten)**
 
-**[BPS Virtual Tour]([https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps](https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps))**
+**[BPS Virtual Tour](https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps)**
 
-**[The Bendemeer Experience]([https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video))**
+**[The Bendemeer Experience](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video)**
