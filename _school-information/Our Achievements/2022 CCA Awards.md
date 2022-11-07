@@ -124,6 +124,8 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 
+<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -619,3 +621,163 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fri0{background-color:#FFF;color:#000E18;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fri0">Name of Award</th>
+    <th class="tg-fri0">S/No</th>
+    <th class="tg-fri0">Name of Student </th>
+    <th class="tg-fri0">Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" rowspan="9">Maths Whiz<br>P5 Winners</td>
+    <td class="tg-nrix">1</td>
+    <td class="tg-nrix">BASKAR SOMESH</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2</td>
+    <td class="tg-nrix"> SOON DING YI</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">3</td>
+    <td class="tg-nrix"> YUNAV MUKARUNG RAI</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">4</td>
+    <td class="tg-nrix"> JACE NG TZE XUAN</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">5</td>
+    <td class="tg-nrix"> CIIN SIAN BAN</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6</td>
+    <td class="tg-nrix"> TIFFANY CHUA</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">7</td>
+    <td class="tg-nrix"> FELISA NG JING TIAN</td>
+    <td class="tg-nrix">5 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">8</td>
+    <td class="tg-nrix"> KAILASAM ARRISH</td>
+    <td class="tg-nrix">5 EMPATHY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">9</td>
+    <td class="tg-nrix"> LIM ZHI YU ORION</td>
+    <td class="tg-nrix">5 INTEGRITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="18">Maths Whiz<br>P6 Winners</td>
+    <td class="tg-nrix">1</td>
+    <td class="tg-nrix">ZOEY GOH YING HUI</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2</td>
+    <td class="tg-nrix">WONG KAI LEI</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">3</td>
+    <td class="tg-nrix">POOVARAGAVAN</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">4</td>
+    <td class="tg-nrix">SYARON GURUNG</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">5</td>
+    <td class="tg-nrix">LAM LE XUAN</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6</td>
+    <td class="tg-nrix">NUSRATH SULTHANA D/O NOOR MOHAMED SHAH</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">7</td>
+    <td class="tg-nrix">VIVIENNE KUHENDRAN</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">8</td>
+    <td class="tg-nrix">TAN HUI LING</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">9</td>
+    <td class="tg-nrix">JOSH ZEDRICK FUENTES ROBLES</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">10</td>
+    <td class="tg-nrix">  KAWANISHI HOTARU</td>
+    <td class="tg-nrix"> 6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">11</td>
+    <td class="tg-nrix">KATHIRVEL SRIMARAN</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">12</td>
+    <td class="tg-nrix">CHEN XINYU</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">13</td>
+    <td class="tg-nrix">VALLALAN SARAN</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">14</td>
+    <td class="tg-nrix">MO JIN XUAN</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">15</td>
+    <td class="tg-nrix">JAYDEN LUI YONG HENG</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">16</td>
+    <td class="tg-nrix">LIM EE JON</td>
+    <td class="tg-nrix">6 ADAPTABILITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">17</td>
+    <td class="tg-nrix">TAN LI YING CHLOEY </td>
+    <td class="tg-nrix">6 INTEGRITY</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">18</td>
+    <td class="tg-nrix">SHAHMINA D/O ABDUL RAHEEM</td>
+    <td class="tg-nrix">6 INTEGRITY</td>
+  </tr>
+</tbody>
+</table>
