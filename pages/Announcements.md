@@ -22,4 +22,3 @@ description: ""
 **[BPS Virtual Tour]([https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps](https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps))**
 
 **[The Bendemeer Experience]([https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video))**
-
