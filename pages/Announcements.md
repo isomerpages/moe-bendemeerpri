@@ -7,9 +7,9 @@ description: ""
 
 ***
 
-**[Mystery Motivator Intervention]([https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi)**
+**[Mystery Motivator Intervention](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi)
 
-**[Minister Chan Visits BPS!]([https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps))**
+**[Minister Chan Visits BPS!](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps)**
 
 **[T3 2022 Letters to Parents](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview)**
 
