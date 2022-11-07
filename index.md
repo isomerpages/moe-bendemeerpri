@@ -10,8 +10,8 @@ sections:
       background: /images/Banner_Cropped.gif
       key_highlights:
         - title: Announcements
-          description: /Announcements/
-          url: ""
+          description: ""
+          url: /Announcements/
         - title: Links
           description: ""
           url: ""
