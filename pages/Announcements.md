@@ -7,13 +7,27 @@ description: ""
 
 ***
 
-**[Mystery Motivator Intervention](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi)**
+##### Mystery Motivator Intervention
 
-**[Minister Chan Visits BPS!](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps)**
+**Click [Here](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi) for more info.**
 
-**[T3 2022 Letters to Parents](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview)**
+***
 
-**[Aspire](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter)**
+##### Minister Chan Visits BPS!]
+
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps) to find out more!**
+
+***
+
+### T3 2022 Letters to Parents
+
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview) to read more.**
+
+***
+
+##### Aspire Issue 1
+
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter) to read our latest issue.**
 
 **[E - Open House](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house)**
 
