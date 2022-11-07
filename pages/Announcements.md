@@ -11,7 +11,7 @@ description: ""
 
 **[Minister Chan Visits BPS!](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps)**
 
-**[T3 2022 Letters to Parents](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview)**
+**[T3 2022 Letters to Parents](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview)**
 
 **[Aspire]([https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter))**
 
