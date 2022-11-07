@@ -13,7 +13,7 @@ description: ""
 
 **[T3 2022 Letters to Parents](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview)**
 
-**[Aspire]([https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter))**
+**[Aspire](https://moe-bendemeerpri-staging.netlify.app/about-us/aspire-newsletter)**
 
 **[E - Open House]([https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house))**
 
