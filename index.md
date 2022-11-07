@@ -14,7 +14,7 @@ sections:
           url: /Announcements/
         - title: Links
           description: ""
-          url: ""
+          url: /links/students
         - title: Virtual Tour
           description: ""
           url: ""
