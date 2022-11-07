@@ -33,7 +33,7 @@ description: ""
 
 #### E-Open House
 
-**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/new-e-open-house) to see!**
+**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience) to see!**
 
 ***
 
@@ -48,10 +48,5 @@ description: ""
 **Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/virtual-tour-of-bps) to view our virtual tour!**
 
 ***
-
-#### The Bendemeer Experience
-
-
-**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/the-bendemeer-experience-corporate-video) to see the experience!**
 
 ***
