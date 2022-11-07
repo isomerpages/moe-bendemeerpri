@@ -2,12 +2,12 @@ collections:
   school-information:
     output: true
     order:
-      - School Song.md
-      - School Crest, Mission, Vision, Motto, Values.md
-      - Our History.md
       - Overview.md
-      - Calendar.md
+      - Our History.md
+      - School Crest, Mission, Vision, Motto, Values.md
+      - School Song.md
       - Operation Hours.md
+      - Calendar.md
       - School Rules.md
       - School Regulations.md
       - School Terms & Holidays.md
