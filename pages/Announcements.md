@@ -7,7 +7,7 @@ description: ""
 
 ***
 
-**[Mystery Motivator Intervention](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi)
+**[Mystery Motivator Intervention](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi)**
 
 **[Minister Chan Visits BPS!](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps)**
 
