@@ -1,13 +1,74 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    url: /about-us/overview
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principal-message
+      - title: School Information
+        url: /about-us/School-Information/overview
+      - title: "Our Achievements "
+        url: /school-information/Our-Achievements/2022-CCA-Awards/
+      - title: The Bendemeer Experience
+        url: /about-us/the-bendemeer-experience
+      - title: Virtual Tour of BPS
+        url: /about-us/virtual-tour-of-bps
+      - title: Aspire Newsletter
+        url: /about-us/aspire-newsletter
+      - title: MOE Kindergarten
+        url: /about-us/moe-kindergarten
+      - title: Gallery
+        url: /about-us/gallery
+  - title: Our People
+    url: /our-people/exco
+    sublinks:
+      - title: Executive Committee (EXCO)
+        url: /our-people/exco
+      - title: Teaching Staff
+        url: /our-people/teaching-staff/level-managers
+      - title: Non Teaching Staff
+        url: /our-people/non-teaching-staff
+      - title: Parent Support Group (PSG)
+        url: /our-people/psg
+      - title: School Advisory Committee SAC
+        url: /our-people/sac
+      - title: For Parents
+        url: /our-people/for-parents
+      - title: Our Partners
+        url: /our-people/our-partners/overview
+      - title: School Mascot
+        url: /our-people/school-mascot/
+  - title: Curriculum
+    url: /curriculum/overview
+    sublinks:
+      - title: English
+        url: /curriculum/english
+      - title: Mother Tongue
+        url: /curriculum/Mother-Tongue/overview
+      - title: Mathematics
+        url: /curriculum/mathematics
+      - title: Science
+        url: /curriculum/science
+      - title: Aesthetics
+        url: /curriculum/aesthetics
+      - title: CCE
+        url: /curriculum/CCE/overview
+      - title: Health Education
+        url: /curriculum/health-education
+      - title: ICT
+        url: /curriculum/ict/overview
+      - title: Pupil Management
+        url: /curriculum/pupil-management/overview
+      - title: Physical Education
+        url: /curriculum/physical-education
+      - title: School Library
+        url: /curriculum/School-Library/overview
+  - title: Co-Curriculum
+    url: /co-curriculum
+    sublinks:
+      - title: ALP
+        url: /alp/overview
+      - title: CCA
+        url: /cca/overview
+  - title: Links
+    collection: links

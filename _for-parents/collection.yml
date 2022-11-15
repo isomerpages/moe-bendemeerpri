@@ -1,0 +1,30 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Overview.md
+      - Parents Engagement Resources/.keep
+      - Parents Engagement Resources/Parents Engagement Resources.md
+      - Parents Engagement Resources/Micro Learning Unit For Parents with SEN
+        Children.md
+      - Parents Engagement Resources/Mystery Motivator Intervention.md
+      - Positive Parenting Programmes/.keep
+      - Positive Parenting Programmes/Overview.md
+      - Positive Parenting Programmes/Positive Parenting Programme (Triple P)
+        Selected Seminar Series (For Mandarin Speaking Parents).md
+      - Positive Parenting Programmes/Positive Parenting Programme (Triple P)
+        Level 2 Seminar Runs.md
+      - Academic Matters/.keep
+      - Academic Matters/Overview.md
+      - Academic Matters/Subject Based Banding (Primary) (SBB(Pri)).md
+      - Academic Matters/Home Based Learning = Don't Worry, Be Steady! Part2.md
+      - Letter to Parents.md
+      - HPB Modern Parent.md
+      - The Growing Years Programme for P5 & P6.md
+      - FAQs for COVID19 in Singapore.md
+      - Featured on.md
+      - Important Information for Primary 1.md
+      - P1 Parents Seminar 2022.md
+      - 2022 Direct School Admission for Secondary School.md
+      - Information on Parents Workshop Briefing.md
+      - Student Insurance Matters.md

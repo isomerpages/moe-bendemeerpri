@@ -1,0 +1,8 @@
+collections:
+  alp:
+    output: true
+    order:
+      - Overview.md
+      - Primary 1 & 2.md
+      - Primary 3 & 4.md
+      - Innovation Day 2022.md

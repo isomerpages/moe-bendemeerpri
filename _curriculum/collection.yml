@@ -1,0 +1,24 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Overview.md
+      - English.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Mathematics.md
+      - Science.md
+      - Aesthetics.md
+      - CCE/.keep
+      - CCE/Overview.md
+      - CCE/National Education.md
+      - Health Education.md
+      - Information Communication Technology (ICT).md
+      - Pupil Management.md
+      - Physical Education.md
+      - School Library/.keep
+      - School Library/Overview.md
+      - School Library/Readers' Rendezvous @BPS.md
