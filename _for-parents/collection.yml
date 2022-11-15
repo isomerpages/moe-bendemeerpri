@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Student Insurance Matters.md
       - Overview.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
@@ -28,3 +27,4 @@ collections:
       - P1 Parents Seminar 2022.md
       - 2022 Direct School Admission for Secondary School.md
       - Information on Parents Workshop Briefing.md
+      - Student Insurance Matters.md
