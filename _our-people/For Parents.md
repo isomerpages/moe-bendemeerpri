@@ -16,4 +16,4 @@ description: ""
 [Important Information for Primary 1](/our-people/for-parents/impt-info-p1)<br>
 [P1 Parents Seminar for 2022](/our-people/for-parents/p1-parents-seminar-2022)  
 [2022 DSA for Secondary School](/our-people/for-parents/dsa-2022)  
-[Student Insurance Matters]()
+[Student Insurance Matters](/for-parents/Student-Insurance-Matters/)
