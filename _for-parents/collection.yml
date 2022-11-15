@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Student Insurance Matters/.keep
       - Overview.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
