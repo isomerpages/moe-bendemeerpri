@@ -21,7 +21,6 @@ description: ""
 | Student Welfare Officer | Mdm Nurshedah  | [nurshedah\_kamsani@moe.edu.sg](mailto:nurshedah_kamsani@moe.edu.sg) |
 | Senior School Counsellor | Ms Louise Leong | [leong\_puay\_lee@moe.edu.sg](mailto:leong_puay_lee@moe.edu.sg)   |
 | School Counsellor | Mrs Maznahbi Peter Nee  | [maznahbi\_peter@moe.edu.sg](mailto:maznahbi_peter@moe.edu.sg) |
-| School Counsellor | Mr Stephen Lim | [stephen\_lim@schools.gov.sg](mailto:stephen_lim@schools.gov.sg) |
 | School Counsellor | Mr Chua Sze Siong  | [chua\_sze\_siong@schools.gov.sg](mailto:chua_sze_siong@schools.gov.sg) |
 | ICT Manager  | Mr Shawinder  Saraj Singh| [Singh_Saraj_Shawinder@moe.edu.sg](mailto:Singh_Saraj_Shawinder@moe.edu.sg)
 | ICT Manager  | Mr Muhammad Nuriman  | [muhammad\_nuriman@moe.edu.sg](mailto:muhammad_nuriman@moe.edu.sg)             
