@@ -21,5 +21,3 @@ Please refer to the links to the slides shared during the Primary 1 orientation 
 [Parent Support Group slides](https://drive.google.com/file/d/1TEdgmD1ut3BniHn1unRjG98vWz-jKDIO/view?usp=share_link)
 
 [Booklist for Primary 1 for 2023](https://drive.google.com/file/d/1ip_7q_pWcLE1txF3Z8d3gSTxfgPm7dEj/view?usp=share_link)
-
-admin.cwp.sg/our-people/for-parents/important-information-for-primary-1) here > |
