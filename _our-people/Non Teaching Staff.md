@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /our-people/non-teaching-staff
+permalink: /our-people/non-teaching-staff/
 description: ""
 ---
 ### NON TEACHING STAFF
@@ -23,7 +23,8 @@ description: ""
 | School Counsellor | Mrs Maznahbi Peter Nee  | [maznahbi\_peter@moe.edu.sg](mailto:maznahbi_peter@moe.edu.sg) |
 | School Counsellor | Mr Stephen Lim | [stephen\_lim@schools.gov.sg](mailto:stephen_lim@schools.gov.sg) |
 | School Counsellor | Mr Chua Sze Siong  | [chua\_sze\_siong@schools.gov.sg](mailto:chua_sze_siong@schools.gov.sg) |
-| ICT Manager  | Mr Muhammad Nur'lman  | [muhammad\_nuriman@moe.edu.sg](mailto:muhammad_nuriman@moe.edu.sg) |
+| ICT Manager  | Mr Shawinder  Saraj Singh| [Singh_Saraj_Shawinder@moe.edu.sg](mailto:Singh_Saraj_Shawinder@moe.edu.sg)
+| ICT Manager  | Mr Muhammad Nuriman  | [muhammad\_nuriman@moe.edu.sg](mailto:muhammad_nuriman@moe.edu.sg)             
 | Desktop Engineer  | Mr Syed Mawla  | [syedmawla@ncs.com.sg](mailto:syedmawla@ncs.com.sg)  |
 | Desktop Engineer | Ms Rashidah Binti Nor Hisham  | [rashidah.hisham@ncs.com.sg](mailto:rashidah.hisham@ncs.com.sg) |
 | Librarian | Mrs Soo Kok Weng  | [ksoo@staff.spydus.com.sg](mailto:ksoo@staff.spydus.com.sg)  |
