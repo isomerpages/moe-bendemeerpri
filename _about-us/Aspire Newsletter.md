@@ -1,6 +1,6 @@
 ---
 title: Aspire Newsletter
-permalink: /about-us/aspire-newsletter
+permalink: /about-us/aspire-newsletter/
 description: ""
 ---
 ### ASPIRE NEWSLETTER

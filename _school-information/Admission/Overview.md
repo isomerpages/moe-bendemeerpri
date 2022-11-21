@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /about-us/School-Information/Admission/Overview
+permalink: /about-us/School-Information/Admission/Overview/
 description: ""
 third_nav_title: Admission
 ---

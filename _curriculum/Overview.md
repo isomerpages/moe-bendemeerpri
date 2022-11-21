@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /curriculum/overview
+permalink: /curriculum/overview/
 description: ""
 ---
 ### CURRICULUM

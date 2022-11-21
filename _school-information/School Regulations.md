@@ -1,6 +1,6 @@
 ---
 title: School Regulations
-permalink: /about-us/School-Information/school-regulations
+permalink: /about-us/School-Information/school-regulations/
 description: ""
 ---
 ### SCHOOL REGULATIONS

@@ -1,6 +1,6 @@
 ---
 title: Public Performances
-permalink: /cca/Niche/indian-dance/public-performances
+permalink: /cca/Niche/indian-dance/public-performances/
 description: ""
 ---
 ### PUBLIC PERFORMANCES

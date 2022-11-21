@@ -1,6 +1,6 @@
 ---
 title: Executive Committee (EXCO)
-permalink: /our-people/exco
+permalink: /our-people/exco/
 description: ""
 ---
 ### EXECUTIVE COMMITTEE (EXCO)

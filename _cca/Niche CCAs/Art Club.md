@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /cca/Niche/art-club
+permalink: /cca/Niche/art-club/
 description: ""
 third_nav_title: Niche CCAs
 ---

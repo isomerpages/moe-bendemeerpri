@@ -1,6 +1,6 @@
 ---
 title: Virtual Tour of BPS
-permalink: /about-us/virtual-tour-of-bps
+permalink: /about-us/virtual-tour-of-bps/
 description: ""
 image: ""
 ---

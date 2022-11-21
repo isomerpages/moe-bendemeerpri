@@ -1,6 +1,6 @@
 ---
 title: Primary 1 & 2
-permalink: /alp/p1-p2
+permalink: /alp/p1-p2/
 description: ""
 ---
 ### PRIMARY 1 & 2

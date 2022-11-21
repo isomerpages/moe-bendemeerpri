@@ -1,5 +1,5 @@
 ---
 title: School Information
-permalink: /about-us/School-Information/overview
+permalink: /about-us/School-Information/overview/
 description: ""
 ---
