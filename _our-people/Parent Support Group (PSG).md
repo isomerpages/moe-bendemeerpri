@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /our-people/psg
+permalink: /our-people/psg/
 description: ""
 ---
 ### PARENT SUPPORT GROUP (PSG)

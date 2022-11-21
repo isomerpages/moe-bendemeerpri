@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-people/for-parents/ict-matters/overview
+permalink: /our-people/for-parents/ict-matters/overview/
 description: ""
 ---
 

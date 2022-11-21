@@ -1,6 +1,6 @@
 ---
 title: Level Managers & Coordinators
-permalink: /our-people/teaching-staff/level-managers
+permalink: /our-people/teaching-staff/level-managers/
 description: ""
 third_nav_title: Teaching Staff
 ---

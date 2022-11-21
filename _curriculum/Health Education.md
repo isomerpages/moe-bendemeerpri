@@ -1,6 +1,6 @@
 ---
 title: Health Education
-permalink: /curriculum/health-education
+permalink: /curriculum/health-education/
 description: ""
 ---
 ### HEALTH EDUCATION

@@ -1,6 +1,6 @@
 ---
 title: The Bendemeer Experience (e Open House)
-permalink: /about-us/the-bendemeer-experience
+permalink: /about-us/the-bendemeer-experience/
 description: ""
 ---
 ### THE BENDEMEER EXPERIENCE (E-OPEN HOUSE)

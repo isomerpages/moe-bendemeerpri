@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /curriculum/ict/parents-gateway
+permalink: /curriculum/ict/parents-gateway/
 description: ""
 ---
 ### PARENTS GATEWAY

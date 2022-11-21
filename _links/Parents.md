@@ -1,6 +1,6 @@
 ---
 title: Parents
-permalink: /links/parents
+permalink: /links/parents/
 description: ""
 ---
 ### PARENTS

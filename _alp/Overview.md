@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /alp/overview
+permalink: /alp/overview/
 description: ""
 ---
 ### Applied Learning Programme (ALP)

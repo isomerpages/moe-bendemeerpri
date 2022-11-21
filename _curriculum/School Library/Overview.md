@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /curriculum/School-Library/overview
+permalink: /curriculum/School-Library/overview/
 description: ""
 third_nav_title: School Library
 ---

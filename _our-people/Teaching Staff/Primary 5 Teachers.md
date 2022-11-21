@@ -1,6 +1,6 @@
 ---
 title: Primary 5 Teachers
-permalink: /our-people/teaching-staff/p5-teachers
+permalink: /our-people/teaching-staff/p5-teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
