@@ -1,6 +1,6 @@
 ---
 title: 2022 Direct School Admission for Secondary School
-permalink: /our-people/for-parents/dsa-2022
+permalink: /our-people/for-parents/dsa-2022/
 description: ""
 ---
 ### 2022 DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOL

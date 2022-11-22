@@ -1,6 +1,6 @@
 ---
 title: Allied Educators (T&L)
-permalink: /our-people/teaching-staff/allied-educators
+permalink: /our-people/teaching-staff/allied-educators/
 description: ""
 third_nav_title: Teaching Staff
 ---

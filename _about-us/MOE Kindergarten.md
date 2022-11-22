@@ -1,6 +1,6 @@
 ---
 title: MOE Kindergarten
-permalink: /about-us/moe-kindergarten
+permalink: /about-us/moe-kindergarten/
 description: ""
 ---
 <img src="/images/05%20MOE%20Kindergarten%20Logo.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Teachers
-permalink: /our-people/teaching-staff/mt-teachers
+permalink: /our-people/teaching-staff/mt-teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---

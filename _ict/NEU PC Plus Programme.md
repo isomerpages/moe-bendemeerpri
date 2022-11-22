@@ -1,6 +1,6 @@
 ---
 title: NEU PC Plus Programme
-permalink: /curriculum/ict/neu-pc-plus
+permalink: /curriculum/ict/neu-pc-plus/
 description: ""
 ---
 ### NEU PC PLUS PROGRAMME

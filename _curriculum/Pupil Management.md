@@ -1,6 +1,6 @@
 ---
 title: Pupil Management
-permalink: /curriculum/pupil-management/overview
+permalink: /curriculum/pupil-management/overview/
 description: ""
 ---
 ### PUPIL MANAGEMENT

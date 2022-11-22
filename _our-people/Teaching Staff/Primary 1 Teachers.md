@@ -1,6 +1,6 @@
 ---
 title: Primary 1 Teachers
-permalink: /our-people/teaching-staff/p1-teachers
+permalink: /our-people/teaching-staff/p1-teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---

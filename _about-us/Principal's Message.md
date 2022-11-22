@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/principal-message
+permalink: /about-us/principal-message/
 description: ""
 image: ""
 ---

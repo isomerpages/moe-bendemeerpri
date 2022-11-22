@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /cca/Niche/indian-dance
+permalink: /cca/Niche/indian-dance/
 description: ""
 third_nav_title: Niche CCAs
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /curriculum/ict/overview
+permalink: /curriculum/ict/overview/
 description: ""
 ---
 ### INFORMATION COMMUNICATION TECHNOLOGY (ICT)

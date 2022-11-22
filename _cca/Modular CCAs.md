@@ -1,6 +1,6 @@
 ---
 title: Modular CCAs
-permalink: /cca/modular
+permalink: /cca/modular/
 description: ""
 ---
 ### MODULAR CCAS

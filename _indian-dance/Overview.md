@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /cca/Niche/indian-dance
+permalink: /cca/Niche/indian-dance/
 description: ""
 ---
 

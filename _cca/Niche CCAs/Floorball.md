@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /cca/Niche/floorball
+permalink: /cca/Niche/floorball/
 description: ""
 third_nav_title: Niche CCAs
 ---

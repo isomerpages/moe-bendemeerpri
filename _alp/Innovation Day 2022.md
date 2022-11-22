@@ -1,6 +1,6 @@
 ---
 title: Innovation Day 2022
-permalink: /alp/innovation-day
+permalink: /alp/innovation-day/
 description: ""
 ---
 
