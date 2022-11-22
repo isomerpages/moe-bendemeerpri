@@ -27,7 +27,7 @@ description: ""
 		</td>
 		<td>
 			<p align="center">
-				<a href=[undefined](https://form.gov.sg/60f4fef1bd815f0011b2b5d3)>
+				<a href="https://form.gov.sg/60f4fef1bd815f0011b2b5d3">
 					 Leave of Absence form
 				</a>
 			</p>
