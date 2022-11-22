@@ -28,12 +28,10 @@ Mondays to Fridays <br>
 
 #### Booklist
 2023 Booklist <br>
-[Primary 2.pdf](/files/Bendemeer%20Booklist%202023%20Primary%202.pdf) <br>
-[Primary 3.pdf](/files/Bendemeer%20Booklist%202023%20Primary%203.pdf) <br>
-[Primary 4.pdf]
-(/files/Bendemeer%20Booklist%202023%20Primary%204.pdf) <br>
-[Primary 4HMT.pdf]
-(/files/Bendemeer%20Booklist%202023%20Primary%204%20HMT.pdf) <br>
+[Primary 2.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%202.pdf)
+[Primary 3.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%203.pdf) <br>
+[Primary 4.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%204.pdf) <br>
+[Primary 4HMT.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%204%20HMT.pdf) <br>
 [Primary 5 2S2F.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%202S2F%20FMA%20FSC.pdf) <br>
 [Primary 5 4F.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%204F.pdf) <br>
 [Primary 5 4S.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%204S.pdf) <br>
