@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-bendemeerpri-staging.netlify.app
-prod: https://moe-bendemeerpri-prod.netlify.app
+staging: https://staging.drvhmumouuxgv.amplifyapp.com
+prod: https://master.drvhmumouuxgv.amplifyapp.com
 shareicon: /images/Bendemeer Logos/Bendemeer-Primary-Final.png
 is_government: false
 facebook-pixel: ""
