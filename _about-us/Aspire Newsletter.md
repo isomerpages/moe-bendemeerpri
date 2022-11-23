@@ -5,10 +5,10 @@ description: ""
 ---
 ### ASPIRE NEWSLETTER
 
-Aspire Newsletter Issue 1 2022  
-May 2022  
-![May 2022.jpg](/images/May%202022.jpg)
-[PDF Version](/files/Aspire2022Issue1-web.pdf)
+Link to read our ASPIRE newsletters for 2022!
+Click [here](https://drive.google.com/drive/folders/1L-x2OXmdVNeJKMzo6qtRzTchfwLsWnH_?usp=share_link)!
+
+
   
 Aspire Newsletter Issue 2 2021  
 November 2021  
