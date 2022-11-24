@@ -7,7 +7,7 @@ description: ""
 Aspire Newsletter Issue 2 2022
 (November 2022)
 ![Cover page for Aspire Newsletter Issue 2 2022](/images/aspire_issue2_2022.jpg)
-[Click here to read Issue 2!](https://drive.google.com/file/d/197xUx_6Gs3fXeRHT_yd7yaP17W45YohM/view?usp=share_link)
+[Click here to read Issue 2 for 2022!](https://drive.google.com/file/d/197xUx_6Gs3fXeRHT_yd7yaP17W45YohM/view?usp=share_link)
 
 Aspire Newsletter Issue 1 2022
 (July 2022)
