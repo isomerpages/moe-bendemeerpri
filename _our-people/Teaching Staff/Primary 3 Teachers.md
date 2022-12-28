@@ -10,8 +10,9 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|
 |---	|---	|---	|
-| 3 Adaptability 	| Mdm Koh Siok Hui<br>Mrs Elis Tjandra<br>Mdm Teoh Hai Wei 	| [koh\_siok\_hui@moe.edu.sg](mailto:koh_siok_hui@moe.edu.sg) <br>[elis\_tjandra@moe.edu.sg](mailto:elis_tjandra@moe.edu.sg) <br>[teoh\_hai\_wei@moe.edu.sg](mailto:teoh_hai_wei@moe.edu.sg) 	|
-| 3 Empathy 	| Ms Chua Wen Qian<br>Mrs Amily Wong 	| [chua\_wen\_qian@moe.edu.sg](mailto:chua_wen_qian@moe.edu.sg)  <br>[teh\_ai\_hui\_amily@moe.edu.sg](mailto:teh_ai_hui_amily@moe.edu.sg) 	|
-| 3 Integrity 	| Mdm Aisha<br>Mrs Cindy Ong 	| [siti\_aisha\_juraimi@moe.edu.sg](mailto:siti_aisha_juraimi@moe.edu.sg)<br>[teo\_cindy@moe.edu.sg](mailto:teo_cindy@moe.edu.sg)	|
-| 3 Passion 	| Ms Sandy Yeo<br>Mr Azimi 	| [yeo\_kwee\_ping@moe.edu.sg](mailto:yeo_kwee_ping@moe.edu.sg)  <br>[azimi\_b\_ahmad@moe.edu.sg](mailto:azimi_b_ahmad@moe.edu.sg) 	|
-| 3 Resilience 	| Mrs Joyce Lim<br>Mr Richmond Loo 	| [joyce\_lim\_joon\_hen@moe.edu.sg](mailto:joyce_lim_joon_hen@moe.edu.sg) <br>[loo\_chuan\_long@moe.edu.sg](mailto:loo_chuan_long@moe.edu.sg) 	|
+| 3 Adaptability 	| Ms Koh Mei Shan<br>Mr Hamzah 	| [koh\_siok\_hui@moe.edu.sg](mailto:koh_siok_hui@moe.edu.sg) <br>[hamzah_mahmid\_tjandra@moe.edu.sg](mailto:hamzah_mahmid@moe.edu.sg) <br> 	|
+| 3 Empathy 	| Mrs Seetha Dhillon<br>Mr Jerald 	| [seetha\_kumari\_jeet\_singh@moe.edu.sg](mailto:seetha_kumari_jeet_singh@moe.edu.sg)  <br>[teh\_ai\_hui\_amily@moe.edu.sg](mailto:teh_ai_hui_amily@moe.edu.sg) 	|
+| 3 Integrity 	| Mrs Yap<br>Mdm He Xueya 	| [siti\_aisha\_juraimi@moe.edu.sg](mailto:siti_aisha_juraimi@moe.edu.sg)<br>[He_Xueya\@moe.edu.sg](mailto:He_Xueya@schools.gov.sg)	|
+| 3 Passion 	| Soon Lay Har<br>Xing Hong 	| [soon\_lay\_har@moe.edu.sg](mailto:soon_lay_har@moe.edu.sg)  <br>[azimi\_b\_ahmad@moe.edu.sg](mailto:azimi_b_ahmad@moe.edu.sg) 	|
+| 3 Resilience 	| Mr Raymond Lee<br>Ms Geraline Seow 	| [joyce\_lim\_joon\_hen@moe.edu.sg](mailto:joyce_lim_joon_hen@moe.edu.sg) <br>[loo\_chuan\_long@moe.edu.sg](mailto:loo_chuan_long@moe.edu.sg) 	|
+| 3 Self Discipline 	| Mr Alvin Lee<br>Ms Parhana 	| [joyce\_lim\_joon\_hen@moe.edu.sg](mailto:joyce_lim_joon_hen@moe.edu.sg) <br>[loo\_chuan\_long@moe.edu.sg](mailto:loo_chuan_long@moe.edu.sg) 	|
