@@ -12,6 +12,6 @@ third_nav_title: Teaching Staff
 |---	|---	|---	|
 | 4 Adaptability 	| Mdm Elis Tjandra<br> Mdm Teoh HW 	| [elis\_tjandra@moe.edu.sg](mailto:elis_tjandra@moe.edu.sg) <br>[yoo\_pei\_li@moe.edu.sg](mailto:yoo_pei_li@moe.edu.sg) 	|
 | 4 Empathy 	| Mrs Amily Wong<br>Yoo Pei Li 	| [lee\_jun\_ming\_alvin@moe.edu.sg](mailto:lee_jun_ming_alvin@moe.edu.sg) <br>[yoo\_pei_li@moe.edu.sg](mailto:yoo_pei_li@schools.gov.sg) 	|
-| 4 Integrity<br> 	| Mdm Siti Aisha<br>Mrs Vannan 	| [norherliza\_ab\_rahim@moe.edu.sg](mailto:norherliza_ab_rahim@moe.edu.sg) <br>[mok\_foong\_keng@moe.edu.sg](mailto:mok_foong_keng@moe.edu.sg) <br>[yew\_seok\_chun@moe.edu.sg](mailto:yew_seok_chun@moe.edu.sg)	|
-| 4 Passion 	| Ms Sandy Yeo<br>Mr Azimi  	| [soon\_lay\_har@moe.edu.sg](mailto:soon_lay_har@moe.edu.sg) <br>[tan\_sheng\_yang\_jerald@moe.edu.sg](mailto:tan_sheng_yang_jerald@moe.edu.sg)	|
-| 4 Resilience 	| Mrs Joyce Lim<br>Mrs Kanages 	| [chan\_hoe\_kim@moe.edu.sg](mailto:chan_hoe_kim@moe.edu.sg) <br>[ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
+| 4 Integrity<br> 	| Mdm Siti Aisha<br>Mrs Vannan 	| [siti\_aisha@moe.edu.sg](mailto:siti_aisha_juraimi@schools.gov.sg) <br>[mok\_foong\_keng@moe.edu.sg](mailto:mok_foong_keng@moe.edu.sg) <br>	|
+| 4 Passion 	| Ms Sandy Yeo<br>Mr Azimi  	| [soon\_lay\_har@moe.edu.sg](mailto:soon_lay_har@moe.edu.sg) <br>[azimi\_b\_ahmad@moe.edu.sg](mailto:azimi_b_ahmad@moe.edu.sg)	|
+| 4 Resilience 	| Mrs Joyce Lim<br>Mrs Kanages 	| [chan\_hoe\_kim@moe.edu.sg](mailto:joyce_lim_joon_hen@me.edu.sg) <br>[kanages\_ravindran@moe.edu.sg](mailto:kanageswari_ravindran@moe.edu.sg) 	|
