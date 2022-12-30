@@ -13,6 +13,6 @@ third_nav_title: Teaching Staff
 | 5 Adaptability 	| Mdm Jessintha<br>Mr Santhos	| [jessintha\_sasayiah@moe.edu.sg](mailto:jessintha_sasayiah@moe.edu.sg) <br>[santhosa\_kumar_n_s@moe.edu.sg](mailto:santhosa_kumar_n_s@edu.gov.sg)	|
 | 5 Empathy 	| Mdm Maha<br>An Qinglin 	| [maha\_letchimi\_krishnasamy@moe.edu.sg](mailto:maha_letchimi_krishnasamy@moe.edu.sg) <br>[an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
 | 5 Integrity 	| Ms Karin Lee<br>Mr Fahmy 	| [lee\_karin@moe.edu.sg](mailto:lee_karin@moe.edu.sg) <br>[Mohammad\_Fahmy\_Abdul\_Ghani@moe.edu.sg](mailto:Mohammad_Fahmy_Abdul_Ghani@moe.edu.sg) 	|
-| 5 Passion 	| Mdm Phyllis Kwei<br>Mr Roy Ngai  	| [lee\_teck\_siang@moe.edu.sg](mailto:lee_teck_siang@moe.edu.sg) <br>[ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
+| 5 Passion 	| Mdm Phyllis Kwei<br>Mr Roy Ngai  	| [kwei\_seng\_poh@moe.edu.sg](mailto:kwei_seng_poh@moe.edu.sg ) <br>[ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
 | 5 Resilience 	| Mr Lee Zheng Wei<br>Mdm Lam Shuzhen| [ho\_kam\_seng\_tommy@moe.edu.sg](mailto:ho_kam_seng_tommy@moe.edu.sg) <br>[lam\_shuzhen\@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg)	|
 | 5 Self Discipline 	| Mr Andrew Hong<br>Mdm Annabelle| [andrew\_hong@moe.edu.sg](mailto:andrew_hong@moe.edu.sg) <br>[annabelle\_ananthi\_clement@moe.edu.sg](mailto:annabelle_ananthi_clemant@moe.edu.sg)	|
