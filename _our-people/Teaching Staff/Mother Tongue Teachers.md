@@ -14,15 +14,12 @@ third_nav_title: Teaching Staff
 |---	|---	|
 | Mdm Yeo Kwang Yee 	| [yeo\_kwang\_yee@moe.edu.sg](mailto:yeo_kwang_yee@moe.edu.sg) 	|
 | Mdm Lee Giak Choo 	| [lee\_giak\_choo@moe.edu.sg](mailto:lee_giak_choo@moe.edu.sg) 	|
-| Mdm Yew Seok Chun 	| [yew\_seok\_chun@moe.edu.sg](mailto:yew_seok_chun@moe.edu.sg) 	|
 | Mdm Xu Yuanna 	| [xu\_yuanna@moe.edu.sg](mailto:xu_yuanna@moe.edu.sg)	|
-| Ms Millie Kuan 	| [kuan\_lay\_chung\_millie@moe.edu.sg](mailto:kuan_lay_chung_millie@moe.edu.sg) 	|
-| Mr Tan Chun Chiah 	| [tan\_chun\_chiah@moe.edu.sg](mailto:tan_chun_chiah@moe.edu.sg)	|
+| Ms Millie Kuan 	| [kuan\_lay\_chung\_millie@moe.edu.sg](mailto:kuan_lay_chung_millie@moe.edu.sg) |
 | Ms Teoh Hai Wei  	| [teoh\_hai\_wei@moe.edu.sg](mailto:teoh_hai_wei@moe.edu.sg)	|
 | Mdm Lam Shuzhen 	| [lam\_shuzhen@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg) 	|
 | Mdm An Qinglin 	| [an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
 | Ms He Xueya  	| [he\_xueya@moe.edu.sg](mailto:he_xueya@moe.edu.sg)|
-| Mdm Shirley Ng    	| [ng\_ai\_li\_shirleywijaya@moe.edu.sg](mailto:ng_ai_li_shirleywijaya@moe.edu.sg) 	|
 | Mdm Xin Hong 	| [xin\_hong@schools.gov.sg](mailto:xin_hong@schools.gov.sg)	|
 
 ##### Tamil
