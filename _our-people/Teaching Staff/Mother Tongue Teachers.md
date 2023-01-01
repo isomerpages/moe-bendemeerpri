@@ -37,3 +37,4 @@ third_nav_title: Teaching Staff
 | Mdm Zakiyah Abdul Karim 	| [zakiyah\_abdul\_karim@moe.edu.sg](mailto:zakiyah_abdul_karim@moe.edu.sg) 	|
 | Mdm Farhanah 	| [farhanah\_suratman@moe.edu.sg](mailto:farhanah_suratman@moe.edu.sg) 	|
 | Ms Diyanah Zahirah Binte Amiral 	| [diyanah\_zahirah\_amiral@moe.edu.sg](mailto:diyanah_zahirah_amiral@moe.edu.sg)	|
+| Mohammad Fahmy 	|[Mohammad\_Fahmy\_Abdul\_Ghani@moe.edu.sg](mailto:Mohammad_Fahmy_Abdul_Ghani@moe.edu.sg) 	|
