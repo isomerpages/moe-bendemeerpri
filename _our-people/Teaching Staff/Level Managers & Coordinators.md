@@ -26,8 +26,7 @@ third_nav_title: Teaching Staff
 | Malay Language Coordinator 	| Mdm Amnah 	| [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 	|
 | Tamil Language Coordinator 	| Mdm M Meenatchi 	| [m\_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg) 	|
 | Music Coordinator 	| Ms Liew Siim Wii 	| [Liew\_Siim\_Wii@moe.edu.sg](mailto:Liew_Siim_Wii@schools.gov.sg) 	|
-| CCE Coordinator 	| Ms Sulasteri 	| [sulasteri\_mohammad\_sidek@moe.edu.sg](mailto:sulasteri_mohammad_sidek@moe.edu.sg) 	|
-| CCE Coordinator  	| Mr Lim Dali  	| [lim\_dali@moe.edu.sg](mailto:lim_dali@moe.edu.sg) 	|
+| CCE Coordinator 	| Ms Sulasteri 	| [sulasteri\_mohammad\_sidek@moe.edu.sg](mailto:sulasteri_mohammad_sidek@moe.edu.sg) 	 	|
 | AVA Coordinator 	| Mr Chia Zongyu 	| [chia\_zongyu@moe.edu.sg](mailto:chia_zongyu@moe.edu.sg)	|
 | Physical Education/PAL Coordinator 	| Mdm Siti Aisha 	| [siti\_aisha\_juraimi@moe.edu.sg](mailto:siti_aisha_juraimi@moe.edu.sg) 	|
 | Discipline Coordinator 	| Mr Ngai Weijie 	| [ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
