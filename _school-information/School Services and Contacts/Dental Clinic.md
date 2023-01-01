@@ -9,6 +9,13 @@ third_nav_title: School Services and Contacts
 Monday, Tuesday & Thursday: 8:00am to 5:30pm  <br>
 Lunch Time: 12:30pm to 1:30pm 
 
+**Clinic Operating hours especially during School Holidays**
+
+As a gentle reminder, we would like to inform that our Dental Clinics operating hours is from: 
+<br>
+* 8am to 5:30pm from Monday to Thursday
+* 8am to 5:00pm on Friday
+
 Tel: 63920215
 <br>
 <br>

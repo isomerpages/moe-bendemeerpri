@@ -4,17 +4,14 @@ permalink: /our-people/teaching-staff/p4-teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 ### PRIMARY 4 TEACHERS
 
 ##### Primary 4 Teachers
 
 |  	|  	|  	|
 |---	|---	|---	|
-| 4 Adaptability 	| Ms Koh Mei Shan<br>Mdm Yoo Pei Li 	| [koh\_mei\_shan@moe.edu.sg](mailto:koh_mei_shan@moe.edu.sg) <br>[yoo\_pei\_li@moe.edu.sg](mailto:yoo_pei_li@moe.edu.sg) 	|
-| 4 Empathy 	| Mr Alvin Lee<br>Ms Mariam 	| [lee\_jun\_ming\_alvin@moe.edu.sg](mailto:lee_jun_ming_alvin@moe.edu.sg) <br>[mariam\_ibrahim@moe.edu.sg](mailto:mariam_ibrahim@moe.edu.sg) 	|
-| 4 Integrity<br> 	| Mdm Norherliza<br>Mrs Yap Foong Keng<br>Mdm Lynn Yew 	| [norherliza\_ab\_rahim@moe.edu.sg](mailto:norherliza_ab_rahim@moe.edu.sg) <br>[mok\_foong\_keng@moe.edu.sg](mailto:mok_foong_keng@moe.edu.sg) <br>[yew\_seok\_chun@moe.edu.sg](mailto:yew_seok_chun@moe.edu.sg)	|
-| 4 Passion 	| Ms Soon Lay Har<br>Mr Jerald Tan 	| [soon\_lay\_har@moe.edu.sg](mailto:soon_lay_har@moe.edu.sg) <br>[tan\_sheng\_yang\_jerald@moe.edu.sg](mailto:tan_sheng_yang_jerald@moe.edu.sg)	|
-| 4 Resilience 	| Ms Chan Hoe Kim<br>Mr Roy Ngai 	| [chan\_hoe\_kim@moe.edu.sg](mailto:chan_hoe_kim@moe.edu.sg) <br>[ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
-| 4 Self-Discipline 	| Mrs Seetha Dhillon<br>Mrs Vannan 	| [seetha\_kumari\_jeet\_singh@moe.edu.sg](mailto:seetha_kumari_jeet_singh@moe.edu.sg) <br>[parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
+| 4 Adaptability 	| Mrs Elis Tjandra<br> Mdm Teoh HW 	| [elis\_tjandra@moe.edu.sg](mailto:elis_tjandra@moe.edu.sg) <br>[teoh\_hai\_wei@moe.edu.sg](mailto:teoh_hai_wei@moe.edu.sg) 	|
+| 4 Empathy 	| Mdm Amily Wong<br>Ms Yoo Pei Li 	| [teh\_ai\_hui\_amily@moe.edu.sg](mailto:teh_ai_hui_amily@moe.edu.sg) <br>[yoo\_pei_li@moe.edu.sg](mailto:yoo_pei_li@schools.gov.sg) 	|
+| 4 Integrity<br> 	| Mdm Siti Aisha<br>Mrs Vannan 	| [siti\_aisha@moe.edu.sg](mailto:siti_aisha@moe.edu.sg) <br>[parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg) 	|
+| 4 Passion 	| Ms Sandy Yeo<br>Mr Azimi  	| [yeo\_kwee\_ping@moe.edu.sg](mailto:yeo_kwee_ping@moe.edu.sg) <br>[azimi\_b\_ahmad@moe.edu.sg](mailto:azimi_b_ahmad@moe.edu.sg)	|
+| 4 Resilience 	| Mrs Joyce Lim<br>Ms Kanages 	| [chan\_hoe\_kim@moe.edu.sg](mailto:joyce_lim_joon_hen@me.edu.sg) <br>[kanages\_ravindran@moe.edu.sg](mailto:kanageswari_ravindran@moe.edu.sg) 	|

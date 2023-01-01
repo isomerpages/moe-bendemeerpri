@@ -10,8 +10,9 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|
 |---	|---	|---	|
-| 5 Adaptability 	| Ms Jennie Hon<br>Mdm Xu Yuan-na 	| [hon\_soo\_har\_jennie@moe.edu.sg](mailto:hon_soo_har_jennie@moe.edu.sg) <br>[xu\_yuanna@moe.edu.sg](mailto:xu_yuanna@moe.edu.sg)	|
-| 5 Empathy 	| Mr Chia Zongyu<br>Mrs Stella Chong 	| [chia\_zongyu@moe.edu.sg](mailto:chia_zongyu@moe.edu.sg) <br>[kow\_mei\_lin\_stella@moe.edu.sg](mailto:kow_mei_lin_stella@moe.edu.sg)	|
-| 5 Integrity 	| Mr Lim Dali<br>Mr Lionel Poh 	| [lim\_dali@moe.edu.sg](mailto:lim_dali@moe.edu.sg) <br>[poh\_leong\_aik\_lionel@moe.edu.sg](mailto:poh_leong_aik_lionel@moe.edu.sg) 	|
-| 5 Passion 	| Mr Raymond Lee<br>Mdm Vani 	| [lee\_teck\_siang@moe.edu.sg](mailto:lee_teck_siang@moe.edu.sg) <br>[vani\_thanasekar@moe.edu.sg](mailto:vani_thanasekar@moe.edu.sg) 	|
-| 5 Resilience 	| Mr Tommy Ho<br>Mrs Mahendran 	| [ho\_kam\_seng\_tommy@moe.edu.sg](mailto:ho_kam_seng_tommy@moe.edu.sg) <br>[a\_yoga\_shanthi@moe.edu.sg](mailto:a_yoga_shanthi@moe.edu.sg)	|
+| 5 Adaptability 	| Ms Jessintha<br>Mr Santhos	| [jessintha\_sasayiah@moe.edu.sg](mailto:jessintha_sasayiah@moe.edu.sg) <br>[santhosa\_kumar_n_s@moe.edu.sg](mailto:santhosa_kumar_n_s@edu.gov.sg)	|
+| 5 Empathy 	| Mdm Maha<br>Mdm An Qinglin 	| [maha\_letchimi\_krishnasamy@moe.edu.sg](mailto:maha_letchimi_krishnasamy@moe.edu.sg) <br>[an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
+| 5 Integrity 	| Ms Karin Lee<br>Mr Fahmy 	| [lee\_karin@moe.edu.sg](mailto:lee_karin@moe.edu.sg) <br>[Mohammad\_Fahmy\_Abdul\_Ghani@moe.edu.sg](mailto:Mohammad_Fahmy_Abdul_Ghani@moe.edu.sg) 	|
+| 5 Passion 	| Mdm Phyllis Kwei<br>Mr Roy Ngai  	| [kwei\_seng\_poh@moe.edu.sg](mailto:kwei_seng_poh@moe.edu.sg ) <br>[ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
+| 5 Resilience 	| Mr Lee Zheng Wei<br>Mdm Lam Shuzhen| [](mailto:ho_kam_seng_tommy@moe.edu.sg) <br>[lam\_shuzhen\@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg)	|
+| 5 Self Discipline 	| Mr Andrew Hong<br>Mdm Annabelle| [andrew\_hong@moe.edu.sg](mailto:andrew_hong@moe.edu.sg) <br>[annabelle\_ananthi\_clement@moe.edu.sg](mailto:annabelle_ananthi_clemant@moe.edu.sg)	|
