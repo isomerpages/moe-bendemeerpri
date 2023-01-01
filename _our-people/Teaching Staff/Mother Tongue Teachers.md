@@ -30,15 +30,13 @@ third_nav_title: Teaching Staff
 |  	|  	|
 |---	|---	|
 | Mdm M Meenatchi 	| [m\_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg) 	|
-| Mdm Serene Nabiesah  	| [a\_ha\_serene\_nabiesah@moe.edu.sg](mailto:a_ha_serene_nabiesah@moe.edu.sg) 	|
 | Mrs Vannan 	| [parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
 
 ##### Malay
 
 |  	|  	|
 |---	|---	|
-| Mdm Amnah Bte Jantan 	| [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 	|
-| Ms Mariam Ibrahim  	| [mariam\_ibrahim@moe.edu.sg](mailto:mariam_ibrahim@moe.edu.sg)  	|
+| Mdm Amnah Bte Jantan 	| [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 	  	|
 | Mdm Zakiyah Abdul Karim 	| [zakiyah\_abdul\_karim@moe.edu.sg](mailto:zakiyah_abdul_karim@moe.edu.sg) 	|
 | Mdm Farhanah 	| [farhanah\_suratman@moe.edu.sg](mailto:farhanah_suratman@moe.edu.sg) 	|
 | Ms Diyanah Zahirah Binte Amiral 	| [diyanah\_zahirah\_amiral@moe.edu.sg](mailto:diyanah_zahirah_amiral@moe.edu.sg)	|
