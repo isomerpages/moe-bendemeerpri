@@ -20,7 +20,10 @@ third_nav_title: Teaching Staff
 | Mdm Lam Shuzhen 	| [lam\_shuzhen@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg) 	|
 | Mdm An Qinglin 	| [an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
 | Ms He Xueya  	| [he\_xueya@moe.edu.sg](mailto:he_xueya@moe.edu.sg)|
-| Mdm Xin Hong 	| [xin\_hong@schools.gov.sg](mailto:xin_hong@schools.gov.sg)	|
+| Mdm Xin Hong 	| [xin\_hong@schools.edu.sg](mailto:xin_hong@moe.edu.sg)	|
+| Ms Phua Mei Yin 	| [Phua\_Mei\_Yin@moe.edu.sg](mailto:Phua_Mei_Yin@moe.edu.sg)	|
+| Ms Wong Yee Yee 	| [wong\_wee\_wee@moe.edu.sg](mailto:wong_yee_yee@moe.gov.sg)	|
+| Ms Chua Xingrou 	| [chua\_xingrou@moe.edu.sg](mailto:chua_xingrou@moe.edu.sg)	|
 
 ##### Tamil
 
@@ -36,5 +39,5 @@ third_nav_title: Teaching Staff
 | Mdm Amnah Bte Jantan 	| [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 	  	|
 | Mdm Zakiyah Abdul Karim 	| [zakiyah\_abdul\_karim@moe.edu.sg](mailto:zakiyah_abdul_karim@moe.edu.sg) 	|
 | Mdm Farhanah 	| [farhanah\_suratman@moe.edu.sg](mailto:farhanah_suratman@moe.edu.sg) 	|
-| Ms Diyanah Zahirah Binte Amiral 	| [diyanah\_zahirah\_amiral@moe.edu.sg](mailto:diyanah_zahirah_amiral@moe.edu.sg)	|
-| Mohammad Fahmy 	|[Mohammad\_Fahmy\_Abdul\_Ghani@moe.edu.sg](mailto:Mohammad_Fahmy_Abdul_Ghani@moe.edu.sg) 	|
+| Ms Nora Adilla Binte Azman 	| [Nora\_Ardilla@moe.edu.sg](mailto:Nora_Ardilla_Azman@moe.edu.sg)	|
+| Mr Mohammad Fahmy Abdul Ghani 	|[Mohammad\_Fahmy\_Abdul\_Ghani@moe.edu.sg](mailto:Mohammad_Fahmy_Abdul_Ghani@moe.edu.sg) 	|
