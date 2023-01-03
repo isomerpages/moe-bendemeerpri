@@ -28,4 +28,4 @@ third_nav_title: Teaching Staff
 | CCE Coordinator 	| Ms Sulasteri Binte Mohd Sidek 	| [sulasteri\_mohammad\_sidek@moe.edu.sg](mailto:sulasteri_mohammad_sidek@moe.edu.sg)|
 | PE/PAL Coordinator 	| Mdm Siti Aisha 	| [siti\_aisha@moe.edu.sg](mailto:siti_aisha@moe.edu.sg)||
 | LSM Coordinator 	| Mr Azimi Bin Ahmad 	| [azimi\_b\_ahmad@moe.edu.sg](mailto:azimi_b_ahmad@moe.gov.sg)	|
-| SWC Coordinator 	| Mdm Noraini 	| [noraini\_zainul@moe.edu.sg](mailto:noraini_zainul@moe.gov.sg)	|
+| SWC Coordinator 	| Mdm Noraini Zainul	| [noraini\_zainul@moe.edu.sg](mailto:noraini_zainul@moe.gov.sg)	|
