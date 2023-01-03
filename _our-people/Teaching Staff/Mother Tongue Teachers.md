@@ -30,7 +30,10 @@ third_nav_title: Teaching Staff
 |  	|  	|
 |---	|---	|
 | Mdm M Meenatchi 	| [m\_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg) 	|
-| Mrs Vannan 	| [parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
+| Parameswari Malarvannan (Mrs Vannan) 	| [parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
+| Tamilselvi D/O Sinnathamby 	| [Tamilselvi\_Sinnathamby@moe.edu.sg](mailto:Tamilselvi_Sinnathamby@moe.edu.sg)	|
+| Rajalakshmi Kannan 	| [Rajalakshmi\_Kannan@moe.edu.sg](mailto:Rajalakshmi_Kannan@moe.edu.sg)	|
+
 
 ##### Malay
 
