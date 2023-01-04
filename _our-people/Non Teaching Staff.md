@@ -35,4 +35,3 @@ description: ""
 | Operations Support Officer | Mr Abdul Rahim Bin Sarwi |   |
 | Security | Mr Hamid Bin Thabib |   |
 | Security | Ms Nagaselvi |   |
-| Receptionist  | Mdm Christine Tan |
