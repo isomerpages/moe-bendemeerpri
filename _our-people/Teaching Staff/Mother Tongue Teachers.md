@@ -43,4 +43,4 @@ third_nav_title: Teaching Staff
 | Mdm Zakiyah Abdul Karim 	| [zakiyah\_abdul\_karim@moe.edu.sg](mailto:zakiyah_abdul_karim@moe.edu.sg) 	|
 | Mdm Farhanah 	| [farhanah\_suratman@moe.edu.sg](mailto:farhanah_suratman@moe.edu.sg) 	|
 | Ms Nora Adilla Binte Azman 	| [Nora\_Ardilla@moe.edu.sg](mailto:Nora_Ardilla_Azman@moe.edu.sg)	|
-| Mr Mohammad Fahmy Abdul Ghani 	|[mohd\_fahmy\@moe.edu.sg](mailto:Mohammad_Fahmy_Abdul_Ghani@moe.edu.sg) 	|
+| Mr Mohammad Fahmy Abdul Ghani 	|[mohd\_fahmy@moe.edu.sg](mailto:Mohammad_Fahmy@moe.edu.sg) 	|
