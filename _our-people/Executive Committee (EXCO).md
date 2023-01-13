@@ -34,7 +34,7 @@ description: ""
 |  Level Head Chinese Language 	|  Mdm Lee Giak Choo 	| lee_giak_choo@moe.edu.sg  	|
 |  Subject Head Aesthetics 	| Mdm Aziana Aziz  	| aziana_aziz@moe.edu.sg 	|
 |  Subject Head Malay 	| Mr Mohammad Fahmy Abdul Ghani| mohd_fahmy@moe.edu.sg 	|
-|  Subject Head Student Leadership & Development 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	|
+|  Subject Head Student Development 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	|
 |  Subject Head Partnership & Publicity 	| Mr Alvin Lee  	| lee_jun_ming_alvin@moe.edu.sg  	|
 |  Administration Manager 	| Mr Derrick Ang 	| derrick_ang@moe.edu.sg 	|
 |  Administration Manager 	| Mr Sunny Phoon  	| phoon_geng_chee@moe.edu.sg 	|
