@@ -29,6 +29,7 @@ description: ""
 |  Year Head (Lower Primary) 	| Mrs Juliana Png  	| chu_yit_mei_juliana@moe.edu.sg 	|
 | Level Head Maths 	| Mdm Norherliza Ab Rahim 	| norherliza_ab_rahim@moe.edu.sg 	|
 |  Level Head Science 	|  Ms Koh Mei Shan 	| koh_mei_shan@moe.edu.sg  	|
+|  Level Head Pupil Management 	|  Mr Roy Ngai	| ngai_weijie@moe.edu.sg  	|
 | Level Head Information Communication Technology 	| Mdm M Meenatchi  	| m_meenatchi@moe.edu.sg 	|
 |  Level Head Special Educational Needs 	|  Ms Millie Kuan 	| kuan_lay_chung_millie@moe.edu.sg 	|
 |  Level Head Chinese Language 	|  Mdm Lee Giak Choo 	| lee_giak_choo@moe.edu.sg  	|
