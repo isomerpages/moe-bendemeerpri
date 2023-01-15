@@ -15,9 +15,8 @@ description: ""
 |  HOD Science 	|  Mr Lionel Poh 	| poh_leong_aik_lionel@moe.edu.sg 	|
 | HOD Mother Tongue 	| Mdm Yeo Kwang Yee  	| yeo_kwang_yee@moe.edu.sg 	|
 |  HOD Character and Citizenship Education 	| Mrs Amily Wong  	| teh_ai_hui_amily@moe.edu.sg  	|
-|  HOD Physical Education / Co-Curricular Activities / Aesthetics 	| Mrs Yap Foong Keng  	| mok_foong_keng@moe.edu.sg 	|
 |  HOD Information Communication Technology 	|  Mdm Annabelle Clemant 	| annabelle_ananthi_clemant@moe.edu.sg 	|
-| HOD Special Projects  	| Mdm Maha Letchimi  	| maha_letchimi_krishnasamy@moe.edu.sg  	|
+| Lead Teacher Science  	| Mdm Maha Letchimi  	| maha_letchimi_krishnasamy@moe.edu.sg  	|
 | Lead Teacher Maths  	|  Ms Jennie Hon 	|  hon_soo_har_jennie@moe.edu.sg 	|
 | School Staff Developer  	|  Mrs Stella Chong 	| kow_mei_lin_stella@moe.edu.sg 	|
 |  Senior Teacher Special Educational Needs 	| Mrs Joyce Lim  	| joyce_lim_joon_hen@moe.edu.sg 	|
@@ -30,12 +29,14 @@ description: ""
 |  Year Head (Lower Primary) 	| Mrs Juliana Png  	| chu_yit_mei_juliana@moe.edu.sg 	|
 | Level Head Maths 	| Mdm Norherliza Ab Rahim 	| norherliza_ab_rahim@moe.edu.sg 	|
 |  Level Head Science 	|  Ms Koh Mei Shan 	| koh_mei_shan@moe.edu.sg  	|
+|  Level Head Pupil Management 	|  Mr Roy Ngai	| ngai_weijie@moe.edu.sg  	|
 | Level Head Information Communication Technology 	| Mdm M Meenatchi  	| m_meenatchi@moe.edu.sg 	|
-|  Level Head Pupil Management 	|  Ms Millie Kuan 	| kuan_lay_chung_millie@moe.edu.sg 	|
+|  Level Head Special Educational Needs 	|  Ms Millie Kuan 	| kuan_lay_chung_millie@moe.edu.sg 	|
 |  Level Head Chinese Language 	|  Mdm Lee Giak Choo 	| lee_giak_choo@moe.edu.sg  	|
 |  Subject Head Aesthetics 	| Mdm Aziana Aziz  	| aziana_aziz@moe.edu.sg 	|
-|  Subject Head Student Leadership 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	|
-|  Subject Head Partnership 	| Mr Alvin Lee  	| lee_jun_ming_alvin@moe.edu.sg  	|
+|  Subject Head Malay 	| Mr Mohammad Fahmy Abdul Ghani| mohd_fahmy@moe.edu.sg 	|
+|  Subject Head Student Development 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	|
+|  Subject Head Partnership & Publicity 	| Mr Alvin Lee  	| lee_jun_ming_alvin@moe.edu.sg  	|
 |  Administration Manager 	| Mr Derrick Ang 	| derrick_ang@moe.edu.sg 	|
 |  Administration Manager 	| Mr Sunny Phoon  	| phoon_geng_chee@moe.edu.sg 	|
 | Operations Manager 	|  Mr Tan Hwee Kheng 	| tan_hwee_kheng@moe.edu.sg 	|
