@@ -13,4 +13,6 @@ description: ""
 Mrs Helen Soh <br>
 Mr Loo Chin Nong PBM <br>
 Mr Vishnatha Ramasubramanian<br>
-Mr Yiew Siew Mong
+Mr Yiew Siew Mong<br>
+Miss Charissa Tan Li Pin<br>
+Miss Nana Wong
