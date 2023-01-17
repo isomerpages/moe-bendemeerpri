@@ -11,7 +11,7 @@ image: ""
 <img src="/images/Mrs%20Tan%20.jpg" style="width:45%; padding: 20px" align="left"/>
 
 
-Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2023
+
 A warm welcome to all our parents and students. I would like to extend my welcome to
 our pioneer batch of students and staff from the MOE Kindergarten (MK) who have
 joined our Bendemeer family this year.
