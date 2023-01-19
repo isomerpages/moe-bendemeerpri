@@ -8,11 +8,11 @@ description: ""
 
 <table>
 	<tr>
-		<td width="60%">
+		<td width="50%">
 <table>
 	<tr>
-		<td width="60%">
-			<img style="width: 60%;" src="/images/google_logo.jpg">
+		<td width="50%">
+			<img style="width: 50%;" src="/images/google_logo.jpg">
 		</td>
 		<td>
 			<p align="center">
@@ -36,7 +36,7 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<img style="width: 60%;" src="/images/sls.png">
+			<img style="width: 50%;" src="/images/sls.png">
 		</td>
 		<td>
 			<p align="center">
@@ -76,7 +76,7 @@ description: ""
 	</tr>
   <tr>
     <td>
-			<img style="width: 60%;" src="/images/vocaroo.png">
+			<img style="width: 50%;" src="/images/vocaroo.png">
 		</td>
     <td> 
 			<p align="center">
@@ -100,7 +100,7 @@ description: ""
   </tr>
   <tr>
     <td>
-			<img style="width: 60%;" src="/images/google%20form.png">
+			<img style="width: 50%;" src="/images/google%20form.png">
 		</td>
     <td>
 			<p align="center">
