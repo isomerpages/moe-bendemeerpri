@@ -24,6 +24,7 @@ description: ""
 |  Senior Teacher Maths 	| Mr Andrew Hong  	| andrew_hong@moe.edu.sg 	|
 |  Senior Teacher Physical Education 	|  Mr Santhosa Kumar 	| santhosa_kumar_n_s@moe.edu.sg 	|
 |  Senior Teacher Social Studies 	| Mdm Vani 	| vani_thanasekar@moe.edu.sg 	|
+|  Senior Teacher Chinese Language 	| Mdm Xe Yuanna 	| xu_yuanna@moe.edu.sg 	|
 |  Year Head (Upper Primary) 	| Ms Jeannette Tan  	| tan_mei_lian_jeannette@moe.edu.sg 	|
 |  Year Head (Middle Primary) 	| Ms Seet Yen Theng 	| seet_yen_theng@moe.edu.sg 	|
 |  Year Head (Lower Primary) 	| Mrs Juliana Png  	| chu_yit_mei_juliana@moe.edu.sg 	|
