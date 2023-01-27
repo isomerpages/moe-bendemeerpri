@@ -7,6 +7,13 @@ description: ""
 
 ***
 
+**Consent for photography and videos**
+
+With reference to **Clause 9, Page 15 of BPS Student Handbook** and **Clause N, Page 33 of MK Family Handbook**, photograph(s) or video image(s) of students and parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps and other school events. School may use and publish such photographs and/or video recordings in school publications, website, social media and other communication channels.  
+Parents can contact the school at [Bendemeer\_PS@moe.edu.sg](mailto:Bendemeer_PS@moe.edu.sg) if there are any concerns
+
+***
+
 #### Mystery Motivator Intervention
 
 **Click [Here](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/parents-engagement-resources/mlu/mmi) for more info.**
