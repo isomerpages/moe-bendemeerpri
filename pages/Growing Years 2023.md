@@ -94,19 +94,20 @@ b.	Character and Citizenship Education (CCE)<br><br>
 Are We More than Friends? <br>
 Lesson 1 (60 min)</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 1 Week 8</td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Are We More than Friends?<br>
-      Lesson 2 (60 min)</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 8</td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 2</td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Are We More than Friends?<br>
       Lesson 2 (60 min)</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 9</td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 4</td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Did you know?* <br> (60 Min) </td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b> 
+<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 5</td>
     </tr>
   </tbody>
 </table>
@@ -116,8 +117,9 @@ Lesson 1 (60 min)</td>
 <br>
 
 ##### INFORMATION FOR PARENTS <br>
-8\.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+
+8\.	If you would like to withdraw your child out of The Sexuality Education  Programme in 2023, please complete the Opt-out Form at [https://form.gov.sg/63d36090dd51570011db8d21](https://form.gov.sg/63d36090dd51570011db8d21)
 <br><br>
-9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by <b>27/01/2023</b>. 
-<br><br>
-10\.	Parents can contact the school at 67670027 for discussion or to seek clarification about the school’s Sexuality Education programme.
+9\.	Parents can contact the school at [kanageswari\_ravindran@schools.gov.sg](mailto:kanageswari_ravindran@schools.gov.sg), 62982911 ext 322 to seek clarification about the school’s Sexuality Education programme.
+
+
