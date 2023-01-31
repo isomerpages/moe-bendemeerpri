@@ -121,5 +121,3 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 8\.	If you would like to withdraw your child out of The Sexuality Education  Programme in 2023, please complete the Opt-out Form at [https://form.gov.sg/63d36090dd51570011db8d21](https://form.gov.sg/63d36090dd51570011db8d21)
 <br><br>
 9\.	Parents can contact the school at [kanageswari\_ravindran@schools.gov.sg](mailto:kanageswari_ravindran@schools.gov.sg), 62982911 ext 322 to seek clarification about the school’s Sexuality Education programme.
-
-
