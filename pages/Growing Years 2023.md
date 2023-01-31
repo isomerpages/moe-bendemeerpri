@@ -90,16 +90,15 @@ b.	Character and Citizenship Education (CCE)<br><br>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
       <td rowspan="3">Growing Years<br></td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Did You Know? *<br>
-      (60 min)</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b><br>
-      <br>
-      This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">
+Are We More than Friends? <br>
+Lesson 1 (60 min)</td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 1 Week 8</td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Are We More than Friends?<br>
-      Lesson 1 (60 min)</td>
+      Lesson 2 (60 min)</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 8</td>
     </tr>
