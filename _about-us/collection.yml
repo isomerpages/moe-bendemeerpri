@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - MK Open House/MOE Kindergarten.md
-      - MK Open House/.keep
       - Overview.md
       - Principal's Message.md
       - School Information.md
