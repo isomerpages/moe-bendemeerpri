@@ -12,7 +12,7 @@ description: ""
 **Members:** <br>
 Mrs Helen Soh <br>
 Mr Loo Chin Nong PBM <br>
-Mr Vishnatha Ramasubramanian<br>
+Mr Vishantha Ramasubramanian<br>
 Mr Yiew Siew Mong<br>
 Ms Charissa Tan Li Pin<br>
 Ms Nana Wong
