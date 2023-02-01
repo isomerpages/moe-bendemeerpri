@@ -2,7 +2,9 @@
 title: MOE Kindergarten
 permalink: /about-us/moe-kindergarten/
 description: ""
+third_nav_title: MK Open House
 ---
+
 <img src="/images/05%20MOE%20Kindergarten%20Logo.jpg"
 		 align="center" 
 		 style="width:30%"/>

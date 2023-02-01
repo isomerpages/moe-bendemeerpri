@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - MK Open House/MOE Kindergarten.md
+      - MK Open House/.keep
       - Overview.md
       - Principal's Message.md
       - School Information.md
@@ -11,5 +13,4 @@ collections:
       - The Bendemeer Experience (e Open House).md
       - Virtual Tour of BPS.md
       - Aspire Newsletter.md
-      - MOE Kindergarten.md
       - Gallery.md
