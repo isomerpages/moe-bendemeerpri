@@ -7,7 +7,6 @@ description: ""
 
 <p align="center"><b>A learner who is able to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active and healthy living</b></p>
 
-![pe1.jpg](/images/pe1.jpg)
 
 ##### <u>House System</u>
 
