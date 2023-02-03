@@ -4,7 +4,6 @@ permalink: /cca/Niche/skipping/
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### SKIPPING
 
 #### Teachers in charge
@@ -12,8 +11,9 @@ third_nav_title: Niche CCAs
 Mdm Nur Suhaila (1st IC) <br>
 Mdm Siti Aisha (2nd IC) <br>
 Mrs Seetha Dhillon <br>
-Ms Chan Hoe Kim <br>
-Ms Edna Teo (coach)  
+Mr Alvin Lee <br>
+Mdm Ng Lay Pheng <br>
+Ms Edna Teo (coach)  <br>
 
 #### CCA Schedule  
 
