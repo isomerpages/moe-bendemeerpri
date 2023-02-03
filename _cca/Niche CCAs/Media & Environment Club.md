@@ -4,8 +4,7 @@ permalink: /cca/Niche/environmental-science-club/
 description: ""
 third_nav_title: Niche CCAs
 ---
-
-### ENVIRONMENTAL SCIENCE CLUB
+### MEDIA & ENVIRONMENT CLUB
 
 **<u>Teachers in charge</u>** <br>
 Mdm Melody Heng (1st IC) <br>
