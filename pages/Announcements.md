@@ -44,7 +44,7 @@ Parents can contact the school at [Bendemeer\_PS@moe.edu.sg](mailto:Bendemeer_PS
 
 ***
 
-#### Update on MK in BPS
+#### MK Open House in BPS
 
 **Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten) for more details!**
 
