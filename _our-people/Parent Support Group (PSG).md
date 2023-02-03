@@ -25,15 +25,12 @@ As a PSG member, parents can keep abreast with the school’s programmes. You w
 #### PSG Executive Committee
 
 <u>Co-Advisor</u> <br>
-Level Head Pupil Management <br>
-Ms Millie Kuan
+Mr Too Meng Ngee (Vice Principal Administration)
 
 <u>PSG Coordination Team</u> <br>
 School Staff <br>
-Mdm Elis Tjandra (OIC) <br>
-Mdm Zakiyah Abdul Karim (2IC)<br>
-Mdm Tina Ee<br>
-Mdm Noraini Bte Zainul
+Mr Alvin Lee (Subject Head Partnetship)<br>
+Mdm Aziana Aziz (Subject Head Aesthetics & PSG Coordinator)<br>
 
 <u>PSG EXCO</u> <br>
 Ms Seriwati Salim (Chairman)  <br>
