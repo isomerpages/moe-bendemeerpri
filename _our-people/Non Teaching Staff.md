@@ -14,7 +14,7 @@ description: ""
 | Administrative Executive | Mdm Adibah Binte Ariff | [adibah\_ariff@moe.edu.sg](mailto:adibah_ariff@moe.edu.sg) |
 | Administrative Executive | Mdm Noridah | [noridah\_ab\_rahman@moe.edu.sg](mailto:noridah_ab_rahman@moe.edu.sg) |
 | Management Support Officer  | Ms Zuridah Binte Ayob | [zuridah\_ayob@moe.edu.sg](mailto:Zuridah_AYOB@moe.edu.sg) |
-| Management Support Officer  | Mdm Goh Chee Kim | [Goh_Chee_Kim@moe.edu.sg](mailto:Goh_Chee_Kim @moe.edu.sg) |
+| Management Support Officer  | Mdm Goh Chee Kim | [Goh_Chee_Kim@moe.edu.sg](mailto:Goh_Chee_Kim@moe.edu.sg) |
 | Management Support Officer | Mdm Seah Ah Yoke | [seah\_ah\_yoke@moe.edu.sg](mailto:seah_ah_yoke@moe.edu.sg)  |
 | Senior Special Education Needs Officer | Mr Caleb Yek | [yek\_kok\_hwa@moe.edu.sg](mailto:yek_kok_hwa@moe.edu.sg) |
 | Special Education Needs Officer | Mr Charles Tay | [charles\_tay\_boon\_ping@moe.edu.sg](mailto:charles_tay_boon_ping@moe.edu.sg) |
