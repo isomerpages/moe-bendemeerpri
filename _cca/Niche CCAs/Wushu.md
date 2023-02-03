@@ -8,11 +8,10 @@ third_nav_title: Niche CCAs
 
 #### Teachers in charge
 
-Ms Sandy Yeo (1st IC)  <br>
-Mdm Lam Shu Zhen (2nd IC) <br>
+Mdm Lam Shuzhen (1st IC)  <br>
+Ms Sandy Yeo (2nd IC) <br>
 Ms Choo Lee Tiang <br>
 Ms Olivia Pan <br>
-Ms He Xueya <br>
 Ms Soon Lay Har
 
 #### CCA Schedule
