@@ -7,9 +7,11 @@ third_nav_title: Niche CCAs
 ### MEDIA & ENVIRONMENT CLUB
 
 **<u>Teachers in charge</u>** <br>
-Mdm Melody Heng (1st IC) <br>
-Mdm Koh Chee Ting (2nd IC)  <br>
-Mr Tommy Ho  <br>
+Mdm Elis Tjandra (1st IC) <br>
+Mr Tommy Ho (2nd IC)  <br>
+Ms Yoo Pei Li  <br>
+Ms Koh Mei Shan <br>
+Ms Parhana <br>
 Mdm Bhavani
 
 **<u>CCA Schedule:</u>** <br>
