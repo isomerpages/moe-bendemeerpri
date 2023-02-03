@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - MOE Kindergarten.md
       - Overview.md
       - Principal's Message.md
       - School Information.md
+      - Our Achievements/.keep
       - Our Achievements/2022 CCA Awards.md
       - Our Achievements/2022 Academic Awards.md
-      - Our Achievements/.keep
       - The Bendemeer Experience (e Open House).md
       - Virtual Tour of BPS.md
       - Aspire Newsletter.md
+      - MOE Kindergarten.md
       - Gallery.md
