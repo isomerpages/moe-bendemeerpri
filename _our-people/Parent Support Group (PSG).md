@@ -30,10 +30,9 @@ Ms Millie Kuan
 
 <u>PSG Coordination Team</u> <br>
 School Staff <br>
-Mdm Elis Tjandra (OIC) <br>
-Mdm Zakiyah Abdul Karim (2IC)<br>
-Mdm Tina Ee<br>
-Mdm Noraini Bte Zainul
+Mr Too Meng Ngee (Vice Principal Administration)<br>
+Mr Alvin Lee (Subject Head Partnetship)<br>
+Mdm Aziana Aziz (Subject Head Aesthetics & PSG Coordinator)<br>
 
 <u>PSG EXCO</u> <br>
 Ms Seriwati Salim (Chairman)  <br>
