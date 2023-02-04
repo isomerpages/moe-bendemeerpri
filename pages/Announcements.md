@@ -8,7 +8,7 @@ description: ""
 ***
 #### MK Open House in BPS
 
-**Click [here](https://moe-bendemeerpri-staging.netlify.app/about-us/moe-kindergarten) for more details!**
+**Click [here](https://www.bendemeerpri.moe.edu.sg/about-us/permalink/)for more details!**
 
 ***
 #### Consent for photography and photos
