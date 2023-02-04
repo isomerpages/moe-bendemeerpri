@@ -1,4 +1,5 @@
 collections:
   2023-communications:
     output: true
-    order: []
+    order:
+      - 2023 Communications/.keep
