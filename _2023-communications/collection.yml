@@ -2,6 +2,6 @@ collections:
   2023-communications:
     output: true
     order:
-      - Term 1/.keep
-      - 2023 Communications/Term 1.md
       - 2023 Communications/.keep
+      - 2023 Communications/Term 1.md
+      - Term 1/.keep
