@@ -4,16 +4,15 @@ permalink: /cca/Niche/chinese-dance/
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 ### CHINESE DANCE
 
 #### Teachers in charge
 
-Mdm Yew Seok Chun (1st IC) <br>
-Mdm Xu Yuanna (2nd IC)   <br>
+Mdm Xu Yuanna (1st IC) <br>
+Mdm Teoh Hai Wei (2nd IC)   <br>
 Mdm An Qinglin  <br>
-Ms Teoh Hai Wei <br>
-Ms Phua Mei Yin
+Mdm Xin Hong <br>
+
 
 #### Instructor
 

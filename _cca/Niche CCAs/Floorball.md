@@ -8,11 +8,11 @@ third_nav_title: Niche CCAs
 
 #### Teacher in charge
 
-Mr Richmond Loo (1st IC)   <br>
-Mr Chia Zongyu (2nd IC) <br>
-Ms Mariam <br>
+Mr Chia Zongyu (1st IC)   <br>
+Ms Cynthia Foo (2nd IC) <br>
 Mr Tan Sek Joo  <br>
-Ms Cynthia Foo   
+Mdm Lee Giak Choo <br>
+Ms Chua Xingrou <br>
 
 ### CCA Schedule
 

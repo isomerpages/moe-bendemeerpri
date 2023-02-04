@@ -34,12 +34,12 @@ Mdm Aziana Aziz (Subject Head Aesthetics & PSG Coordinator)<br>
 
 <u>PSG EXCO</u> <br>
 Ms Seriwati Salim (Chairman)  <br>
-Ms Leila Bundang (Vice-Chairman)  <br>
-Ms Yung Ho (Secretary) <br>
+Mr Muhammad Nazmi Bin Abu Bakar (Vice-Chairman) <br>
+Mdm Punam Gurung (Secretary) <br>
 Ms Badhar Nisha <br>
 Ms Shruti Mathur <br>
-Ms Doan Thi Anh Tuyet <br>
-Mr Muhammad Nazmi Bin Abu Bakar
+Mdm De Guzman Cherrylyn Flores <br>
+Mdm Kavita Gurung <br>
 
 ![collage PSG 2021 EXCO.jpg](/images/collage%20PSG%202021%20EXCO.jpg)
 

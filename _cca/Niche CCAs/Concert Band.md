@@ -4,15 +4,14 @@ permalink: /cca/Niche/concert-band/
 description: ""
 third_nav_title: Niche CCAs
 ---
-
 #### _<u>Teachers in charge</u>_
 
-1\. Mrs Chen Pei Ee (1st i/c) <br>
-2\. Mrs Shirley Yeh (2nd i/c) <br>
-3\. Ms Chua Wen Qian <br>
-4\. Mdm Liew Siim Wii <br>
-5\. Mr Jerald Tan <br>
-6\. Ms Nicole Tan
+1\. Mdm Liew SW (1st i/c) <br>
+2\. Ms Chua Wen Qian (2nd i/c) <br>
+3\. Mr Jerald Tan <br>
+4\. Ms Millie Kuan <br>
+5\. Ms Phua Mei Yin <br>
+6\. Ms Wong Yee Yee
 
 #### _<u>CCA Schedule</u>_  
 
