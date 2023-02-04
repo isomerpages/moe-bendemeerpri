@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - 2023 Communications/.keep
-      - 2023 Communications/Term 1.md
       - Term 1/.keep
