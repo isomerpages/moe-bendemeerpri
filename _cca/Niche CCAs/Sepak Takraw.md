@@ -9,9 +9,9 @@ third_nav_title: Niche CCAs
 #### Teachers in charge
 
 1\.  Mr. Azimi bin Ahmad (1st IC) <br>
-2\.  Mdm Farhana (2nd IC) <br>
+2\.  Mr Mohammad Fahmy (2nd IC) <br>
 3\.  Mr Lee Zheng Wei <br>
-4\.  Mr Mohammad Fahmy <br>
+4\.  Mdm Farhana <br>
 5\.  Mdm Nur Aisha <br>
 
 Coach <br>
