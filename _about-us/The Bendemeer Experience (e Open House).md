@@ -6,7 +6,7 @@ description: ""
 ### THE BENDEMEER EXPERIENCE (E-OPEN HOUSE)
 
 	  
-![Open House Banner](/images/banner%20eOpen%20House_2022.jpg)
+![](/images/banner%20eOpen%20House_2023.jpg)
   
 <h4 align="center"> About Us @ Bendemeer Primary School (BPS) </h4>
 
