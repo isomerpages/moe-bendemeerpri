@@ -6,5 +6,5 @@ description: ""
 ### MK OPEN HOUSE 2023
 
 
-![](/images/MKopenhse_reduced.jpg)
 
+![](/images/MKopenhse_reduced.jpg)
