@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students(updated).md
       - Students.md
       - Teachers.md
       - Parents.md
