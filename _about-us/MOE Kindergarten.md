@@ -3,8 +3,6 @@ title: MOE Kindergarten
 permalink: /about-us/MOEKindergarten/
 description: ""
 ---
-
-
 ### MK OPEN HOUSE 2023
 
 
