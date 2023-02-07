@@ -1,10 +1,9 @@
 ---
 title: MOE Kindergarten
-permalink: /about-us/permalink/
+permalink: /about-us/MOEKindergarten/
 description: ""
 ---
 ### MK OPEN HOUSE 2023
 
 
-
-![](/images/MKopenhse_reduced.jpg)
+<img style="width: 70%;" src="/images/MKopenhse_reduced.jpg">
