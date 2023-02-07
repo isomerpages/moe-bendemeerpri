@@ -7,4 +7,3 @@ description: ""
 
 
 <img style="width: 70%;" src="/images/MKopenhse_reduced.jpg">
-
