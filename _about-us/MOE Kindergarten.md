@@ -5,4 +5,6 @@ description: ""
 ---
 ### MK OPEN HOUSE 2023
 
-![MOE Kindergarten](/images/MKopenhse.jpg)
+
+
+![](/images/MKopenhse_reduced.jpg)
