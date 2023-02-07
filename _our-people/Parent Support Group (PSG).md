@@ -29,7 +29,7 @@ Mr Too Meng Ngee (Vice Principal Administration)
 
 <u>PSG Coordination Team</u> <br>
 School Staff <br>
-Mr Alvin Lee (Subject Head Partnetship)<br>
+Mr Alvin Lee (Subject Head Partnership)<br>
 Mdm Aziana Aziz (Subject Head Aesthetics & PSG Coordinator)<br>
 
 <u>PSG EXCO</u> <br>
