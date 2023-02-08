@@ -133,7 +133,8 @@ The Book Stop was created to bring a snippet of the library to the canteen. This
 2\. Storyline Online **([https://www.storylineonline.net/](https://www.storylineonline.net/))** <br> 
 Enjoy videos of children’s books read aloud alongside creatively produced illustrations at Storyline Online. 
 
-3\. School eResource Repository (SERR) <br>  [**https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/ABOUT**]
+3\. School eResource Repository (SERR) <br>  [**https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME**]
+
 The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. The repository provides easy access to online resources. 
 
 4\. Bendemeer Primary School Library OPAC (Online Public Access Catalogue <br>
