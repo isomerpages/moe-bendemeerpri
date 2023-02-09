@@ -77,6 +77,4 @@ The Reading Programme aims to instil a love for reading through structured curri
 
 早报Zao Bao - [http://www.zaobao.com/](http://www.zaobao.com/)__
 
-MTL Symposium 2021 - [https://www.mtls.edu.sg/sharing-sessions/%E5%8D%8E%E6%96%87%E8%A7%86%E9%A2%91/](https://www.mtls.edu.sg/sharing-sessions/%E5%8D%8E%E6%96%87%E8%A7%86%E9%A2%91/)  
-
 NLB - [https://childrenandteens.nlb.gov.sg/chinese-language/](https://childrenandteens.nlb.gov.sg/chinese-language/%20%20%20)

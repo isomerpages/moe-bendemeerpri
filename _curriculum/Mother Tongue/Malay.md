@@ -6,10 +6,6 @@ third_nav_title: Mother Tongue
 ---
 ### MALAY
 
-![](/images/1%20(15).jpg)
-
-<p align="center"><small>From left to right: Ms Mariam Ibrahim, Mdm Zakiyah Ab Karim, Mdm Amnah Jantan, Mdm Farhanah Suratman & Mdm Diyanah Zahirah</small></p>
-
 #### Vision
 
 The Malay Department vision is for our students to be effective MTL communicators and appreciators of the Malay culture and values.
@@ -23,8 +19,6 @@ Our objectives are:- <br>
 4.     To encourage and provide opportunities for students to speak, write and make presentations in standard MTL that is grammatical, fluent and appropriate to purpose, audience, context and culture <br>
 5.     Think through, interpret and evaluate fiction and non-fiction text <br>
 6.     To enhance effective use of ICT in learning of MTL 
-
-  
 
 #### Programmes
 
@@ -47,16 +41,6 @@ Objectives of the programme: <br>
 2.    Experience the relevance in learning MTL by providing meaningful and engaging activities; <br>
 3.    Raise awareness of the respective cultures and traditions; <br>
 4.    Stimulate students’ interest in knowing their culture and language
-
-  
-
-  
-
-<p align="center"> <small>Students taking part in MTL Fortnight Competitions  </small> </p>
-
-  
-
-  
 
 ##### MT Language & Cultural ICT Trail
 
@@ -96,7 +80,7 @@ Objectives of the programme: <br>
 
 
 P1 to P6 – SLS & IMTL portal  <br>
-iMTL – [imtl.moe.edu.sg](http://www.imtl.sg/) < broken link ><br>
-eCekap - [tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html) < broken link ><br>
-eMekar - [tinta.moe.edu.sg/mekar/slot/u112/ML/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ML/index.html) < broken link ><br>
+iMTL – [imtl.moe.edu.sg](http://www.imtl.sg/)<br>
+eCekap- [tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html) <br>
+eMekar- [tinta.moe.edu.sg/mekar/slot/u112/ML/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ML/index.html) <br>
 Dictionary Online - [prpm.dbp.gov.my](http://prpm.dbp.gov.my/)
