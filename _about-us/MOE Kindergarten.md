@@ -6,4 +6,4 @@ description: ""
 ### MK OPEN HOUSE 2023
 
 
-<img style="width: 50%;" src="/images/MKopenhse_reduced.jpg">
+<img style="width: 50%;" src="/images/Mk%20Poster.jpg">
