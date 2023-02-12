@@ -76,7 +76,7 @@ description: ""
 	</tr>
   <tr>
     <td>
-			<img style="width: 50%;" src="/images/vocaroo.png">
+			<img style="width: 45%;" src="/images/vocaroo.png">
 		</td>
     <td> 
 			<p align="center">
@@ -100,7 +100,7 @@ description: ""
   </tr>
   <tr>
     <td>
-			<img style="width: 50%;" src="/images/google%20form.png">
+			<img style="width: 30%;" src="/images/google%20form.png">
 		</td>
     <td>
 			<p align="center">
