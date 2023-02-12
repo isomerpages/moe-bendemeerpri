@@ -9,7 +9,6 @@ description: ""
 [Positive Parenting Programmes](/our-people/for-parents/Positive-Parenting-Programmes/overview)<br>
 [Academic Matters](/our-people/for-parents/Academic-Matters/overview)<br>
 [Letter to Parents 2022](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/)<br>
-[Letter to Parents 2023]((https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/)<br>
 [HPB Modern Parent](/our-people/for-parents/HPB-modern-parent)<br>
 [The Growing Years Programme for P5 & P6](/our-people/for-parents/growing-years)<br>
 [FAQs for Covid 19 In Singapore](/our-people/for-parents/covid-19-faqs)<br>
