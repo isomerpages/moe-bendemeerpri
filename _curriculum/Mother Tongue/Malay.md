@@ -65,11 +65,9 @@ The much-awaited Hari Raya Puasa celebrations is one of the festive occasions ce
 ![Hari Raya Concert](/images/HariRaya4.jpg)
                       Hari Raya Concert
 										
+![Our staff enjoying the celebrations](/images/hariraya5.jpg)										Our Staff enjoying the celebrations
 										
-	
-										
-										
-
+![At work behind the scenes](/images/malaydept4.jpg)				At work behind the scenes
 <table>
 	<tr>
 		<td>
