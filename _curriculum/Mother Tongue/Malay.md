@@ -95,9 +95,15 @@ The much-awaited Hari Raya Puasa celebrations is one of the festive occasions ce
 	</tr>
 </table>
 
+**Resources and Useful links**
 
-P1 to P6 – SLS & IMTL portal  <br>
-iMTL – [imtl.moe.edu.sg](http://www.imtl.sg/)<br>
-eCekap- [tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html) <br>
-eMekar- [tinta.moe.edu.sg/mekar/slot/u112/ML/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ML/index.html) <br>
-Dictionary Online - [prpm.dbp.gov.my](http://prpm.dbp.gov.my/)
+1. [Siri Bacaan Nabil Nabilah (Reader Series for P1- P6)](https://mllpc.sg/publications/3)
+
+2. [Permainan dalam Talian (Aplikasi untuk Dimuat Turun) - Online Language Games (Apps)](https://mllpc.sg/games)
+
+3. [Rakan Bahasa (Majlis Bahasa Melayu Singapura) – Friends of the Language](https://www.languagecouncils.sg/mbms/my/bulan-bahasa/rakan-bahasa)
+
+4. [Buku Elektronik (Electronic Books) – Log-in Required](https://eresources.nlb.gov.sg/main/malay-ebooks)
+
+5. [Kamus dalam Talian (Online Dictionary)](https://prpm.dbp.gov.my/)
+
