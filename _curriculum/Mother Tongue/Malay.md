@@ -58,6 +58,18 @@ Objectives of the programme are to: <br>
 2.        provide students an engaging outdoor program that creates joy of learning, and  <br>
 3.        leverage on the use of ICT to enhance the learning experience
 
+##### **Hari Raya Puasa Celebations**
+
+The much-awaited Hari Raya Puasa celebrations is one of the festive occasions celebrated in Bendemeer Primary School. The celebrations aim to create awareness of the festival celebrated by the Muslim community in Singapore. It is also an opportunity to share with the school's multi-racial community, the significance of the culture and practices during the celebrations.
+
+![Hari Raya Concert](/images/HariRaya4.jpg)
+                      Hari Raya Concert
+										
+										
+	
+										
+										
+
 <table>
 	<tr>
 		<td>
