@@ -12,4 +12,4 @@ description: ""
 
 ### 2023 OPEN HOUSE MAP
 
-![](/images/2023%20Tour%20Route%20OPEN%20house-Resize.jpg)
+<img style ="width:70%;" src="/images/2023%20Tour%20Route%20OPEN%20house-Resize.jpg">
