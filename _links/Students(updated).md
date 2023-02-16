@@ -1,8 +1,9 @@
 ---
 title: Students(updated)
-permalink: /links/Students/
+permalink: /links/Studentsupdated/
 description: ""
 ---
+
 # | **Links** | 
 
 |[Student iCon](https://workspace.google.com/dashboard)   |  
