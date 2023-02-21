@@ -78,7 +78,6 @@ Both Senior and Junior Teams received “Achievement” as involvement (Represe
 Senior Team achieved 2nd in the Nationals. <br>
 Junior Team 2 achieved 1st in Tiered 2 rounds in the Nationals
 	
-</table>
 <td width="50%">
 			<img src="/images/sepak%20takraw%202.jpg"/>
 	<br>
