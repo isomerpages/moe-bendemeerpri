@@ -16,17 +16,16 @@ These micro-learning units aim to: <br>
 We hope that the evidence-based strategies that you have learnt will help you to support your child at home.
 
 Thank you.
-
   
 
 <p align="center"> <b> Reading </b> </p>
 
-< insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/parents-engagement-resources/micro-learning-unit-for-parents-with-sen-children) here >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9Yzf0wXsGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Link: [Repeated Reading slides.pdf](/files/Repeated%20Reading%20slides.pdf)
   
 <p align="center"> <b>Cued Spelling </b> </p>
 
-< insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/parents-engagement-resources/micro-learning-unit-for-parents-with-sen-children) here >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Dc0OTFpIxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 Link: [Cued Spelling slides.pdf](/files/Cued%20Spelling%20slides.pdf)
