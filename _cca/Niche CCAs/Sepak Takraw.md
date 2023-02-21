@@ -11,8 +11,7 @@ third_nav_title: Niche CCAs
 1\.  Mr. Azimi bin Ahmad (1st IC) <br>
 2\.  Mr Mohammad Fahmy (2nd IC) <br>
 3\.  Mr Lee Zheng Wei <br>
-4\.  Mdm Farhana <br>
-5\.  Mdm Nur Aisha <br>
+4\.  Mdm Nur Aisha
 
 Coach <br>
 Mr. Mohamed Noor bin Mahmood
@@ -24,7 +23,7 @@ CCA Schedule
 
 | Day | Time | Pupil |
 | --- | --- | --- |
-| Every Tuesday | 7.30 a.m. to 9.00 a.m. <br> (For Semester 2) | P3 to P6 pupils |
+| Every Tuesday | 7.30 a.m. to 9.00 a.m. <br> (For Semester 1) | P3 to P6 pupils |
 | Every Wednesday | 2.00 p.m. to 4.00 p.m. | Selected P3-P6 pupils who have been identified and selected for training |
 | Every Friday | 2.15 p.m. to 4.15 p.m. | Selected P3-P6 pupils who have been identified and selected for training |
 
@@ -32,7 +31,7 @@ Every sepak takraw training sessions are conducted before and during the nationa
 
 #### Introduction
 
-Sepak takraw differs fromn the similar sport of volleyball in its use of a rattan ball and only allowing players to use their feet, knee, chest and head to touch the ball. It is a popular sport in South-East Asia. In Malaysia, the game is called sepak raga or takraw. A match is played between two teams, also known as ‘regus’, each consisting of three players. One of the three players shall be at the back; he is called a “tekong”. The other two players shall be in front, one on the left and the other on the right.The player on the left is called a ‘left inside’ and the player on the right is called the ‘right inside’.The side that must serve first shall start the first set. The side that wins the first set shall have the options of ‘choosing service’. The throw must be executed as soon as the referee calls the score. If either of the “inside’ players throws the ball before the referee calls the score, it must be re-thrown and a warning will be given to the thrower. During the service, as soon as the Tekong kicks the ball, all the players are allowed to move freely in their respective courts. The service is valid if the ball passes over the net, whether it touches the net or not, and inside the boundary of the two net tapes and boundary lines of the opponent’s court.
+Sepak takraw differs from the similar sport of volleyball in its use of a rattan ball and only allowing players to use their feet, knee, chest and head to touch the ball. It is a popular sport in South-East Asia. In Malaysia, the game is called sepak raga or takraw. A match is played between two teams, also known as ‘regus’, each consisting of three players. One of the three players shall be at the back; he is called a “tekong”. The other two players shall be in front, one on the left and the other on the right.The player on the left is called a ‘left inside’ and the player on the right is called the ‘right inside’.The side that must serve first shall start the first set. The side that wins the first set shall have the options of ‘choosing service’. The throw must be executed as soon as the referee calls the score. If either of the “inside’ players throws the ball before the referee calls the score, it must be re-thrown and a warning will be given to the thrower. During the service, as soon as the Tekong kicks the ball, all the players are allowed to move freely in their respective courts. The service is valid if the ball passes over the net, whether it touches the net or not, and inside the boundary of the two net tapes and boundary lines of the opponent’s court.
 
 #### <u>Techniques and skills in sepak takraw</u>
 
@@ -60,8 +59,15 @@ Since 2006, some of the pupils were identified as potential sepak takraw players
 
 #### Achievements
 
+**2022** <br>
+Senior Team achieved 2nd in the Nationals School Games.
+<br>
+Junior Team 1 achieved 1st in place in their Tier 1 Gold Group
+<br>
+Junior Team 2 achieved 2nd in place in their Tier 2 Silver 1 group
+
 **2021** <br>
-Senior Team achieved 1st in the Nationals.
+Senior Team achieved 1st in the Nationals
 
 **2020** <br>
 Both Senior and Junior Teams received “Achievement” as involvement (Represented School at Local Event Under  Special Provision).
@@ -71,3 +77,4 @@ Both Senior and Junior Teams received “Achievement” as involvement (Represe
 **2019** <br>
 Senior Team achieved 2nd in the Nationals. <br>
 Junior Team 2 achieved 1st in Tiered 2 rounds in the Nationals.
+
