@@ -16,11 +16,8 @@ Ms Chua Xingrou <br>
 
 ### CCA Schedule
 
-Every Wednesday (P4, P5 and P6) <br>
+Every Wednesday (P3, P4, P5 and P6) <br>
 2pm to 4pm
-
-Every Friday (P3) <br>
-2.00pm – 3.30pm
 
 #### Introduction
 
@@ -36,16 +33,10 @@ Floorball is an indoor sport which originated from Sweden and has gained popular
 
 ####  Achievements
 
-Senior Boys – 3rd place in 1st group stage for SPSSC Floorball National School Games in 2019
-
-Junior Boys – 2nd in tier 3 for SPSSC Floorball National School Games in 2019
+Junior Boys - First in Tier 2 for SPSSC Floorball National Games in 2022
 
 #### Photo Gallery
  
-| | |
-|---|---|
-| ![](/images/flooorball1.jpg) | ![](/images/floorball2.jpg) |
-| ![](/images/floorball3.jpg) | ![](/images/floorball4.jpg) | 
-| ![](/images/floorball5.jpg) | ![](/images/floorball6.jpg) | 
-
-<img src="/images/floorball7.jpg" style="width:50%"/>
+<img src="/images/Floorball%201.jpg" style="width:900%"/>
+<br>
+<img src="/images/Floorball%202.jpg" style="width:900%"/>
