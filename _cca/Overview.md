@@ -31,24 +31,17 @@ Overall CCA Programme is a 6 year programme to:
 
 It is a platform for all students to have a wide variety of learning experiences and to unearth hidden talents amongst students.
 
-![](/images/1%20(26).jpg)
+![](/images/CCA%201.jpg)
 
-![](/images/2%20(25).jpg)
+![](/images/CCA%202.jpg)
 
-<p align="center"><b>P5 students getting to learn about different types of percussion instruments through the Ethnic Drum Programme</b></p>
+<p align="center"><b>P3 students learning basic Malay dance moves from the Malay Dance Instructor</b></p>
 
-![](/images/3%20(22).jpg)
+![](/images/CCA%203.jpg)
 
-<p align="center"><b>P5 students learning how to draw Manga Art</b></p>
+<p align="center"><b>P5 students learning how basic percussion from the Band Tutor </b></p>
 
-![](/images/4%20(16).jpg)
+![](/images/CCA%204.jpg)
 
-<p align="center"><b>P3 students expending their energy through the Modular Trampoline Programme</b></p>  
+<p align="center"><b>P6 students learning basic Hip Hop dance moves </b></p>
 
-![](/images/5%20(15).jpg)
-
-<p align="center"><b>P6 students having hands-on experience trying out bowling using modified bowling balls and lanes</b></p>
-
-![](/images/6%20(11).jpg)
-
-<p align="center"><b>P6 students learning shooting through the Modular Archery Programme</b></p>

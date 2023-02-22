@@ -10,7 +10,7 @@ Dear Parents,
   
 Please watch the video to learn more about Mystery Motivator Intervention.  
 
-< insert [video](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/parents-engagement-resources/micro-learning-unit-for-parents-with-sen-children/mystery-motivator-intervention) here >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDgPKOL9v94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you'd like a version to read, please click on the link below.  
   
