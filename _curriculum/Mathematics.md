@@ -7,7 +7,7 @@ description: ""
 
 Singapore Mathematics Framework  
 
-The school’s Mathematics Programme is guided by the Primary Mathematics Syllabus (MOE 2013). The syllabus aims to enable all students to: 
+The school’s Mathematics Programme is guided by the Primary Mathematics Syllabus (MOE 2013). The syllabus aims to enable all students to:&nbsp;
 
 *   acquire mathematical concepts and skills for everyday use and continuous learning in mathematics;
 *   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving; build confidence and foster interest in mathematics.
@@ -31,9 +31,9 @@ Teaching should build on students' knowledge; take cognizance of students' inter
 Teaching should connect learning to the real world, harness ICT tools and emphasise 21st century competencies.
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/2%20(13).jpg"/>
+			<img src="/images/2%20(13).jpg">
 		</td>
 		<td>
 			<h4>3 Phases of Learning (Pedagogy) in Mathematics Education  </h4>
@@ -42,33 +42,69 @@ Teaching should connect learning to the real world, harness ICT tools and emphas
 			*   Mastery of learning <br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 #### Core Teaching and Learning
 
-P1 – 6 mathematics curriculum aims to build strong foundation in mathematical knowledge, concepts and skills in our students through activity-based lessons, direct-learning and inquired-based learning.  Students are given concrete experiences to help them develop a sense of numbers, make connections and become better problem solvers.  
+P1 – 6 mathematics curriculum aims to build strong foundation in mathematical knowledge, concepts and skills in our students through activity-based lessons, direct-learning and inquired-based learning.&nbsp; Students are given concrete experiences to help them develop a sense of numbers, make connections and become better problem solvers.&nbsp;&nbsp;
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td>
-			<img src="/images/1%20(11).jpg"/>
+			<img src="/images/1%20(11).jpg">
 		</td>
 		<td>  
-			<img src="/images/2%20(12).jpg"/>
+			<img src="/images/2%20(12).jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
   
 #### <u>Learning Programmes that support diverse learners</u>
 
-<u>P1 – 2 Learning Support Programmes (LSM Programme)</u> <br>
-Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to cope with the Primary 1 and Primary 2 Math Curriculum. 
+<u>P1 – P4 Learning Support Programmes (LSM Programme)</u> <br>
+        Learning Support for Mathematics (LSM) is an early intervention effort for students who need additional support in acquiring basic numeracy skills when they enter Primary 1. Originally intended for Primary 1 and Primary 2, the support has now been extended to Primary 4.&nbsp;
+				
+
+Key Math Activities that promote joy of learning to put the information in a table
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:184.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Activity</span></b></p></td><td style="width:2.0in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="192"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Levels involved</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:184.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Learning stations/ corner</span></p></td><td style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="192"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">P1 &amp; P2</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:184.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Math Whiz Competition</span></p></td><td style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="192"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">P1 to P6</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:184.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Math Board Games</span></p></td><td style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="192"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">P3 to P6</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:184.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Math Olympiad Programme</span></p></td><td style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="192"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">P4 to P6</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:184.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">Math Competitions</span></p></td><td style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="192"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:text1" lang="EN-SG">P4 to P6</span></p></td></tr></tbody></table>
+
 
 <u>P3 – P6 Improving Confidence and Achievement in Numeracy (ICAN Programme)</u> <br>
 The ICAN programme is a collaboration between schools and MOE to support students using intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory.
 
 <u>P4 – P5 E2K Mathematics Programme (Selected students)</u> <br>
-Math E2K is a Mathematics enrichment programme for upper primary students who demonstrate interest and ability in Mathematics.  It aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+Math E2K is a Mathematics enrichment programme for upper primary students who demonstrate interest and ability in Mathematics.&nbsp; It aims to foster independence in mathematical thinking skills, as well as nurture other important 21st&nbsp;century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
 
 
@@ -76,21 +112,21 @@ Math E2K is a Mathematics enrichment programme for upper primary students who de
 
 P1 – 2 Math Learning Station/ Corner <br>
 P1 – 2 Math Games Day<br>
-P1 – 6 Math Whiz   <br>
+P1 – 6 Math Whiz&nbsp;  <br>
 P3 – 6 Math Board Games <br>
 P4 – 6 Math Olympiad Programme <br>
 P4 – 6 Math Competitions
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td>
-			<img src="/images/3%20(9).jpg"/>
+			<img src="/images/3%20(9).jpg">
 		</td>
 		<td>
-			<img src="/images/4%20(9).jpg"/>
+			<img src="/images/4%20(9).jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
   
 
