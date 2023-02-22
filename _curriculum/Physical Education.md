@@ -7,7 +7,7 @@ description: ""
 
 <p align="center"><b>A learner who is able to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active and healthy living</b></p>
 
-
+![](/images/PE.png)
 ##### <u>House System</u>
 
 All our school’s staff and students are assigned to 4 different Houses, namely Rhino (Red), Manta (Blue), Cheetah (Yellow) and Eagles (Green). The theme of animals was chosen as everyone can easily related to them and these 4 animals chosen have very strong and distinct qualities.
@@ -32,28 +32,41 @@ All our school’s staff and students are assigned to 4 different Houses, namely
 ##### Programmes
 
 <u>Stepping Up Programme</u> <br>
-As part of our school’s programme to develop self-directed learners through Physical Education, all Primary 5 students are given a step tracker for them to monitor their own activity level in terms of the number of steps they have achieved. <br>
-This serves as a guide for students to take ownership of their own fitness level and strive to achieve targets set in terms of the number of steps to be taken every day. <br>
+As part of our school’s programme to develop self-directed learners through Physical Education, all Primary 4, 5 and 6 students are given a step tracker for them to monitor their own activity level in terms of the number of steps they have achieved.
+<br>
+This serves as a guide for students to take ownership of their own fitness level and strive to achieve targets set in terms of the number of steps to be taken every day.
+<br>
 Students will also be taught on how to use the heart rate to monitor their own activity level.
 
 <img src="/images/2%20(4).jpg" style="width:30%"/>
 
 <u>P4 SwimSafer Programme</u> <br>
-Our school started our P4 SwimSafer Programme for all Primary 4 students in Term 3 this year. <br>
-The SwimSafer Programme is conducted every Thursday, from 11.00 am to 1.30 pm, during their PE lessons for a total of 8 sessions. <br>
-3 of the classes are having their SwimSafer Programme at Toa Payoh Swimming Complex, while the other 3 classes have their SwimSafer Programme conducted at the Ang Mo Kio Swimming Complex.
+Our Primary 4 students started their P4 SwimSafer Programme in Term 1 this year.
 
-![swim.jpg](/images/swim.jpg)
+The SwimSafer Programme is conducted every Thursday, from 9.00 am to 11.30 am, during their PE lessons for a total of 8 sessions.
 
-<p align="center">Safety briefing by the swimming instructors before entering the pool
+3 of the classes are having their SwimSafer Programme at Toa Payoh Swimming Complex, while the other 3 classes have their SwimSafer Programme conducted at the Geylang East Swimming Complex.
+
+![](/images/PE%202.jpg)
+
+<p align="center"> Students being briefed on expectations before starting their first lesson
 </p>
   
-![swim2.jpg](/images/swim2.jpg)
-
-<p align="center">Beginner swimmers learning basic kicking  </p>
+![](/images/PE%203.png)
 
 
-<u>P5 Student Leadership Camp</u> <br>
-Our school’s P5 Student Leadership Camp will be conducted at the MOE Labrador Outdoor Adventure Learning Centre from 18 to 20 July 2022. <br>
-Through the 2 ½ days non-residential camp, Primary 5 students will be able to set goals related to character strengths and skills, appreciate the strengths and differences of themselves and their peers and act responsibly even when under pressure. <br>
-The P5 students will be doing activities like low elements, Backswoodman cooking, camp craft and a walk to Labrador Park, whereby they can learn more about the floral and fauna and also check out the remnants of what used to be a British military battlement relating to National Education.
+<p align="center"> Students with prior swimming experience being tested before grouping them according to their abilities
+</p>
+
+![](/images/PE%204.jpg)
+
+<p align="center">Beginner swimmers learning to relax and float on their backs
+</p>
+
+
+<u>Annual Games Day</u> <br>
+Our school’s inaugural Annual Games Day will be returning on 10 March 2023, whereby all the Primary 3 to Primary 6 students will get to compete in games events and class challenges to vie for the Annual Games Day House Champion 2023.
+
+On that day, students will be grouped according to their Houses: Rhino, Manta, Cheetah and Eagles and compete in Track and Field, Captain’s Ball, Volleyball and Basketball games to earn points for their Houses and medals for themselves. Students will also have a chance in compete in class challenges where every student will be able to put in their best effort to complete tasks assigned to them.
+
+Through the sporting experiences, students will also be able to exhibit ASPIRE school values and teamwork as they compete in a fair and respectful manner.
