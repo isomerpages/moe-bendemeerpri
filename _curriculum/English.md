@@ -139,16 +139,19 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 
   
 
-##### Bendemeer OTTER Times
+##### **Celebrate Writing through our Bendemeer OTTER Times**
 
-The attractive format of the publication inspires students to write well while earning a chance to be featured. Click&nbsp;[here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf)&nbsp;&lt; file above 5MB&gt; to read the publication.
-<img style="width:60%" src="/images/Otter%20Times%202021_1.jpg">
+We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read the publication.
+			
+![](/images/English%2017.png)
 
-<p align="center">Issue 1: Click <a href="https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf">here</a> &lt; file above 5MB &gt;&nbsp;to read!</p>
+Issue 1: https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf
+			
+![](/images/English%2018.png)
+			
+[Issue 2: https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf]()
 
-<img style="width:60%" src="/images/Otter%20Times%20Nov%202021.jpg">
 
-<p align="center">Issue 2: Click&nbsp;<a href="/files/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf">here</a> to read!  </p>
 
 ##### Oracy
 
