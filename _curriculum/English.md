@@ -169,7 +169,13 @@ The school’s very own Good English speaking mascot- Grammar Grandma makes her 
 
 Our students’ very own reader’s theatre performance with their handmade character masks.
 
-  
+**_Resources_**
+
+Otter Times
+
+Issue 1: https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf
+
+Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021\_16Nov2021.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf)
 
 #### Useful Links
 
