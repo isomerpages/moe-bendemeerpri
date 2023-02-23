@@ -96,21 +96,44 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 <table>
 	<tbody><tr>
 		<td>
-			<img src="/images/7%20(6).jpg">
+			<img src="/images/English%209.jpg">
 		</td>
 		<td>
-			<img src="/images/8%20(4).jpg">
+			<img src="/images/English%2010.jpg">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/9%20(4).jpg">
+			<img src="/images/English%2011.jpg">
 		</td>
 		<td>
-			<img src="/images/10%20(4).jpg">
+			<img src="/images/English%2012.jpg">
 		</td>
 	</tr>
 </tbody></table>
+		<table>
+	<tbody><tr>
+		<td>
+			<img src="/images/English%209.jpg">
+		</td>
+		<td>
+			<table>
+	<tbody><tr>
+		<td>
+			
+			
+			
+		
+			
+	
+			
+		
+	
+			
+
+		
+
+		
 
 <p align="center">Writing is so much fun in Bendemeer!</p>
 
