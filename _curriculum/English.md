@@ -122,22 +122,7 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 		<td>
 			
 			
-			
-		
-			
-	
-			
-		
-	
-			
-
-		
-
-		
-
 <p align="center">Writing is so much fun in Bendemeer!</p>
-
-  
 
 ##### **Celebrate Writing through our Bendemeer OTTER Times**
 
