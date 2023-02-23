@@ -55,6 +55,16 @@ STELLAR’s vision is for all children to develop a love for reading and hence t
 Reading is crucial to a child’s success across all contexts in school. The school has embarked on the “I Read, You Read, We Read” approach to reading where teachers positively role model reading. One period in the weekly timetable is set aside for reading. The objective of the reading period is to inculcate in students a love of reading. During the reading period, teachers weave in discussions based on Critical Literacy, and use newspapers to share about current affairs as well as visit the library to be immersed in the wonderful world of books. Other reading programmes include:
 
 Book Talk: Primary 1 to Primary 5 Students are encouraged to write a synopsis of a book read. Then they would stand in front of their classmates and share what they have written. This also fosters confidence building and student-student relationship.
+
+<table>
+	<tbody><tr>
+		<td width="30%">
+			<img src="/images/English%207.jpg">
+		</td>
+		<td width="30%">
+			<img src="/images/English%208.jpg">
+		</td>
+		
   
 <table>
 	<tbody><tr>
