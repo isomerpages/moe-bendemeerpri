@@ -7,7 +7,7 @@ description: ""
 
 #### Vision and Mission
 
-The vision of the English Department is to ensure that every student of Bendemeer is a confident and competent communicator. In order to realise this vision, the department has planned a six-year programme to provide our pupils with a strong foundation and exposure to rich language. The mission of the English Department is to inspire the love of learning through rich learning activities and positive role modelling. The English department has also embarked on Strategy-based instruction as its key approach to teaching EL.
+The vision of the English Department is to ensure that every student of Bendemeer is a confident and competent communicator. In order to realise this vision, the department has planned a six-year programme to provide our students with a strong foundation and exposure to rich language. The mission of the English Department is to inspire the love of learning through rich learning activities and positive role modelling. The English department has also embarked on Strategy-based instruction as its key approach to teaching EL.
 
 ![](/images/1%20(17).jpg)
 
@@ -27,6 +27,11 @@ STELLAR’s vision is for all children to develop a love for reading and hence t
 		</td>
 	</tr>
 </table>
+	<img src="/images/English%201.jpg"/>
+		</td>
+	</tr>
+</table>
+	
 
 <p align="center">Our students engaged in activities that encourage and inspire the love for English .</p>
 
