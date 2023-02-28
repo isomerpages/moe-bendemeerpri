@@ -5,4 +5,4 @@ description: ""
 ---
 ### CALENDAR
 
-Under Construction
+This page is currently under construction. Thanks for your patience. 
