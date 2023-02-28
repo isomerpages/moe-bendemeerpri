@@ -5,4 +5,4 @@ description: ""
 ---
 ### CALENDAR
 
-< [insert](https://support.google.com/calendar/answer/41207?hl=en) google calendar here. >
+This page is currently under construction. Thanks for your patience. 

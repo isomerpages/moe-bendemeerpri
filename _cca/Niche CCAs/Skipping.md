@@ -13,7 +13,10 @@ Mdm Siti Aisha (2nd IC) <br>
 Mrs Seetha Dhillon <br>
 Mr Alvin Lee <br>
 Mdm Ng Lay Pheng <br>
+Mr Kevin Koh (coach) <br>
 Ms Edna Teo (coach)  <br>
+Mr Don Lui (coach)
+
 
 #### CCA Schedule  
 
@@ -21,6 +24,7 @@ Ms Edna Teo (coach)  <br>
 | --- | --- |
 | Tuesday | 7.30am - 9am | 
 | Wednesday | 2pm - 3.30pm |
+| Friday | 2pm - 3.30pm (for selected skipper only) | 
 
 #### Introduction
 
@@ -39,8 +43,10 @@ Source: [https://en.wikipedia.org/wiki/Skipping_rope](https://en.wikipedia.org/
 
 #### Achievements
 
-**National Junior Rope skipping Championship 2019**  <br>
-Junior Boys – Top 8 (5th position) for Double Dutch
+**NSG Junior Competition 2022**  <br>
+Junior Boys Individual Speed – 5th <br>
+Junior Boys Pair Freestyle – 2nd <br>
+Junior Girls Individual Speed – Bronze Achievement Pin
 
 #### Photos/Gallery
 
