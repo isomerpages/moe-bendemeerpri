@@ -3,7 +3,6 @@ title: Students
 permalink: /links/students/
 description: ""
 ---
-
 ### STUDENTS
 
 
@@ -105,13 +104,16 @@ description: ""
 		</td>
     <td>
 			<p align="center">
-				<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0hzMcATZdtHxQ0uF-jZfk3Z5JRa9TdBgSbHvI-ZTlT2QZlA/viewform">
-					Our Voices 
+				<a href="https://forms.gle/CZcN9anDrb1YzWGFA/">			Our Voices 
 				</a>
 			</p>
 		</td>
   </tr>
 </table>
 		</td>
+		
+		
+		
+		
 	</tr>
 </table>
