@@ -60,12 +60,18 @@ They have entertained our ministers and the community with their fine performanc
 
 #### _<u>Our Achievements</u>_
 
+
+SYF Arts Presentation 2022   
+Festival Winds 2022
+
 SYF Arts Presentation 2014, 2016, 2018 - Certificate of Distinction <br>
 SYF 2010, 2012 – Gold with Honours <br>
 Hong Kong Winterband Festival 2012 – Gold <br>
 Best Band in Singapore - 2000
 
 #### _<u>Performances</u>_
+
+Festival Winds Concert (2022)
 
 Singapore Band Virtual Championships (2021)  <br>
 “Friends of Exceptional Children” virtual fundraising concert for children with intellectual disabilities (2021) <br>
@@ -79,6 +85,15 @@ Botanic Gardens (July 2008) <br>
 Public performances at Jurong Bird Park (June 2007)  
 
 #### _<u>Photos</u>_  
+
+![Festival Winds 2022](/images/Festival%20Winds%202022.jpg)
+
+                              Festival Winds 2022
+												
+![SYF Arts Presentation 2022](/images/SYF%20Arts%20Presentation%202022%201.jpg)						
+
+                   SYF Arts Presentation 2022
+												
 
 ![](/images/1%20(25).jpg)
 ![](/images/2%20(24).jpg)
