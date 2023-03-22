@@ -25,7 +25,6 @@ Niche CCAs is for selected students who have been selected to take part to these
 #### Rationale for Overall CCA Programme
 
 Overall CCA Programme is a 6 year programme to:
-
 *   Incorporate the Joy of Learning
 *   Impart Knowledge, Skills and Values
 
@@ -44,4 +43,3 @@ It is a platform for all students to have a wide variety of learning experiences
 ![](/images/CCA%204.jpg)
 
 <p align="center"><b>P6 students learning basic Hip Hop dance moves </b></p>
-
