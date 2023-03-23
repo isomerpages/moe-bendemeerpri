@@ -4,7 +4,7 @@ permalink: /cca/Niche/skipping/
 description: ""
 third_nav_title: Niche CCAs
 ---
-### SKIPPING
+### ROPE SKIPPING
 
 #### Teachers in charge
  
@@ -24,7 +24,7 @@ Mr Don Lui (coach)
 | --- | --- |
 | Tuesday | 7.30am - 9am | 
 | Wednesday | 2pm - 3.30pm |
-| Friday | 2pm - 3.30pm (for selected skipper only) | 
+| Friday | 2pm - 3.30pm (for selected skippers only) | 
 
 #### Introduction
 
