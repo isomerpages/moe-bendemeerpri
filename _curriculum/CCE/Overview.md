@@ -76,11 +76,29 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 
 
 
-#### <u>2. Mindfulness Practices - ‘Start Each Day With A Grateful Heart’, Bendemeer Student Pledge and Daily Quiet Time Exercise</u>
+#### <u>2. Mindfulness Practices - ‘Start Each Day With A Grateful Heart’, Bendemeer Student Pledge and Daily Quiet Time Exercise and 'Thankful Thursdays'.</u> 
 
 ##### Objective
 
-‘Start Each Day with a Grateful Heart’ is a CCE department initiative aimed at developing in our students a sense of gratitude for the things / people in their lives. Being mindful to take stock and appreciate the littlest things in their lives help students to see the positive amidst challenging times. Teachers and students are encouraged to pen down notes in which they indicate what they are grateful for. Also, after recess, students recite the Bendemeer Student Pledge that serves to remind them of their purpose in school, as a member of the school community and are engaged in deep breathing exercises after that to refocus their state of mind to learn as one Bendemeer family. 
+Aimed to develop in our students a sense of gratitude in their lives and equip them with the competency to stay positive amidst challenging times, students seek to start each day with a grateful heart and be mindful to take stock and appreciate the littlest things in their lives. Teachers and students are encouraged to pen down notes in which they indicate what they are grateful for. 'Thankful Thursdays' mornings are alternated with grateful exercise and bucket filling exercise. In the former, our Peer Support Leaders share gratitude notes from their peers to lead the school in a moment of gratitude. In the latter, students who have been caught filling their teachers' buckets by doing the right things are affirmed and recognised for their efforts.  
+
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/CCE1.jpg"/>
+		</td>
+		<td width="50%">
+			<img src="/images/CCE2A.png"/>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/CCE3.jpg"/>
+		</td>
+			
 <table>
 	<tr>
 		<td width="50%">
@@ -91,8 +109,9 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 		</td>
 	</tr>
 </table>
+<img src="/images/CCE6.jpg"/>
 
-
+After every recess, students recite the Bendemeer Student Pledge that serves to remind them of their purpose as a student, as a member of the school committee and are engaged in deep breathing exercises after that to refocus their state of mind to respect one another and to learn as one Bendemeer Family.
 
 #### <u>3. Our Everyday Responsibilities</u>
 
