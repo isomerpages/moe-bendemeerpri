@@ -144,28 +144,41 @@ To create an immersive environment whereby students can be reminded of how they 
  
  #### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
 
-As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R<sup>3</sup>ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it. 
-
+As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R<sup>3</sup>ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it to communicate to students the expected observables.
+		
   
 
 #### <u>6. Sustaining Toilets As Restrooms (STAR)</u>
 
-##### Objective
+##### Objectives
 
 1) To educate our students and all stakeholders of the school in embracing a quality restroom culture. 
 
 2) To provide opportunity for students to be responsible by practicing proper restroom habits and to be gracious in adopting the restrooms.
 
 ##### Activities:
+		
+Our students are briefed and educated:
+		
+(1) On the positive and negative impact their actions have in building a quality restroom culture;
+		
+(2) To share care and responsibility to the community by practising good restroom habits;
+		
+(3) To improve the lives of people in the school community.
+		
+Students carry out daily inspection of the restrooms and problems that require immediate attention would be reported to the General Office.
+		
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/CCE%20Star%201.jpg"/>
+		</td>
+		<td>
+			<img src="images/CCE%20Star%202.jpg"/>
+		</td>
+	</tr>
+</table>		
+		
+We are proud to annonounce that the school has attained the Platinum STAR in 2021 and 2022.
 
-Our Primary 4 CCE (EL) students were appointed as P4 star ambassadors (SUSTAINING TOILETS AS RESTROOMS (STAR) and scheduled on a duty roster to carry out daily inspections of the washrooms. Students were briefed and educated by their CCE teacher on the learning objectives of the programme and their roles and responsibilities as star ambassadors. At the end of the programme, our students were educated
-
-(1) on the positive and negative impact their actions have in building a quality restroom culture, <br>
-(2) to show care and responsibility to the community by practicing good restroom habits. <br>
-(3) to improve the lives of people in the school community.
-
-Every day, students would make their rounds to perform the checks. At the end of each assessment, students submitted their inspection checklist to the teacher-in-charge. In the event of immediate severe problems, students reported their findings or any problems to the Teacher-in-charge.
-
-![](/images/11%20(4).jpg)
-
-We are proud to announce that in 2021, our school has been awarded the Platinum STAR which is awarded to schools for achieving Gold in three consecutive years.
+		
