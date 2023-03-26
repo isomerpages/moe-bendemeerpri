@@ -180,5 +180,3 @@ Students carry out daily inspection of the restrooms and problems that require i
 </table>		
 		
 We are proud to annonounce that the school has attained the Platinum STAR in 2021 and 2022.
-
-		
