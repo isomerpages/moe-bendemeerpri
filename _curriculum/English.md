@@ -121,9 +121,7 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 	<tbody><tr>
 		<td>
 			
-			
-<p align="center">Writing is so much fun in Bendemeer!</p>
-
+![](/images/elpicture2.jpg)
 ##### **Celebrate Writing through our Bendemeer OTTER Times**
 
 We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read the publication.
@@ -137,7 +135,14 @@ Issue 1: https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%
 [Issue 2: https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf]()
 
 
+##### A Pocketful of Phrases
 
+The EL department has also come up wit a compilation of useful words and phrases for students to widen their vocabulary for speech and writing. 
+			
+			
+![](/images/pocketful%20of%20phrases.jpg)
+			
+			
 ##### Oracy
 
 The objectives of the Bendemeer Oracy Programme are to build confident and competent communicators who 1) understand the key features of spoken language; and 2) can craft presentations using a variety of skills and strategies, according to the purpose, audience, context and culture.
@@ -152,20 +157,21 @@ The objectives of the Bendemeer Oracy Programme are to build confident and compe
 
 ##### A Vibrant English Environment
 
-English Week
+**English Week**
 
 The objectives of English Week are to:&nbsp;&nbsp;&nbsp;<br>
 ·&nbsp;Arouse pupils’ interest in English Language through fun, engaging activities <br>
 ·&nbsp;Provide students with a platform to showcase their productions in various forms and to engage in purposeful communication with their teachers and peers <br>
-·&nbsp;Engage students in various areas of English language learning (speaking, writing, reading, listening) through modes beyond the scheme of work e.g. literature appreciation and language games
+·&nbsp;Engage students in various areas of English language learning (speaking, writing, reading, listening) through modes beyond the scheme of work e.g. literature appreciation and language games.
+			
+It is truly a week where students enjoy the wonders of the English Language. 
 
-Students engage in activities such as a reader’s theatre performance, journalism and English Language games. It is truly a week where students enjoy the wonders of the English Language.
 
-Speak Good English at BPS
+**Speak Good English at BPS**
 
 The school’s very own Good English speaking mascot- Grammar Grandma makes her appearance once a term to remind students on the importance of speaking well. In addition to her highly entertaining yet educational talks there are quizzes for both staff and students on the right way to speak English!
 
-![](/images/13%20(3).jpg)
+
 
 Our students’ very own reader’s theatre performance with their handmade character masks.
 
