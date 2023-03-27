@@ -9,7 +9,7 @@ description: ""
 
 The vision of the English Department is to ensure that every student of Bendemeer is a confident and competent communicator. In order to realise this vision, the department has planned a six-year programme to provide our students with a strong foundation and exposure to rich language. The mission of the English Department is to inspire the love of learning&nbsp;through rich learning activities and positive role modelling. The English department has also embarked on Strategy-based instruction as its key approach to teaching EL.
 
-![](/images/1%20(17).jpg)
+![](/images/overview%20of%20lessons.jpg)
 
 #### Programmes
 
