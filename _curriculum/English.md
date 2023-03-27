@@ -171,38 +171,36 @@ It is truly a week where students enjoy the wonders of the English Language.
 
 The school’s very own Good English speaking mascot- Grammar Grandma makes her appearance once a term to remind students on the importance of speaking well. In addition to her highly entertaining yet educational talks there are quizzes for both staff and students on the right way to speak English!
 
-
+![](/images/readerstheatre.jpg)
 
 Our students’ very own reader’s theatre performance with their handmade character masks.
 
-**_Resources_**
+#### Resources
 
-Otter Times
-
-Issue 1: https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf
-
+**Otter Times**<br>
+Issue 1: <br>
+			https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf<br>
 Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021\_16Nov2021.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf)
 
 #### Useful Links
-
 **Good for online stories and games** <br>
 [https://www.storylineonline.net/
 [https://www.abcya.com/]
 [http://www.bbc.co.uk/cbeebies/ 
 [http://www.roythezebra.com/
 
-**Good for downloading&nbsp;poems and teaching poetry** <br>
+**Good for downloading&nbsp;poems and teaching poetry**
 [http://www.poetry4kids.com](http://www.poetry4kids.com/)
 
-**Good for downloading Children's Songs** <br>
+**Good for downloading Children's Songs** 
 [http://www.songsforteaching.com/animalsongs.htm](http://www.songsforteaching.com/animalsongs.htm)&nbsp;
 
-**Good for teaching reading through phonics** <br>
+**Good for teaching reading through phonics**
 [http://www.starfall.com](http://www.starfall.com/)
 
 #### Reference Resources
 
-**Dictionaries** <br>
+**Dictionaries**
 [http://dictionary.reference.com/](http://dictionary.reference.com/)&nbsp;(Good pronunciation feature)
 
 **Good for advice on Teaching English and Reading** <br>
@@ -210,5 +208,5 @@ Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer
 [http://www.teachingenglish.org.uk/](http://www.teachingenglish.org.uk/) <br>
 [http://www.pbs.org/launchingreaders/](http://www.pbs.org/launchingreaders/)
 
-**NLB online catalogue** <br>
+**NLB online catalogue** 
 [http://www.nlb.gov.sg/](http://www.nlb.gov.sg/)
