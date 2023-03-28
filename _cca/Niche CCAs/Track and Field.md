@@ -48,6 +48,26 @@ Through competitions, the student-athletes learn about integrity, championing go
 #### Achievements
 2019: Achieved 6th position in the U12 Girls Akira Swift Goh Teck Phuan Memorial Age Group Cross Country Championships
 2019: National School Games Track & Field Championships 2019 ‘A’ Division Boys Runner-up
+        
+National School Games Track & Field Championships 2022
+
+-    2nd position in Junior 1 Boys Scissors Jump
+
+-    5th position in Junior 1 Boys 1000 metres
+
+-    8th position in Junior 1 Boys Long Jump
+
+-    6th position in Junior 1 Boys 8 x 50 metres Relay
+
+- 1st position in Junior 2 Boys Medicine Ball Throw
+
+- 2nd position in Junior 2 Boys Scissors Jump
 
 ##### Photos/Gallery
 ![](/images/1%20(20).jpg)
+
+![T&F1](/images/T&F2.jpg)
+
+![T&F2](/images/T&F2.jpg)
+
+![T&F3](/images/T&F3.jpg)

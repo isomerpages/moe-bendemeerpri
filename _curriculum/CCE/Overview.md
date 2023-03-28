@@ -76,11 +76,29 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 
 
 
-#### <u>2. Mindfulness Practices - ‘Start Each Day With A Grateful Heart’, Bendemeer Student Pledge and Daily Quiet Time Exercise</u>
+#### <u>2. Mindfulness Practices - ‘Start Each Day With A Grateful Heart’, Bendemeer Student Pledge and Daily Quiet Time Exercise and 'Thankful Thursdays'.</u> 
 
 ##### Objective
 
-‘Start Each Day with a Grateful Heart’ is a CCE department initiative aimed at developing in our students a sense of gratitude for the things / people in their lives. Being mindful to take stock and appreciate the littlest things in their lives help students to see the positive amidst challenging times. Teachers and students are encouraged to pen down notes in which they indicate what they are grateful for. Also, after recess, students recite the Bendemeer Student Pledge that serves to remind them of their purpose in school, as a member of the school community and are engaged in deep breathing exercises after that to refocus their state of mind to learn as one Bendemeer family. 
+Aimed to develop in our students a sense of gratitude in their lives and equip them with the competency to stay positive amidst challenging times, students seek to start each day with a grateful heart and be mindful to take stock and appreciate the littlest things in their lives. Teachers and students are encouraged to pen down notes in which they indicate what they are grateful for. 'Thankful Thursdays' mornings are alternated with grateful exercise and bucket filling exercise. In the former, our Peer Support Leaders share gratitude notes from their peers to lead the school in a moment of gratitude. In the latter, students who have been caught filling their teachers' buckets by doing the right things are affirmed and recognised for their efforts.  
+
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/CCE1.jpg"/>
+		</td>
+		<td width="50%">
+			<img src="/images/CCE2A.png"/>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/CCE3.jpg"/>
+		</td>
+			
 <table>
 	<tr>
 		<td width="50%">
@@ -91,8 +109,9 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 		</td>
 	</tr>
 </table>
+<img src="/images/CCE6.jpg"/>
 
-
+After every recess, students recite the Bendemeer Student Pledge that serves to remind them of their purpose as a student, as a member of the school committee and are engaged in deep breathing exercises after that to refocus their state of mind to respect one another and to learn as one Bendemeer Family.
 
 #### <u>3. Our Everyday Responsibilities</u>
 
@@ -125,28 +144,39 @@ To create an immersive environment whereby students can be reminded of how they 
  
  #### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
 
-As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R<sup>3</sup>ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it. 
-
+As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R<sup>3</sup>ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it to communicate to students the expected observables.
+		
   
 
 #### <u>6. Sustaining Toilets As Restrooms (STAR)</u>
 
-##### Objective
+##### Objectives
 
 1) To educate our students and all stakeholders of the school in embracing a quality restroom culture. 
 
 2) To provide opportunity for students to be responsible by practicing proper restroom habits and to be gracious in adopting the restrooms.
 
 ##### Activities:
-
-Our Primary 4 CCE (EL) students were appointed as P4 star ambassadors (SUSTAINING TOILETS AS RESTROOMS (STAR) and scheduled on a duty roster to carry out daily inspections of the washrooms. Students were briefed and educated by their CCE teacher on the learning objectives of the programme and their roles and responsibilities as star ambassadors. At the end of the programme, our students were educated
-
-(1) on the positive and negative impact their actions have in building a quality restroom culture, <br>
-(2) to show care and responsibility to the community by practicing good restroom habits. <br>
-(3) to improve the lives of people in the school community.
-
-Every day, students would make their rounds to perform the checks. At the end of each assessment, students submitted their inspection checklist to the teacher-in-charge. In the event of immediate severe problems, students reported their findings or any problems to the Teacher-in-charge.
-
-![](/images/11%20(4).jpg)
-
-We are proud to announce that in 2021, our school has been awarded the Platinum STAR which is awarded to schools for achieving Gold in three consecutive years.
+		
+Our students are briefed and educated:
+		
+(1) On the positive and negative impact their actions have in building a quality restroom culture;
+		
+(2) To share care and responsibility to the community by practising good restroom habits;
+		
+(3) To improve the lives of people in the school community.
+		
+Students carry out daily inspection of the restrooms and problems that require immediate attention would be reported to the General Office.
+		
+<table>
+	<tr>
+		<td width="50%">
+			<img src="/images/CCE%20Star%201.jpg"/>
+		</td>
+		<td>
+			<img src="images/CCE%20Star%202.jpg"/>
+		</td>
+	</tr>
+</table>		
+		
+We are proud to annonounce that the school has attained the Platinum STAR in 2021 and 2022.
