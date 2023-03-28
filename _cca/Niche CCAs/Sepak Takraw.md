@@ -93,4 +93,5 @@ Junior Team 2 achieved 1st in Tiered 2 rounds in the Nationals
 	<td width="50%">
 			<img src="/images/sepak%20takraw%205.jpg"/>
 		
-   Teamwork & communications are key to winning!
+          Teamwork & communications are key                           
+		                      to winning the game.
