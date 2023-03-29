@@ -11,8 +11,7 @@ description: ""
 | **Vision** | Creative and passionate learners with a spirit of excellence in the Arts. |
 | **Mission** | To instil confidence and nurture curious minds with a deeper appreciation for the Arts. |
 
-![](/images/1%20(9).jpg)
- 
+
 Through the Aesthetics domain, every student is given the opportunities to appreciate the Arts, to nurture their talents and inspire their peers. With curious minds, the students explore and experiment with the different Arts forms. They learn to appreciate the local, ASEAN and international music and performing arts genres. The students continue to develop their passion for the Arts with a spirit of excellence. Apart from the skills and knowledge acquisition, the Aesthetics domain provide them with a platform to build their confidence, hone their 21st century competencies and strengthen the inculcation of school values.
 
 ![](/images/2%20(10).jpg)           
