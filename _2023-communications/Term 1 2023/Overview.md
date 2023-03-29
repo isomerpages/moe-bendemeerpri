@@ -6,4 +6,4 @@ third_nav_title: Term 1 2023
 ---
 ### TERM 1 2022
 
-To access the Letters to Parents for Term 1, please click [here](https://drive.google.com/drive/folders/1SS_40-jVQ2bYs6fPcG3SN65MGZ1CcNh0?usp=share_link) here
+To access the Letters to Parents for Term 1, please click [here](https://drive.google.com/drive/folders/1SS_40-jVQ2bYs6fPcG3SN65MGZ1CcNh0?usp=share_link)
