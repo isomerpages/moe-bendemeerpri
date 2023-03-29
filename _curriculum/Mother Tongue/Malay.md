@@ -13,21 +13,12 @@ The vision of the Malay Department is for our students to be effective Malay Lan
 Our mission is to enhance students’ linguistic ability through listening, oral communication, reading and writing imbibed with a sense of cultural awareness, heritage, values and identity.
 
 Our objectives are:- <br>
-1.      To provide an engaging learning    
-         environment <br>
+1.      To provide an engaging learning environment <br>
 2.     To achieve scholastic excellence <br>
-3.     To develop language abilities and 
-         competencies in reading, writing, listening, 
-         speaking and thinking skills <br>
-4.     To provide opportunities for students to 
-        speak, write and make presentations in 
-        standard Malay Language that is 
-        grammatical, fluent and appropriate to 
-        purpose, audience, context and culture <br>
-5.     To encourage appreciation of fiction and 
-         non-fiction texts <br>
-6.     To enhance effective use of ICT in learning 
-        of the Malay Language
+3.     To develop language abilities and competencies in reading, writing, listening, speaking and thinking skills <br>
+4.     To provide opportunities for students to speak, write and make presentations in standard Malay Language that is grammatical, fluent and appropriate to purpose, audience, context and culture <br>
+5.     To encourage appreciation of fiction and non-fiction texts <br>
+6.     To enhance effective use of ICT in learning of the Malay Language
 
 #### Programmes
 ##### Reading Programme 
@@ -44,11 +35,11 @@ Objectives of the programme are to: <br>
 
 This 2-week long event is aimed at creating an immersive environment for the learning of mother tongue languages. During the two weeks, a wide range of activities related to ML language and culture are conducted. Different levels were exposed to a variety of cultural activities such as dance, weaving and making of _tanjak_ (Malay headgear). These activities provide authentic opportunities for students to use and experience the Malay  language and culture.  
 
-Objectives of the programme: <br>
+The objectives of the programme are to: <br>
 1.    create varied opportunities for students to involve and participate in Malay language and cultural activities that promote an exclusive use of the language; <br>
 2.    experience the relevance in learning MTL by providing meaningful and engaging activities; <br>
 3.    raise awareness of the respective cultures and traditions; <br>
-4.    stimulate students’ interest in knowing their culture and language
+4.    stimulate students’ interest in knowing their language and culture.
 ![Uncovering gems during Mother Tongue Fortnight activities.](/images/Malay%20dept%201.jpg)
 Uncovering gems during MT Fortnight activities
 
