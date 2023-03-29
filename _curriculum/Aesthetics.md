@@ -7,19 +7,17 @@ description: ""
 
 | | |
 | --- | --- |
-| **Motto** | To Appreciate the Arts, <br> ToNurture Talents, <br> To Inspire Others |
+| **Motto** | To Appreciate the Arts, <br> To Nurture Talents, <br> To Inspire Others |
 | **Vision** | Creative and passionate learners with a spirit of excellence in the Arts. |
 | **Mission** | To instil confidence and nurture curious minds with a deeper appreciation for the Arts. |
 
 
 Through the Aesthetics domain, every student is given the opportunities to appreciate the Arts, to nurture their talents and inspire their peers. With curious minds, the students explore and experiment with the different Arts forms. They learn to appreciate the local, ASEAN and international music and performing arts genres. The students continue to develop their passion for the Arts with a spirit of excellence. Apart from the skills and knowledge acquisition, the Aesthetics domain provide them with a platform to build their confidence, hone their 21st century competencies and strengthen the inculcation of school values.
 
-![](/images/2%20(10).jpg)           
-
+![](/images/2%20(10).jpg)
 <p align="center">Arousing the student’s interest and instilling the joy of learning in Music lessons. </p>
   
 ![](/images/3%20(7).jpg)
-
 <p align="center">Capturing the art processes as the school leverages E-pedagogy in Art lessons. </p>
 
 #### CCA Modular Programmes (Visual Art and Performing Arts)
