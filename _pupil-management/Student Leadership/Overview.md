@@ -6,9 +6,25 @@ third_nav_title: Student Leadership
 ---
 ### STUDENT LEADERSHIP
 
-  
-![Slide1_2.jpg](/images/Slide1_2.jpg)
+
+**Co-Advisor**  <br>
+Mrs Santhi Ravindran (Vice Principal Academic)
+
+**Advisor**<br>
+Ms Kanageswari Ravindran (SH Student Development)
+
+**Student Leadership Team**<br>
+Mdm Elis Tjandra (Student Leadership Coordinator)<br>
+Ms Pan Si Yong Olivia<br>
+Mdm Nora Adilla Binte Azman<br>
+Mr Tan Sheng Yang, Jerald<br>
+Mdm Chua Xing Rou<br>
+Parameswari Malarvannan (Mrs Vannan)<br>
+
+Good leaders are those who lead others towards the path of growth and progress by carrying the torch of wisdom. Our student leadership’s motto, _We as Learners Aspire to be Tomorrow’s Leaders,_ aims to develop passionate learners and confident leaders by nurturing and inspiring them to love learning, lead confidently, and make a difference in the lives of others.
 
 ![Slide2.jpeg](/images/Slide2.jpeg)
+
+Bendemeer Primary School believes that every pupil has the potential to be developed as a leader. In alignment to our school vision and mission, our student leadership framework aims to provide every pupil with leadership opportunity to help them grow and be a confident person who can lead others to serve the community or our nation for a better future.
 
 ![Slide3.jpg](/images/Slide3.jpg)
