@@ -51,4 +51,3 @@ The Stop Think Do model is a positive behaviour management approach that emphasi
 Through the use of the Stop Think Do model, our students are learning to regulate their behaviour, take responsibility for their actions, and make positive choices in challenging situations. In addition to its effectiveness in behaviour management, the Stop Think Do model is also grounded in positive education principles. It promotes a growth mindset, encourages students to take ownership of their learning, and helps to develop their resilience and social-emotional skills.
 
 ![](/images/StopThinkDo.jpg)
-
