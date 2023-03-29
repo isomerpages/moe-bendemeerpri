@@ -179,7 +179,7 @@ Teachers were equally thrilled like the students to be part of this electrifying
 [http://www.totaldefence.sg/](http://www.totaldefence.sg/)
 
 **National Archives of Singapore** <br>
-[http://www.nas.gov.sg/nas/](http://www.nas.gov.sg/nas/) < broken link > 
+(http://corporate.nas.gov.sg)
 
 **National Heritage Board** <br>
 [http://www.nhb.gov.sg/](http://www.nhb.gov.sg/)
