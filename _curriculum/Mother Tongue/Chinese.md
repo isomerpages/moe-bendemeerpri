@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 ### CHINESE
 
-**Chinese Language**
+
 
 **Lifelong learner with passion for the Chinese Language and its culture, rooted in moral values**
 
