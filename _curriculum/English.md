@@ -86,11 +86,11 @@ Book Talk: Primary 1 to Primary 5 Students are encouraged to write a synopsis of
 
 
 ![](/images/4%20(13).jpg)
-
 <p align="center">Students visit the Book Stop to read during recess  </p>
 
 ##### Writing
 
+		
 A spiral progression of skills is key to systematic teaching and learning of writing. Building on the principles of the Modified&nbsp;Language Experience Approach (MLEA)&nbsp;at the Lower Primary, the Writing Process Cycle (WPC) continues to provide pupils with guidance&nbsp;in planning, writing and reviewing their work at the Middle and Upper Primary levels.&nbsp;Students practise writing on their free writing journals and tailored Writing Packages. In addition, Bendemeer Otter Times is the school’s annual publication that&nbsp;showcases good English compositions by our very own budding writers. In each issue, readers follow Ben, the school mascot, on an adventure to get inspiration and tips for good writing. In the process, our students are also inspired to adopt a Growth Mindset, taking concrete steps to improve their writing.&nbsp;
 
 <table>
@@ -122,6 +122,7 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 		<td>
 			
 ![](/images/elpicture2.jpg)
+			
 ##### **Celebrate Writing through our Bendemeer OTTER Times**
 
 We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read the publication.
