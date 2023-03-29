@@ -3,7 +3,6 @@ title: School Terms & Holidays
 permalink: /about-us/School-Information/school-terms-n-holidays/
 description: ""
 ---
-
 ### SCHOOL TERMS & HOLIDAYS
 
 For school terms and holidays, please refer to the following website:  <br>
