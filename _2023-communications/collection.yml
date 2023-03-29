@@ -1,5 +1,5 @@
 collections:
-  2022-communications:
+  2023-communications:
     output: true
     order:
       - 2022 Communications.md
