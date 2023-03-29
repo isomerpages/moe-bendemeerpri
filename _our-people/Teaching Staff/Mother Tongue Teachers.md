@@ -13,7 +13,6 @@ third_nav_title: Teaching Staff
 |  	|  	|
 |---	|---	|
 | Mdm Yeo Kwang Yee 	| [yeo\_kwang\_yee@moe.edu.sg](mailto:yeo_kwang_yee@moe.edu.sg) 	|
-| Mdm Lee Giak Choo 	| [lee\_giak\_choo@moe.edu.sg](mailto:lee_giak_choo@moe.edu.sg) 	|
 | Mdm Xu Yuanna 	| [xu\_yuanna@moe.edu.sg](mailto:xu_yuanna@moe.edu.sg)	|
 | Ms Millie Kuan 	| [kuan\_lay\_chung\_millie@moe.edu.sg](mailto:kuan_lay_chung_millie@moe.edu.sg) |
 | Ms Teoh Hai Wei  	| [teoh\_hai\_wei@moe.edu.sg](mailto:teoh_hai_wei@moe.edu.sg)	|

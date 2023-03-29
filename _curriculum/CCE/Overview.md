@@ -112,17 +112,17 @@ Aimed to develop in our students a sense of gratitude in their lives and equip t
 <img src="/images/CCE6.jpg"/>
 
 After every recess, students recite the Bendemeer Student Pledge that serves to remind them of their purpose as a student, as a member of the school committee and are engaged in deep breathing exercises after that to refocus their state of mind to respect one another and to learn as one Bendemeer Family.
-
-#### <u>3. Our Everyday Responsibilities</u>
-
+		
+#### <u>3. Our Everyday Responsibilities</u> 
+		
+		
 Bendemeer Primary belongs to all our students. To inculcate a sense of responsibility in keeping their shared environment clean and pleasant, students are involved in various activities at the start and end of each term, such as ‘Groom My Class’ and ‘Use My Hands’ that provide opportunities for students and their form teachers to bond by tidying up their classroom and demonstrating a commitment to this collective effort together. The daily end of day classroom cleaning and canteen cleaning also cultivates a good habit to be disciplined and follow-through in ensuring that the state of their classroom and canteen remains clean after use. While recognising that mistakes can be made, through the Happy Mop programme, students learn to develop the value of Self-Discipline by taking responsibility for the water spilled and taking the initiative to locate the nearest mop to clean up after themselves.
 
 ![](/images/1%20(7).jpg)
 
 <img src="/images/2%20(8).jpg" style="width:40%"/>
 
-
-
+ 
 #### <u>4. Be like BEN</u>
 
 ##### Objective

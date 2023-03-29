@@ -65,7 +65,7 @@ P1 – 6 mathematics curriculum aims to build strong foundation in mathematical 
         Learning Support for Mathematics (LSM) is an early intervention effort for students who need additional support in acquiring basic numeracy skills when they enter Primary 1. Originally intended for Primary 1 and Primary 2, the support has now been extended to Primary 4.&nbsp;
 				
 
-Key Math Activities that promote joy of learning to put the information in a table
+The Key Math activities that promote joy of learning can be found in the table below:
 
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;

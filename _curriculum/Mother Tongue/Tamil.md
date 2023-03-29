@@ -27,7 +27,7 @@ To help the upper primary (P4 – P6) pupils who need help in reading will be se
 Pupils who need help in reading will be selected for Buddy Reading Programme. This is conducted on a weekly basis where senior student readers will buddy the junior readers to improve their reading skills. This arrangement allows senior students to practice responsibility and empathy leading to improving in their leadership skills. This is conducted during recess time on Mondays, Tuesdays and Wednesdays.
 
    
-#### <u><em>Deepavali Rhapsody</em></u>
+#### Deepavali Rhapsody
 
 Deepavali Rhapsody was conducted by the Tamil Department successfully in the year 2022. Some of our teachers and students performed for a creative concept explaining the meaning behind Deepavali Festival. Deepavali Rhapsody was a great platform for our students to display their talents such as dancing, acting and hosting
 

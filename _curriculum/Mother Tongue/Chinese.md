@@ -6,8 +6,7 @@ third_nav_title: Mother Tongue
 ---
 ### CHINESE
 
-**Chinese Language**
-
+#### Vision
 **Lifelong learner with passion for the Chinese Language and its culture, rooted in moral values**
 
 #### Chinese New Year Celebrations
