@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 Communications.md
-      - 2022 Communications.md
       - Term 1 2023/.keep
       - Term 1 2023/Overview.md
       - Term 2 2023/.keep
