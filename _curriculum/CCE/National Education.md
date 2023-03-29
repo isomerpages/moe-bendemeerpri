@@ -18,7 +18,7 @@ CITIZENSHIP DISPOSITIONS: NE provides opportunities for our students to explore 
 
 **A Will to Act** to be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.  
   
-![](/images/1%20(6).jpg)
+![](/images/NE.jpg)
 
 #### _<u>Programmes</u>_
 
