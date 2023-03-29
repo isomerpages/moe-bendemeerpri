@@ -10,7 +10,7 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|
 |---	|---	|---	|
-| 2 Adaptability 	| Ms Sulasteri Binte Mohd Sidek<br>Mdm Lee Giak Choo  	| [sulasteri\_mohammad\_sidek@moe.edu.sg](mailto:sulasteri_mohammad_sidek@moe.edu.sg)<br>[lee\_giak\_choo@moe.edu.sg](mailto:lee_giak_choo@moe.edu.sg) 	|
+| 2 Adaptability 	| Ms Sulasteri Binte Mohd Sidek<br>Mr Tay Zhi Qiang  	| [sulasteri\_mohammad\_sidek@moe.edu.sg](mailto:sulasteri_mohammad_sidek@moe.edu.sg)<br>[tay\_zhi\_qiang@moe.edu.sg](mailto:tay_zhi_qiang@moe.edu.sg) 	|
 | 2 Empathy 	| Ms Choo Lee Tiang<br>Ms Nora Ardilla Binte Azman 	| [choo\_lee\_tiang@moe.edu.sg](mailto:choo_lee_tiang@moe.edu.sg)   <br>[s_nora_ardilla_azman@moe.edu.sg](mailto:Nora_Ardilla_Azman@moe.edu.sg)	|
 | 2 Gracious 	| Ms Ho Shang Wei Dorothy<br>Mdm Farhana Suratman 	| [ho\_shang\_wei\_dorothy@moe.edu.sg](mailto:ho_shang_wei_dorothy@schools.gov.sg)<br>[Farhanah\_suratman@moe.edu.sg](mailto:Farhanah_Suratman@moe.edu.sg) 	|
 | 2 Integrity 	| Mdm Noraini Bte Zainul<br>Mdm Yeo Kwang Yee 	| [noraini\_zainul@moe.edu.sg](mailto:noraini_zainul@moe.edu.sg)  <br>[Yeo\_Kwang\_Yee@moe.edu.sg](mailto:Yeo_Kwang_Yee@moe.edu.sg)	|
