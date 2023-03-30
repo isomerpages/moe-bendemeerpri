@@ -3,9 +3,6 @@ title: School Mascot
 permalink: /our-people/school-mascot/
 description: ""
 ---
-
-
-
 ### SCHOOL MASCOT
 
 **Launch of School Mascot**
@@ -16,7 +13,6 @@ Prefects worked as a team to brainstorm a variety of names and presented to the 
 
 Ben is now a new member who has joined our Bendemeer family and will always be part of our school’s future vital events. 
 
-  < insert <a href="https://bendemeerpri-moe-edu-sg-admin.cwp.sg/about-us/school-mascot">video</a> here >
 
 **Digital Illustrations of Ben** 
 

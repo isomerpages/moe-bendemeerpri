@@ -40,4 +40,4 @@ Monday, Thursday <br>
   
 
 **CCA (for Niche groups)** <br>
-Please refer to the respective CCA timings [here](/cca/Niche/overview).
+Please refer to the respective CCA timings [here](https://www.bendemeerpri.moe.edu.sg/cca/Niche/overview/)

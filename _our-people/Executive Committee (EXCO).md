@@ -34,7 +34,6 @@ description: ""
 |  Level Head Pupil Management 	|  Mr Roy Ngai	| ngai_weijie@moe.edu.sg  	|
 | Level Head Information Communication Technology 	| Mdm M Meenatchi  	| m_meenatchi@moe.edu.sg 	|
 |  Level Head Special Educational Needs 	|  Ms Millie Kuan 	| kuan_lay_chung_millie@moe.edu.sg 	|
-|  Level Head Chinese Language 	|  Mdm Lee Giak Choo 	| lee_giak_choo@moe.edu.sg  	|
 |  Subject Head Aesthetics 	| Mdm Aziana Aziz  	| aziana_aziz@moe.edu.sg 	|
 |  Subject Head Malay 	| Mr Mohammad Fahmy Abdul Ghani| mohd_fahmy@moe.edu.sg 	|
 |  Subject Head Student Development 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	|

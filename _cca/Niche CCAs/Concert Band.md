@@ -4,7 +4,7 @@ permalink: /cca/Niche/concert-band/
 description: ""
 third_nav_title: Niche CCAs
 ---
-#### _<u>Teachers in charge</u>_
+#### Teachers in charge
 
 1\. Mdm Liew SW (1st i/c) <br>
 2\. Ms Chua Wen Qian (2nd i/c) <br>
@@ -13,7 +13,7 @@ third_nav_title: Niche CCAs
 5\. Ms Phua Mei Yin <br>
 6\. Ms Wong Yee Yee
 
-#### _<u>CCA Schedule</u>_  
+#### CCA Schedule
 
 <table>
 	<tr>
@@ -42,7 +42,7 @@ third_nav_title: Niche CCAs
 	</tr>
 </table>
 
-#### _<u>Introduction</u>_   
+#### Introduction
 
 Established in 1984, the Bendemeer Primary School Concert Band has blossomed to a strong team of 100 members, under the tutelage of our esteemed band director, Mr Quek Boon Hui, assisted by Mr Jonathan Lim.
 
@@ -52,13 +52,13 @@ During SG50, we were proud to be performing at the Moulmein-Kallang GRC & Whampo
 
 They have entertained our ministers and the community with their fine performances at National Day Observance ceremonies (Geylang West CC, Kolam Ayer ABC Waterfront, The Treasury) and at Launch of Clean and Green Singapore in 2013. In 2012, it clinched the Gold award at the Hong Kong Winterband Festival.
 
-#### _<u>Objectives</u>_
+#### Objectives
 
 1\) To inculcate in band members the finer aspects of playing as a band unit; <br>
 2) To upgrade the skills of individual members on their respective musical instruments; <br>
 3) To develop in members a sense of pride and belonging to the school through their band experiences
 
-#### _<u>Our Achievements</u>_
+#### Our Achievements
 
 
 SYF Arts Presentation 2022   
@@ -69,7 +69,7 @@ SYF 2010, 2012 – Gold with Honours <br>
 Hong Kong Winterband Festival 2012 – Gold <br>
 Best Band in Singapore - 2000
 
-#### _<u>Performances</u>_
+#### Performances
 
 Festival Winds Concert (2022)
 
@@ -84,7 +84,7 @@ SYF Opening Ceremony at Indoor Stadium – Parade Band (2010) <br>
 Botanic Gardens (July 2008) <br>
 Public performances at Jurong Bird Park (June 2007)  
 
-#### _<u>Photos</u>_  
+#### Photos
 
 ![Festival Winds 2022](/images/Festival%20Winds%202022.jpg)
 

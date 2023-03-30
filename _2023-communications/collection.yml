@@ -2,6 +2,12 @@ collections:
   2023-communications:
     output: true
     order:
-      - 2023 Communications/.keep
-      - Term 1/Letters to Parents.md
-      - Term 1/.keep
+      - 2023 Communications.md
+      - Term 1 2023/.keep
+      - Term 1 2023/Overview.md
+      - Term 2 2023/.keep
+      - Term 2 2023/Overview.md
+      - Term 3 2023/.keep
+      - Term 3 2023/Overview.md
+      - Term 4 2023/.keep
+      - Term 4 2023/Overview.md

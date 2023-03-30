@@ -76,12 +76,12 @@ description: ""
 	</tr>
   <tr>
     <td>
-			<img style="width: 45%;" src="/images/vocaroo.png">
+			<img style="width: 80%;" src="/images/OPAC.jpg">
 		</td>
     <td> 
 			<p align="center">
-				<a href="https://vocaroo.com/">
-					Vocaroo
+				<a href="https://schoolibrary.moe.edu.sg/bendemeerpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
+					OPAC
 				</a>
 			</p>
 		</td>
@@ -117,3 +117,5 @@ description: ""
 		
 	</tr>
 </table>
+
+[undefined](https://schoolibrary.moe.edu.sg/bendemeerpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)

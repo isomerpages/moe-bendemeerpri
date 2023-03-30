@@ -15,4 +15,7 @@ Mr Loo Chin Nong PBM <br>
 Mr Viswanatha Ramasubramanian<br>
 Mr Yiew Siew Mong<br>
 Ms Charissa Tan Li Pin<br>
-Ms Nana Wong
+Ms Nana Wong<br>
+
+
+![](/images/sac.jpg)
