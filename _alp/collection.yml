@@ -2,6 +2,7 @@ collections:
   alp:
     output: true
     order:
+      - Primary 5.md
       - Overview.md
       - Primary 1 & 2.md
       - Primary 3 & 4.md
