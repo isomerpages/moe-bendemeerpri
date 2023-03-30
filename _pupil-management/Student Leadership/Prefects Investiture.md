@@ -4,7 +4,7 @@ permalink: /curriculum/pupil-management/student-leadership/prefects-investiture-
 description: ""
 third_nav_title: Student Leadership
 ---
-### PREFECTS INVESTITURE 2023
+### PREFECTS INVESTITURE 
 
 On 20th February 2023, Bendemeer Primary School held its annual Prefects’ Investiture during our assembly. This is an event where we formally officiate and congratulate the appointments of our P3 to P6 prefects and our Executive Committee 2023.
 
