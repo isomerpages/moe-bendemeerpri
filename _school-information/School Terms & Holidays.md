@@ -1,9 +1,9 @@
 ---
-title: School Terms & Holidays
+title: School Terms &amp; Holidays
 permalink: /about-us/School-Information/school-terms-n-holidays/
 description: ""
 ---
-### SCHOOL TERMS & HOLIDAYS
+### SCHOOL TERMS &amp; HOLIDAYS
 
 For school terms and holidays, please refer to the following website:  <br>
 Click on the link below: <br>
