@@ -37,22 +37,22 @@ Snapshots of the various Interest Groups
 
 <figure>
 <img style="width:65%" src="/images/ignite1.jpg">
-<figcaption> text</figcaption>
+<figcaption> Baking is one of the workshops offered to our students.</figcaption>
 </figure>
 
 <figure>
 <img style="width:65%" src="/images/ignite2.jpg">
-<figcaption> text</figcaption>
+<figcaption> Students learn the basics of coding.</figcaption>
 </figure>
 
 <figure>
 <img style="width:45%" src="/images/ignite3.jpg">
-<figcaption> text</figcaption>
+<figcaption> Teamwork is cultivated through fun games.</figcaption>
 </figure>
 
 <figure>
 <img style="width:45%" src="/images/ignite4.jpg">
-<figcaption> text</figcaption>
+<figcaption> Students showing off their creation in the fashion styling course.</figcaption>
 </figure>
 
 <figure>
