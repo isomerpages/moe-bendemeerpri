@@ -3,7 +3,7 @@ title: Uplift
 permalink: /ignite/uplift/
 description: ""
 ---
-### Uplift
+### UPLIFT
 ##### <center><b>Every Child Matters in Bendemeer!</b></center>
 
 <img style="width:65%" src="/images/uplift1.jpg">
