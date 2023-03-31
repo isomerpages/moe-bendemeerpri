@@ -34,3 +34,43 @@ this programme, we hope that our students find their X-factor
 and are motivated to learn in school.
 
 Snapshots of the various Interest Groups
+
+<figure>
+<img style="width:65%" src="/images/ignite1.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:65%" src="/images/ignite2.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:45%" src="/images/ignite3.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:45%" src="/images/ignite4.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:65%" src="/images/ignite5.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:65%" src="/images/ignite6.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:65%" src="/images/ignite7.jpg">
+<figcaption> text</figcaption>
+</figure>
+
+<figure>
+<img style="width:65%" src="/images/ignite8.jpg">
+<figcaption> text</figcaption>
+</figure>
