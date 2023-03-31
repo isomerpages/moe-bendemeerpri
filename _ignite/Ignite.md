@@ -57,20 +57,20 @@ Snapshots of the various Interest Groups
 
 <figure>
 <img style="width:65%" src="/images/ignite5.jpg">
-<figcaption> text</figcaption>
+<figcaption> Students learn the fundamentals of the Kompang.</figcaption>
 </figure>
 
 <figure>
 <img style="width:65%" src="/images/ignite6.jpg">
-<figcaption> text</figcaption>
+<figcaption> Our Mountain Goats headed out for a hike around the neighbourhood.</figcaption>
 </figure>
 
 <figure>
 <img style="width:65%" src="/images/ignite7.jpg">
-<figcaption> text</figcaption>
+<figcaption> The school has teamed up with Bendemeer Secondary and Football Association of Singapore to offer Soccer as part of the IGNITE programme.</figcaption>
 </figure>
 
 <figure>
 <img style="width:65%" src="/images/ignite8.jpg">
-<figcaption> text</figcaption>
+<figcaption>Our students busy trying out the 3D Doodling Pen </figcaption>
 </figure>
