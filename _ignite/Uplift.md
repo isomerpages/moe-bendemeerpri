@@ -32,7 +32,7 @@ For physical development, the school organized the Fun with Sports Programme. Th
 <br clear="left">
 
 |  |  |
-|:---:|:---:|
+|:---:|---|
 | The boys were putting in effort to get the ball. | Trying their best to score a goal. |
 
 Lastly for aesthetic development, students will participate in Artist-In-School that will provide them with opportunities to learn to explore the elements of play through image, objects, and audio visuals to represent self. At the same time, the students will also be onboard the Project Phoenix that allows students to learn English Proficiency through magic. All programmes aim to engage students meaningfully after school so that they will have a positive experience in school. Stay tuned for more updates! 
@@ -41,6 +41,7 @@ Lastly for aesthetic development, students will participate in Artist-In-School 
 
 <img align="left" style="width:40%;margin-left:65px;" src="/images/uplift5.jpg">
 <img align="right" style="width:40%;margin-right:65px;" src="/images/uplift6.jpg">
+
 
 <br clear="left">
 
