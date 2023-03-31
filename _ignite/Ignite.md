@@ -3,7 +3,7 @@ title: Ignite
 permalink: /ignite/
 description: ""
 ---
-### IGNITE
+### Ignite
 <center><b><u>Interest Groups for Nurturing and Transforming through Experiences</u></b></center>
 
 IGNITE Programme Interest Groups for Nurturing and  
