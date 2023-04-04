@@ -8,11 +8,11 @@ third_nav_title: CCE
 
 #### Character Development @ Bendemeer Primary School
 
-Our school strongly believes in its mission of nurturing and inspiring students to love learning, lead confidently, and make a difference in the lives of others.  To develop our students to be passionate learners and confident leaders, we provide opportunities for them to develop into responsible individuals and understand their roles in shaping the future of our nation. 
+Our school strongly believes in its mission of nurturing and inspiring students to love learning, lead confidently, and make a difference in the lives of others.&nbsp; To develop our students to be passionate learners and confident leaders, we provide opportunities for them to develop into responsible individuals and understand their roles in shaping the future of our nation.&nbsp;
 
 #### Learning Outcomes (LOs) for Character and Citizenship Education (CCE)  
 
-Guided by our school vision, mission and the principles in developing a student-centric, value-driven education, the educational years students spend in our school takes them through their social roles in the various domains of self, family, school, community, nation and the world.  We hope our pupils will exhibit the following behavioural traits at the respective portion of their schooling years.
+Guided by our school vision, mission and the principles in developing a student-centric, value-driven education, the educational years students spend in our school takes them through their social roles in the various domains of self, family, school, community, nation and the world.&nbsp; We hope our pupils will exhibit&nbsp;the following behavioural traits at the respective portion of their schooling years.
 
   
 
@@ -21,9 +21,9 @@ Guided by our school vision, mission and the principles in developing a student-
 <thead>
   <tr>
     <th>School Values</th>
-    <th>P1 & P2</th>
-    <th>P3 & P4</th>
-    <th>P5 & P6</th>
+    <th>P1 &amp; P2</th>
+    <th>P3 &amp; P4</th>
+    <th>P5 &amp; P6</th>
   </tr>
 </thead>
 <tbody>
@@ -83,44 +83,42 @@ At Bendemeer Primary School, we strive to develop our students to become persons
 Aimed to develop in our students a sense of gratitude in their lives and equip them with the competency to stay positive amidst challenging times, students seek to start each day with a grateful heart and be mindful to take stock and appreciate the littlest things in their lives. Teachers and students are encouraged to pen down notes in which they indicate what they are grateful for. 'Thankful Thursdays' mornings are alternated with grateful exercise and bucket filling exercise. In the former, our Peer Support Leaders share gratitude notes from their peers to lead the school in a moment of gratitude. In the latter, students who have been caught filling their teachers' buckets by doing the right things are affirmed and recognised for their efforts.  
 
 <table>
-	<tr>
-		<td width="50%">
-			<img src="/images/CCE1.jpg"/>
-		</td>
-		<td width="50%">
-			<img src="/images/CCE2A.png"/>
-		</td>
-	</tr>
+  <tbody>
+    <tr>
+      <td width="50%"><img alt="CCE1" src="/images/CCE1.jpg"></td>
+      <td width="50%"><img alt="CCE2A" src="/images/CCE2A.png"></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%"><img alt="CCE3" src="/images/CCE3.jpg"></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%"><img alt="1%20(8)" src="/images/1%20(8).jpg"></td>
+      <td width="50%"><img alt="2%20(9)" src="/images/2%20(9).jpg"></td>
+    </tr>
+  </tbody>
 </table>
 
-<table>
-	<tr>
-		<td width="50%">
-			<img src="/images/CCE3.jpg"/>
-		</td>
-			
-<table>
-	<tr>
-		<td width="50%">
-			<img src="/images/1%20(8).jpg"/>
-		</td>
-		<td width="50%">
-			<img src="/images/2%20(9).jpg"/>
-		</td>
-	</tr>
-</table>
-<img src="/images/CCE6.jpg"/>
+<img src="/images/CCE6.jpg" style="width:75%">
+
 
 After every recess, students recite the Bendemeer Student Pledge that serves to remind them of their purpose as a student, as a member of the school committee and are engaged in deep breathing exercises after that to refocus their state of mind to respect one another and to learn as one Bendemeer Family.
 		
 #### <u>3. Our Everyday Responsibilities</u> 
 		
 		
-Bendemeer Primary belongs to all our students. To inculcate a sense of responsibility in keeping their shared environment clean and pleasant, students are involved in various activities at the start and end of each term, such as ‘Groom My Class’ and ‘Use My Hands’ that provide opportunities for students and their form teachers to bond by tidying up their classroom and demonstrating a commitment to this collective effort together. The daily end of day classroom cleaning and canteen cleaning also cultivates a good habit to be disciplined and follow-through in ensuring that the state of their classroom and canteen remains clean after use. While recognising that mistakes can be made, through the Happy Mop programme, students learn to develop the value of Self-Discipline by taking responsibility for the water spilled and taking the initiative to locate the nearest mop to clean up after themselves.
+Bendemeer Primary belongs to all our students. To inculcate a sense of responsibility in keeping their shared environment clean and pleasant, students are involved in various activities at the start and end of each term, such as ‘Groom My Class’ and ‘Use My Hands’ that provide opportunities for students and their form teachers to bond by tidying up their classroom and demonstrating a commitment to this collective effort together. The daily end of day classroom cleaning and canteen cleaning also cultivates a good habit to be disciplined and follow-through in ensuring that the state of their classroom and canteen remains clean after use. While recognising that mistakes can be made, through the Happy Mop programme, students learn to develop the value of Self-Discipline&nbsp;by taking&nbsp;responsibility for the water spilled and taking the initiative to locate the nearest mop to clean up after themselves.
 
 ![](/images/1%20(7).jpg)
 
-<img src="/images/2%20(8).jpg" style="width:40%"/>
+<img src="/images/2%20(8).jpg" style="width:40%">
 
  
 #### <u>4. Be like BEN</u>
@@ -130,15 +128,15 @@ Bendemeer Primary belongs to all our students. To inculcate a sense of responsib
 To create an immersive environment whereby students can be reminded of how they could emulate the school mascot, Ben, in exhibiting the school ASPIRE values.
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="50%">
-			<img src="/images/3%20(6).jpg"/>
+			<img src="/images/3%20(6).jpg">
 		</td>
 		<td>
-			<img src="/images/4%20(6).jpg"/>
+			<img src="/images/4%20(6).jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
  
  
  
@@ -152,7 +150,7 @@ As the name suggests, ECCE lessons aim to enhance the character development of o
 
 ##### Objectives
 
-1) To educate our students and all stakeholders of the school in embracing a quality restroom culture. 
+1) To&nbsp;educate our students and all stakeholders of the school in embracing a quality restroom culture.&nbsp;
 
 2) To provide opportunity for students to be responsible by practicing proper restroom habits and to be gracious in adopting the restrooms.
 
@@ -169,14 +167,14 @@ Our students are briefed and educated:
 Students carry out daily inspection of the restrooms and problems that require immediate attention would be reported to the General Office.
 		
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="50%">
-			<img src="/images/CCE%20Star%201.jpg"/>
+			<img src="/images/CCE%20Star%201.jpg">
 		</td>
 		<td>
-			<img src="images/CCE%20Star%202.jpg"/>
+			<img src="images/CCE%20Star%202.jpg">
 		</td>
 	</tr>
-</table>		
+</tbody></table>		
 		
 We are proud to annonounce that the school has attained the Platinum STAR in 2021 and 2022.
