@@ -66,7 +66,7 @@ Book Talk: Primary 1 to Primary 5 Students are encouraged to write a synopsis of
 		</td>
 		
   
-<table>
+</tr></tbody></table><table>
 	<tbody><tr>
 		<td>
 			<img src="/images/3%20(16).jpg"> <br>
@@ -94,38 +94,39 @@ Book Talk: Primary 1 to Primary 5 Students are encouraged to write a synopsis of
 A spiral progression of skills is key to systematic teaching and learning of writing. Building on the principles of the Modified&nbsp;Language Experience Approach (MLEA)&nbsp;at the Lower Primary, the Writing Process Cycle (WPC) continues to provide pupils with guidance&nbsp;in planning, writing and reviewing their work at the Middle and Upper Primary levels.&nbsp;Students practise writing on their free writing journals and tailored Writing Packages. In addition, Bendemeer Otter Times is the school’s annual publication that&nbsp;showcases good English compositions by our very own budding writers. In each issue, readers follow Ben, the school mascot, on an adventure to get inspiration and tips for good writing. In the process, our students are also inspired to adopt a Growth Mindset, taking concrete steps to improve their writing.&nbsp;
 
 <table>
-	<tbody><tr>
-		<td>
-			<img src="/images/English%209.jpg">
-		</td>
-		<td>
-			<img src="/images/English%2010.jpg">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/English%2011.jpg">
-		</td>
-		<td>
-			<img src="/images/English%2012.jpg">
-		</td>
-	</tr>
-</tbody></table>
-		<table>
-	<tbody><tr>
-		<td>
-			<img src="/images/English%209.jpg">
-		</td>
-		<td>
-			<table>
-	<tbody><tr>
-		<td>
+  <tbody>
+    <tr>
+      <td><img alt="English%209" src="/images/English%209.jpg"></td>
+      <td><img alt="English%2010" src="/images/English%2010.jpg"></td>
+    </tr>
+    <tr>
+      <td><img alt="English%2011" src="/images/English%2011.jpg"></td>
+      <td><img alt="English%2012" src="/images/English%2012.jpg"></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td><img alt="English%209" src="/images/English%209.jpg"></td>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 			
 ![](/images/elpicture2.jpg)
 			
 ##### **Celebrate Writing through our Bendemeer OTTER Times**
 
-We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. Click [here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf) to read the publication.
+We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. Click&nbsp;[here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf)&nbsp;to read the publication.
 			
 ![](/images/English%2017.png)
 
@@ -187,7 +188,7 @@ Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer
 **Good for online stories and games** <br>
 [https://www.storylineonline.net/
 [https://www.abcya.com/]
-[http://www.bbc.co.uk/cbeebies/ 
+[http://www.bbc.co.uk/cbeebies/&nbsp;
 [http://www.roythezebra.com/
 
 **Good for downloading&nbsp;poems and teaching poetry**
