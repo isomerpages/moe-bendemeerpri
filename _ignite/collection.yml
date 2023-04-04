@@ -1,5 +1,4 @@
 collections:
   ignite:
     output: true
-    order:
-      - Ignite.md
+    order: []
