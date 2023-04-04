@@ -137,7 +137,7 @@ To create an immersive environment whereby students can be reminded of how they 
 </table>
  
  
- #### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
+#### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
 
 As the name suggests, ECCE lessons aim to enhance the character development of our students in our school ASPIRE values and CCE R<sup>3</sup>ICH values (Responsibility, Respect, Resilience, Integrity, Care and Harmony). ECCE lessons differ from the usual CCE curriculum in that the lessons are conducted by form teachers and this provides opportunity for the form teacher to strengthen teacher-student relation and peer support relations. The lessons are designed and customised to meet the needs of the students and explicitly integrate school values into it to communicate to students the expected observables.
 		
