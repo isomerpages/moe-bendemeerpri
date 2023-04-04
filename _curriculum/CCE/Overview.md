@@ -128,16 +128,13 @@ Bendemeer Primary belongs to all our students. To inculcate a sense of responsib
 To create an immersive environment whereby students can be reminded of how they could emulate the school mascot, Ben, in exhibiting the school ASPIRE values.
 
 <table>
-	<tbody><tr>
-		<td width="50%">
-			<img src="/images/3%20(6).jpg">
-		</td>
-		<td>
-			<img src="/images/4%20(6).jpg">
-		</td>
-	</tr>
-</tbody></table>
- 
+  <tbody>
+    <tr>
+      <td width="50%"><img alt="3%20(6)" src="/images/3%20(6).jpg"></td>
+      <td><img alt="4%20(6)" src="/images/4%20(6).jpg"></td>
+    </tr>
+  </tbody>
+</table>
  
  
  #### <u>5. Enhanced CCE lessons (ECCE) Lower Primary</u>
