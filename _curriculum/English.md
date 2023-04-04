@@ -181,15 +181,16 @@ Our students’ very own reader’s theatre performance with their handmade char
 
 **Otter Times**<br>
 Issue 1: <br>
-			https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf<br>
+[https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf)<br><br>
 Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021\_16Nov2021.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf)
 
 #### Useful Links
 **Good for online stories and games** <br>
-[https://www.storylineonline.net/
-[https://www.abcya.com/]
-[http://www.bbc.co.uk/cbeebies/&nbsp;
-[http://www.roythezebra.com/
+
+[https://www.storylineonline.net/](https://www.storylineonline.net/)<br>
+[https://www.abcya.com/](https://www.abcya.com/)<br>
+[http://www.bbc.co.uk/cbeebies/](http://www.bbc.co.uk/cbeebies/)<br>
+[http://www.roythezebra.com/](http://www.roythezebra.com/)
 
 **Good for downloading&nbsp;poems and teaching poetry**
 [http://www.poetry4kids.com](http://www.poetry4kids.com/)
