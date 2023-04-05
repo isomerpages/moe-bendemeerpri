@@ -3,7 +3,6 @@ title: School Song
 permalink: /about-us/school-song/
 description: ""
 ---
-
 ### SCHOOL SONG
 
 <p align="center">
@@ -28,4 +27,4 @@ description: ""
 	One Bendemeer One Family <br>
 </p>
 
-< insert <a href="https://bendemeerpri-moe-edu-sg-admin.cwp.sg/about-us/school-song">video</a> here >
+Click  on [School Song](https://drive.google.com/file/d/1GAa0K35CVWa0utChBzKH2hiL8BtcCvJQ/view?usp=sharing) to listen to it. 

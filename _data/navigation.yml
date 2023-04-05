@@ -71,6 +71,8 @@ links:
       - title: CCA
         url: /cca/overview
       - title: IGNITE
-        url: /permalink
+        url: /ignite/
+      - title: UPLIFT
+        url: /uplift/
   - title: Links
     collection: links

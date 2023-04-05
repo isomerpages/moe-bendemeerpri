@@ -9,7 +9,7 @@ third_nav_title: Niche CCAs
 #### Teachers in charge
 
 Mdm Xu Yuanna (1st IC) <br>
-Mdm Teoh Hai Wei (2nd IC)   <br>
+Mdm Teoh Hai Wei&nbsp;(2nd IC)   <br>
 Mdm An Qinglin  <br>
 Mdm Xin Hong <br>
 
@@ -22,8 +22,8 @@ Ms Lee Ying Ying
 
 | Day | Time | Pupil Involved |
 | --- | --- | --- |
-| **Tuesday** | 7.30 am – 9.00 am | Primary 3-6 pupils |
-| **Wednesday** | 2 pm – 4 pm | Primary 3-6 pupils |
+| **Tuesday** | 7.30 am&nbsp;– 9.00 am | Primary 3-6 pupils |
+| **Wednesday** | 2 pm&nbsp;– 4 pm | Primary 3-6 pupils |
 
 #### Introduction
 
@@ -33,20 +33,29 @@ Chinese Dance members perform during school events such as Chinese New Year, Nat
 
 #### Objectives
 
-1\.  To promote a passion for Chinese Dance in pupils   <br>
-2.  To promote respect and cultural awareness among pupils <br>
+1\.  To promote a passion for Chinese Dance in pupils&nbsp;&nbsp; <br>
+2.  To promote respect and cultural awareness among pupils&nbsp;<br>
 3.  To develop leadership skills and acquire positive values like confidence, team spirit, graciousness, perseverance, self-discipline and commitment <br>
 4.  To learn the fundamental skills of Chinese Dance and develop grace, flexibility, balancing skills and co-ordination <br>
 5.  To provide opportunities to perform in school events and competitions
 
 #### Achievements
 
-2018 SYF Arts Presentation  - Certificate of Distinction <br>
-2016 SYF Arts Presentation  - Certificate of Distinction
+Students are given opportunities to showcase their talent in performances such as SYF(2022), Honours Day and Chinese New Year Concert, as well as external performances and competitions. 
+
+Other Earlier Achievements:
+
+2018 SYF Arts Presentation&nbsp; - Certificate of Distinction <br>
+2016 SYF Arts Presentation&nbsp; - Certificate of Distinction
 
 #### Photos/Gallery
 
-![](/images/SYF%202020%20Rehearsal%201.jpeg)
-![](/images/SYF%202020%20Rehearsal%202.jpeg)
-![](/images/SYF%202020%20Rehearsal%203.jpeg)
-![](/images/SYF%202020%20Rehearsal%204.jpeg)
+![](/images/syf%20performance1.jpeg)
+
+![](/images/syf%20performance2.jpeg)             
+
+                                           SYF 2022
+
+![](/images/honours%20day.jpeg)
+
+                                 Honours Day 2022
