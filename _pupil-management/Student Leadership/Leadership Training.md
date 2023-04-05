@@ -4,18 +4,16 @@ permalink: /curriculum/pupil-management/student-leadership/cohort-leadership-tra
 description: ""
 third_nav_title: Student Leadership
 ---
-### COHORT LEADERSHIP TRAINING
+### LEADERSHIP TRAINING
 
-The Cohort Leadership trainings were conducted for both the Primary 3 and 4 students. These trainings scaffold the students learning in 3 levels namely as a leader, a team builder and a communicator. The Primary 4 students were given the opportunity to work with their peers to design games suitable for the elderly using the concept of upcycling materials while the Primary 3 students designed stationery items. After designing their own games, the students had to use recycled materials to construct the games which they had designed.
 
-At the end of the training, students gave a short presentation on the concept of their games. They were taught social awareness by understanding the role of a team leader and the importance of making responsible decisions.
+Bendemeer Primary firmly believes in providing a platform for the development of leadership skills to better prepare students for the globalized world. We conduct trainings for the different leadership tiers, starting by anchoring the foundation in self-leadership and building their team leadership competencies as they progress through the levels.
 
+Our school-based leadership training is conducted per semester and every student is exposed to the responsibilities and roles that they are involved in their daily classroom activities. 
+
+The school also conducts cohort leadership trainings for Primary 3 and Primary 4 pupils. During these trainings, students are given the opportunity to develop and practice 21st-century skills. They learn and develop their leadership skills by learning to cooperate and communicate with fellow students through fun and engaging activities. These trainings focus on three levels of the student’s development: as a leader, team builder, and communicator.
+
+
+![](/images/student%20ledership1.jpg)
   
-##### P3 Cohort Leadership Training
-
-![p3 cohort.jpg](/images/p3%20cohort.jpg)
-  
-
-##### P4 Cohort Leadership Training
-
-![p4 cohort.jpg](/images/p4%20cohort.jpg)
+Throughout the duration of the training, students worked in groups. As they interact with their classmates, they learn to balance their social and emotional competencies and identify their strengths and weaknesses. Students were also taught social awareness by comprehending the importance of making responsible decisions and the role of a team leader.
