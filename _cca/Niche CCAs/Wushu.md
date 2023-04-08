@@ -12,7 +12,8 @@ Mdm Lam Shuzhen (1st IC)  <br>
 Ms Sandy Yeo (2nd IC) <br>
 Ms Choo Lee Tiang <br>
 Ms Olivia Pan <br>
-Ms Soon Lay Har
+Ms Soon Lay Har<br>
+Mdm He Xueya
 
 #### CCA Schedule
 
@@ -24,11 +25,11 @@ For school team members only
 
 #### Introduction
 
-Wushu was set up in Bendemeer Primary School in 2007.  It aims to cultivate pupils’ interests in Wushu as well as to develop discipline and perseverance among pupils as they master the moves and routines involving fists and weapons.
+Wushu was set up in Bendemeer Primary School in 2007.&nbsp; It aims to cultivate pupils’ interests in Wushu as well as to develop discipline and perseverance among pupils as they master the moves and routines involving fists and weapons.
 
 #### Programmes
 
-Variety of Training Programmes: 
+Variety of Training Programmes:&nbsp;
 
 Basic Routine for Beginners: <br>
 \- Basic Wushu Stunts and Moves <br>
@@ -53,21 +54,18 @@ Weapon Routines for Advance Learners: <br>
 \- Jing Sai Broadsword (竞赛刀) <br>
 \- Jing Sai Spear (竞赛枪) <br>
 \- Jing Sai Sword(竞赛剑) <br>
-\- Jing Sai Cudgel (竞赛棍) 
+\- Jing Sai Cudgel (竞赛棍)&nbsp;
 
 #### Objectives
 
 Pupils learn to internalise and demonstrate the values that they have learnt in school. <br>
 Pupils learn and demonstrate the 21 st Century skills relating to self and relationship with others. <br>
-Pupils also learn to work cooperatively with peers and demonstrate values of teamwork when they practise group routines that involve synchronized movements among team members.
+Pupils also learn to work cooperatively with peers and demonstrate values of teamwork when they practise group&nbsp;routines that involve synchronized movements among team members.
 
 #### Achievements
 
-1st International Southern Fist (3rd position National)
+1st&nbsp;International Southern Fist (3rd&nbsp;position National)
 
 #### Photos
-![](/images/1%20(21).jpg)
-<img src="/images/2%20(21).jpg" style="width:40%"/>
-![](/images/3%20(18).jpg)
-<img src="/images/4%20(15).jpg" style="width:60%"/>
-<img src="/images/5%20(13).jpg" style="width:60%"/>
+![](/images/wushu2023.jpg)
+

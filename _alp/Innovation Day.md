@@ -1,9 +1,8 @@
 ---
-title: Innovation Day 2022
+title: Innovation Day
 permalink: /alp/innovation-day/
 description: ""
 ---
-
 ### INNOVATION DAY 2022
 
 Bendemeer Primary School embarked on our Applied Learning Programme (ALP) – **Environment Education & Sustainable Living@BPS (E2SL@BPS)** to ignite the interest of our students and provide them with environmental conservation knowledge and platforms for the transfer and application of learning through real life problems and hands-on experiences.
