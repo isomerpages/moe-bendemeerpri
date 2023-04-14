@@ -67,5 +67,3 @@ Pupils also learn to work cooperatively with peers and demonstrate values of tea
 1st&nbsp;International Southern Fist (3rd&nbsp;position National)
 
 #### Photos
-![](/images/wushu2023.jpg)
-
