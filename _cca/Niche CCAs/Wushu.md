@@ -67,5 +67,15 @@ Pupils also learn to work cooperatively with peers and demonstrate values of tea
 1st&nbsp;International Southern Fist (3rd&nbsp;position National)
 
 #### Photos
-![](/images/wushu2023.jpg)
 
+![Wushu1](/images/wushu1.jpg)
+Second placing in the Junior Girls 1st International Broadsword event!
+
+![wushu2](/images/wushu2.jpg)
+Let me perfect this stance! Practice makes perfect!
+
+![wushu3](/images/wushu3.jpg)
+So many different swords! We have them all in our Wushu CCA!
+
+![wushu4](/images/wushu4.jpg)
+“Haiiiiiiiiiiiiii!” Group Quanshu here we come!!!
