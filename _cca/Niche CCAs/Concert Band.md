@@ -9,14 +9,13 @@ third_nav_title: Niche CCAs
 1\. Mdm Liew SW (1st i/c) <br>
 2\. Ms Chua Wen Qian (2nd i/c) <br>
 3\. Mr Jerald Tan <br>
-4\. Ms Millie Kuan <br>
-5\. Ms Phua Mei Yin <br>
-6\. Ms Wong Yee Yee
+4\. Ms Phua Mei Yin <br>
+5\. Ms Wong Yee Yee
 
 #### CCA Schedule
 
 <table>
-	<tr>
+	<tbody><tr>
 		<th> Day </th>
 		<th> Time </th>
 		<th> Pupils Involved </th>
@@ -40,7 +39,7 @@ third_nav_title: Niche CCAs
 		<td> 2.00p.m.- 5.00p.m. </td>
 		<td> Main Band (selected) </td>
 	</tr>
-</table>
+</tbody></table>
 
 #### Introduction
 
@@ -48,9 +47,9 @@ Established in 1984, the Bendemeer Primary School Concert Band has blossomed to 
 
 Besides clinching the “Concert Band of the Year” title in 2000 and SYF 2012 and 2010 Gold with Honours, the band, to date, has won 9 Gold and 4 Silver Awards at the SYF Central Judging of Concert Bands. In the recent years, our band has achieved the Certificate of Distinction award at the SYF Arts Presentations in 2014, 2016 and 2018.
 
-During SG50, we were proud to be performing at the Moulmein-Kallang GRC & Whampoa SMC SG50 National Day dinner, attended by our Prime Minister Lee Hsien Loong and other ministers and grassroots advisors. The band has showcased their talents in public at the Istana, the Esplanade, the Botanic Gardens and Singapore Zoological Gardens, and it participates actively in overseas and local music exchange programmes.
+During SG50, we were proud to be performing at the Moulmein-Kallang GRC &amp; Whampoa SMC SG50 National Day dinner, attended by our Prime Minister Lee Hsien Loong and other ministers and grassroots advisors. The band has showcased their talents in public at the Istana, the Esplanade, the Botanic Gardens and Singapore Zoological Gardens, and it participates actively in overseas and local music exchange programmes.
 
-They have entertained our ministers and the community with their fine performances at National Day Observance ceremonies (Geylang West CC, Kolam Ayer ABC Waterfront, The Treasury) and at Launch of Clean and Green Singapore in 2013. In 2012, it clinched the Gold award at the Hong Kong Winterband Festival.
+They have entertained our ministers and the community with their fine performances at National Day Observance ceremonies (Geylang West CC, Kolam Ayer ABC Waterfront, The Treasury) and at Launch of Clean and Green Singapore in 2013.&nbsp;In 2012, it clinched the Gold award at the Hong Kong Winterband Festival.
 
 #### Objectives
 
@@ -126,11 +125,11 @@ Public performances at Jurong Bird Park (June 2007)
 ![](/images/concert%20band%207.png)
 ![](/images/concert%20band%208.png)
 
-<p align="center">SG50 Moulmein-Kallang GRC & Whampoa SMC SG50 National Day Celebrations  </p>
+<p align="center">SG50 Moulmein-Kallang GRC &amp; Whampoa SMC SG50 National Day Celebrations  </p>
 
 ![](/images/concert%20band%2010.png)
 
-<p align="center">Hong Kong Winterband Festival 2012 </p>
+<p align="center">Hong Kong Winterband Festival 2012&nbsp;</p>
 
 ![](/images/concert%20band%2011.png)
 
