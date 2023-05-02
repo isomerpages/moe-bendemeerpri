@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Bendemeer Primary School Celebrates 45th Anniversary.md
       - Overview.md
       - Principal's Message.md
       - School Information.md
@@ -14,3 +13,4 @@ collections:
       - Aspire Newsletter.md
       - MOE Kindergarten.md
       - Gallery.md
+      - Bendemeer Primary School Celebrates 45th Anniversary.md
