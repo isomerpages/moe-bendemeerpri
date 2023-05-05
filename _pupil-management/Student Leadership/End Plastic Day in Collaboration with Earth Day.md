@@ -4,12 +4,14 @@ permalink: /curriculum/pupil-management/student-leadership/zero-plastic-day-with
 description: ""
 third_nav_title: Student Leadership
 ---
-### End Plastic Day in Collaboration with Earth Day
+### Earth Day – End Plastic Day
 
-**P6 Senior Prefects and EXCO Team**  
-  
-On 22nd April 2021, Bendemeer Primary School commemorated our very first “Zero Plastic Day” It was a collaboration project between the Prefects, ICT Ambassadors and the Environmental Ambassadors. The canteen vendors also came onboard this project proactively by using brown papers instead of plastic bags. The originator of this project was none other than our very own Head Prefect, Chin Si Hao (P6 Self-Discipline) who proposed this idea during his Canvassing Campaign Speech in 2020.
+**P6 Prefects Project in Collaboration with Media & Environment Club**
 
-On this day, the use of any plastic disposables were forbidden and students were encouraged to bring along their own containers. The P6 senior prefects designed and displayed variety of meaningful posters to create awareness on how to save the earth. A pop-up booth was also set up in the foyer by the P6 EXCO team to educate the rest of the student population on various ways to reduce their usage on plastic products. They also designed productive products using upcycling product and online quiz to further test the students’ understanding.  
+The school observed Earth Day on April 21, 2023. P6 prefects and the EXCO team took an active role in promoting waste reduction and advocating the responsible use of plastic in collaboration with the Media & Environment Club. The P6 prefects were instrumental in the planning and creation of game booths designed to educate students on sorting out items based on recyclable materials and an upcycling booth where students could learn how to give new life to old items.
+
+Throughout the day, the students participated in a range of activities, including games, educational booths, and a canteen initiative to reduce the use of plastic items. Students were encouraged to bring their own containers, and the vendor provided alternatives to single-use plastic bags.
+
+The event was a resounding success, and the students had a lot of fun while learning about waste reduction and environmental conservation. It was an excellent opportunity for them to make a positive contribution to the environment, and we hope that the lessons learned at this event will inspire our students to be environmentally conscious and take steps towards a cleaner and greener future.
   
-![zero plastic.jpg](/images/zero%20plastic.jpg)
+![](/images/endplasticwaste.jpg)
