@@ -82,7 +82,7 @@ The Mobile Trail @ BPS aims to bring about the following:
 
 The Student Learning Space (SLS) is used as the main platform for mobile trails in the school. The portal allows many different forms of assessment and embedding of external web-based applications which offer resources, tools and features to complement teaching and learning. Both teachers and students find it easy to navigate and complete the trail.
 
-**DigitalAccess@Home
+**DigitalAccess@Home**
 
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
 
