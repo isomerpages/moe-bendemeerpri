@@ -1,5 +1,5 @@
 ---
-title: Media &amp; Environment Club
+title: Media & Environment Club
 permalink: /cca/Niche/environmental-science-club/
 description: ""
 third_nav_title: Niche CCAs
@@ -37,3 +37,5 @@ Our CCA members are the ambassadors who lead their school mates towards a more s
 * Promoting the recycling culture among students.
 
 * Working and collaborating with stakeholders on environment programmes.
+
+![](/images/recyclingrightactivity.jpg)
