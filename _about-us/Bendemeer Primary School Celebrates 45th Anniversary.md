@@ -9,3 +9,4 @@ Bendemeer Primary Celebrates 45th Anniversary
 
 Join us in this unique Bendemeer experience as we reminisce the past, celebrate the present and anticipate all that lies ahead!
 
+![](/images/bps%2045th%20anv%20800x580pxl%20broadcast%203may23.jpg)
