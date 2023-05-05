@@ -4,7 +4,7 @@ permalink: /curriculum/pupil-management/Student-Leadership/zero-plastic-day-with
 description: ""
 third_nav_title: Student Leadership
 ---
-### ZERO PLASTIC DAY IN COLLABORATION WITH EARTH DAY
+### End Plastic Day in Collaboration with Earth Day
 
 **P6 Senior Prefects and EXCO Team**  
   
