@@ -8,7 +8,7 @@ third_nav_title: Cyber Wellness
 
 #### What is Cyber Wellness?
 
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. CW helps students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community. (Adapted from MOE CW)  
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. CW helps students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should&nbsp;also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community. (Adapted from MOE CW)  
 
 ![CW1.jpg](/images/CW1.jpg)
 
@@ -32,30 +32,29 @@ Primary 3 to Primary 6 students who are selected as the Cyber Wellness Student A
   
 
 ##### Working with Parents  
-Bendemeer Primary School believes that parents play an important role in developing their child to be future ready and digitally responsible citizen.  Parents can look out for our termly Cyber Wellness tips, resources and useful links which help to reinforce Cyber Wellness education at home.  
+Bendemeer Primary School believes that parents play an important role in developing their child to be future ready and digitally responsible citizen.&nbsp; Parents can look out for our termly Cyber Wellness tips, resources and useful links which help to reinforce Cyber Wellness education at home. &nbsp;
 
- Click on the following links to find out more information on Cyber Wellness. <br>
- 1. [Cyberbullying (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Cyber%20Bullying%20Slides_Parents.pptx) < slides to be uploaded ><br>
- 2. [Cyberbullying Tip Sheet (PDF)](/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf) <br>
- 3. [Cyber Threats (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/Cyberthreats%20%202017.pptx) < slides to be uploaded ><br>
- 4.  [Cyber Threats Tip Sheet (PDF)](/files/Cyberthreats%20Tip%20Sheet%202017.pdf)<br>
- 5.  [Excessive Internet Use (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Excessive%20Internet%20Use%20Slides_Parents.pptx) < slides to be uploaded ><br>
- 6.  [Excessive Internet Use Tip Sheet (PDF)](/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf) <br>
- 7.  [Using Mobile Devices Responsibly](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/ict-matters/information-on-cyber-wellness/using-mobile-devices-responsibly) < broken link >
+&nbsp;Click on the following links to find out more information on Cyber Wellness. <br>
+ 1.&nbsp;[Cyberbullying (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Cyber%20Bullying%20Slides_Parents.pptx) &lt; slides to be uploaded &gt;<br>
+ 2.&nbsp;[Cyberbullying Tip Sheet (PDF)](/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf) <br>
+ 3.&nbsp;[Cyber Threats (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/Cyberthreats%20%202017.pptx) &lt; slides to be uploaded &gt;<br>
+ 4.&nbsp;&nbsp;[Cyber Threats Tip Sheet (PDF)](/files/Cyberthreats%20Tip%20Sheet%202017.pdf)<br>
+ 5.&nbsp;&nbsp;[Excessive Internet Use (Slides)](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u740/Cyberwellness/Excessive%20Internet%20Use%20Slides_Parents.pptx) &lt; slides to be uploaded &gt;<br>
+ 6.&nbsp;&nbsp;[Excessive Internet Use Tip Sheet (PDF)](/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf) <br>
+ 7.&nbsp;&nbsp;[Using Mobile Devices Responsibly](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/our-people/for-parents/ict-matters/information-on-cyber-wellness/using-mobile-devices-responsibly) &lt; broken link &gt;
 
   
 
 **Useful Links**
 
 Health Hub:  
-[Explore the suite of self-care tools and resources designed to help better understand Cyber Wellness](https://www.healthhub.sg/programmes/186/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths?utm_source=google&utm_medium=sem&utm_campaign=fy22mh_ao&utm_content=cyber_wellness#home)  
+[Explore the suite of self-care tools and resources designed to help better understand Cyber Wellness](https://www.healthhub.sg/programmes/186/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths?utm_source=google&amp;utm_medium=sem&amp;utm_campaign=fy22mh_ao&amp;utm_content=cyber_wellness#home)  
   
 
 Ministry of Education: <br>
 **[Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)** <br>
-_[Cyber Wellness education focuses on helping your child to be a responsible digital learner.  
-Learn more about the programme and curriculum](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)_
+(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
   
 Media Literacy Council: <br>
-Information, tips and resources by Media Literacy Council [https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)
+Information, tips and resources by Media Literacy Council&nbsp;[https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)
