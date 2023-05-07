@@ -126,16 +126,11 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 			
 ##### **Celebrate Writing through our Bendemeer OTTER Times**
 
-We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. Click&nbsp;[here](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf)&nbsp;to read the publication.
-			
-![](/images/English%2017.png)
+We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. 
 
-Issue 1: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf)
-			
-![](/images/English%2018.png)
-			
-Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf)
+[Issue 1](https://drive.google.com/file/d/1ut3GU94hGBwIJlR_u-czKQqYGalKfLPI/view?usp=sharing)
 
+[Issue 2](https://drive.google.com/file/d/1kcXOPUCFDYrc7jponpgg3F6iZsmX0He2/view?usp=sharing)
 
 ##### A Pocketful of Phrases
 
