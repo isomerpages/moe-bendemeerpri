@@ -96,7 +96,7 @@ The NE Champs taught the students on how to play the SG Unite! cards. The card h
 
 
   
-##### <u>International Friendship Day (IFD) 2022 @ BPS</u>
+##### <u>International Friendship Day (IFD) @ BPS</u>
 
 The theme for International Friendship Day (IFD) this year was, “Singapore in Asia”. International cooperation remains key in our complex world. Asia is the world's fastest-growing region, and Singapore continues to facilitate closer economic, political, social, and cultural cooperation within ASEAN and in Asia. By recognizing the importance of connectedness between our neighbouring countries, our youth can play an active role in fostering people-to-people ties, and thus celebrate the region's diversity and vibrancy and promote the spirit of friendship and collaboration. In addition, our older students can deepen their understanding of Singapore's realities as a small state and appreciate how we can safeguard our national interest and have much to contribute to efforts at international cooperation.
 
