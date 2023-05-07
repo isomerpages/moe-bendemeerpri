@@ -5,7 +5,7 @@ permalink: /our-people/Our-Partners/dr-wan-rizal-member-of-parliament-for-kolam-
 description: ""
 third_nav_title: Our Partners
 ---
-### DR WAN RIZEL, MEMBER OF PARLIAMENT FOR KOLAM AYER, VISITS BENDEMEER PRIMARY SCHOOL
+### DR WAN RIZAL, MEMBER OF PARLIAMENT FOR KOLAM AYER, VISITS BENDEMEER PRIMARY SCHOOL
 
 
 Dr Wan Rizal Wan Zakariah, Member of Parliament for Kolam Ayer of Jalan Besar GRC, visited Bendemeer Primary School on 28 September, 2021 during the start of Home Based Learning (HBL) to engage the staff and students and to have a ground sensing of the school’s HBL support for the students.

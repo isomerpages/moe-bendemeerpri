@@ -131,10 +131,14 @@ P4 – 6 Math Competitions
   
 
 #### <u><em>Useful Links</em></u>
+Educational Games for kids
+* [https://www.mathplayground.com/](https://www.mathplayground.com/) 
+ 
+* [https://www.mathsisfun.com](https://www.mathsisfun.com/)  
 
-[https://www.mathplayground.com/](https://www.mathplayground.com/)  
-[https://www.mathsisfun.com](https://www.mathsisfun.com/)  
-[https://toytheater.com/](https://toytheater.com/)  
-[https://www.hoodamath.com/](https://www.hoodamath.com/)  
-[https://mathigon.org/polypad](https://mathigon.org/polypad)  
-[https://www.mathlearningcenter.org/apps](https://www.mathlearningcenter.org/apps)
+* [https://toytheater.com/](https://toytheater.com/)  
+* [https://www.hoodamath.com/](https://www.hoodamath.com/)  
+
+Educational Mathematics Activities
+* [https://mathigon.org/polypad](https://mathigon.org/polypad)  
+* [https://www.mathlearningcenter.org/apps](https://www.mathlearningcenter.org/apps)

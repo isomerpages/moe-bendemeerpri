@@ -1,5 +1,5 @@
 ---
-title: School Terms &amp; Holidays
+title: School Terms & Holidays
 permalink: /about-us/School-Information/school-terms-n-holidays/
 description: ""
 ---

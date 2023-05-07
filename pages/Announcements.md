@@ -6,9 +6,8 @@ description: ""
 ### Announcements
 
 ***
-#### MK Open House in BPS
-
-**Click [here](https://www.bendemeerpri.moe.edu.sg/about-us/MOEKindergarten/) for more details!**
+#### Bendemeer Primary School celebrates 45th Anniversary!!
+**Click [here] to find out more.
 
 ***
 #### Consent for photography and photos

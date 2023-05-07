@@ -180,9 +180,10 @@ Our students’ very own reader’s theatre performance with their handmade char
 #### Resources
 
 **Otter Times**<br>
-Issue 1: <br>
-[https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%202021%20Upper%20Primary.pdf)<br><br>
-Issue 2: [https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021\_16Nov2021.pdf](https://bendemeerpri.moe.edu.sg/qql/slot/u939/2021%20Matters/Bendemeer%20Otter%20Times%20Lower%20Pri%202021_16Nov2021.pdf)
+[Issue 1](https://drive.google.com/file/d/1ut3GU94hGBwIJlR_u-czKQqYGalKfLPI/view?usp=sharing)
+
+[Issue 2](https://drive.google.com/file/d/1kcXOPUCFDYrc7jponpgg3F6iZsmX0He2/view?usp=sharing)
+
 
 #### Useful Links
 **Good for online stories and games** <br>
