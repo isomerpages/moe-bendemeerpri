@@ -147,7 +147,7 @@ Since face-to-face commemoration resumed, the Racial Harmony Day was a new exper
 
   
 
-##### <u>National Day 2022 @ BPS</u>
+##### <u>National Day @ BPS</u>
 
 <img src="/images/NE%20Logo.jpg" align="right" style="height:206px; width:200px">
 
