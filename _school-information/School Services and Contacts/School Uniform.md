@@ -8,9 +8,7 @@ third_nav_title: School Services and Contacts
 
 **Shanghai School Uniforms Pte Ltd**&nbsp;
 
-Information for Purchase of School Books<b>
-	
-Purchase at factory details: <br>
+**Purchase at factory details:** <br>
 63 Ubi Ave 1 <br>
 #04-09 <br>
 63@Ubi <br>
@@ -24,5 +22,5 @@ Monday to Saturday <br>
 
 Or  
   
-Purchase at School Bookshop: <br>
-(according to operating hours)</b>
+**Purchase at School Bookshop:** <br>
+(according to operating hours)
