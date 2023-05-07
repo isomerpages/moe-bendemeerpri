@@ -123,7 +123,7 @@ The students had a rich lesson on why Singapore needs to maintain friendship wit
 
   
 
-##### <u>Racial Harmony Day (RHD) 2022 @ BPS</u>
+##### <u>Racial Harmony Day (RHD) @ BPS</u>
 
 Since face-to-face commemoration resumed, the Racial Harmony Day was a new experience for some of the younger students. The Parent Support Group (PSG) members, NE Champs and the International Students assisted with the booths where the students had hands-on activities (games, lantern making and ketupat making and henna). The students also visited an exhibition on the different races in Singapore. It was, indeed, a Multicultural Mosiac (parts of multiple cultures) in line with the theme for 2022. 
 
