@@ -53,7 +53,6 @@ Health Hub:
 
 Ministry of Education: <br>
 **[Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)** <br>
-(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
   
 Media Literacy Council: <br>
