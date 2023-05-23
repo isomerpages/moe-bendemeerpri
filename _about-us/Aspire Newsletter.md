@@ -4,6 +4,12 @@ permalink: /about-us/aspire-newsletter/
 description: ""
 ---
 ### ASPIRE NEWSLETTER
+Aspire Newsletter Issue 1 2023
+![](/images/aspire%20header.jpg)
+
+Click [here](https://drive.google.com/file/d/1Nr6y2wyHflFDdl5k4ZYTgPfCK-E-G7fs/view?usp=sharing)
+
+
 Aspire Newsletter Issue 2 2022
 (November 2022)
 ![Cover page for Aspire Newsletter Issue 2 2022](/images/aspire_issue2_2022.jpg)
@@ -18,17 +24,17 @@ Aspire Newsletter Issue 1 2022
 Aspire Newsletter Issue 2 2021  
 November 2021  
 ![Newsletter Issue 1 2021.jpg](/images/newsletter%202%202021.jpg)
-[PDF version](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/2021%20Newsletter/Aspire%202021%20Issue2.pdf)  < file exceeds 5MB >
+[PDF version](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Matters/2021%20Newsletter/Aspire%202021%20Issue2.pdf)  &lt; file exceeds 5MB &gt;
   
 Aspire Newsletter Issue 1 2021  
 July 2021
 ![Newsletter July 2021.jpg](/images/Newsletter%20July%202021.jpg)
-[Download PDF](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Letters/Term%203%202021/Aspire%202021%20Issue1v3.pdf)   < file exceeds 5MB >
+[Download PDF](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2021%20Letters/Term%203%202021/Aspire%202021%20Issue1v3.pdf)   &lt; file exceeds 5MB &gt;
   
 Aspire Newsletter Issue 2 2020  
 November 2020  
 ![Aspire Newsletter cover page_Nov 2020.jpg](/images/Aspire%20Newsletter%20cover%20page_Nov%202020.jpg)
-[Download PDF](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2020%20non-PG/ASPIRE%20Newsletter/AACOHX~J.PDF)  < file exceeds 5MB >
+[Download PDF](https://bendemeerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u939/2020%20non-PG/ASPIRE%20Newsletter/AACOHX~J.PDF)  &lt; file exceeds 5MB &gt;
   
 Aspire Newsletter Issue 1 2020  
 5 June 2020  
