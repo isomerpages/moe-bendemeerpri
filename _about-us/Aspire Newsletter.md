@@ -7,7 +7,7 @@ description: ""
 Aspire Newsletter Issue 1 2023
 ![](/images/aspire%20header.jpg)
 
-Click [here] to read Issue 1 2023 (https://drive.google.com/file/d/1Nr6y2wyHflFDdl5k4ZYTgPfCK-E-G7fs/view?usp=sharing)
+Click [here to read the Aspire Newsletter Issue 1 2023](https://drive.google.com/file/d/1Nr6y2wyHflFDdl5k4ZYTgPfCK-E-G7fs/view)
 
 
 Aspire Newsletter Issue 2 2022
