@@ -7,7 +7,7 @@ description: ""
 
 ***
 #### Bendemeer Primary School celebrates 45th Anniversary!!
-**Click [here] to find out more.
+**Click [here to find out more.](https://drive.google.com/file/d/1HSdBDQl-9U5EZrRA8fAAIbAz40ryfvsU/view?usp=sharing)
 
 ***
 #### Consent for photography and photos
