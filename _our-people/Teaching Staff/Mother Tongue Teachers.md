@@ -18,7 +18,7 @@ third_nav_title: Teaching Staff
 | Mdm Lam Shuzhen 	| [lam\_shuzhen@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg) 	|
 | Mdm An Qinglin 	| [an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
 | Ms He Xueya  	| [he\_xueya@moe.edu.sg](mailto:he_xueya@moe.edu.sg)|
-| Mdm Xin Hong 	| [xin\_hong@schools.edu.sg](mailto:xin_hong@moe.edu.sg)	|
+| Mdm Xin Hong 	| [xin\_hong@moe.edu.sg](mailto:xin_hong@moe.edu.sg)	|
 | Ms Phua Mei Yin 	| [Phua\_Mei\_Yin@moe.edu.sg](mailto:Phua_Mei_Yin@moe.edu.sg)	|
 | Ms Wong Yee Yee 	| [wong\_wee\_wee@moe.edu.sg](mailto:wong_yee_yee@moe.gov.sg)	|
 | Ms Chua Xingrou 	| [chua\_xingrou@moe.edu.sg](mailto:chua_xingrou@moe.edu.sg)	|
