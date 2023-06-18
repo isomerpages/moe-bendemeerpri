@@ -23,15 +23,11 @@ Parents can contact the school at [Bendemeer_PS@moe.edu.sg](mailto:Bendemeer_PS@
 
 ***
 
-#### Minister Chan Visits BPS!
 
-**Click [here](https://moe-bendemeerpri-staging.netlify.app/our-people/our-partners/mr-chan-chun-sing-minister-for-education-visits-bps) to find out more!**
 
 ***
 
-#### T3 2022 Letters to Parents
 
-**Click [here](https://moe-bendemeerpri-staging.netlify.app/our-people/for-parents/letter-to-parents/2022-communications/term-3-2022/overview) to read more.**
 
 ***
 
