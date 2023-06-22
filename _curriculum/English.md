@@ -172,14 +172,6 @@ The school’s very own Good English speaking mascot- Grammar Grandma makes her 
 
 Our students’ very own reader’s theatre performance with their handmade character masks.
 
-#### Resources
-
-**Otter Times**<br>
-[Issue 1](https://drive.google.com/file/d/1ut3GU94hGBwIJlR_u-czKQqYGalKfLPI/view?usp=sharing)
-
-[Issue 2](https://drive.google.com/file/d/1kcXOPUCFDYrc7jponpgg3F6iZsmX0He2/view?usp=sharing)
-
-
 #### Useful Links
 **Good for online stories and games** <br>
 

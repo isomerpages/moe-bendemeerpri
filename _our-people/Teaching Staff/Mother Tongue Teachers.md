@@ -18,7 +18,7 @@ third_nav_title: Teaching Staff
 | Mdm Lam Shuzhen 	| [lam\_shuzhen@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg) 	|
 | Mdm An Qinglin 	| [an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
 | Ms He Xueya  	| [he\_xueya@moe.edu.sg](mailto:he_xueya@moe.edu.sg)|
-| Mdm Xin Hong 	| [xin\_hong@schools.edu.sg](mailto:xin_hong@moe.edu.sg)	|
+| Mdm Xin Hong 	| [xin\_hong@moe.edu.sg](mailto:xin_hong@moe.edu.sg)	|
 | Ms Phua Mei Yin 	| [Phua\_Mei\_Yin@moe.edu.sg](mailto:Phua_Mei_Yin@moe.edu.sg)	|
 | Ms Wong Yee Yee 	| [wong\_wee\_wee@moe.edu.sg](mailto:wong_yee_yee@moe.gov.sg)	|
 | Ms Chua Xingrou 	| [chua\_xingrou@moe.edu.sg](mailto:chua_xingrou@moe.edu.sg)	|
@@ -29,6 +29,7 @@ third_nav_title: Teaching Staff
 |---	|---	|
 | Mdm M Meenatchi 	| [m\_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg) 	|
 | Parameswari Malarvannan (Mrs Vannan) 	| [parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
+|Mrs Monica Prem Anand |[monica\_prem\_anand@moe.edu.sg](mailto:monica_prem_anand@moe.edu.sg)	|
 | Tamilselvi D/O Sinnathamby 	| [Tamilselvi\_Sinnathamby@moe.edu.sg](mailto:Tamilselvi_Sinnathamby@moe.edu.sg)	|
 | Rajalakshmi Kannan 	| [Rajalakshmi\_Kannan@moe.edu.sg](mailto:Rajalakshmi_Kannan@moe.edu.sg)	|
 

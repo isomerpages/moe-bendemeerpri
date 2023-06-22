@@ -5,9 +5,11 @@ description: ""
 ---
 ### SCHOOL ADVISORY COMMITTEE
 
-**Chairman:** Mr Tang Wen Yeow  
+The&nbsp;School Advisory Committee (SAC)&nbsp;is made up of members from the business, social and community sectors. With these diverse and professional backgrounds, the SAC partners the school leadership on strategic matters and provides direction based on changing and evolving landscapes.
 
-**Secretary:** Mrs Tan-Lim Kim Gek
+**Chairman:**&nbsp;Mr Tang Wen Yeow  
+
+**Secretary:**&nbsp;Mrs Tan-Lim Kim Gek
 
 **Members:** <br>
 Mrs Helen Soh <br>
