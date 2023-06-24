@@ -9,9 +9,9 @@ third_nav_title: Niche CCAs
 #### Teachers in charge
 1.    Mr Raymond Lee (1st IC)
 2.   Ms Sulasteri Binte Mohammad Sidek (2nd IC)
-3.   Mr Lim Dali
+3.   Ms Christine Tan
 4.   Mdm Phyllis Kwei
-5.   Mrs Cindy Ong
+5.   Mdm Hua Qiying
 
 #### CCA Schedule
 
