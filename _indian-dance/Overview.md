@@ -8,7 +8,7 @@ description: ""
 #### Teachers in charge
 
 1\.  Mrs Vannan (1st IC)  <br>
-2\.  Ms Renaa Bhai   <br>
+2\.  Ms Renaa Bhai (2nd IC)  <br>
 3\.  Ms Kanageswari <br>
 4\.  Mrs Monica Prem Anand
 
