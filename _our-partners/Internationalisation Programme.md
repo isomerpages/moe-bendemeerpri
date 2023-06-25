@@ -51,8 +51,8 @@ Round two of Virtual Immersion with Chengdu Shi Shi High School (石室中学)
     <td class="tg-0lax"><img style="width:50%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%205.jpg" align="center"> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img style="width:50%" src="" align="center"> </td>
-    <td class="tg-0lax"><img style="width:50%" src="pic" align="center"></td>
+    <td class="tg-0lax"><img style="width:50%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%206.jpg" align="center"> </td>
+    <td class="tg-0lax"><img style="width:50%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%207.jpg" align="center"></td>
   </tr>
 </tbody>
 </table>
