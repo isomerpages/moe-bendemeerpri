@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - Internationalisation Programme.md
-      - Festive Community Outreach.md
-      - Parent Support Group.md
-      - Big Heart Student Care.md
-      - New Events.md
-      - Awards.md
       - Overview.md
+      - Awards.md
+      - New Events.md
+      - Big Heart Student Care.md
+      - Parent Support Group.md
+      - Festive Community Outreach.md
+      - Internationalisation Programme.md
