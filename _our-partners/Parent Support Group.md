@@ -109,10 +109,10 @@ The PSG is now a motivated and innovative voluntary wing of our school’s Partn
 
   
 
-Co-Advisor  
+<u>Co-Advisor</u>  
 Mr Too Meng Ngee (Vice Principal Administration)
 
-PSG Coordination Team  
+<u>PSG Coordination Team </u> 
 Mr Alvin Lee (Subject Head Partnership)  
 Mdm Aziana Aziz (Subject Head Aesthetics &amp; PSG Coordinator)
 
