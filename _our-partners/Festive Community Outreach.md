@@ -61,17 +61,16 @@ On 29 April 2022, our school leaders and student leaders distributed Hari Raya d
 <thead>
   <tr>
     <th class="tg-rx9b"><img style="width:50%" src="/images/Our%20Partners/deepavali%20outreach%2023%201.jpg" align="center"></th>
-    <th class="tg-rx9b">/images/Our%20Partners/deepavali%20outreach%2023%202.jpg</th>
+    <th class="tg-rx9b"><img style="width:50%" src="/images/Our%20Partners/deepavali%20outreach%2023%202.jpg" align="center"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Pic 3</td>
-    <td class="tg-0lax">Pic 4 </td>
+    <td class="tg-0lax"><img style="width:50%" src="/images/Our%20Partners/deepavali%20outreach%2023%203.jpg" align="center"></td>
+    <td class="tg-0lax"><img style="width:50%" src="/images/Our%20Partners/deepavali%20outreach%2023%204.jpg" align="center"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Pic 5 </td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img style="width:50%" src="/images/Our%20Partners/deepavali%20outreach%2023%205.jpg" align="center"></td>
   </tr>
 </tbody>
 </table>
