@@ -37,7 +37,7 @@ This gathering marked the first time Bendemeer Primary School partnered a school
 
 This immersion also affirms the warm and growing partnership between BVV school and Bendemeer Primary School and we look forward to meeting our Indian counterparts in Singapore soon!
 
-Round two of Virtual Immersion with Chengdu Shi Shi High School (石室中学)
+#### Round two of Virtual Immersion with Chengdu Shi Shi High School (石室中学)
 
 ![](/images/Our%20Partners/virtual%20immersion%20with%20chengdu%201.jpg)
 
@@ -82,7 +82,7 @@ The immersion successfully concluded with school leaders, teachers and students 
 
   
 
-Rubik’s Cube friendly tournament organised by BPS’s partner school
+#### Rubik’s Cube friendly tournament organised by BPS’s partner school
 
 ![](/images/Our%20Partners/rubik’s%20cube%20friendly%201.jpg)
 
