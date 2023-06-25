@@ -13,9 +13,22 @@ Virtual Immersion with Bala Vinayaka Vidyaniketan School of India
 
 ![](/images/Our%20Partners/virtual%20immersion%202.jpg)
 
-![](/images/Our%20Partners/virtual%20immersion%203.jpg)
-
-![](/images/Our%20Partners/virtual%20immersion%204.jpg)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rx9b{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-rx9b"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%203.jpg" align="center"></td>
+    <td class="tg-rx9b"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%204.jpg" align="center"></td>
+  </tr>
+</thead>
+</table>
 
 
 Have you heard of Warlie Art before? With much curiosity, our P5 students had an experience of creating their own Warlie Art pieces, an ancient Indian folk art, under the guidance of students of Bala Vinayaka Vidyaniketan (BVV) School located in India on 6 March 2023.&nbsp;
