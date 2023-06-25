@@ -3,7 +3,7 @@ title: Overview
 permalink: /our-partners/overview/
 description: ""
 ---
-### OUR PARTNERS
+### Overview
 
 The Partnership &amp; PSG Committee&nbsp;of Bendemeer Primary School endeavours to forge and sustain meaningful partnerships by working with the community both from within and out. We never cease from connecting with our partners because we believe that we can work together hand-in-hand to nurture our students to be the best they can be and this is signified by the icon of a handshake in the&nbsp;bottom-right section of our school crest.  
 
