@@ -51,48 +51,25 @@ Mdm Aziana Aziz (Subject Head Aesthetics &amp; PSG Coordinator)
 
   
 
-![A person standing next to a person wearing a face mask
-Description automatically generated with low confidence](https://lh6.googleusercontent.com/XzPd8OfqIGAikMKHJDWQzQ6TPdRcdDBbbSBJEPrK6eODgP8jcoEsxcLQ_41YrMd_xN_dKjKWjrwlR_5i1LDWpMyjd4111KBrmaegKqwNT_T3tLhBN3w4WH7IbGLe6spmOYiHhuSQmg85QBGWON-rONrn3p9xCQ4k)
+![](/images/Our%20Partners/psg%20%203%20%20.jpg)
 
-![A group of women wearing face masks
-Description automatically generated with low confidence](https://lh4.googleusercontent.com/hoL4Ee9Mb-oXS4Jpa6_9AaXS9pDRBZngN-vpiI_17K0_9e1YwuZMgtFm-E536hq7UfsDUNzKHZofVzR5CfjcU_1YPkaHtvsFerY_M2iDw6IYAFIqNA5r5wOjKtFhyYIWJQMXj1TfnjkCr62h1riZDXXR_4a944vt)
+![](/images/Our%20Partners/psg%20%204.jpg)
 
 As our school works towards strengthening engagement with parents, we encourage parents who are not in the Parent Support Group (PSG) to join us as a PSG member. The PSG complements the school by aligning the school‘s objectives and supporting the school’s programmes to improve our children’s well-being and learning. As a PSG member, you are playing an active role in making the school a safe place for our children to learn in and making school life more vibrant and caring.
 
 To be a part of us, you may either complete the online [PSG Application Form available HERE](https://form.gov.sg/5db53f0707f16e00125e7390) or obtain a hardcopy form the General Office.
 
-####   
+   
 
-####   
-
-####   
-
-####   
-
-####   
-
-####   
-
-####   
-
-####   
-
-  
-  
-
-####   
-Programmes / Events
+####   Programmes / Events
 
   
 
-![A group of people posing for a photo
-Description automatically generated](https://lh6.googleusercontent.com/pQIIewSwNuMJknUosVN4n_KZ2sncSKFy0exGRSPZ3iP8vogXKsffwLaS7GzWHW_OQQFbWfjk6tBx1up_2xxox7HAbGeSfvn5WnC7COaOnPYUvScYx3RwaPi9EBlDADqPeHpLF2NXZEW_iUBxtvDJVqZsTxQIglFF)
+![](/images/Our%20Partners/psg%20%205.jpg)
 
-![A group of people wearing masks and standing next to a table with food
-Description automatically generated with low confidence](https://lh5.googleusercontent.com/7zzPaC7XhGgoYO-ij43w0NYz7hUzfrJ2s3grcrZPMOAGuSOC2gfy4YziTANAdWEGyzScZOzQ_xJkaxhreEOJXnHA3tgbQrQxQkLxDcBgRItSE-TUTcnEaFi3jg2Ky-qDD-TxTe4cIwMju6u4ETZTBFBUhM4cEgo5)
+![](/images/Our%20Partners/psg%20%206.jpg)
 
-![A group of people wearing masks standing in front of a table with stuffed animals
-Description automatically generated with medium confidence](https://lh3.googleusercontent.com/1NvbOa2g7hSf1d9YjJpozQwJXXu9Yksugt-YgjwM3ou6AhOH_XyPsbc9JU-S5jf2VAkczeV7HvskaOwMDqmSoSg8LnYV4tSW3O5o_VzaSow1XuHEq2Ls3whgp5i-xBUt9533QktpU1NFp2sHtzTFmWPOsqIMS4dg)
+![](/images/Our%20Partners/psg%20%207.jpg)
 
 There are many programmes and activities that parents can support and you can choose to participate and contribute based on your personal interest, expertise or skillset in a particular field.&nbsp; Some of the programmes and activities that the PSG works closely with the school are shown below:
 
