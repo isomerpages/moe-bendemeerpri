@@ -17,23 +17,17 @@ This way, we continue to forge and deepen our positive relationship with these i
 
 Chinese New Year 2023 Outreach
 
-![A group of people posing for a photo
-Description automatically generated with medium confidence](https://lh5.googleusercontent.com/sqqHtO7pcDb8rIoYzbNNSSqnUajKYKHsRS0_4HqLFN3C75V0iXAP9F8rkrKJpW9sJt0BBQFPj0bMRaUU2XAbUq0rTQGeD_S6Hqps8qbaWvcnVxMozNEkft1p3EeTN-90z1IDc1iwh1tyNe-jL94rA2DB925cQQFZ)
+![](/images/Our%20Partners/cny%20outreach%2023%201.jpg)
 
-![A group of people wearing masks
-Description automatically generated with medium confidence](https://lh3.googleusercontent.com/4i4XaDFHgjbuTUXTg0AXQAJIzM8sdV5ojYj5FCHwpjdpchldsY8AzaP5IINgege2hNGnUyZTwratRWEqoGutntPU7hccG1u2GB6TGz3pYU47aHgYszcWIHg4W7RngtE59wzTyrNb6EAjBBYrL46tRd-Jn-c58wDZ)
+![](/images/Our%20Partners/cny%20outreach%2023%202.jpg)
 
-![A group of people wearing masks
-Description automatically generated with low confidence](https://lh3.googleusercontent.com/IDOnee2D2TU5KikWm3ws65pyFWQnK9wN2LH64qj0sN2f-p4skG1Cjenp7mgbfYNjDfpg8FK7pCZfkm1HiygTGWBJltMx8kBbAWZj8QSm-Cs7Hvniwqk_vtQVLoywyIOy2bROhUZ9hLLitqN2evJ3x5VIcOvJOhWY)
+![](/images/Our%20Partners/cny%20outreach%2023%203.jpg)
 
-![A picture containing person, floor, indoor, standing
-Description automatically generated](https://lh5.googleusercontent.com/kZjMIzlY9A6UfxvzOaZ_nzIKiR294C8l1bkArazaD67EBjfUWB_4qhHR14Wyicn06puCmA1noc5oTUFCkMmBGfOuMHeDJNGdIRnuSltjXyk2YZeo4xpJu9V3gQVtd6BWwaivngxNUqmedFB2Lvz74oazZozrsUhP)
+![](/images/Our%20Partners/cny%20outreach%2023%204.jpg)
 
-![A group of women posing for a photo
-Description automatically generated with medium confidence](https://lh5.googleusercontent.com/U4tKYC3ZS_mt2XXweE7Y9kohvdCKRQtTByitpszo6josFtan-4BPKTO5wjGiWG5WhjyrUZDYPMSZM-MrQ6sIrD7PwM3nABGJ2CPokHWMZKgh5llO0lz0b5YauytD7jFJT22XP6MrPLXFqz-VbuqnQgFXJ7nmM5Xz)
+![](/images/Our%20Partners/cny%20outreach%2023%205.jpg)
 
-![A group of people wearing face masks
-Description automatically generated with medium confidence](https://lh6.googleusercontent.com/nzqjgMLlcBSk-orK1L4tsnDGhLyrY1k6wfd-j9ApqNhsBxgkOXkUF4HgbYTofACBrifcXz-ExOA2LJ9hu9hZORFaK9-N8rROeD3opcn_OJuRvwahaotvmRL5xBIN0YE4AKgSSl8VTtaXQFpV6QhP0ShCMIDdo5OF)
+![](/images/Our%20Partners/cny%20outreach%2023%206.jpg)
 
 To usher in the Year of the Rabbit 2023, our School Leaders and P4 Student Leaders connected with the neighbouring businesses during our annual Chinese New Year Festive Outreach on 17 January 2023. Once again, the shop owners were all very excited and we all exchanged CNY greetings and well wishes. The Student Leaders also gave them cute bunny-themed craftwork as they hopped from shop to shop.
 
@@ -43,15 +37,14 @@ Back in school, our School Leaders extended their greetings to all non-teaching 
 
 Hari Raya 2022 Outreach
 
-![A picture containing text, indoor, family
-Description automatically generated](https://lh5.googleusercontent.com/aDh4SVElSwo5eiLEsIc1yBLTbg3EuWJ7qj4K-jEXTLzHJpCEv4-e3hv5QH_p4PraFbJjKVZ7Fda-Tod6IZDIYdtspeVtTCSTTPt2KBZLvpxIC_Fofm4VAwJqyjKd4XZtjGGygiDDVzlFdR9FNfptkmiwKI9c_OwV)
+![](/images/Our%20Partners/hari%20raya%20outreach%2023.jpg)
 
 On 29 April 2022, our school leaders and student leaders distributed Hari Raya decorations to the non-teaching staff as part of connecting and strengthening the partnership bond with them. These 3-D decorations were lovingly made by the P3 and P4 students and each piece was very detailed, colourful and reflected the patience and passion in creating these! Our non-teaching staff were very excited to receive this work of art and gave their thanks.
 
   
   
   
-  
+ 
 
 Deepavali 2022 Outreach
 
