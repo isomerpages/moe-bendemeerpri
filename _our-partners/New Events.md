@@ -46,11 +46,10 @@ Prior to this day, the student team spent much time and effort learning and impa
 Although our team did not win the main challenge, we are proud to announce that the team's Ready Bag was in the top 10 schools, and they were awarded a $50 voucher! The team was very happy and excited that their efforts paid off and they had a lot of fun!  
 
 
-**
 
-####Total Defence Day 2023 - Stronger ####Together at BPS!
+#### Total Defence Day 2023 - Stronger Together at BPS!
 
-15 February 2023
+#### 15 February 2023
 
 Bendemeer Primary School commemorated Total Defence Day in which staff and students remembered the surrender of Singapore to the Japanese forces 81 years ago on 15 Feb 1942.  
   
