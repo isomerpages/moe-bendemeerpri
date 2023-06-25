@@ -33,8 +33,8 @@ description: ""
     <td class="tg-nbj5"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf4.jpg" align="center"></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><img style="width:25%" src="pic" align="center"></td>
-    <td class="tg-nbj5"><img style="width:25%" src="pic" align="center"></td>
+    <td class="tg-acgv"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf5.jpg" align="center"></td>
+    <td class="tg-nbj5"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf6.jpg" align="center"></td>
   </tr>
 </tbody>
 </table>
