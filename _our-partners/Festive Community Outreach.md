@@ -3,7 +3,6 @@ title: Festive Community Outreach
 permalink: /our-partners/festivecommunityoutreach/
 description: ""
 ---
-
 ### Festive Community Outreach 
 
 At Bendemeer Primary School, we strongly believe that partnership should be nurtured within the school and then be shared within our neighbouring community. Presenting our signature partnership event – our Festive Community Outreach whereby during Chinese New Year, Hari Raya and Deepavali, our school leaders, students and staff visit the businesses around the neighbourhood to spread the festive joy! 
