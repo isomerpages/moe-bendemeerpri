@@ -9,9 +9,10 @@ Beyond our shores, our school has also cultivated and solidified its partnership
 
 Virtual Immersion with Bala Vinayaka Vidyaniketan School of India
 
-![](/images/Our%20Partners/virtual%20immersion%201.jpg)
+<img style="width:75%" src="/images/Our%20Partners/virtual%20immersion%201.jpg" align="center">
 
-![](/images/Our%20Partners/virtual%20immersion%202.jpg)
+<br>
+<img style="width:75%" src="/images/Our%20Partners/virtual%20immersion%202.jpg" align="center">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -54,7 +55,7 @@ This immersion also affirms the warm and growing partnership between BVV school 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rx9b"><img style="width:50%" src="images/Our%20Partners/virtual%20immersion%20with%20chengdu%202.jpg" align="center"></th>
+    <th class="tg-rx9b"><img style="width:50%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%202.jpg" align="center"></th>
     <th class="tg-rx9b"><img style="width:50%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%203.jpg" align="center"></th>
   </tr>
 </thead>
