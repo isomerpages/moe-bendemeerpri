@@ -23,18 +23,18 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rx9b"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf1.png" align="center"></th>
-    <th class="tg-rx9b"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf2.jpg" align="center"></th>
+    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf1.png" align="center"></th>
+    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf2.jpg" align="center"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-acgv"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf3.jpg" align="center"></td>
-    <td class="tg-nbj5"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf4.jpg" align="center"></td>
+    <td class="tg-acgv"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf3.jpg" align="center"></td>
+    <td class="tg-nbj5"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf4.jpg" align="center"></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf5.jpg" align="center"></td>
-    <td class="tg-nbj5"><img style="width:50%" src="/images/Our%20Partners/new%20events_%20cdf6.jpg" align="center"></td>
+    <td class="tg-acgv"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf5.jpg" align="center"></td>
+    <td class="tg-nbj5"><img style="width:98%" src="/images/Our%20Partners/new%20events_%20cdf6.jpg" align="center"></td>
   </tr>
 </tbody>
 </table>
