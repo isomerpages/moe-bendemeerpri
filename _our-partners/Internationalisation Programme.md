@@ -56,18 +56,18 @@ This immersion also affirms the warm and growing partnership between BVV school 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rx9b"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%202.jpg" align="center"></th>
-    <th class="tg-rx9b"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%203.jpg" align="center"></th>
+    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%202.jpg" align="center"></th>
+    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%203.jpg" align="center"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%204.jpg" align="center"></td>
-    <td class="tg-0lax"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%205.jpg" align="center"> </td>
+    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%204.jpg" align="center"></td>
+    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%205.jpg" align="center"> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img style="width:1000%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%206.jpg" align="center"> </td>
-    <td class="tg-0lax"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%207.jpg" align="center"></td>
+    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%206.jpg" align="center"> </td>
+    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%207.jpg" align="center"></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ The teachers and students of&nbsp;Chengdu ShiShi High School cheering all partic
 
 #### Virtual immersion with Sichuan Da Yi Bei Jie Primary School (大邑县北街小学)
 
-![](/images/Our%20Partners/virtual%20immersion%20sichuan.jpg)
+<img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20sichuan.jpg" align="center">
 
 An innovative way of forging partnership and connecting with our overseas friends via ZOOM.
 
