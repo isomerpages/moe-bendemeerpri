@@ -25,8 +25,8 @@ Virtual Immersion with Bala Vinayaka Vidyaniketan School of India
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-rx9b"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%203.jpg" align="center"></td>
-    <td class="tg-rx9b"><img style="width:100%" src="/images/Our%20Partners/virtual%20immersion%204.jpg" align="center"></td>
+    <td class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%203.jpg" align="center"></td>
+    <td class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%204.jpg" align="center"></td>
   </tr>
 </thead>
 </table>
