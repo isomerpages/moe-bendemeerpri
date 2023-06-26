@@ -86,11 +86,11 @@ The immersion successfully concluded with school leaders, teachers and students 
 
 #### Rubik’s Cube friendly tournament organised by BPS’s partner school
 
-![](/images/Our%20Partners/rubik’s%20cube%20friendly%201.jpg)
+<img style="width:95%" src="/images/Our%20Partners/rubik’s%20cube%20friendly%201.jpg" align="center">
 
 Our very own BPS P6 Rubik’s Cubes professionals!  
   
-![](/images/Our%20Partners/rubik’s%20cube%20friendly%202.jpg)
+<img style="width:95%" src="/images/Our%20Partners/rubik’s%20cube%20friendly%202.jpg" align="center">
 
 Look at that set up done by our partner school!&nbsp;(Photo from&nbsp;Chengdu ShiShi High School)
 
@@ -100,7 +100,7 @@ Please click this link to view the Rubik’s Cube tournament (Filmed by Chengdu 
 
 Please click this link to view our P6 students solving their Rubik’s cubes (Filmed by Bendemeer Primary School):&nbsp;[https://youtu.be/ngFZINmW0rk](https://youtu.be/ngFZINmW0rk)
 
-![](/images/Our%20Partners/rubik’s%20cube%20friendly%203.jpg)
+<img style="width:95%" src="/images/Our%20Partners/rubik’s%20cube%20friendly%203.jpg" align="center">
 
 The teachers and students of&nbsp;Chengdu ShiShi High School cheering all participants!&nbsp;(Photo from&nbsp;Chengdu ShiShi High School)
 
