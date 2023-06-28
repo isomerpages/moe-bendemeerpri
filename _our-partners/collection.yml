@@ -1,4 +1,11 @@
 collections:
   our-partners:
     output: true
-    order: []
+    order:
+      - Overview.md
+      - Awards.md
+      - New Events.md
+      - Big Heart Student Care.md
+      - Parent Support Group.md
+      - Festive Community Outreach.md
+      - Internationalisation Programme.md

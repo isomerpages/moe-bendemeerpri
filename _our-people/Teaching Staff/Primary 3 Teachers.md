@@ -15,4 +15,4 @@ third_nav_title: Teaching Staff
 | 3 Integrity 	| Mok Foong Keng (Mrs Yap)<br>Mdm He Xueya 	| [mok\_foong\_keng@moe.edu.sg](mailto:mok_foong_keng@moe.gov.sg)<br>[He_Xueya@moe.edu.sg](mailto:He_Xueya@schools.gov.sg)	|
 | 3 Passion 	| Ms Soon Lay Har<br>Mdm Xin Hong 	| [soon\_lay\_har@moe.edu.sg](mailto:soon_lay_har@moe.edu.sg)  <br>[xin\_hong@moe.edu.sg](mailto:xing_hong@moe.edu.sg) 	|
 | 3 Resilience 	| Mr Raymond Lee<br>Mdm Bhavani <br> Ms Geraldine Seow |[lee\_teck\_siang@moe.edu.sg](mailto:lee_teck_siang@moe.edu.sg)  <br>[bhavani\_rajeswaran@moe.edu.sg](mailto:bhavani_rajeswaran@moe.edu.sg) <br>	[seow\_sing\_ying_geraldine@moe.edu.sg](mailto:seow_sing_ying@moe.edu.sg) |
-| 3 Self Discipline 	| Mr Alvin Lee<br>	| [lee\_jun\_ming\_alvin@moe.edu.sg](mailto:lee_jun_ming_alvin@moe.edu.sg) <br>
+| 3 Self Discipline 	| Mr Alvin Lee <br> Mdm M Meenatchi<br> Mrs Monica Prem Anand <br>	| [lee\_jun\_ming\_alvin@moe.edu.sg](mailto:lee_jun_ming_alvin@moe.edu.sg) <br> [m_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg)<br>[monica_prem_anand@moe.edu.sg](mailto:monica_prem_anand@moe.edu.sg)

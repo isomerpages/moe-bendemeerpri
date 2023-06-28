@@ -7,7 +7,7 @@ links:
         url: /about-us/principal-message
       - title: School Information
         url: /about-us/School-Information/overview
-      - title: "Our Achievements "
+      - title: Our Achievements
         url: /school-information/Our-Achievements/2022-CCA-Awards/
       - title: The Bendemeer Experience
         url: /about-us/the-bendemeer-experience
@@ -76,3 +76,5 @@ links:
         url: /uplift/
   - title: Links
     collection: links
+  - title: Our Partners
+    collection: our-partners

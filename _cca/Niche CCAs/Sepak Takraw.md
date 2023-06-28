@@ -9,9 +9,10 @@ third_nav_title: Niche CCAs
 #### Teachers in charge
 
 1\.  Mr. Azimi bin Ahmad (1st IC) <br>
-2\.  Mr Mohammad Fahmy (2nd IC) <br>
+2\.  Mr Mohammad Fahmy&nbsp;(2nd IC) <br>
 3\.  Mr Lee Zheng Wei <br>
-4\.  Mdm Nur Aisha
+4\.  Mdm Nur Aisha <br>
+5\. Mr Terrance Ong
 
 Coach <br>
 Mr. Mohamed Noor bin Mahmood
@@ -92,24 +93,24 @@ Junior Team 2 achieved 2nd in place in their Tier 2 Silver 1 group
 Senior Team achieved 1st in the Nationals
 
 **2020** <br>
-Both Senior and Junior Teams received “Achievement” as involvement (Represented School at Local Event Under Special Provision).
+Both Senior and Junior Teams&nbsp;received “Achievement” as involvement (Represented School at Local Event Under&nbsp;Special Provision).
 
   
 
-**2019** <br>
+**2019**&nbsp;<br>
 Senior Team achieved 2nd in the Nationals. <br>
 Junior Team 2 achieved 1st in Tiered 2 rounds in the Nationals
 	
-<td width="50%">
-			<img src="/images/sepak%20takraw%202.jpg"/>  Our junior team with the coach and vice-principal Mr Too
+
+			<img src="/images/sepak%20takraw%202.jpg">  Our junior team with the coach and vice-principal Mr Too
 	<br>
 	<br>
-	<td width="50%">
-			<img src="/images/sepak%20takraw%203.jpg"/> Our junior players warming up before departure to match venue <br>
+	
+			<img src="/images/sepak%20takraw%203.jpg"> Our junior players warming up before departure to match venue <br>
 			<br>
-	<td width="50%">
-			<img src="/images/sepak%20takraw%204.jpg"/> Our regu players getting ready before match starts  <br>
+	
+			<img src="/images/sepak%20takraw%204.jpg"> Our regu players getting ready before match starts  <br>
 		<br>
-	<td width="50%">
-			<img src="/images/sepak%20takraw%205.jpg"/>Teamwork & communications are key                           
+	
+			<img src="/images/sepak%20takraw%205.jpg">Teamwork &amp; communications are key                           
 		                      to winning the game.

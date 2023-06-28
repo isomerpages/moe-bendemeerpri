@@ -8,11 +8,12 @@ third_nav_title: Niche CCAs
 
 #### Teacher in charge
 
-Mr Chia Zongyu (1st IC)   <br>
+Mr Chia Zongyu&nbsp;(1st IC)   <br>
 Ms Cynthia Foo (2nd IC) <br>
-Mr Tan Sek Joo  <br>
-Mdm Lee Giak Choo <br>
+Mr Luke Goh <br>
+Mdm Geraldine Seow  <br>
 Ms Chua Xingrou <br>
+Mdm Serena Tiong  
 
 ### CCA Schedule
 
@@ -37,6 +38,6 @@ Junior Boys - First in Tier 2 for SPSSC Floorball National Games in 2022
 
 #### Photo Gallery
  
-<img src="/images/Floorball%201.jpg" style="width:900%"/>
+<img src="/images/Floorball%201.jpg" style="width:900%">
 <br>
-<img src="/images/Floorball%202.jpg" style="width:900%"/>
+<img src="/images/Floorball%202.jpg" style="width:900%">
