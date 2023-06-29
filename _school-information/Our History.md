@@ -43,10 +43,20 @@ Former school principals:<br>
 
 <img src="/images/Bendemeer%20Logos/Beng-Wan-Primary-2.png" align="left" style="width:200px; margin:0px 20px">
 		 
-**Beng Wan Primary School**
+**Beng Wan Primary School** (秉文小学)  
+  
+Beng Wan Primary School started operating on 2 January 1977 with students from Griffiths, Beatty, Balestier Boys, Balestier Girls, Balestier Mixed and Kwong Avenue schools.
 
-Beng Wan was officially declared open by the Member of Parliament for Kolam Ayer Mr Sidek Bin Saniff on 25 July 1978.&nbsp; The school started functioning on 2 January 1977 with pupils from Griffiths, Beatty, Balestier Boys, Balestier Girls, Balestier Mixed and Kwong Avenue schools.
+The school was officially declared open 25 July 1978 by then Member of Parliament for Kolam Ayer, Mr&nbsp;Sidek Bin Saniff.
 
+Former school principals:<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Teh Swee Chin (1977 to 1983)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Foo Siang Juan (1984 to 1988)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Han Mok Puek (1989 to 1992)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Stephen Lu (1993 to 1998)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miss Lim Kuek Heng (1999 to 2002)
+
+![](/images/key%20milestones.jpg)
 * * *
 
 <img src="/images/Bendemeer%20Logos/Bendemeer-Primary-3.png" style="width:240px; padding:20px; float:left;">
