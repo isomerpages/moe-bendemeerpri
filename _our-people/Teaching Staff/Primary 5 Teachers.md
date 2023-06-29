@@ -10,7 +10,7 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|
 |---	|---	|---	|
-| 5 Adaptability 	| Ms Jessintha Sasayiah (Mrs Bhilare)<br>Mr Luke Goh	| [jessintha\_sasayiah@moe.edu.sg](mailto:jessintha_sasayiah@moe.edu.sg) <br>[luke_goh@moe.edu.sg](mailto:luke_goh@moe.edu.sg)	|
+| 5 Adaptability 	| Ms Jessintha Sasayiah (Mrs Bhilare)<br>Mr Luke Goh Hong Kian	| [jessintha\_sasayiah@moe.edu.sg](mailto:jessintha_sasayiah@moe.edu.sg) <br>[luke_goh@moe.edu.sg](mailto:luke_goh@moe.edu.sg)	|
 | 5 Empathy 	| Mdm Maha Letchimi D/O Krishnasamy<br>Mdm An Qinglin 	| [maha\_letchimi\_krishnasamy@moe.edu.sg](mailto:maha_letchimi_krishnasamy@moe.edu.sg) <br>[an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
 | 5 Integrity 	| Ms Karin Lee<br>Mr Mohammad Fahmy Abdul Ghani <br> Mr Terrance Ong Yong Xuan 	| [lee\_karin@moe.edu.sg](mailto:lee_karin@moe.edu.sg) <br>[mohd\_fahmy@moe.edu.sg](mailto:mohd_fahmy@moe.edu.sg) <br> [terrance_ong_yong_xuan@moe.edu.sg](mailto:terrance_ong_yong_xuan@moe.edu.sg) 	|
 | 5 Passion 	| Mdm Phyllis Kwei<br>Mr Roy Ngai  	| [kwei\_seng\_poh@moe.edu.sg](mailto:kwei_seng_poh@moe.edu.sg ) <br>[ngai\_weijie@moe.edu.sg](mailto:ngai_weijie@moe.edu.sg) 	|
