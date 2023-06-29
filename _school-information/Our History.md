@@ -22,7 +22,8 @@ In 2019, Bendemeer Primary School and Balestier Hill Primary School merged to fo
 
 <img src="/images/Bendemeer%20Logos/bendemeer-pri-1.png" align="left" style="width:200px; margin:0px 20px"> 
 		 
-**Bendemeer Primary**
+**Bendemeer Primary** (1977)<br>
+
 Bendemeer Primary School first began operating in 1977. Mr Sidek Bin Saniff, Member of Parliament for Kolam Ayer, officially declared the school open on 10 March 1978.
 
 The school served the neighbourhoods of Bendemeer, Whampoa, Kallang Bahru, Boon Keng and Geylang Bahru.
@@ -31,15 +32,12 @@ The school building then shared the same compound with Beng Wan Primary School a
 
 This 3.3-hectare plot of land was owned by one of Singapore’s well-known pioneers, Mr Hoo Ah Kay, better known as Whampoa.
 
-Former school principals:
+Former school principals:<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs R Vallipuram (1977 to 1984)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Maria Phua (1985 to 1994)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Doris Sum (1995 to 2001)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Koh Chee Seng (2002 to 2004)<br>
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs R Vallipuram (1977 to 1984)
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Maria Phua (1985 to 1994)
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Doris Sum (1995 to 2001)
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Koh Chee Seng (2002 to 2004)
 
 ***
 
