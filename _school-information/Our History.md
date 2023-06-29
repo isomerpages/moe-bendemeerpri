@@ -4,8 +4,6 @@ permalink: /about-us/our-history/
 description: ""
 image: ""
 ---
-
-
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
@@ -80,6 +78,7 @@ Former school principals:<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miss Lim Poh Suan (2006 to 2008)<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs See Lai Kwan (2009 to 2015)<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Tan Siew Tiong (2016 to 2018)<br>
+
 ![](/images/key%20milestones2.jpg)
 
 [History of Bendemeer Primary School](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/bendemeer-primary-school)
@@ -87,6 +86,20 @@ Former school principals:<br>
 * * *
 
 <img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png" style="width:240px; padding: 20px">
+		 
+ **Balestier Hill Primary School**
+(博理小学)
+
+Balestier Hill Primary School was established in January 2002 following the merger of Moulmein Primary School and Swiss Cottage Primary School.
+
+The school was declared officially open on November 2004 by then Minister of Health, Mr Khaw Boon Wan.
+
+Former school principals:<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Irene Ho (2002 to 2011)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miss Tay Chay Eng (2012 to 2018)<br>
+
+
+
 		 
 **Bendemeer Primary School and Balestier Hill Primary School**
 
