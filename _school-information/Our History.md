@@ -102,14 +102,20 @@ Former school principals:<br>
 
 [History of Balestier Primary School](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/balestier-hill-primary-school)
 		 
-**Bendemeer Primary School and Balestier Hill Primary School**
-
-&nbsp;The former school crests of Bendemeer Primary School and Balestier Hill Primary School before the merge in 2019.
- 
  * * *
 
 <img src="/images/Bendemeer%20Logos/Bendemeer-Primary-Final.png" align="left" style="width:200px; margin:0px 20px">
-  
-**The new Bendemeer Primary School crest**
+ 
+**Merger between Bendemeer Primary&nbsp;School (Est 2004)** **and&nbsp;Balestier Hill Primary School**
 
-Established in 2019, the new school crest will serve the new Bendemeer Primary School.
+In 2019, Bendemeer Primary School (Est 2004) and Balestier Hill Primary School merged to form the new Bendemeer Primary School.
+
+The school’s new mission is to nurture and inspire every student to be the best that they can be. The school will strive to give every student the best learning experience in their six years of primary school and to build their self-confidence and leadership qualities as they develop into young adults who will contribute to the nation.
+
+The current school principal is Mrs Tan-Lim Kim Gek.
+
+**The school will celebrate its 45th Anniversary in 2023.**
+
+**The new Bendemeer Primary School crest**  (Refer above)
+
+The new school crest will hereon serve the new Bendemeer Primary School to forge the school’s identity and strengthening the school’s purpose of existence.
