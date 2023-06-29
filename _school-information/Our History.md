@@ -4,6 +4,12 @@ permalink: /about-us/our-history/
 description: ""
 image: ""
 ---
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 ### OUR HISTORY
 
 #### School History &amp; Background
@@ -57,10 +63,28 @@ Former school principals:<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miss Lim Kuek Heng (1999 to 2002)
 
 ![](/images/key%20milestones.jpg)
+
+[History of Bengwan Primary School](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/beng-wan-primary-school)
 * * *
 
 <img src="/images/Bendemeer%20Logos/Bendemeer-Primary-3.png" style="width:240px; padding:20px; float:left;">
-		 
+
+**Merger between Bendemeer Primary&nbsp;School (Est 1977) and Beng Wan Primary School**
+
+Under PRIME, these two schools merged on 1 January 2004 forming Bendemeer Primary School (Est 2004).
+
+The school staff and students then occupied this present building with an enrolment of about 1200 students.
+
+Former school principals:<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Koh Chee Seng (2004 to 2006)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miss Lim Poh Suan (2006 to 2008)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs See Lai Kwan (2009 to 2015)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Tan Siew Tiong (2016 to 2018)<br>
+![](/images/key%20milestones2.jpg)
+
+[History of Bendemeer Primary School](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/bendemeer-primary-school)
+
+* * *
 
 <img src="/images/Bendemeer%20Logos/Balestier-Hill-Primary-3.png" style="width:240px; padding: 20px">
 		 
