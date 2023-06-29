@@ -100,6 +100,7 @@ Former school principals:<br>
 
 ![](/images/key%20milestones3.jpg)
 
+[History of Balestier Primary School](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/balestier-hill-primary-school)
 		 
 **Bendemeer Primary School and Balestier Hill Primary School**
 
