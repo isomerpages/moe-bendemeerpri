@@ -98,7 +98,7 @@ Former school principals:<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Irene Ho (2002 to 2011)<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miss Tay Chay Eng (2012 to 2018)<br>
 
-
+![](/images/key%20milestones3.jpg)
 
 		 
 **Bendemeer Primary School and Balestier Hill Primary School**
