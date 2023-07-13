@@ -5,20 +5,38 @@ description: ""
 ---
 **Bendemeer Primary Celebrates 45th Anniversary**
 
+![](/images/finale.jpg)
+        
+We would like to express our heartfelt gratitude to everyone who joined us in celebrating our 45th anniversary on July 7, 2023. Your presence made the occasion truly special, and we are incredibly grateful for your support and participation.
 
+The anniversary event was a resounding success, filled with joy, laughter, and cherished memories. We would like to extend our sincerest thanks to all of you for being part of this milestone celebration. It was an honor to have you by our side as we marked this significant moment in our journey.
 
-![](/images/bps%2045th%20anv%20800x580pxl%20broadcast%203may23.jpg)
-
-We are thrilled to invite you to join us in celebrating the 45th Anniversary of Bendemeer Primary School on July 7, 2023, from 5.30pm to 7.00pm. 
-
-It's a momentous occasion for our school, and we want to share this joyous event with all our students, parents, alumni, and well-wishers.  
-  
-To ensure that everyone can be a part of this special milestone, we will be live-streaming the celebrations. You can tune in from anywhere in the world and be a part of the festivities.  
+For those who couldn't attend the event in person, we want to ensure that you still feel connected and included. Please click on the following link to watch the livestream of the anniversary:  
   
 🌐 [Live streaming- Youtube Link]( https://go.gov.sg/gst7xx) 
   
-Make sure to mark your calendars and set a reminder for July 7, 2023. Join us as we reminisce on the wonderful journey of Bendemeer Primary School.  
-  
-Stay tuned for more updates as we approach the event.  
-  
-We look forward to your virtual presence and sharing this momentous occasion with you! ❤️
+Once again, thank you for being part of our 45th anniversary celebration. We appreciate your presence, and we look forward to creating more incredible memories together in the future.❤️
+
+![](/images/artpieces.jpg)
+
+
+![](/images/performances1.jpg)
+
+
+![](/images/performances2.jpg)
+
+
+![](/images/bandperformance.jpg)
+
+
+![](/images/last%20pci.jpg)
+
+
+
+
+
+
+
+
+
+
