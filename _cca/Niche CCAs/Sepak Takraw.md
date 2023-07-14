@@ -82,25 +82,10 @@ To provide quality competition experiences for our school athletes to support ch
 
 #### Achievements
 
-**2022** <br>
-Senior Team achieved 2nd in the Nationals School Games.
+**2023** <br>
+Senior Team achieved 1st in the Nationals School Games.
 <br>
-Junior Team 1 achieved 1st in place in their Tier 1 Gold Group
-<br>
-Junior Team 2 achieved 2nd in place in their Tier 2 Silver 1 group
 
-**2021** <br>
-Senior Team achieved 1st in the Nationals
-
-**2020** <br>
-Both Senior and Junior Teams&nbsp;received “Achievement” as involvement (Represented School at Local Event Under&nbsp;Special Provision).
-
-  
-
-**2019**&nbsp;<br>
-Senior Team achieved 2nd in the Nationals. <br>
-Junior Team 2 achieved 1st in Tiered 2 rounds in the Nationals
-	
 
 			<img src="/images/sepak%20takraw%202.jpg">  Our junior team with the coach and vice-principal Mr Too
 	<br>
