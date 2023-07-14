@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: 45th Anniversary Celebrations
       subtitle: Bendemeer Primary School
-      description: Come join us!
+      description: Thanks for joining us!
       button: Click here
       url: /about-us/permalink/
       image: /images/bps 45th anv 88x580pxl broadcast 26apr23.jpg
