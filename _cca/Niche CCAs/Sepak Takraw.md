@@ -83,34 +83,34 @@ To provide quality competition experiences for our school athletes to support ch
 #### Achievements
 
 **2022** <br>
-Senior Team achieved 2nd in the Nationals School Games.
-<br>
-Junior Team 1 achieved 1st in place in their Tier 1 Gold Group
-<br>
-Junior Team 2 achieved 2nd in place in their Tier 2 Silver 1 group
+Senior Team achieved 2nd in position in the Nationals.
 
-**2021** <br>
-Senior Team achieved 1st in the Nationals
+Junior Team 1 achieved 1st in place in their Tier 1 Gold Group.
 
-**2020** <br>
-Both Senior and Junior Teams&nbsp;received “Achievement” as involvement (Represented School at Local Event Under&nbsp;Special Provision).
+Junior Team 2 achieved 2nd place in in their Tier 2 Silver 1 Group.
 
-  
+**2021**<br>
+Senior Team achieved 1st in the Nationals.
 
-**2019**&nbsp;<br>
-Senior Team achieved 2nd in the Nationals. <br>
-Junior Team 2 achieved 1st in Tiered 2 rounds in the Nationals
-	
+**2020**<br>
+Both Senior and Junior Teams achieved "Achievement" (Local Event under Special Provision)
 
-			<img src="/images/sepak%20takraw%202.jpg">  Our junior team with the coach and vice-principal Mr Too
-	<br>
-	<br>
-	
-			<img src="/images/sepak%20takraw%203.jpg"> Our junior players warming up before departure to match venue <br>
-			<br>
-	
-			<img src="/images/sepak%20takraw%204.jpg"> Our regu players getting ready before match starts  <br>
-		<br>
-	
-			<img src="/images/sepak%20takraw%205.jpg">Teamwork &amp; communications are key                           
-		                      to winning the game.
+**2019**<br>
+Senior Team achieved 2nd in the Nationals.
+
+Junior Team achieved 1st in Tiered 2 rounds in the Nationals.
+
+![](/images/spt%201%20bps.jpg)
+The Senior Team listened attentively to the coach's instructions during match time
+
+![](/images/spt%202%20bps.jpg)
+Our Junior Team with the coach &amp; Our Vice - Principal Mr Too
+
+![](/images/spt%203%20bps.jpg)
+Our Junior Team warming up before departure to the match venue
+
+![](/images/spt%204%20bps.jpg)
+Our regu players getting ready before the match starts
+
+![](/images/spt%205%20bps.jpg)
+Teamwork &amp; communication are the key to winning the game
