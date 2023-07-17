@@ -32,13 +32,6 @@ Floorball is an indoor sport which originated from Sweden and has gained popular
     
 *   To excel in competitions and performances
 
-####  Achievements
-
-National Games 2023
-
-Senior Boys - 2nd Round (Final 16)
-Senior Girls - 1st Round
-
 #### Photo Gallery
  
 <img src="/images/Floorball%201.jpg" style="width:900%">
