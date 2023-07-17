@@ -86,15 +86,4 @@ To provide quality competition experiences for our school athletes to support ch
 Senior Team achieved 1st in the Nationals School Games.
 <br>
 
-			<img src="/images/sepak%20takraw%202.jpg">  Our junior team with the coach and vice-principal Mr Too
-	<br>
-	<br>
-	
-			<img src="/images/sepak%20takraw%203.jpg"> Our junior players warming up before departure to match venue <br>
-			<br>
-	
-			<img src="/images/sepak%20takraw%204.jpg"> Our regu players getting ready before match starts  <br>
-		<br>
-	
-			<img src="/images/sepak%20takraw%205.jpg">Teamwork &amp; communications are key                           
-		                      to winning the game.
+			
