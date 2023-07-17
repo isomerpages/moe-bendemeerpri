@@ -82,8 +82,19 @@ To provide quality competition experiences for our school athletes to support ch
 
 #### Achievements
 
-**2023** <br>
-Senior Team achieved 1st in the Nationals School Games.
-<br>
+**2022** <br>
+Senior Team achieved 2nd in position in the Nationals.
 
-			
+Junior Team 1 achieved 1st in place in their Tier 1 Gold Group
+Junior Team 2 achieved 2nd place in in their Tier 2 Silver 1 Group.
+
+**2021**<br>
+Senior Team achieved 1st in the Nationals.
+
+**2020**<br>
+Both Senior and Junior Teams achieved "Achievement" (Local Event under Special Provision)
+
+**2019**<br>
+Senior Team achieved 2nd in the Nationals.
+
+Junior Team achieved 1st in Tiered 2 rounds in the Nationals.
