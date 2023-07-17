@@ -100,18 +100,17 @@ Senior Team achieved 2nd in the Nationals.
 
 Junior Team achieved 1st in Tiered 2 rounds in the Nationals.
 
-![](/images/spt%201%20bps.jpg)![SPT]
+![](/images/spt%201%20bps.jpg)
 The Senior Team listened attentively to the coach's instructions during match time
 
-(/images/spt%202%20bps.jpg)![]
+![](/images/spt%202%20bps.jpg)
 Our Junior Team with the coach &amp; Our Vice - Principal Mr Too
 
-(/images/spt%203%20bps.jpg)![]
+![](/images/spt%203%20bps.jpg)
 Our Junior Team warming up before departure to the match venue
 
-(/images/spt%204%20bps.jpg)![]
+![](/images/spt%204%20bps.jpg)
 Our regu players getting ready before the match starts
 
-(/images/spt%205%20bps.jpg)
+![](/images/spt%205%20bps.jpg)
 Teamwork &amp; communication are the key to winning the game
-
