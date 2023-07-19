@@ -180,7 +180,7 @@ Multi-Skill Event (Bronze Pin)
 
 
 Junior 1 Boys 
-8 x 50 Metres Relay (Participation)
+8 x 50 Metres Relay (7th)
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
@@ -194,13 +194,13 @@ Junior 1 Boys
 | 8     |Hui Zhe Yuan Eason  | 4 RESILIENCE |
 
 Junior 1 Boys
-1000 metres (Participation)
+1000 metres (8th)
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1    | Wong Kai Yang | 4 ADAPTABILITY|
 
 Junior 2 Boys
-4 x 50 Metres Relay (Participation)
+4 x 50 Metres Relay (8th)
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1    | Muhammed Yusuf S/O Noor Mohamed Shah   | 5 INTEGRITY |
