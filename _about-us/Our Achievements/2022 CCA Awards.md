@@ -70,5 +70,64 @@ Senior Boys - Double Under (4th Place)
 | -------- | --------| ------------- |
 | 1     | Aaron Lim   | 6 ADAPTABILITY |
 
+Senior Girls - Pair Freestyle
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | Gerisa Lim   | 6 ADAPTABILITY |
+| 2    | Darice Goh   | 6 PASSION |
+
+Senior Girls - Speed Relay (6th Place)
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1   | Darice Goh   | 6 PASSION |
+| 2   |Falysha Ayumie   | 6 RESILIENCE |
+| 3   | Yew Zhi Xin    | 6 RESILIENCE |
+| 4   |Nur Nikki   | 6 RESILIENCE |
+| 5   | Natalya Nonis   | 6 SELF-DISCIPLINE |
+
+Junior Boys - Speed Relay (1st Place)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Noah Lee   | 5 ADAPTABILITY |
+| 2     |Tony Pung   | 4 ADAPTABILITY |
+| 3    | Md Yasir Akram    | 4 EMPATHY |
+| 4   | Danish Anaqi   | 4 RESILIENCE |
+
+Junior Boys - Double Under 
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1   | Danish Anaqi   | 4 RESILIENCE (2nd) |
+| 2    | Noah Lee   | 5 ADAPTABILITY (3rd)|
+
+Junior Boys - Individual Speed
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     |Tony Pung   | 4 ADAPTABILITY (4th) |
+| 2   | Danish Anaqi   | 4 RESILIENCE (Achievement Pin) |
+| 3   | Md Zayden Aqeel   | 5 PASSION (Achievement Pin)|
+
+Junior Boys - Individual Freestyle
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Noah Lee   | 5 ADAPTABILITY (4th)|
 
 
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Darice Goh   | 6 PASSION |
+| 2     |Falysha Ayumie   | 6 ADAPTABILITY |
+| 3    | Darice Goh   | 6 PASSION |
+| 4   | Darice Goh   | 6 PASSION |
+| 5     |Falysha Ayumie   | 6 ADAPTABILITY |
+| 6    | Darice Goh   | 6 PASSION |
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Darice Goh   | 6 PASSION |
+| 2     |Falysha Ayumie   | 6 ADAPTABILITY |
+| 3    | Darice Goh   | 6 PASSION |
+| 4   | Darice Goh   | 6 PASSION |
+| 5     |Falysha Ayumie   | 6 ADAPTABILITY |
+| 6    | Darice Goh   | 6 PASSION |
