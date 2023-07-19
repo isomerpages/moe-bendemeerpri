@@ -50,6 +50,58 @@ Junior Girls 1st International Broadsword
 | -------- | --------| ------------- |
 | 1     | CHIN SI YAO   | 5 INTEGRITY |
 
+Participation
+
+Junior Boys 3 Duan Chang Quan
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | HEW ZI HAO   | 4 EMPATHY |
+| 2     | SIVANANDAM LITHESH    | 4 RESILENCE |
+
+Junior Boys 3 Duan Nan Quan
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | AXEL CHOW ZEON HIN   | 4 EMPATHY |
+| 2     | XU YUEFENG    | 5 ADAPTABILITY |
+
+
+Junior Boys 42-Style Taijiquan
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | LEE YAO CHANG   | 5 ADAPTABILITY |
+| 2     | NEO JIN KEAT LUCAS    | 5 ADAPTABILITY |
+
+Junior Girls 1st International Broadsword
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | SHANICE LIAO KAI YING   | 5 ADAPTABILITY |
+
+Senior Girls 1st International Sword
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | CHUA XING YI  | 6 ADAPTABILITY |
+
+Senior Boys 1st International Spear
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | KEE YONG AO   | 6 INTEGRITY |
+
+Junior Girls Group Quanshu
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | TAM KAI LI XANICE  | 4 EMPATHY |
+| 2     | ALICIA LIM YU HAN   | 4 RESILIENCE |
+| 3     |CHANG JYU YI EMMA    | 4 INTEGRITY |
+| 4     | LIAN XINYING    | 4 INTEGRITY |
+| 5     |LOO SI LE SELYN    | 4 INTEGRITY |
+| 6     | SZE TING YING    | 4 INTEGRITY |
+
+
+
+
 
 **National Rope Skipping Championships 2023**
 
