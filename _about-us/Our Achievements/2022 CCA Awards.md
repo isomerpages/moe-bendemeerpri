@@ -42,3 +42,13 @@ Senior Team
 | 7     | PRASIT RAI    | 6 INTEGRITY     |
 | 8     | LIM YU XIANG REBEN  |6 RESILIENCE   |
 | 9     | AFSAN S/O AHAMED SHERIFF     | 6 RESILIENCE     |
+
+**National  Wushu Championships 2023**
+
+Junior Girls 1st International Broadsword
+-2nd Place
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | CHIN SI YAO   | 5 INTEGRITY |
+
