@@ -8,9 +8,7 @@ third_nav_title: Our Achievements
 
 **National School Games - 
 Sepak Takraw 
-Senior Team 
-(Sports & Games CCA - Full Colours)
-**
+Senior Team (Full Colours)**
 
 
 | S/N | Name of Student | Class |
@@ -21,15 +19,15 @@ Senior Team
 | 4     | SIMESH HANG RAI     | 6 EMPATHY     |
 | 5     | FAREES SYED SHAFEE     | 6 INTEGRITY     |
 | 6     |IVAN THAPAABDUL     | 6 INTEGRITY      |
-| 7     |  WAHHAAB IBN ABDUR RAHMAN     | 6 PASSION     |
+| 7     |  ABDUL WAHHAAB IBN ABDUR RAHMAN     | 6 PASSION     |
 | 8     | SHAIKH SAIFUOOL    | 6 PASSION     |
 | 9     | ANAS ZUHAILY BIN MUHAMMAD HANAFI   | 6 RESILIENCE     |
 | 10     | MARCUS LAW YING HAI     | 5 RESILIENCE     |
 | 11     | MUHAMMAD HAIRUL NIZAM BIN NOUR MUHAMMAD ALLEY     | 5 SELF-DISCIPLINE     |
 | 12     | TAN HONG MING    | 5 INTEGRITY     |
 
-**National Floorball Championship 2023**
-**Senior Boys 2nd Round (Final 16)**
+**National Floorball Championship 2023        
+Senior Boys 2nd Round (Final 16)**
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
@@ -46,7 +44,7 @@ Senior Team
 **National  Wushu Championships 2023**
 
 Junior Girls 1st International Broadsword        
-(2nd Place) 
+(2nd) 
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
@@ -55,7 +53,7 @@ Junior Girls 1st International Broadsword
 
 **National Rope Skipping Championships 2023**
 
-Senior Boys - Double Dutch (3rd Place)
+Senior Boys - Double Dutch (3rd)
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
@@ -64,19 +62,19 @@ Senior Boys - Double Dutch (3rd Place)
 | 3     | Liu Huaxuan    | 5 EMPATHY |
 | 4     | Thai Loke Yin      | 3 EMPATHY |
 
-Senior Boys - Double Under (4th Place)
+Senior Boys - Double Under (4th)
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1     | Aaron Lim   | 6 ADAPTABILITY |
 
-Senior Girls - Pair Freestyle
+Senior Girls - Pair Freestyle (5th)
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1     | Gerisa Lim   | 6 ADAPTABILITY |
 | 2    | Darice Goh   | 6 PASSION |
 
-Senior Girls - Speed Relay (6th Place)
+Senior Girls - Speed Relay (6th)
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1   | Darice Goh   | 6 PASSION |
@@ -85,7 +83,7 @@ Senior Girls - Speed Relay (6th Place)
 | 4   |Nur Nikki   | 6 RESILIENCE |
 | 5   | Natalya Nonis   | 6 SELF-DISCIPLINE |
 
-Junior Boys - Speed Relay (1st Place)
+Junior Boys - Speed Relay (1st)
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
@@ -178,7 +176,7 @@ Junior 1 Boys
 Multi-Skill Event (Bronze Pin)
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
-| 1    | Tan Yu You Jayden   | 4 ADAPTABILITY |
+| 1    | Tay Yu You Jayden   | 4 ADAPTABILITY |
 
 
 Junior 1 Boys 
@@ -233,7 +231,7 @@ Certificate Of Recognition
 | 15   |Dimiksa Thapan    | 6 ADAPTABILITY|
 | 16    | Yunav Mukarung Rai   | 6 ADAPTABILITY |
 | 17    | Sam Li Xuan  | 6 EMPATHY |
-| 18    |Hayley Teoh Hyo Rin   |  INTEGRITY|
+| 18    |Hayley Teoh Hyo Rin   |  6 INTEGRITY|
 | 19     |Murugesan Arjun  | 6 INTEGRITY |
 
 Certificate Of Participation
@@ -250,4 +248,3 @@ Certificate Of Participation
 | 8     |Andy Lau Yi An  | 4 EMPATHY  |
 | 9    | Gan Yu Jun   | 4 EMPATHY |
 | 10    | Wang Jia Shu Lucas | 4 EMPATHY|
-
