@@ -35,13 +35,10 @@ Senior Team
 | -------- | --------| ------------- |
 | 1     | RIZQULLAH PUTRA BIN REMBANG PERKASA     | 6 ADAPTABILITY |
 | 2     | TEE LI WEI    | 6 ADAPTABILITY    |
-| 3     | MYRON PUN     | 6 EMPATHY     |
-| 4     | MAHENDRAN KIRAN     | 6 EMPATHY     |
-| 5     | MUTHAIAH HARIVARSHA     | 6 INTEGRITY     |
-
-
-
-
-
-
-
+| 3     | MYRON PUN     | 6 PASSION     |
+| 4     | MAHENDRAN KIRAN     | 6 PASSION     |
+| 5     | MUTHAIAH HARIVARSHA |6 PASSION    |
+| 6     | SUZIB GURUNG    | 6  INTEGRITY   |
+| 7     | PRASIT RAI    | 6 INTEGRITY     |
+| 8     | LIM YU XIANG REBEN  |6 RESILIENCE   |
+| 9     | AFSAN S/O AHAMED SHERIFF     | 6 RESILIENCE     |
