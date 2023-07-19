@@ -202,7 +202,7 @@ Junior 1 Boys
 | 1    | Wong Kai Yang | 4 ADAPTABILITY|
 
 Junior 2 Boys
-4 x 50 Metres Relay
+4 x 50 Metres Relay (Participation)
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1    | Muhammed Yusuf S/O Noor Mohamed Shah   | 5 INTEGRITY |
@@ -210,13 +210,44 @@ Junior 2 Boys
 | 3     |Ng E-Mint Keith    | 5 RESILIENCE |
 | 4     |Muhammad Azmaan Bin Syed Abdulgafoor   | 5 SELF-DISCIPLINE |
 
+**Art Competition**
+
+Certificate Of Recognition
+
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
-| 1    | Sophia Zheng   | 4 INTEGRITY |
-| 2    | Tan Wei En  | 4 INTEGRITY (4th) |
-| 3     |Low Hui Xuan    | 5 INTEGRITY|
-| 4     |Swa Jia Ni   | 5 RESILIENCE |
+| 1    |Youn Anna   | 1 INTEGRITY |
+| 2    | Muhammad Raziq Qusyaire  | 1 INTEGRITY |
+| 3     |Tan Nguyen Kevin    | 1 INTEGRITY|
+| 4     |Ananya Liting Gurrala   | 1 INTEGRITY|
+| 5    | Amy Ding   | 2 INTEGRITY |
+| 6    | Chua Yizhen Vivien  | 2 INTEGRITY |
+| 7     |Han Soeun    | 2 INTEGRITY|
+| 8     |Huang Ke   | 2 INTEGRITY  |
+| 9    | Tan Yee Pei   | 2 INTEGRITY |
+| 10    | Gary Kurniawan  | 5 ADAPTABILITY |
+| 11     |Yang Yi Hui    | 5 ADAPTABILITY|
+| 12    |Finesse Ottilia Riyadi   | 5 EMPATHY |
+| 13    | Chua Ming Yuan   | 5 INTEGRITY |
+| 14    | Haifa Lfiyah Bite Mustapah  | 5 RESILIENCE |
+| 15   |Dimiksa Thapan    | 6 ADAPTABILITY|
+| 16    | Yunav Mukarung Rai   | 6 ADAPTABILITY |
+| 17    | Sam Li Xuan  | 6 EMPATHY |
+| 18    |Hayley Teoh Hyo Rin   |  INTEGRITY|
+| 19     |Murugesan Arjun  | 6 INTEGRITY |
 
+Certificate Of Participation
 
-
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    |Megan Tan Yu Hsuan   | 3 ADAPTABILITY |
+| 2    | Davina Gabriella Don Livingston | 3 ADAPTABILITY  |
+| 3     |Wong Xi Qing | 3 EMPATHY|
+| 4     |Cheng Jia Qi  | 3 PASSION|
+| 5    | Chua Yan Cheng   | 3 PASSION |
+| 6    | Tan Yong Ming  | 3 PASSION |
+| 7     |Jeynard Lim   | 3 PASSION|
+| 8     |Andy Lau Yi An  | 4 EMPATHY  |
+| 9    | Gan Yu Jun   | 4 EMPATHY |
+| 10    | Wang Jia Shu Lucas | 4 EMPATHY|
 
