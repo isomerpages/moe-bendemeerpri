@@ -134,3 +134,21 @@ Junior Girls - Individual Speed (Achievement Pin)
 | 1    | Ashlee Ng Rae   | 5 INTEGRITY|
 | 2     |Victoria Chong   | 5 INTEGRITY |
 | 3    | Sophia Zheng   | 4 INTEGRITY |
+
+Junior Girls - Double Dutch (5th)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Sophia Zheng   | 4 INTEGRITY |
+| 2    | Tan Wei En  | 4 INTEGRITY |
+| 3    | Dawn Lim   | 4 EMPATHY|
+| 4     |Swa Jia Ni   | 5 RESILIENCE | 
+
+Junior Girls - Speed Relay (7th)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Sophia Zheng   | 4 INTEGRITY |
+| 2    | Tan Wei En  | 4 INTEGRITY (4th) |
+| 3     |Low Hui Xuan    | 5 INTEGRITY|
+| 4     |Swa Jia Ni   | 5 RESILIENCE | 
