@@ -151,4 +151,72 @@ Junior Girls - Speed Relay (7th)
 | 1    | Sophia Zheng   | 4 INTEGRITY |
 | 2    | Tan Wei En  | 4 INTEGRITY (4th) |
 | 3     |Low Hui Xuan    | 5 INTEGRITY|
-| 4     |Swa Jia Ni   | 5 RESILIENCE | 
+| 4     |Swa Jia Ni   | 5 RESILIENCE |
+
+**National Track and Field Championship 2023**
+
+
+Junior 1 Girls Scissors Jump (3rd)
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Valerie Lee Min Rui   | 4 EMPATHY |
+
+
+Junior 1 Boys
+2kg Medicine Ball Throw (4th)
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Aditya Rai | 4 INTEGRITY |
+
+Junior 1 Girls
+Multi-Skill Event (Bronze Pin)
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Valerie Lee Min Rui   | 4 EMPATHY |
+
+Junior 1 Boys
+Multi-Skill Event (Bronze Pin)
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Tan Yu You Jayden   | 4 ADAPTABILITY |
+
+
+Junior 1 Boys 
+8 x 50 Metres Relay (Participation)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Gabriel Lim Yu Zhe   | 3 ADAPATABILITY |
+| 2    | Cao Phat Fendy  | 4 ADAPTABILITY |
+| 3     |Tay Yu You Jayden   | 4 ADAPTABILITY|
+| 4     |Umar Bin Shanurdin   | 4 ADAPTABILITY |
+| 5  | Wong Kai Yang | 4 ADAPTABILITY|
+| 6   |Chia Shang Jun    |4 INTEGRITY|
+| 7     |Joshua Wong Jing Ping  | 4 INTEGRITY |
+| 8     |Hui Zhe Yuan Eason  | 4 RESILIENCE |
+
+Junior 1 Boys
+1000 metres (Participation)
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Wong Kai Yang | 4 ADAPTABILITY|
+
+Junior 2 Boys
+4 x 50 Metres Relay
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Muhammed Yusuf S/O Noor Mohamed Shah   | 5 INTEGRITY |
+| 2    | Sandilyan Sarkkunan  | 5 PASSION|
+| 3     |Ng E-Mint Keith    | 5 RESILIENCE |
+| 4     |Muhammad Azmaan Bin Syed Abdulgafoor   | 5 SELF-DISCIPLINE |
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Sophia Zheng   | 4 INTEGRITY |
+| 2    | Tan Wei En  | 4 INTEGRITY (4th) |
+| 3     |Low Hui Xuan    | 5 INTEGRITY|
+| 4     |Swa Jia Ni   | 5 RESILIENCE |
+
+
+
+
