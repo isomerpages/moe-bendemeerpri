@@ -45,10 +45,30 @@ Senior Team
 
 **National  Wushu Championships 2023**
 
-Junior Girls 1st International Broadsword
--2nd Place
+Junior Girls 1st International Broadsword        
+(2nd Place) 
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1     | CHIN SI YAO   | 5 INTEGRITY |
+
+
+**National Rope Skipping Championships 2023**
+
+Senior Boys - Double Dutch (3rd Place)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | Aaron Lim   | 6 ADAPTABILITY |
+| 2     | Choo Weng Loke    | 5 ADAPTABILITY |
+| 3     | Liu Huaxuan    | 5 EMPATHY |
+| 4     | Thai Loke Yin      | 3 EMPATHY |
+
+Senior Boys - Double Under (4th Place)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | Aaron Lim   | 6 ADAPTABILITY |
+
+
 
