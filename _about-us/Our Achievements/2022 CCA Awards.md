@@ -52,13 +52,13 @@ Junior Girls 1st International Broadsword
 
 Participation
 
-Junior Boys 3 Duan Chang Quan
+Junior Boys 3-Duan Chang Quan
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1     | HEW ZI HAO   | 4 EMPATHY |
 | 2     | SIVANANDAM LITHESH    | 4 RESILENCE |
 
-Junior Boys 3 Duan Nan Quan
+Junior Boys 3-Duan Nan Quan
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1     | AXEL CHOW ZEON HIN   | 4 EMPATHY |
@@ -87,6 +87,12 @@ Senior Boys 1st International Spear
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
 | 1     | KEE YONG AO   | 6 INTEGRITY |
+
+Junior Boys 5-Duan Broadsword
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1     | GUI JUN XI ACHIRA   | 5 ADAPTABILITY |
+
 
 Junior Girls Group Quanshu
 
