@@ -113,21 +113,24 @@ Junior Boys - Individual Freestyle
 | 1    | Noah Lee   | 5 ADAPTABILITY (4th)|
 
 
+Junior Girls - Double Under
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
-| 1    | Darice Goh   | 6 PASSION |
-| 2     |Falysha Ayumie   | 6 ADAPTABILITY |
-| 3    | Darice Goh   | 6 PASSION |
-| 4   | Darice Goh   | 6 PASSION |
-| 5     |Falysha Ayumie   | 6 ADAPTABILITY |
-| 6    | Darice Goh   | 6 PASSION |
+| 1    | Tan Wei En  | 4 INTEGRITY (1st) |
+| 2     |Low Hui Xuan    | 5 INTEGRITY (Achievement Pin) |
+
+
+Junior Girls - Individual Freestyle
 
 | S/N | Name of Student | Class |
 | -------- | --------| ------------- |
-| 1    | Darice Goh   | 6 PASSION |
-| 2     |Falysha Ayumie   | 6 ADAPTABILITY |
-| 3    | Darice Goh   | 6 PASSION |
-| 4   | Darice Goh   | 6 PASSION |
-| 5     |Falysha Ayumie   | 6 ADAPTABILITY |
-| 6    | Darice Goh   | 6 PASSION |
+| 1    | Tan Wei En  | 4 INTEGRITY (4th) |
+
+Junior Girls - Individual Speed (Achievement Pin)
+
+| S/N | Name of Student | Class |
+| -------- | --------| ------------- |
+| 1    | Ashlee Ng Rae   | 5 INTEGRITY|
+| 2     |Victoria Chong   | 5 INTEGRITY |
+| 3    | Sophia Zheng   | 4 INTEGRITY |
