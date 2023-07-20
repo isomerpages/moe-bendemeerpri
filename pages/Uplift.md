@@ -123,7 +123,3 @@ Through this programme, we hope that the students will:
 2\. Feel supported, and gain greater self-esteem and 
      confidence. <br>
 3\. Learn and adopt good life values and skills from       exemplary volunteer tutors.<br>
-
-
-
-
