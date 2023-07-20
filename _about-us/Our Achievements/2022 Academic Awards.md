@@ -4,201 +4,163 @@ permalink: /school-information/2022-Our-Achievements/Academic-Awards/
 description: ""
 third_nav_title: Our Achievements
 ---
-
 ## Academic Awards
 
 #### Student Recognition Day  
   
-**Star Student for Term 3 - Primary 1**
+**Star Students for Term 1 - Primary 3**
 
-|    |                                        |                   |
-|----|----------------------------------------|-------------------|
-| 1  |           GWEE EE XU, ANDRAYE          | 2 ADAPTABILITY    |
-| 2  |            KARYS KOH KAI XIN           | 2 ADAPTABILITY    |
-| 3  |        KITHAVARSAN SUBBRAMANIAN        | 2 ADAPTABILITY    |
-| 4  |            MURUGESAN ASHWIN            | 2 ADAPTABILITY    |
-| 5  |           AMMAR BIN SHANURDIN          | 2 EMPATHY         |
-| 6  |       UMALI LEANNE MARGAUX BULAN       | 2 EMPATHY         |
-| 7  |             CHAN YONG JUNG             | 2 EMPATHY         |
-| 8  |      KIERA AAMANI MOHAMMAD FARDZLY     | 2 EMPATHY         |
-| 9  |           GABRIEL LIM YU ZHE           | 2 GRACIOUS        |
-| 10 |            JENNY LEE RUO XI            | 2 GRACIOUS        |
-| 11 |          PAKANAN KUNCHANA KOH          | 2 GRACIOUS        |
-| 12 |                WU JIAXIN               | 2 GRACIOUS        |
-| 13 |                XU YIFEI                | 2 INTEGRITY       |
-| 14 |     DANISH ZAWAWI BIN MUHAMAD YUZA     | 2 INTEGRITY       |
-| 15 |            DOROTHY HONG LEXI           | 2 INTEGRITY       |
-| 16 |            ANYA TAN XIN HUI            | 2 INTEGRITY       |
-| 17 | NUR HANIZA BINTE GUDUBADSHA MALIK JOHN | 2 PASSION         |
-| 18 |              THAI LOK YIN              | 2 PASSION         |
-| 19 |           SRIKA SIVASANKARAN           | 2 PASSION         |
-| 20 |           LOKE SZE YU, ISABEL          | 2 PASSION         |
-| 21 |           MAXIMUS GOH BIN WEI          | 2 RESILIENCE      |
-| 22 |            LAU JING HAO, JIM           | 2 RESILIENCE      |
-| 23 |          SIDRAH MOHAMAD HUSNI          | 2 RESILIENCE      |
-| 24 |            RENEE LOW ZHINING           | 2 RESILIENCE      |
-| 25 |            LIM ZHI KAI KYRON           | 2 SELF-DISCIPLINE |
-| 26 |            ALINDA PAN XINYAN           | 2 SELF-DISCIPLINE |
-| 27 |               LIM HAO XIN              | 2 SELF-DISCIPLINE |
-| 28 |            SOPHIE LIM YISHI            | 2 SELF-DISCIPLINE |
 
-**Star Student for Term 3 - Primary 2**
+|    |  |   |
+| -------- | -------- | -------- | 
+| 1     | KEH JEN YIN     |    3 ADAPTABILITY
+| 2     | TAY YU HUI     |    3 ADAPTABILITY
+| 3     | JESSIE TAY     | 3 ADAPTABILITY    |
+| 4     | TAN JEN JAY     | 3 ADAPTABILITY    |
+| 5     | SEE YEE FENG     | 3 ADAPTABILITY    | 
+| 6     | XU YIFEI     | 3 EMPATHY   |
+| 7     |    KESHNI D/O KRISHNAMOORTHY     | 3 EMPATHY    |
+| 8     | FLEMING KHAW SIAK TENG    | 3 EMPATHY    |
+| 9     | MAXIMUS GOH BIN WEI | 3 EMPATHY    |
+| 10     | TEO LIANG ZHI    | 3 EMPATHY  |  
+| 11     | AYUSHA RAI     | 3 INTEGRITY   |
+| 12     | ETHALIE CHEE TZE SING     | 3 INTEGRITY    |
+| 13     | ROZARIO JOANNA    | 3 INTEGRITY    |
+| 14     | ISHANA JOSHI     | 3 INTEGRITY  |
+| 15     | XIE QINYU    | 3 INTEGRITY    |
+| 16     | TAO YIQIAN     | 3 INTEGRITY   |
+| 17     | LAU JING HAO, JIM     | 3 INTEGRITY |
+| 18     | CHOO ZHI LE     | 3 PASSION   |
+| 19     | PENG ZYI QING     | 3 PASSION    |
+| 20     | CHUA YAN CHENG     | 3 PASSION    |
+| 21     | ASHLEY TANG HUI WEN| 3 PASSION    |
+| 22     | PRAKIT NARUEMON    | 3 PASSION   |
+| 23     | MIMIKA SIZALI MAGAR    | 3 PASSION |
+ | 24     | CHENG JIA QI     | 3 PASSION  |
+|25 |    AULIYA NA'QEIYRA BINTE MUHAMMAD JUMAIRI |3 RESILIENCE
+|26 | JOELEEN CHIA HUI NA | 3 RESILIENCE
+|27 | KIERA AAMANI MOHAMMAD FARDZLYV | 3 RESILIENCE
+|28| KOH EN QI GRACELYN |3 RESILIENCE|
+|29|TAZMEEN |3 RESILIENCE|
+|30| MUHAMMAD THAQIF RABBANI BIN ARIFFIAN |3 RESILIENCE|
+|31|ONG SHAO YU, DARIUS |3 RESILIENCE|
+|32|TEO POH JIN, GOLDEN |3 RESILIENCE|
+|33|LEE JIA WEN CARMEN |3 RESILIENCE|
+|34|NUR SARAH AQILAH BINTE MOHD NOOR |3 RESILIENCE|
+|35|CHAN YONG JUNG |3 RESILIENCE|
 
-|    |                                        |                   |
-|----|----------------------------------------|-------------------|
-| 1  |           GWEE EE XU, ANDRAYE          | 2 ADAPTABILITY    |
-| 2  |            KARYS KOH KAI XIN           | 2 ADAPTABILITY    |
-| 3  |        KITHAVARSAN SUBBRAMANIAN        | 2 ADAPTABILITY    |
-| 4  |            MURUGESAN ASHWIN            | 2 ADAPTABILITY    |
-| 5  |           AMMAR BIN SHANURDIN          | 2 EMPATHY         |
-| 6  |       UMALI LEANNE MARGAUX BULAN       | 2 EMPATHY         |
-| 7  |             CHAN YONG JUNG             | 2 EMPATHY         |
-| 8  |      KIERA AAMANI MOHAMMAD FARDZLY     | 2 EMPATHY         |
-| 9  |           GABRIEL LIM YU ZHE           | 2 GRACIOUS        |
-| 10 |            JENNY LEE RUO XI            | 2 GRACIOUS        |
-| 11 |          PAKANAN KUNCHANA KOH          | 2 GRACIOUS        |
-| 12 |                WU JIAXIN               | 2 GRACIOUS        |
-| 13 |                XU YIFEI                | 2 INTEGRITY       |
-| 14 |     DANISH ZAWAWI BIN MUHAMAD YUZA     | 2 INTEGRITY       |
-| 15 |            DOROTHY HONG LEXI           | 2 INTEGRITY       |
-| 16 |            ANYA TAN XIN HUI            | 2 INTEGRITY       |
-| 17 | NUR HANIZA BINTE GUDUBADSHA MALIK JOHN | 2 PASSION         |
-| 18 |              THAI LOK YIN              | 2 PASSION         |
-| 19 |           SRIKA SIVASANKARAN           | 2 PASSION         |
-| 20 |           LOKE SZE YU, ISABEL          | 2 PASSION         |
-| 21 |           MAXIMUS GOH BIN WEI          | 2 RESILIENCE      |
-| 22 |            LAU JING HAO, JIM           | 2 RESILIENCE      |
-| 23 |          SIDRAH MOHAMAD HUSNI          | 2 RESILIENCE      |
-| 24 |            RENEE LOW ZHINING           | 2 RESILIENCE      |
-| 25 |            LIM ZHI KAI KYRON           | 2 SELF-DISCIPLINE |
-| 26 |            ALINDA PAN XINYAN           | 2 SELF-DISCIPLINE |
-| 27 |               LIM HAO XIN              | 2 SELF-DISCIPLINE |
-| 28 |            SOPHIE LIM YISHI            | 2 SELF-DISCIPLINE |
+**Star Students for Term 1 - Primary 4**
+ 
+ |    |  |   |
+| -------- | -------- | -------- | 
+|1|SHAJAKHAN MOHAMED FAADIL IMTHIYAZ |4 ADAPTABILITY|
+|2|JABIRAH D/O ABDUL RAHIM|4 ADAPTABILITY|
+|3|TAN XIN TING|4 ADAPTABILITY|
+|4|CAO PHAT FENDY|4 ADAPTABILITY|
+|5|QAISER BIN ROHAIZAT|4 ADAPTABILITY|
+|6|HANIA SHAKIRA BINTE MD FHAIZAR|4 ADAPTABILITY|
+|7|ARUSHI JAISWAL |4 EMPATHY|
+|8|SAI SHU QI |4 EMPATHY|
+|9|SNG LE XIN, CARIS |4 EMPATHY|
+|10|GAN YU JUN |4 EMPATHY|
+|11|WANG YIHAN |4 EMPATHY|
+|12|ZHANG YUEJIA |4 EMPATHY|
+|13|SKYLER WANG SHENGWEI |4 INTEGRITY|
+|14|HAMANA YUITO |4 INTEGRITY|
+|15|AXELLE NADINE GOH |4 INTEGRITY|
+|16|KAVIMANI THIYA |4 INTEGRITY|
+|17|ADITYA RAI |4 INTEGRITY|
+|18|SHOFIYYATUS INAYAH BINTE SUHAINI |4 INTEGRITY|
+|19|BALASUBRAMANIAN KIRUBASHINI |4 PASSION|
+|20|JOASH LIM JUN |4 PASSION|
+|21|JERALD TAY JING HAN |4 PASSION|
+|22|SEE TOH ETHAN |4 PASSION|
+|23|VIVAN VASANTHAKUMAR |4 PASSION|
+|24| AALIYAH JANNAH OVERTON|4 RESILIENCE|
+|25|DAVID ZACHARY FUENTES ROBLES |4 RESILIENCE|
+|26|ABDULLAH SULTAN|4 RESILIENCE|
+|27|MUHAMMAD IHSAN KURNIAWAN BIN MUHAMMAD SHOLIHIN|4 RESILIENCE|
+|28|BALILIA ERICA MONTAG|4 RESILIENCE|
+|29|RIS SUANDI BIN ZAINUTDDIN |4 RESILIENCE|
 
-**Star Student for Term 3 - Primary 3**
+**Star Students for Term 1 - Primary 5**
+ 
+ |    |  |   |
+| -------- | -------- | -------- | 
+|1|HU YIHE |5 ADAPTABILITY|
+|2|KEK XUAN TONG JAMIE |5 ADAPTABILITY|
+|3|PALANIVELU LAUKSHANA |5 ADAPTABILITY|
+|4|LEE YAO CHANG |5 ADAPTABILITY|
+|5|RAHUL KONTRINER |5 ADAPTABILITY|
+|6|KANG QUAY YIANG |5 ADAPTABILITY|
+|7| QIU ZIYAO |5 EMPATHY|
+|8|CHARLIZE ER SI HUI |5 EMPATHY|
+|9|FINESSE OTTILIA RIYADI |5 EMPATHY|
+|10|HTOO HTOO AUNG |5 EMPATHY|
+|11|KWA JIN XUAN APRIL |5 EMPATHY|
+|12|CHAN WAN XUAN |5 EMPATHY|
+|13|KHO YI XUAN |5 INTEGRITY|
+|14|ASHLEE NG RAE |5 INTEGRITY|
+|15|LI MINYU |5 INTEGRITY|
+|16|LEE JIE HAO |5 INTEGRITY|
+|17|VICTORIA JAVILLONAR CHONG |5 INTEGRITY|
+|18|JOLIE SEAH RUI XIN |5 INTEGRITY|
+|19| KRESHA D/O KRISHNAMOORTHY |5 PASSION|
+|20|NUR DIYANAH BINTE SAZALI |5 PASSION|
+|21|SANDILYAN SARKKUNAN |5 PASSION|   
+|22|SOFIA SABRINA BINTE JEFRI|5 PASSION|
+|23|YEO XIN TONG NATASA|5 PASSION|
+|24|SHAHANA PARVEEN BINTE BATHARUL ISLAM|5 PASSION|
+|25|MONIRUZZAMAN MISHAIL |5 RESILIENCE|
+|26|ABDULLAH BIN HAROON |5 RESILIENCE|
+|27|DESIREE CHUANG ANH DUONG |5 RESILIENCE|
+|28|MATT ANDREW LAWRENCE |5 RESILIENCE|
+|29|LIU YONG FENG|5 RESILIENCE|
+|30|ARI NUR FIRZANAH BINTE MOHAMED FIRDAUS |5 SELF-DISCIPLINE|
+|31|FAHEEMA BINTE GULAM KATHER|5 SELF-DISCIPLINE|
+|32|MEENATCHI SUNDARAM KHUSHWANT|5 SELF-DISCIPLINE|
+|33|KAVIYARASAN LAKSHIKA|5 SELF-DISCIPLINE|
+|34|ANIQ NAZRIL BIN ABU BAKAR|5 SELF-DISCIPLINE|
+|35|LOOI JIN XIANG|5 SELF-DISCIPLINE|
 
-|    |                                   |                |
-|----|-----------------------------------|----------------|
-|  1 |            NEO JIA HAO            | 3 ADAPTABILITY |
-|  2 |        QAISER BIN ROHAIZAT        | 3 ADAPTABILITY |
-|  3 |         TEO JASMINE ZI YI         | 3 ADAPTABILITY |
-|  4 |             CHEE ZU YI            | 3 ADAPTABILITY |
-|  5 |   NUR ALYA FITRIANA BINTE ASWADI  | 3 ADAPTABILITY |
-|  6 |           CAO PHAT FENDY          | 3 ADAPTABILITY |
-|  7 |       INSIYAH HOZEFA SHAKIR       |    3 EMPATHY   |
-|  8 |             SAI SHU QI            |    3 EMPATHY   |
-|  9 |         THAM KAI LI XANCIE        |    3 EMPATHY   |
-| 10 |          LIM ZHI HUI DAWN         |    3 EMPATHY   |
-| 11 |            LEW YAU WAI            |    3 EMPATHY   |
-| 12 |           KAVIMANI THIYA          |   3 INTEGRITY  |
-| 13 |           SZE TING YING           |   3 INTEGRITY  |
-| 14 |        YENG ZENG XIN GRACE        |   3 INTEGRITY  |
-| 15 |            HANIYA DIYA            |   3 INTEGRITY  |
-| 16 | PUTRA AQISH NAZIRIL BIN ABU BAKAR |   3 INTEGRITY  |
-| 17 |   MUHAMMAD AQIZI BIN MOHD YAZID   |    3 PASSION   |
-| 18 |           MOHAMED SHARIF          |    3 PASSION   |
-| 19 |          JADEN TONG XU YI         |    3 PASSION   |
-| 20 |        JERALD TAY JING HAN        |    3 PASSION   |
-| 21 |         ZAAFIRAH ZULAIKHA         |    3 PASSION   |
-| 22 |         ALICIA LIM YU HAN         |  3 RESILIENCE  |
-| 23 |         CAIUS TAN YOUYING         |  3 RESILIENCE  |
-| 24 |        CHONG YAN DA JAYDEN        |  3 RESILIENCE  |
-| 25 |        HUANG YIFAN MATTHEW        |  3 RESILIENCE  |
+**Star Students for Term 1 - Primary 6**
 
-**Star Student for Term 3 - Primary 4**
+ |    |  |   |
+| -------- | -------- | -------- | 
+|1|ATHARVA SAXENA |6 ADAPTABILITY|
+|2|CHANG DANIEL HAJOON |6 ADAPTABILITY|
+|3|TIFFANY CHUA |6 ADAPTABILITY|
+|4|BASKAR SOMESH |6 ADAPTABILITY|
+|5|CIIN SIAN BAN |6 ADAPTABILITY|
+|6|TAN YU XIN |6 ADAPTABILITY|
+|7|VEERAKUMAR ELLORA |6 ADAPTABILITY|
+|8|JORDAN KOH DONG SIANG|6 EMPATHY|
+|9|LANG YICHEN|6 EMPATHY|
+|10|SAM LIXUAN|6 EMPATHY|
+|11|LIU HUAXUAN|6 EMPATHY|
+|12|NEMSHA SIZALI MAGAR|6 EMPATHY|
+|13|CHELLADURAI ARUMUGASAIVELAN|6 EMPATHY|
+|14|CAO HONG AN FIONA|6 EMPATHY|
+|15|  ONG ZHI TING |6 INTEGRITY|
+|16|MURUGESAN ARJUN|6 INTEGRITY|
+|17|KEE YONG AO|6 INTEGRITY|
+|18|ISHIT GEDAM|6 INTEGRITY|
+|19|AKMIL MUIZ ELFARHAN BIN MARTHAS|6 INTEGRITY|
+|20|SHAZANA ALISHA BINTE SABIUDEEN|6 INTEGRITY|
+|21|GOH YA LING DARICE|6 PASSION|
+|22|MAHENDRAN KIRAN|6 PASSION|
+|23|MANSIMRAN ANISHA KAUR D/O GURVINDER SINGH SIDHU|6 PASSION|
+|24|YEE JIA HUI|6 PASSION|
+|25|WANG JIAHONG|6 PASSION|
+|26|ZAVIER SIEW WAI YIP|6 PASSION|
+|27|ARISHA SUFIA AMBER BINTE MOHAMED SUFI|6 RESILIENCE|
+|28|AWRA NURQASEH BINTE ABU BAKAR|6 RESILIENCE|
+|29|KUMAR NIRESH BABU|6 RESILIENCE|
+|30|SIM KAI LUN DYLAN|6 RESILIENCE|
+|31|GBIJAYA SHERCHAN|6 RESILIENCE|
+|32|AAYUSHI TAMANG |6 RESILIENCE|
+|33|MOK ZI LIANG|6 SELF-DISCIPLINE|
+|34|NATALIA ANDRYANA NONIS|6 SELF-DISCIPLINE|
+|35|ARIANNA ALEESHA BINTE ASHIKIN|6 SELF-DISCIPLINE|
+|36|BEVERLYN CHUA |6 SELF-DISCIPLINE|
 
-|    |                                 |                   |
-|----|---------------------------------|-------------------|
-|  1 |        CHOO YANXUN, LUKAS       |   4 ADAPTABILITY  |
-|  2 |           TAN YING HAN          |   4 ADAPTABILITY  |
-|  3 |      KAITHLYN PEI JING WEE      |   4 ADAPTABILITY  |
-|  4 |        LEE WEN WEI AVERY        |   4 ADAPTABILITY  |
-|  5 |           MO JIN PENG           |   4 ADAPTABILITY  |
-|  6 |             ZHOU XIN            |     4 EMPATHY     |
-|  7 |          JENAL NERA KAW         |     4 EMPATHY     |
-|  8 |           WANG ZOUHAO           |     4 EMPATHY     |
-|  9 |           QUEK XIU YU           |     4 EMPATHY     |
-| 10 |     MAI ELLYSA BINTE MAHMOOD    |     4 EMPATHY     |
-| 11 |    SOFIA SABRINA BINTE JEFRI    |    4 INTEGRITY    |
-| 12 |      AMIR HAMZAH BIN HAIRUL     |    4 INTEGRITY    |
-| 13 |           LOW HUI XUAN          |    4 INTEGRITY    |
-| 14 |           KWOK YU XUAN          |    4 INTEGRITY    |
-| 15 |       DONALD TOH JING KAI       |    4 INTEGRITY    |
-| 16 |       AVRELYN LEE TIAN-EN       |     4 PASSION     |
-| 17 |        KWA JIN XUAN APRIL       |     4 PASSION     |
-| 18 |            QIU ZIYAO            |     4 PASSION     |
-| 19 |          TEO LIANG HUI          |     4 PASSION     |
-| 20 |           ZHU YANLIN            |     4 PASSION     |
-| 21 |       CHEN MING SUN ALFERY      |    4 RESILIENCE   |
-| 22 |       HOWARD WONG HAO FENG      |    4 RESILIENCE   |
-| 23 |             M ALIFAT            |    4 RESILIENCE   |
-| 24 |     TEVADHARSHAN S/O GANESAN    |    4 RESILIENCE   |
-| 25 |            WEI YONGXI           |    4 RESILIENCE   |
-| 26 |          CHOONG ZI FENG         | 4 SELF-DISCIPLINE |
-| 27 |       CHUA DAI HONG DYLAN       | 4 SELF-DISCIPLINE |
-| 28 |            DING WENBO           | 4 SELF-DISCIPLINE |
-| 29 |    FAHEEMA BINTE GULAM KATHER   | 4 SELF-DISCIPLINE |
-| 30 | MUHAMMAD ADAM BIN MUHAMAD NAZMI | 4 SELF-DISCIPLINE |
-
-**Star Student for Term 3 - Primary 5**
-
-|    |                                   |                |
-|----|-----------------------------------|----------------|
-|  1 |           LIM HXING RAE           | 5 ADAPTABILITY |
-|  2 |            CHUA XING YI           | 5 ADAPTABILITY |
-|  3 |            TIFFANY CHUA           | 5 ADAPTABILITY |
-|  4 |             TAN YU XIN            | 5 ADAPTABILITY |
-|  5 |         LI QUNFENG TAYLEN         | 5 ADAPTABILITY |
-|  6 |          CHIN JING HANG           | 5 ADAPTABILITY |
-|  7 |    CHELLADURAI ARUMUGASAIVELAN    |    5 EMPATHY   |
-|  8 |           CHUA JIN NING           |    5 EMPATHY   |
-|  9 |       KHIN PYAE SONE HLAING       |    5 EMPATHY   |
-| 10 |             MO JIN HAN            |    5 EMPATHY   |
-| 11 |          TAN RI JIA ISAAC         |    5 EMPATHY   |
-| 12 |        TAY SHAN EN, HANNAH        |    5 EMPATHY   |
-| 13 |        FELICIA KWAN KAI XIN       |   5 INTEGRITY  |
-| 14 |            GOH YONG YI            |   5 INTEGRITY  |
-| 15 |            KEE YONG AO            |   5 INTEGRITY  |
-| 16 |       NATALIA ANDRYANA NONIS      |   5 INTEGRITY  |
-| 17 |            SUZIB GURUNG           |   5 INTEGRITY  |
-| 18 |         JANESSA LOH SHI EN        |    5 PASSION   |
-| 19 |    KEISHA DAMIA BINTE ABDULLAH    |    5 PASSION   |
-| 20 |             LEI ZIQING            |    5 PASSION   |
-| 21 |            PORAMIN TEO            |    5 PASSION   |
-| 22 |        ZAVIER SIEW WAI YIP        |    5 PASSION   |
-| 23 |           WANG JIA HONG           |  5 RESILIENCE  |
-| 24 | NURUL RISKAYAHNA BINTE ZAINUTDDIN |  5 RESILIENCE  |
-| 25 |     QISTINA NAURAH BINTE RAZEF    |  5 RESILIENCE  |
-| 26 |        SUGIHARA JIN JEREMIE       |  5 RESILIENCE  |
-
-**Star Student for Term 3 - Primary 6**
-
-|    |                                       |                   |
-|----|---------------------------------------|-------------------|
-|  1 |              TAN HUI LING             |   6 ADAPTABILITY  |
-|  2 |           GOH YING HUI ZOEY           |   6 ADAPTABILITY  |
-|  3 |           DANNY LEE HONG LE           |   6 ADAPTABILITY  |
-|  4 |              WONG KAI LEI             |   6 ADAPTABILITY  |
-|  5 |      JOSH ZEDRICK FUENTES ROBLES      |   6 ADAPTABILITY  |
-|  6 |              ALKA PRASAD              |     6 EMPATHY     |
-|  7 |                 HAFSA                 |     6 EMPATHY     |
-|  8 |              GRAZYNA RAI              |     6 EMPATHY     |
-|  9 |               LUCAS CHAN              |     6 EMPATHY     |
-| 10 |     SADHIQUE BATCHA AYAANA JANNATH    |     6 EMPATHY     |
-| 11 |      SHIVANI DEVI GOPALAKRISHNAN      |     6 EMPATHY     |
-| 12 |           CHHANTYAL CHRYSLIS          |    6 INTEGRITY    |
-| 13 |           GOH JUNJIE JAEDON           |    6 INTEGRITY    |
-| 14 |            JANE GO WAN QIAN           |    6 INTEGRITY    |
-| 15 |      MUHAMMAD KHAIRULLAH BIN HADI     |    6 INTEGRITY    |
-| 16 |           TAN LI YING CHLOEY          |    6 INTEGRITY    |
-| 17 |              YEE ZHI XIAN             |    6 INTEGRITY    |
-| 18 |               JAZVUE LIM              |     6 PASSION     |
-| 19 |             SELVAM THANISH            |     6 PASSION     |
-| 20 |           NGUYEN KHOI NGUYEN          |     6 PASSION     |
-| 21 |              YEO KATARINA             |     6 PASSION     |
-| 22 | SITI NUR LIYANA MUSFIRAH BINTI ZAINAL |    6 RESILIENCE   |
-| 23 |   PERAS KRISTINE ANNE DIONNE MONTES   |    6 RESILIENCE   |
-| 24 |           KARTHIKEYAN POORNA          |    6 RESILIENCE   |
-| 25 |          ANGEL YEO WECK SI            |    6 RESILIENCE   |
-| 26 |        KHAVEAYAN S/O SIWARAMAN        | 6 SELF-DISCIPLINE |
-| 27 |       ABDUL HAMEED BIN HAJATHALI      | 6 SELF-DISCIPLINE |
