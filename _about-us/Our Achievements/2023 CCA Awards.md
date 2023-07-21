@@ -1,6 +1,6 @@
 ---
-title: 2022 CCA Awards
-permalink: /school-information/Our-Achievements/2022-CCA-Awards/
+title: 2023 CCA Awards
+permalink: /school-information/our-achievements/2023-cca-awards/
 description: ""
 third_nav_title: Our Achievements
 ---

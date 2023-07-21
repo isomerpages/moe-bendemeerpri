@@ -1,6 +1,6 @@
 ---
-title: 2022 Academic Awards
-permalink: /school-information/2022-Our-Achievements/Academic-Awards/
+title: 2023 Academic Awards
+permalink: /school-information/2022-our-achievements/academic-awards/
 description: ""
 third_nav_title: Our Achievements
 ---
@@ -163,4 +163,3 @@ third_nav_title: Our Achievements
 |34|NATALIA ANDRYANA NONIS|6 SELF-DISCIPLINE|
 |35|ARIANNA ALEESHA BINTE ASHIKIN|6 SELF-DISCIPLINE|
 |36|BEVERLYN CHUA |6 SELF-DISCIPLINE|
-
