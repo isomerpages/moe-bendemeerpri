@@ -40,4 +40,4 @@ description: ""
 |  Administration Manager 	| Mr Derrick Ang 	| derrick_ang@moe.edu.sg 	|
 |  Administration Manager 	| Mr Sunny Phoon  	| phoon_geng_chee@moe.edu.sg 	|
 | Operations Manager 	|  Mr Tan Hwee Kheng 	| tan_hwee_kheng@moe.edu.sg 	|
-| Operations Manager 	|  Mr Christopher Noel 	| 
+| Operations Manager 	|  Mr Christopher Noel |christopher_noel_a@moe.edu.sg 	| 
