@@ -19,5 +19,4 @@ Mr Yiew Siew Mong<br>
 Ms Charissa Tan Li Pin<br>
 Ms Nana Wong<br>
 
-
-![](/images/sac.jpg)
+![](/images/sac%20grp%20photo.JPG)
