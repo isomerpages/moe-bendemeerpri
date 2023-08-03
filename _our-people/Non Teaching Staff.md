@@ -16,8 +16,8 @@ description: ""
 | Management Support Officer  | Mdm Goh Chee Kim | [goh_chee_kim@moe.edu.sg](mailto:Goh_Chee_Kim@moe.edu.sg) |
 | Management Support Officer | Mdm Seah Ah Yoke | [seah\_ah\_yoke@moe.edu.sg](mailto:seah_ah_yoke@moe.edu.sg)  |
 | Special Education Needs Officer | Mr Charles Tay | [charles\_tay\_boon\_ping@moe.edu.sg](mailto:charles_tay_boon_ping@moe.edu.sg) |
-| Special Education Needs Officer | Mdm Noorhanis Binte Jasni  | 
-| Special Education Needs Officer | Mdm Nurfarahin Binte Ja'afar| 
+| Special Education Needs Officer | Mdm Noorhanis Binte Jasni  | [noor\_hanis\_jasni@schools.gov.sg](mailto:noor_hanis_jasni@schools.gov.sg) |
+| Special Education Needs Officer | Mdm Nurfarahin Binte Ja'afar| [nurfarahin\_jalafar@schools.gov.sg](mailto:nurfarahin_jalafar@schools.gov.sg) |
 | Student Welfare Officer | Mdm Nurshedah  | [nurshedah\_kamsani@moe.edu.sg](mailto:nurshedah_kamsani@moe.edu.sg) |
 | Senior School Counsellor | Ms Louise Leong | [leong\_puay\_lee@moe.edu.sg](mailto:leong_puay_lee@moe.edu.sg)   |     
 | Desktop Engineer  | Mr Syed Mawla  | [syedmawla@ncs.com.sg](mailto:syedmawla@ncs.com.sg)  |
