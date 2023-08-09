@@ -22,7 +22,7 @@ description: ""
 | Senior School Counsellor | Ms Louise Leong | [leong\_puay\_lee@moe.edu.sg](mailto:leong_puay_lee@moe.edu.sg)   |     
 | Desktop Engineer  | Mr Syed Mawla  | [syedmawla@ncs.com.sg](mailto:syedmawla@ncs.com.sg)  |
 | Desktop Engineer | Ms Rashidah Binti Nor Hisham  | [rashidah.hisham@ncs.com.sg](mailto:rashidah.hisham@ncs.com.sg) |
-| Librarian | Ms Eunice Wong  | [Eunice.Wong@staff.spydus.com.sg](mailto:Eunice.Wong@staff.spydus.com.sg)  |
+| Librarian | Ms Nurhidayati Binte Affandi   | [Yati.Affandi@staff.spydus.com.sg](mailto:Yati.Affandi@staff.spydus.com.sg)  |
 | Dental Therapist | Ms Li Fengming |   |
 | Operations Support Officer  | Mdm Paravathi d/o Koonjikannan  |   |
 | Operations Support Officer  | Mdm Rosita Bte Abdul Kadir |   |
