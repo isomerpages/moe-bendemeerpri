@@ -2,7 +2,7 @@ collections:
   mk-at-bendemeer:
     output: true
     order:
-      - MK Team.md
       - About Mk at Bendemeer.md
+      - MK Team.md
       - Registration and Fees.md
       - MK Experience.md
