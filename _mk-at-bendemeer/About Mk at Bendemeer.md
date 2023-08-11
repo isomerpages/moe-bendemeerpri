@@ -25,3 +25,22 @@ Your child will engage in relevant and authentic experiences to learn about the 
 
 Your child will develop listening, speaking and early reading and writing skills in English and one of the 3 official Mother Tongue Languages – Chinese, Malay and Tamil Language.
 
+
+### The MK Logo
+
+
+The colours and the symbol of a kite is inspired by the idea that MK is the wind that enables each child – a coloured kite- to soar to a strong start. 
+
+
+The three colours represent the educators, partners and the curriculum, which are integral to the holistic growth and development of the child. The vibrant colours reflect our beliefs about children –that thtey are active, curious and competent learners. 
+
+ 
+The flying kite in our logo represents our children soaring to greater heights, with the strong foundation they have built in the MOE Kindergartens. The two kite tails symbolize the fun and learning that children will experience in the MOE Kindergarten.
+
+
+
+### Our Vision, Mission & Values
+
+
+
+
