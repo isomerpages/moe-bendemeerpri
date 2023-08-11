@@ -2,5 +2,5 @@ collections:
   mk-at-bendemeer:
     output: true
     order:
-      - Registration and Fees.md
       - About Mk at Bendemeer.md
+      - Registration and Fees.md
