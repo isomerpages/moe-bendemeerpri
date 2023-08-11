@@ -1,4 +1,5 @@
 collections:
   mk-at-bendemeer:
     output: true
-    order: []
+    order:
+      - About Mk at Bendemeer.md
