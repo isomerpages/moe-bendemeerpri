@@ -26,4 +26,12 @@ sections:
       url: /about-us/permalink/
       image: /images/bps 45th anv 88x580pxl broadcast 26apr23.jpg
       alt: Image alt text
+  - infobar:
+      title: Tribute to BPS Teachers 2023
+      subtitle: "Happy Teacher's Day! "
+      description: Calling all Ex- BPS Students! Connect with your teachers by
+        clicking on the link below. This is experience is proudly brought to you
+        by Bendemeer Primary.
+      button: Click here
+      url: https://padlet.com/bendemeerprimary/TeachersDay2023
 ---
