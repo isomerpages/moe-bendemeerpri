@@ -28,10 +28,20 @@ sections:
       alt: Image alt text
   - infobar:
       title: Tribute to BPS Teachers 2023
-      subtitle: "Happy Teacher's Day! "
+      subtitle: Happy Teacher's Day!
       description: Calling all Ex- BPS Students! Connect with your teachers by
         clicking on the link below. This is experience is proudly brought to you
         by Bendemeer Primary.
       button: Click here
       url: https://padlet.com/bendemeerprimary/TeachersDay2023
+  - infopic:
+      title: Tribute to BPS Teachers 2023
+      subtitle: Happy teachers' day!
+      description: "Calling all EX-BPS students! Connect with your teachers by
+        clicking on the link below. This experience is proudly brought to you by
+        Bendemeer Primary. "
+      button: Click here
+      url: https://padlet.com/bendemeerprimary/TeachersDay2023
+      image: /images/tr's day.jpg
+      alt: Image alt text
 ---
