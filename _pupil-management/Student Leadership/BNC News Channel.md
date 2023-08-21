@@ -21,6 +21,8 @@ The Bendemeer News Channel serves as an incredible platform for our prefects to 
        
 One remarkable example of the Bendemeer News Channel's impact is its coverage of the P5 IGNITE program. The video journalism team captures the essence of this program, highlighting the school values instilled in the participants. Through compelling storytelling and insightful interviews, they portray the spirit of Bendemeer School and the values that drive our students' development.
 
+[BNC Channel](https://youtu.be/IzGM7aRlYxY)
+
 The resulting video is then shared during our school's ASPIRE Wednesday, a day dedicated to promoting character development and fostering a values-driven environment. The Bendemeer News Channel's video serves as a catalyst for reflection, prompting all students to ponder how they can also embody the ASPIRE values in their daily activities within the school.
 
 The Bendemeer News Channel is not only an avenue for prefects to express their creativity and journalistic flair, but also a medium that fosters a culture of excellence and character-building within our school community. Through video journalism, our prefects are equipped with essential skills, allowing them to become confident communicators and leaders of tomorrow.

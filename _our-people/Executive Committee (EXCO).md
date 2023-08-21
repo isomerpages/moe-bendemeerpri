@@ -23,7 +23,6 @@ description: ""
 |  Senior Teacher Special Educational Needs 	| Mrs Joyce Lim  	| joyce_lim_joon_hen@moe.edu.sg 	|
 | Senior Teacher English 	| Ms Karin Lee  	| lee_karin@moe.edu.sg 	|
 |  Senior Teacher Maths 	| Mr Andrew Hong  	| andrew_hong@moe.edu.sg 	|
-|  Senior Teacher Physical Education 	|  Mr Santhosa Kumar 	| santhosa_kumar_n_s@moe.edu.sg 	|
 |  Senior Teacher Social Studies 	| Mdm Vani 	| vani_thanasekar@moe.edu.sg 	|
 |  Senior Teacher Chinese Language 	| Mdm Xe Yuanna 	| xu_yuanna@moe.edu.sg 	|
 |  Year Head (Upper Primary) 	| Ms Jeannette Tan  	| tan_mei_lian_jeannette@moe.edu.sg 	|
@@ -40,4 +39,4 @@ description: ""
 |  Administration Manager 	| Mr Derrick Ang 	| derrick_ang@moe.edu.sg 	|
 |  Administration Manager 	| Mr Sunny Phoon  	| phoon_geng_chee@moe.edu.sg 	|
 | Operations Manager 	|  Mr Tan Hwee Kheng 	| tan_hwee_kheng@moe.edu.sg 	|
-| Operations Manager 	|  Mr Christopher Noel |christopher_noel_a@moe.edu.sg 	| 
+| Operations Manager 	|  Mr Christopher Noel |christopher_noel_a@moe.edu.sg 	|
