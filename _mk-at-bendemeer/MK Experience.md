@@ -95,7 +95,40 @@ description: ""
 
 ### Outdoors
 
+<img alt="Image 1" src="/images/img_20230117_225901.jpg">
 
+<br>
 
+<img alt="Image 1" src="/images/outdoor1.jpeg">
 
+<style>
+  .image-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
 
+  .image-column {
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .image-column img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    max-height: 300px; /* Adjust the max height as needed */
+  }
+</style>
+
+<table class="image-table">
+  <tbody><tr>
+    <td class="image-column">
+      <img alt="Image 1" src="/images/outdoor2.jpg">
+    </td>
+    <td class="image-column">
+      <img alt="Image 2" src="/images/outdoor4.jpg">
+    </td>
+  </tr>
+</tbody></table>
