@@ -68,6 +68,9 @@ At MOE Kindergarten, we believe that children are curious, active, and competent
 ### The MK Logo
 
 
+<img style="width: 60%" src="/images/bendemeer%20colour.jpg">
+
+
 The colours and the symbol of a kite is inspired by the idea that MK is the wind that enables each child – a coloured kite- to soar to a strong start.&nbsp;
 
 
@@ -75,7 +78,6 @@ The three colours represent the educators, partners and the curriculum, which ar
 
  
 The flying kite in our logo represents our children soaring to greater heights, with the strong foundation they have built in the MOE Kindergartens. The two kite tails symbolize the fun and learning that children will experience in the MOE Kindergarten.
-
 
 
 
