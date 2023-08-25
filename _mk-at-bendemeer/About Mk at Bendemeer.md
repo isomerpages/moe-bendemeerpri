@@ -84,3 +84,35 @@ The flying kite in our logo represents our children soaring to greater heights, 
 
 ### Our Vision, Mission &amp; Values
 
+<style>
+  .image-row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .image-container {
+    flex: 1;
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+
+<div class="image-row">
+  <div class="image-container">
+    <img alt="Vision" src="/images/mk%20vision.png">
+  </div>
+  <div class="image-container">
+    <img alt="Mission" src="/images/mkmission.png">
+  </div>
+  <div class="image-container">
+    <img alt="Values" src="/images/mkvalues.png">
+  </div>
+</div>
+
