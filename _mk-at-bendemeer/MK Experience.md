@@ -51,3 +51,47 @@ description: ""
 </tbody></table>
 
 ### Music and Movement Room
+
+<style>
+  .image-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .image-column {
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .image-column img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    max-height: 400px; 
+  }
+</style>
+
+<table class="image-table">
+  <tbody><tr>
+    <td class="image-column">
+      <img alt="Image 1" src="/images/music%20and%20movement%20room.jpg">
+    </td>
+    <td class="image-column">
+      <img alt="Image 2" src="/images/musicandmovementroom.jpeg">
+    </td>
+  </tr>
+  <tr>
+    <td class="image-column">
+      <img alt="Image 3" src="/images/musicandmovementroom2.jpeg">
+    </td>
+    <td class="image-column">
+      <img alt="Image 4" src="/images/musicandmovement3.jpeg">
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
