@@ -28,6 +28,8 @@ description: ""
 
 If your child is a Singapore Citizen, they may qualify for financial assistance under the&nbsp;[Kindergarten Fee Assistance Scheme (KiFAS)](https://www.ecda.gov.sg/parents/subsidies-financial-assistance). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
 
+![](/images/kindergarden%20fas.png)
+
 
 **Kindergarten Care @ MOE Kindergaten Services**<br>
 [https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
