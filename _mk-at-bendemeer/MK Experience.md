@@ -143,6 +143,50 @@ description: ""
 
 ### MK Exploration Space
 
-![](/images/img_20230210_081113.jpg)
+<style>
+  .image-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .image-row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .image-column {
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .image-column img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    max-height: 300px; 
+  }
+</style>
+
+<table class="image-table">
+  <tbody><tr class="image-row">
+    <td class="image-column">
+      <img src="/images/mkopenspace.jpeg">
+    </td>
+    <td class="image-column">
+      <img src="/images/mkopenspace2.jpeg">
+    </td>
+  </tr>
+  <tr class="image-row">
+    <td class="image-column">
+      <img src="/images/mkopenspece3.jpeg">
+    </td>
+    <td class="image-column">
+      <img src="/images/mkopenspace4.jpeg">
+    </td>
+  </tr>
+</tbody></table>
+
 
 
