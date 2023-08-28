@@ -132,3 +132,11 @@ description: ""
     </td>
   </tr>
 </tbody></table>
+
+### Sand and Water Play Area
+
+![](/images/img_20230117_231755.jpg)
+
+![](/images/img_20230118_092229.jpg)
+
+![](/images/img_20230213_082257.jpg)
