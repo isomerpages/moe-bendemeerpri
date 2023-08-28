@@ -165,7 +165,7 @@ description: ""
     height: auto;
     display: block;
     margin: 0 auto;
-    max-height: 300px; 
+    max-height: 5000px; 
   }
 </style>
 
@@ -175,7 +175,7 @@ description: ""
       <img src="/images/mkopenspace.jpeg">
     </td>
     <td class="image-column">
-      <img src="/images/mkopenspace2.jpeg">
+      <img src="/images/mkopenspace4.jpeg">
     </td>
   </tr>
   <tr class="image-row">
@@ -183,7 +183,7 @@ description: ""
       <img src="/images/mkopenspece3.jpeg">
     </td>
     <td class="image-column">
-      <img src="/images/mkopenspace4.jpeg">
+      <img src="/images/mkopenspace2.jpeg">
     </td>
   </tr>
 </tbody></table>
