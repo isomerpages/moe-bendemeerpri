@@ -28,25 +28,57 @@ description: ""
 <table class="image-table">
   <tbody><tr>
     <td class="image-column">
-      <img src="https://file.for.edu.sg/nurraihaini.JPG">
-        <figcaption>
-          <p class="caption">MS NUR RAIHANI ABDUL AZIZ<br>ENGLISH LANGUAGE TEACHER</p>
-        </figcaption>
+      <img alt="nurraihaini" src="https://file.for.edu.sg/nurraihaini.JPG">
+      <figcaption>
+        <p class="caption">MS NUR RAIHANI ABDUL AZIZ<br>
+        ENGLISH LANGUAGE TEACHER</p>
+      </figcaption>
     </td>
     <td class="image-column">
-      <img src="https://file.for.edu.sg/haslina.JPG">
-     <figcaption>
-    <p class="caption">MS NHUR HASLINA SARFRAZUL AMEEN <br> ENGLISH LANGUAGE TEACHER</p>
-			</figcaption>
+      <img alt="haslina" src="https://file.for.edu.sg/haslina.JPG">
+      <figcaption>
+        <p class="caption">MS NHUR HASLINA SARFRAZUL AMEEN<br>
+        ENGLISH LANGUAGE TEACHER</p>
+      </figcaption>
     </td>
     <td class="image-column">
-      <img src="https://file.for.edu.sg/aldrain.JPG">
-        <figcaption>
-          <p class="caption">MR ALDRIAN FERNANDEZ<br>ENGLISH LANGUAGE TEACHER</p>
-        </figcaption>
-      
+      <img alt="aldrain" src="https://file.for.edu.sg/aldrain.JPG">
+      <figcaption>
+        <p class="caption">MR ALDRIAN FERNANDEZ<br>
+        ENGLISH LANGUAGE TEACHER</p>
+      </figcaption>
     </td>
   </tr>
 </tbody></table>
+
+
+
+<table class="image-table">
+  <tbody><tr>
+    <td class="image-column">
+      <img alt="awyeefung" src="https://file.for.edu.sg/awyeefung.JPG">
+      <figcaption>
+        <p class="caption">Ms AW YEE FUNG<br>
+        ENGLISH LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+    <td class="image-column">
+      <img alt="misyaumaira" src="https://file.for.edu.sg/misyaumaira.JPG">
+      <figcaption>
+        <p class="caption">MS MISYA UMAIRA<br>
+        ENGLISH LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+    <td class="image-column">
+      <img alt="ghayathri" src="https://file.for.edu.sg/ghayathri.JPG">
+      <figcaption>
+        <p class="caption">MS GHAYATHRI ARIVU SELVAM<br>
+        ENGLISH LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+  </tr>
+</tbody></table>​
+
+
 
 
