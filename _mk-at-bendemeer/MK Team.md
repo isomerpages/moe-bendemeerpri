@@ -77,7 +77,7 @@ description: ""
       </figcaption>
     </td>
   </tr>
-</tbody></table>​
+</tbody></table>
 
 
 
