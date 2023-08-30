@@ -5,12 +5,26 @@ description: ""
 ---
 ### Kindergarten Care at MOE Kindergaten Services
 
-**About KCare  and Fees**
+**About KCare&nbsp; and Fees**
 
-Kindergarten Care @ MOE Kindergaten Services 
+Kindergarten Care @ MOE Kindergaten Services&nbsp;
 
-[https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care) 
+[https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)&nbsp;
 
 MK @ Bendemeer 
 
-**Big Heart KCare MK at Bendemeer**
+**Big Heart KCare&nbsp;MK at Bendemeer**
+
+Email add : <a href="mailto:bendemeer_kcare@shgstudentcare.com.sg">Big Heart KCare@Bendemeer</a><p></p>
+
+### Big Heart KCARE@Bendemeer
+
+![](/images/building.jpg)
+
+![](/images/tissue.jpg)
+
+![](/images/kcare1.jpg)
+
+![](/images/kcare2.jpg)
+
+![](/images/kcare3.jpg)
