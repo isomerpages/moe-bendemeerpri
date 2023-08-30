@@ -109,4 +109,23 @@ description: ""
 </tbody></table>
 
 
+<table class="image-table">
+  <tbody><tr>
+    <td class="image-column">
+      <img alt="mssitifarhana" src="https://file.for.edu.sg/mssitifarhana.JPG">
+      <figcaption>
+				<p class="caption">MS SITI FARHANA GHUFRAN<br>
+			  MALAY LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+    <td class="spacer-column"></td>
+    <td class="image-column">
+      <img alt="mranbarasu" src="https://file.for.edu.sg/mranbarasu.JPG">
+      <figcaption>
+        <p class="caption">MR ANBARASU R J<br>
+        TAMIL LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+  </tr>
+</tbody></table>
 
