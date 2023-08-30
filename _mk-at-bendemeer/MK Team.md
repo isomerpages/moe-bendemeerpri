@@ -132,10 +132,16 @@ description: ""
 ### Support Staff 
 
 
-
-
-
-MDM YATI
-
-SUPPORT STAFF
-
+<table class="image-table">
+  <tbody><tr>
+    <td class="spacer-column"></td>
+    <td class="image-column">
+      <img alt="mdmyati" src="https://file.for.edu.sg/mdmyati.JPG">
+      <figcaption>
+        <p class="caption">MDM YATI<br>
+        SUPPORT STAFF</p>
+      </figcaption>
+    </td>
+    <td class="spacer-column"></td>
+  </tr>
+</tbody></table>
