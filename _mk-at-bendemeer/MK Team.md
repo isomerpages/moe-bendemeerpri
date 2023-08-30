@@ -80,3 +80,33 @@ description: ""
 </tbody></table>
 
 ### MTL Team
+
+
+<table class="image-table">
+  <tbody><tr>
+    <td class="image-column">
+      <img alt="mszhenglei" src="https://file.for.edu.sg/mszhenglei.JPG">
+      <figcaption>
+        <p class="caption">MS ZHANG LEI<br>
+        CHINESE LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+    <td class="image-column">
+      <img alt="cheokfoong" src="https://file.for.edu.sg/cheokfoong.JPG">
+      <figcaption>
+        <p class="caption">MS LOW CHEOK FOONG<br>
+        CHINESE LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+    <td class="image-column">
+      <img alt="mrxuli" src="https://file.for.edu.sg/mrxuli.JPG">
+      <figcaption>
+        <p class="caption">MR XU LI<br>
+        CHINESE LANGUAGE TEACHER</p>
+      </figcaption>
+    </td>
+  </tr>
+</tbody></table>
+
+
+
