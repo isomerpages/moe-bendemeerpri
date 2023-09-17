@@ -128,11 +128,17 @@ A spiral progression of skills is key to systematic teaching and learning of wri
 
 We celebrate our young authors in our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured. 
 
-[Otter Times (Vol. 1)](https://drive.google.com/file/d/1mxtxGxNxrh_BEs3jM0ehY8TX9I4MtAD_/view?usp=sharing)
+Volume 1(2022)
 
 [Issue 1](https://drive.google.com/file/d/1ut3GU94hGBwIJlR_u-czKQqYGalKfLPI/view?usp=sharing)
 
 [Issue 2](https://drive.google.com/file/d/1kcXOPUCFDYrc7jponpgg3F6iZsmX0He2/view?usp=sharing)
+
+Volume 2 (2023)
+
+[Issue 2 ](https://drive.google.com/file/d/1zgjd-4xlABW54ThlF0FERqqmF3YEOtpp/view?usp=sharing)
+
+[Issue 2](https://drive.google.com/file/d/1zgjd-4xlABW54ThlF0FERqqmF3YEOtpp/view?usp=sharing)
 
 ##### A Pocketful of Phrases
 
