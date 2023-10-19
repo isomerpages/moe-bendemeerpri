@@ -92,7 +92,7 @@ description: ""
       </figcaption>
     </td>
     <td class="image-column">
-      <img alt="cheokfoong" src="https://file.for.edu.sg/cheokfoong.JPG">
+      <img alt="cheokfoong" src="https://file.for.edu.sg/mslowchokfong.jpeg">
       <figcaption>
         <p class="caption">MS LOW CHEOK FOONG<br>
         CHINESE LANGUAGE TEACHER</p>
