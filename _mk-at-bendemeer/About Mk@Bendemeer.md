@@ -1,5 +1,5 @@
 ---
-title: About Mk at Bendemeer
+title: About Mk@Bendemeer
 permalink: /mk-at-bendemeer/about-mk-at-bendemeer/
 description: ""
 ---
@@ -115,4 +115,3 @@ The flying kite in our logo represents our children soaring to greater heights, 
     <img alt="Values" src="/images/mkvalues.png">
   </div>
 </div>
-
