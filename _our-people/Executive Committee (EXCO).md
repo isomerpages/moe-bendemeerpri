@@ -2,6 +2,7 @@
 title: Executive Committee (EXCO)
 permalink: /our-people/exco/
 description: ""
+variant: markdown
 ---
 ### EXECUTIVE COMMITTEE (EXCO)
 
@@ -16,7 +17,7 @@ description: ""
 | HOD Mother Tongue 	| Mdm Yeo Kwang Yee  	| yeo_kwang_yee@moe.edu.sg 	|
 |  HOD Character and Citizenship Education 	| Mrs Amily Wong  	| teh_ai_hui_amily@moe.edu.sg  	|
 |  HOD Information Communication Technology 	|  Mdm Annabelle Clemant 	| annabelle_ananthi_clemant@moe.edu.sg 	|
-|  HOD PE CCA Aesthetics 	|  Mrs Mok Foong Keng 	| mok_foong_keng@moe.edu.sg 	|
+|  HOD PE CCA Aesthetics 	|  Mrs Mok Foong Keng (Mrs Yap) 	| mok_foong_keng@moe.edu.sg 	|
 | Lead Teacher Science  	| Mdm Maha Letchimi  	| maha_letchimi_krishnasamy@moe.edu.sg  	|
 | Lead Teacher Maths  	|  Ms Jennie Hon 	|  hon_soo_har_jennie@moe.edu.sg 	|
 | School Staff Developer  	|  Mrs Stella Chong 	| kow_mei_lin_stella@moe.edu.sg 	|

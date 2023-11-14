@@ -2,8 +2,15 @@
 title: Aspire Newsletter
 permalink: /about-us/aspire-newsletter/
 description: ""
+variant: markdown
 ---
 ### ASPIRE NEWSLETTER
+
+Aspire Newsletter Issue 2 2023
+![](/images/Aspire_Issue_2_2023.jpg)
+
+[Click here to read the Aspire Newsletter Issue 2](https://drive.google.com/file/d/1S6Y4h5DO_EHrACVlkCHoyLWLTDj4grVp/view?usp=sharing)
+
 Aspire Newsletter Issue 1 2023
 ![](/images/aspire%20header.jpg)
 
