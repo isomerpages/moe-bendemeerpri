@@ -15,8 +15,6 @@ Thank you for attending the P1 Orientation last Friday. Attached, please find th
 
 We hope to see you at our P1 Parents' Seminar on 2nd January 2024 at 8 AM.
 
-Best regards,
-
 Mrs Juliana Png
 Year Head, Lower Primary
 
