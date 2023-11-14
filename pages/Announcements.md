@@ -2,10 +2,24 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
+variant: markdown
 ---
 ### Announcements
 
 ***
+#### P1 Orientation Briefing Slides for 2024 Primary 1 Students
+   
+Dear Parents,
+
+Thank you for attending the P1 Orientation last Friday. Attached, please find the slides shared by the Year Head (Lower Primary) and teachers during the orientation. [Click here to access the briefing slides](https://drive.google.com/drive/folders/1wOfVkyKAG5xMhEcPOXRAZiVNTKojTVmn?usp=sharing)
+
+We hope to see you at our P1 Parents' Seminar on 2nd January 2024 at 8 AM.
+
+Best regards,
+
+Mrs Juliana Png
+Year Head, Lower Primary
+
 #### Bendemeer Primary School celebrates 45th Anniversary!!
 **Click [here to find out more.](https://drive.google.com/file/d/1HSdBDQl-9U5EZrRA8fAAIbAz40ryfvsU/view?usp=sharing)
 
