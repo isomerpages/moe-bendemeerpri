@@ -3,6 +3,7 @@ title: Level Managers & Coordinators
 permalink: /our-people/teaching-staff/level-managers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### LEVEL MANAGERS & COORDINATORS
 
@@ -10,8 +11,8 @@ third_nav_title: Teaching Staff
 
 | | | |
 |---|---|---|
-| Primary 1  | Ms Chua Wen Qian  | [chua\_wen\_qian@moe.edu.sg](mailto:chua\_wen\_qian@moe.edu.sg)   |
-| Primary 2 | Mdm Nursuhaila Bte Abdul Samad | [nursuhaila\_abdul\_samad@moe.edu.sg](mailto:nursuhaila_abdul_samad@moe.edu.sg)  |
+| Primary 1 | Mdm Nursuhaila Bte Abdul Samad | [nursuhaila\_abdul\_samad@moe.edu.sg](mailto:nursuhaila_abdul_samad@moe.edu.sg)  |
+| Primary 2  | Ms Christine Tan  | [tan_shu_hui_christine@moe.edu.sg](mailto:tan\_shu\_hui\_christine@moe.edu.sg)   
 | Primary 3 |  Mr Raymond Lee | [lee\_teck\_siang@moe.edu.sg](mailto:lee\_teck\_siang@moe.edu.sg)|
 | Primary 4 | Ms Sandy Yeo | [yeo_kwee_ping@moe.edu.sg](mailto:yeo_kwee_ping@moe.edu.sg)  |
 | Primary 5 | Mdm Phyllis Kwei | [kwei\_seng\_poh@moe.edu.sg](mailto:kwei\_seng\_poh@moe.edu.sg)  |
