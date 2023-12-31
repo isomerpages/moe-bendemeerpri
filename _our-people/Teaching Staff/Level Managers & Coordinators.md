@@ -12,11 +12,11 @@ variant: markdown
 | | | |
 |---|---|---|
 | Primary 1 | Mdm Nursuhaila Bte Abdul Samad | [nursuhaila\_abdul\_samad@moe.edu.sg](mailto:nursuhaila_abdul_samad@moe.edu.sg)  |
-| Primary 2  | Ms Christine Tan  | [tan_shu_hui_christine@moe.edu.sg](mailto:tan\_shu\_hui\_christine@moe.edu.sg)   
-| Primary 3 |  Mr Raymond Lee | [lee\_teck\_siang@moe.edu.sg](mailto:lee\_teck\_siang@moe.edu.sg)|
-| Primary 4 | Ms Sandy Yeo | [yeo_kwee_ping@moe.edu.sg](mailto:yeo_kwee_ping@moe.edu.sg)  |
-| Primary 5 | Mdm Phyllis Kwei | [kwei\_seng\_poh@moe.edu.sg](mailto:kwei\_seng\_poh@moe.edu.sg)  |
-| Primary 6 | Mr Lim Dali  | [lim\_dali@moe.edu.sg](mailto:lim\_dali@moe.edu.sg)
+| Primary 2  | Ms Christine Tan  | [tan\_shu\_hui\_christine@moe.edu.sg](mailto:tan\_shu\_hui\_christine@moe.edu.sg)   
+| Primary 3 | Mr Lee Zheng Wei  |  [lee\_zheng\_wei@moe.edu.sg](mailto:lee_zheng_wei@moe.edu.sg)|
+| Primary 4 |  Mr Raymond Lee | [lee\_teck\_siang@moe.edu.sg](mailto:lee\_teck\_siang@moe.edu.sg)|
+| Primary 5 | Mdm Yoo Pei Li  | [yoo\_pei\_li@moe.edu.sg](mailto:yoo\_pei\_li@moe.edu.sg)
+| Primary 6 | Mdm Phyllis Kwei | [kwei\_seng\_poh@moe.edu.sg](mailto:kwei\_seng\_poh@moe.edu.sg)  |
 
 #### Coordinators
 
