@@ -2,15 +2,15 @@
 title: Overview
 permalink: /cca/Niche/indian-dance/
 description: ""
+variant: markdown
 ---
 ### INDIAN DANCE
 
 #### Teachers in charge
 
 1\.  Mrs Vannan (1st IC)  <br>
-2\.  Ms Renaa Bhai (2nd IC)  <br>
-3\.  Ms Kanageswari <br>
-4\.  Mrs Monica Prem Anand
+2\.  Mrs Mahendren (2nd IC)  <br>
+3\.  Ms Regina Kaur <br>
 
 Instructor <br>
 Mdm Jeyanthi Kesavan
