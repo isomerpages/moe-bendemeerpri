@@ -3,6 +3,7 @@ title: Primary 1 Teachers
 permalink: /our-people/teaching-staff/p1-teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### PRIMARY 1 TEACHERS
 
@@ -10,10 +11,12 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|
 |---	|---	|---	|
-| 1 Adaptability 	| Ms Renaa Bhai d/o V Visvanathan<br>Ms Wong Yee Yee 	| [renaa\_bhai\_v_visvanathan@moe.edu.sg](mailto:renaa_bhai_v_visvanathan@moe.gov.sg)  <br>[wong\_yee\_yee@moe.edu.sg](mailto:wong_yee_yee@moe.edu.sg) 	|
-| 1 Empathy 	| Ms Phua Mei Yin <br> Ms Christine Tan	| [Phua\_Mei\_Yin@moe.edu.sg](mailto:Phua_Mei_Yin@moe.edu.sg) <br> [tan_shu_hui_christine@schools.gov.sg](mailto:tan_shu_hui_christine@schools.gov.sg)	|	
-| 1 Integrity 	| Mdm Ng Lay Pheng<br>Mdm Aziana bte Aziz 	| [Ng\_Lay_Pheng@moe.edu.sg](mailto:Ng_Lay_Pheng@moe.edu.sg)  <br>[aziana\_aziz@moe.edu.sg](mailto:aziana_aziz@moe.edu.sg)	|
-| 1 Passion 	| Ms Liew Siim Wii<br> Ms Woo Siew Foon 	| [Liew\_Siim_Wii@moe.edu.sg](mailto:Liew_Siim_Wii@moe.edu.sg) <br>  [woo\_siew\_foon@moe.edu.sg](mailto:woo_siew_foon@moe.edu.sg)	|
-| 1 Resilience 	| Ms Foo Siew I Cynthia <br> Ms Zarrina Begam | [foo\_siew\_cynthia@moe.edu.sg](mailto:foo_siew_cynthia@moe.edu.sg)  <br> 	|
-|  1 Self-Discipline 	| Ms Chua Wen Qian<br>Mdm Amnah bte Jantan <br> Mdm Serena Tiong	| [chua\_wen\_qian@moe.edu.sg](mailto:chua_wen_qian@moe.edu.sg)  <br> [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 
-[tiong\_suet\_kuan\_serena@moe.edu.sg](mailto:tiong_suet_kuan_serena@moe.edu.sg) | 
+
+| 1 Adaptability 	| Mdm Noraini Zainul (Mrs Munawir)<br>Ms  Xu Yuanna	| [noraini\_zainul\@moe.edu.sg](mailto:noraini_zainul@moe.gov.sg)  <br>[xu\_yuanna@moe.edu.sg](mailto:xu_yuanna@moe.edu.sg) 	|
+| 1 Empathy 	| Ms Olivia Pan <br> Mdm Farhanah	| [pan\_si\_yong\_olivia@moe.edu.sg](mailto:pan_si_yong_olivia@moe.edu.sg) <br> [farhanah\_suratman@moe.edu.sg](mailto:farhanah_suratman@moe.edu.sg)	|	
+| 1 Integrity 	| Ms Choo Lee Tiang<br>Mdm Yeo kwang Yee<br> 	| [choo\_lee\_tiang@moe.edu.sg](mailto:choo_lee_tiang@moe.edu.sg)  <br> [yeo\_kwang\_yee@moe.edu.sg](mailto:yeo_kwang_yee@moe.edu.sg)	|
+
+| 1 Passion 	| Mdm Nursuhaila<br> Ms Phua Mei Yin <br> Mdm Kowk Wai Mui	| [nursuhaila\_abdul\_samad@moe.edu.sg](mailto:nusuhaila_abdul_samadi@moe.edu.sg) <br>  [phua\_mei\_yin@moe.edu.sg](mailto:phua_mei_yin@moe.edu.sg)	<br>  [kwok\_wai\_mui@moe.edu.sg](mailto:kwok_wai_mui@moe.edu.sg)	|
+
+| 1 Resilience 	| Mdm Jennifer Goon <br> Mdm Zakiyah Abdul Karim <br> Mrs Dhinagaran | <br>[goon\_yar\_guan@moe.edu.sg](mailto:goon_yar_guan@moe.edu.sg) <br> 
+[zakiyah\_abdul\_karim@moe.edu.sg](mailto:zakiyah_abdul_karim@moe.edu.sg) <br> [r\_devaki@moe.edu.sg](mailto:r_devaki@moe.edu.sg)	|
