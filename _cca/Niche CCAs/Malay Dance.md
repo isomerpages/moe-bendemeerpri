@@ -3,21 +3,21 @@ title: Malay Dance
 permalink: /cca/Niche/malay-dance/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### MALAY DANCE
 
 #### Teachers in charge
 
 1\. Mdm Zakiyah A. Karim (1st IC) <br>
-2\. Mdm Amnah Jantan (2nd IC) <br>
-3\. Mdm Norherliza Rahim <br>
-4\. Ms Nora Ardilla <br>
+2\. Ms Nora Ardilla (2nd IC) <br>
+3\.&nbsp;Mdm Amnah Jantan <br>
 Trainer: Muhammad Nur Haziq
 
 #### CCA Schedule
 
 Tuesday : 7.30am to 9.00am <br>
-Wednesday: 2pm - 4pm (Semester 1) 
+Wednesday: 2pm - 4pm&nbsp;(Semester 1)&nbsp;
 
 #### Objectives
 
