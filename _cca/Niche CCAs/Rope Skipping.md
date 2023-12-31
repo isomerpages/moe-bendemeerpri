@@ -3,6 +3,7 @@ title: Rope Skipping
 permalink: /cca/niche/skipping/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### ROPE SKIPPING
 
@@ -11,8 +12,8 @@ third_nav_title: Niche CCAs
 Mdm Nur Suhaila (1st IC) <br>
 Mdm Siti Aisha (2nd IC) <br>
 Mrs Seetha Dhillon <br>
-Mr Alvin Lee <br>
 Mdm Ng Lay Pheng <br>
+Mdm Lam Shuzhen
 Mr Kevin Koh (coach) <br>
 Ms Edna Teo (coach)  <br>
 Mr Don Lui (coach)
