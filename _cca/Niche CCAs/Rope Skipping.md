@@ -13,7 +13,7 @@ Mdm Nur Suhaila (1st IC) <br>
 Mdm Siti Aisha (2nd IC) <br>
 Mrs Seetha Dhillon <br>
 Mdm Ng Lay Pheng <br>
-Mdm Lam Shuzhen
+Mdm Lam Shuzhen <br>
 Mr Kevin Koh (coach) <br>
 Ms Edna Teo (coach)  <br>
 Mr Don Lui (coach)
