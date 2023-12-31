@@ -3,16 +3,16 @@ title: Chinese Dance
 permalink: /cca/Niche/chinese-dance/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### CHINESE DANCE
 
 #### Teachers in charge
 
-Mdm Xu Yuanna (1st IC) <br>
-Mdm Teoh Hai Wei&nbsp;(2nd IC)   <br>
-Mdm An Qinglin  <br>
-Mdm Xin Hong <br>
-
+Mdm An Qinglin (1st IC) <br>
+Mdm Chua Xingrou&nbsp;(2nd IC)   <br>
+Ms Woo Siew Foon <br>
+Mdm Teoh Hai Wei
 
 #### Instructor
 
