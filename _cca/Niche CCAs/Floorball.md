@@ -13,7 +13,7 @@ Ms Cynthia Foo&nbsp;(1st IC)   <br>
 Mr Luke Goh (2nd IC) <br>
 Mr Chia Zongyu <br>
 Mdm Jennifer Goon <br>
-Mdm Serena Tiong <br>
+Mdm Serena Tiong 
  
 
 ### CCA Schedule
