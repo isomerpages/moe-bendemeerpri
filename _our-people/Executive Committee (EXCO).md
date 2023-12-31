@@ -35,9 +35,9 @@ variant: markdown
 | Level Head Information Communication Technology 	| Mdm M Meenatchi  	| m_meenatchi@moe.edu.sg 	|
 |  Subject Head Aesthetics 	| Mdm Aziana Aziz  	| aziana_aziz@moe.edu.sg 	|
 |  Subject Head Malay 	| Mr Mohammad Fahmy Abdul Ghani| mohd_fahmy@moe.edu.sg 	|
-|  Subject Head Student Development 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	|
+|  Subject Head Student Development 	| Ms Kanageswari  	| kanageswari_ravindran@moe.edu.sg  	
 |  Subject Head Partnership & Publicity 	| Mr Alvin Lee  	| lee_jun_ming_alvin@moe.edu.sg  	|
+|  Assistant Year Head (Middle Primary) 	| Mr Lee Teck Siang |lee_teck_siang@moe.edu.sg	|
 |  Administration Manager 	| Mr Derrick Ang 	| derrick_ang@moe.edu.sg 	|
 |  Administration Manager 	| Mr Sunny Phoon  	| phoon_geng_chee@moe.edu.sg 	|
-| Operations Manager 	|  Mr Tan Hwee Kheng 	| tan_hwee_kheng@moe.edu.sg 	|
 | Operations Manager 	|  Mr Christopher Noel |christopher_noel_a@moe.edu.sg 	|
