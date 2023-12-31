@@ -3,15 +3,17 @@ title: Concert Band
 permalink: /cca/Niche/concert-band/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 #### Teachers in charge
 
 1\. Mdm Liew SW (1st i/c) <br>
-2\. Ms Chua Wen Qian (2nd i/c) <br>
-3\. Mr Jerald Tan <br>
+2\. Mr Jerald Tan (2nd i/c) <br>
+3\. Ms Chua Wen Qian <br>
 4\. Ms Phua Mei Yin <br>
 5\. Ms Wong Yee Yee <br>
-6\. Ms Zarrina Begam
+6\. Ms Selina Chong <br>
+7.\ Mr Thomas Gan
 
 #### CCA Schedule
 
