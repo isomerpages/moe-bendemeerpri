@@ -3,6 +3,7 @@ title: Primary 3 Teachers
 permalink: /our-people/teaching-staff/p3-teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### PRIMARY 3 TEACHERS
 
