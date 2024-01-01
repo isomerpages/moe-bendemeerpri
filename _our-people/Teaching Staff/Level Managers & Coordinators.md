@@ -32,4 +32,3 @@ variant: markdown
 | LSM Coordinator 	| Mr Azimi Bin Ahmad 	| [azimi\_b\_ahmad@moe.edu.sg](mailto:azimi_b_ahmad@moe.gov.sg)	|
 | LSP Coordinator 	| Ms Sandy Yeo 	| [yeo\_kwee\_ping@moe.edu.sg](mailto:yeo_kwee_ping@moe.gov.sg)	| 
 | SWC Coordinator 	| Mr Lim Dali	| [lim\_dali@moe.edu.sg](mailto:lim_dali@moe.gov.sg) |
-
