@@ -3,16 +3,17 @@ title: Media & Environment Club
 permalink: /cca/Niche/environmental-science-club/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### MEDIA &amp; ENVIRONMENT CLUB
 
 **<u>Teachers in charge</u>** <br>
 Mdm Elis Tjandra (1st IC) <br>
-Mr Tommy Ho&nbsp;(2nd IC)  <br>
+Ms Geraldine Seow&nbsp;(2nd IC)  <br>
 Ms Yoo Pei Li  <br>
-Ms Koh Mei Shan <br>
-Ms Parhana Binte Sawari <br>
-Mdm Bhavani d/o Thamizhmaraiyan
+Ms Kalashobini D/O Chandrasaharan <br>
+Ms Ong Ying Fei  Vienna <br>
+
 
 **<u>CCA Schedule:</u>** <br>
 Every Wednesday 2pm to 4pm <br>

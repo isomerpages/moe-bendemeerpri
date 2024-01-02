@@ -3,6 +3,7 @@ title: Art Club
 permalink: /cca/Niche/art-club/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### ART CLUB
 
@@ -14,10 +15,10 @@ Through creative and artistic expressions, every member is nurtured to be an ind
 
 Mr Hamzah Mahmid (1st IC)  <br>
 Mrs Munawir (2nd IC) <br>
-Ms Dorothy Ho <br>
-Mdm Jennifer Goon <br>
-Mdm Sheila Chow<br>
-Mdm Aziana <br>
+Mdm Sheila Chow <br>
+Ms Dorohy Ho <br>
+Mr Tommy Ho<br>
+Ms Lau Kyla <br>
 
 #### CCA Schedule
 

@@ -3,17 +3,18 @@ title: Floorball
 permalink: /cca/Niche/floorball/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### FLOORBALL
 
 #### Teacher in charge
 
-Mr Chia Zongyu&nbsp;(1st IC)   <br>
-Ms Cynthia Foo (2nd IC) <br>
-Mr Luke Goh <br>
-Mdm Geraldine Seow  <br>
-Ms Chua Xingrou <br>
-Mdm Serena Tiong  
+Ms Cynthia Foo&nbsp;(1st IC)   <br>
+Mr Luke Goh (2nd IC) <br>
+Mr Chia Zongyu <br>
+Mdm Jennifer Goon <br>
+Mdm Serena Tiong 
+ 
 
 ### CCA Schedule
 

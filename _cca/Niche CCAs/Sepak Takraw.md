@@ -3,16 +3,17 @@ title: Sepak Takraw
 permalink: /cca/Niche/sepak-takraw/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### SEPAK TAKRAW
 
 #### Teachers in charge
 
 1\.  Mr. Azimi bin Ahmad (1st IC) <br>
-2\.  Mr Mohammad Fahmy&nbsp;(2nd IC) <br>
-3\.  Mr Lee Zheng Wei <br>
-4\.  Mdm Nur Aisha <br>
-5\. Mr Terrance Ong
+2\.  Mr Lee Zheng Wei &nbsp;(2nd IC) <br>
+3\.  Mr Tay Zhi Qiang <br>
+4\.  Mdm Izyan Bte Wahid <br>
+5\. Mdm Farhanah
 
 Coach <br>
 Mr. Mohamed Noor bin Mahmood

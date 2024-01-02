@@ -3,45 +3,6 @@ title: Mother Tongue Teachers
 permalink: /our-people/teaching-staff/mt-teachers/
 description: ""
 third_nav_title: Teaching Staff
+variant: tiptap
 ---
-### MOTHER TONGUE TEACHERS
-
-##### Mother Tongue Teachers
-
-##### Chinese
-
-|  	|  	|
-|---	|---	|
-| Mdm Yeo Kwang Yee | [yeo\_kwang\_yee@moe.edu.sg](mailto:yeo_kwang_yee@moe.edu.sg) 	|
-| Mdm Xu Yuanna 	| [xu\_yuanna@moe.edu.sg](mailto:xu_yuanna@moe.edu.sg)	|
-| Ms Teoh Hai Wei  	| [teoh\_hai\_wei@moe.edu.sg](mailto:teoh_hai_wei@moe.edu.sg)	|
-| Mdm Lam Shuzhen 	| [lam\_shuzhen@moe.edu.sg](mailto:lam_shuzhen@moe.edu.sg) 	|
-| Mdm An Qinglin 	| [an\_qinglin@moe.edu.sg](mailto:an_qinglin@moe.edu.sg)	|
-| Ms He Xueya  	| [he\_xueya@moe.edu.sg](mailto:he_xueya@moe.edu.sg)|
-| Mdm Xin Hong 	| [xin\_hong@moe.edu.sg](mailto:xin_hong@moe.edu.sg)	|
-| Ms Phua Mei Yin 	| [Phua\_Mei\_Yin@moe.edu.sg](mailto:Phua_Mei_Yin@moe.edu.sg)	|
-| Ms Wong Yee Yee 	| [wong\_yee\_yee@moe.edu.sg](mailto:wong_yee_yee@moe.gov.sg)	|
-| Ms Chua Xingrou 	| [chua\_xingrou@moe.edu.sg](mailto:chua_xingrou@moe.edu.sg)	|
-| Ms Woo Siew Foon 	| [woo\_siew\_foon@moe.edu.sg](mailto:woo_siew_foon@moe.edu.sg)	|
-
-
-##### Tamil
-
-|  	|  	|
-|---	|---	|
-| Mdm M Meenatchi 	| [m\_meenatchi@moe.edu.sg](mailto:m_meenatchi@moe.edu.sg) 	|
-| Mdm Parameswari Malarvannan (Mrs Vannan) 	| [parameswari\_malarvannan@moe.edu.sg](mailto:parameswari_malarvannan@moe.edu.sg)	|
-|Mrs Monica Prem Anand |[monica\_prem\_anand@moe.edu.sg](mailto:monica_prem_anand@moe.edu.sg)	|
-|Ms Tamilselvi D/O Sinnathamby 	| [Tamilselvi\_Sinnathamby@moe.edu.sg](mailto:Tamilselvi_Sinnathamby@moe.edu.sg)	|
-|Mdm Rajalakshmi Kannan 	| [Rajalakshmi\_Kannan@moe.edu.sg](mailto:Rajalakshmi_Kannan@moe.edu.sg)	|
-|Ms Zarrina Begum 	| [zarrina_begam_seeni_mohamed@moe.edu.sg](mailto:zarrina_begam_seeni_mohamed@moe.edu.sg)	|
-
-##### Malay
-
-|  	|  	|
-|---	|---	|
-| Mdm Amnah Bte Jantan 	| [amnah\_jantan@moe.edu.sg](mailto:amnah_jantan@moe.edu.sg) 	  	|
-| Mdm Zakiyah Abdul Karim 	| [zakiyah\_abdul\_karim@moe.edu.sg](mailto:zakiyah_abdul_karim@moe.edu.sg) 	|
-| Mdm Farhanah 	| [farhanah\_suratman@moe.edu.sg](mailto:farhanah_suratman@moe.edu.sg) 	|
-| Ms Nora Adilla Binte Azman 	| [Nora\_Ardilla@moe.edu.sg](mailto:Nora_Ardilla_Azman@moe.edu.sg)	|
-| Mr Mohammad Fahmy Abdul Ghani 	|[mohd\_fahmy@moe.edu.sg](mailto:Mohammad_Fahmy@moe.edu.sg) 	|
+<h3>MOTHER TONGUE TEACHERS</h3><h5>Mother Tongue Teachers</h5><h5>Chinese</h5><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Yeo Kwang Yee</p></td><td rowspan="1" colspan="1"><p><a href="mailto:yeo_kwang_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kwang_yee@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Xu Yuanna</p></td><td rowspan="1" colspan="1"><p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Teoh Hai Wei</p></td><td rowspan="1" colspan="1"><p><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_hai_wei@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lam Shuzhen</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm An Qinglin</p></td><td rowspan="1" colspan="1"><p><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms He Xueya</p></td><td rowspan="1" colspan="1"><p><a href="mailto:he_xueya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">he_xueya@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Phua Mei Yin</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Phua_Mei_Yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Phua_Mei_Yin@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Wong Yee Yee</p></td><td rowspan="1" colspan="1"><p><a href="mailto:wong_yee_yee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yee_yee@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Chua Xingrou</p></td><td rowspan="1" colspan="1"><p><a href="mailto:chua_xingrou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xingrou@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Woo Siew Foon</p></td><td rowspan="1" colspan="1"><p><a href="mailto:woo_siew_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_siew_foon@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ding Xue</p></td><td rowspan="1" colspan="1"><p><a href="mailto:ding_xue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_xue@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Wang Yuanyuan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:wang_yuan_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yuan_yuan@moe.edu.sg</a></p></td></tr></tbody></table><h5>Tamil</h5><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm M Meenatchi</p></td><td rowspan="1" colspan="1"><p><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Parameswari Malarvannan (Mrs Vannan)</p></td><td rowspan="1" colspan="1"><p><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_malarvannan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Tamilselvi D/O Sinnathamby</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Tamilselvi_Sinnathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tamilselvi_Sinnathamby@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Rajalakshmi Kannan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Rajalakshmi_Kannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rajalakshmi_Kannan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h5>Malay</h5><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Amnah Bte Jantan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:amnah_jantan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amnah_jantan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Zakiyah Abdul Karim</p></td><td rowspan="1" colspan="1"><p><a href="mailto:zakiyah_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiyah_abdul_karim@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Farhanah</p></td><td rowspan="1" colspan="1"><p><a href="mailto:farhanah_suratman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_suratman@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Nora Adilla Binte Azman</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Nora_Ardilla_Azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nora_Ardilla@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohammad Fahmy Abdul Ghani</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Mohammad_Fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a></p></td></tr></tbody></table><p></p>

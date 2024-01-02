@@ -3,17 +3,18 @@ title: Wushu
 permalink: /cca/Niche/wushu/
 description: ""
 third_nav_title: Niche CCAs
+variant: markdown
 ---
 ### WUSHU
 
 #### Teachers in charge
 
-Mdm Lam Shuzhen (1st IC)  <br>
-Ms Sandy Yeo (2nd IC) <br>
+Ms Sandy Yeo (1st IC)  <br>
+Mdm He Xueya (2nd IC) <br>
+Ms olivia Pan <br>
 Ms Choo Lee Tiang <br>
-Ms Olivia Pan <br>
 Ms Soon Lay Har<br>
-Mdm He Xueya
+Ms Mao Yiqin
 
 #### CCA Schedule
 
