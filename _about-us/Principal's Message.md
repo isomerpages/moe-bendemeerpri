@@ -3,49 +3,6 @@ title: Principal's Message
 permalink: /about-us/principal-message/
 description: ""
 image: ""
+variant: tiptap
 ---
-### PRINCIPAL'S MESSAGE
-
-**Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2023**
-
-<img src="/images/Mrs%20Tan%20.jpg" style="width:35%; padding: 20px" align="left"/>
-
-
-
-A warm welcome to all our parents and students. I would like to extend my welcome to
-our pioneer batch of students and staff from the MOE Kindergarten (MK) who have
-joined our Bendemeer family this year.
-Our focus this year is ‘Know me. Affirm me. Nurture me.’ We are also guided by the
-principles of Positive Education and will be continuing with the emphasis on using
-positive language, building positive relationships as well as demonstrating positive
-actions in all we do.
-Exciting things await our students this year. In 2022, we saw the nation moving towards
-normalcy, making possible the return of school experiences like learning journeys, the
-P5 camp as well as our annual Honours Day. I am pleased to share that almost all the
-school programmes will be back in full swing in 2023.
-Our school’s Applied Learning Programme (ALP) on Environment Education and
-Sustainable Living has been cascaded to the P1 to P5 levels. In addition, the school will
-be launching IGNITE- Interest Groups to Nurture and Inspire through Experiences. This
-programme aims to offer students workshops or courses that our P5 students can
-decide to take up based on their interest after school. The school is also onboard
-MOE’s UPLIFT and KidsRead programmes which aim to support and strengthen
-support for disadvantaged students.
-One event that we will all be looking forward to is our 45th Anniversary celebrations. We
-are indeed honoured to celebrate 45 years of inspiring to ASPIRE. We have come so
-far thanks to the support of our alumni, parents and community partners who have been
-so generous with their support. To mark this milestone event, the school will be
-presenting ‘Rhapsody@ Bendemeer’ in Term 3.
-We are also proud of our 2022 P6 cohort who has graduated and moved on to
-secondary school. We are pleased to share that majority of our students were posted to
-schools that were their first choice. We wish them well in their journey ahead!
-I am confident that with the continued support of our valued stakeholders, the
-unwavering dedication of the staff in Bendemeer and our commitment to provide the
-Bendemeer experience, our students will truly live up to being a gracious community of
-passionate learners and confident leaders.
-I look forward to another year of meaningful partnerships with all our stakeholders as we
-work hand in hand to provide the best learning experiences for our children.
-
-Your partner-in-education,
-
-Mrs Tan-Lim Kim Gek <br>
-Principal
+<h3>PRINCIPAL'S MESSAGE</h3><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal_profile.jpg"></div><p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2024</strong></p><p>A warm welcome to all our parents and students!<br>Established in 1977, Bendemeer Primary School’s educational journey through the years has grown from strength to strength. We remain steadfast in our vision to nurture a gracious community of passionate learners and confident leaders through the Bendemeer experience where educating our students centres on the belief that each student is unique and their individual abilities differ widely.<br>At Bendemeer, we aim to build an enabling and caring school environment. One where the students feel that their voices matter and where they feel happy as well as challenged within a safe and supportive environment. Our focus this year is <em>‘Know me. Affirm me. Nurture me.’ </em>We are also guided by the principles of Positive Education and will be continuing with the emphasis on using positive language, building positive relationships as well as demonstrating positive actions in all we do.<br>The past year has been a meaningful journey for the school, as we celebrated our 45th anniversary and embarked on many school activities which promote the holistic development of our students. Our students had the opportunity to explore their interests through IGNITE- <em>Interest Groups to Nurture and Inspire through Experiences</em>. This programme is aimed at offering students workshops or courses that our P5 students could take up based on their interest. We believe that when students are given opportunities to be independent, to be engaged as well as to pursue their own interests, they are more motivated. Through this programme we have seen our students show initiative, curiosity and develop a greater sense of confidence in their ability.<br>When our students return to school they will experience our Get-It-Right (GIR) Programme. The programme aims to give our students an opportunity to get to know their peers, teachers and understand expectations in order to set the right tone before lessons begin. In addition, our school’s Applied Learning Programme (ALP) on Environment Education and Sustainable Living is part of students’ curriculum. The school is also on board MOE’s UPLIFT programme which aims to support and strengthen and enhance support for disadvantaged students.<br>We are also blessed by the myriad partnerships we have forged with other schools. Partnerships with Bendemeer Secondary, Raffles Institution, St Joseph’s Institution and St Andrew’s Junior College have benefitted our students greatly and we hope to continue such meaningful collaborations in 2024.<br>Our partnerships also extend beyond our borders as our students were given an opportunity to interact with students from overseas schools such as Y.C.H. Choi Hin To Primary School in Hong Kong, John Dewey School for Children from the Philippines, Shi Shi Tianfu High School Affiliated Primary School, our partner school in Chengdu, China as well as Bala Vinayaka Vidyaniketan (BVV) school in India.<br>We are also proud of our students in the Floorball, Rope Skipping, Track and Field, Wushu CCAs who did us proud in the National School Games (NSG). We are also heartened that our Speak Takraw boys came in first in the Senior Division of the NSG. We hope that besides the accolades earned, our students were able to discover their talents and build character through the interaction with their teammates in the NSG.<br>We are also proud of our 2023 P6 cohort who has graduated and moved on to secondary school. We are pleased to note that majority of our students were posted to schools that were their first choice. We wish them well in their journey ahead!<br>am confident that with the continued support of our valued stakeholders, the unwavering dedication of the staff in Bendemeer and our commitment to provide the Bendemeer experience, our students will truly live up to being a gracious community of passionate learners and confident leaders.<br>I look forward to another year of meaningful partnerships with all our stakeholders as we work hand in hand to provide the best learning experiences for our children.</p><p>Your partner-in-education,</p><p>Mrs Tan-Lim Kim Gek<br>Principal</p>
