@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BannerImage.png
+      background: /images/Sch_Website_Hero_banner_chosen.jpg
       key_highlights:
         - title: Announcements
           description: ""
