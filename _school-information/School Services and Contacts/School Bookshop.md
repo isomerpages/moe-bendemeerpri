@@ -3,46 +3,6 @@ title: School Bookshop
 permalink: /about-us/school-information/School-Services-and-Contacts/school-bookshop/
 description: ""
 third_nav_title: School Services and Contacts
+variant: tiptap
 ---
-### SCHOOL BOOKSHOP
-
-#### Books and Stationery Supplier
-**Main Supplier:**    <br>
-**The Continental  Book Centre** <br>
-1013 Geylang East Ave 3 #02-154 Singapore 389728  <br>
-Tel: 62478482     Fax: 68441779  <br>
-Email: [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg)
-
-**School Bookshop**  <br>
-Tel: 62960519
-
-**Opening Hours:**  <br>
-For Students: <br>
-Mondays to Fridays  <br>
-8.30 am to 2.30pm
-
-For Parents: <br>
-Mondays to Fridays <br>
-11am to 12noon <br>
-2pm to 2.30pm
-
-#### Booklist
-2023 Booklist <br>
-[Primary 2.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%202.pdf)<br>
-[Primary 3.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%203.pdf) <br>
-[Primary 4.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%204.pdf) <br>
-[Primary 4HMT.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%204%20HMT.pdf) <br>
-[Primary 5 2S2F.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%202S2F%20FMA%20FSC.pdf) <br>
-[Primary 5 4F.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%204F.pdf) <br>
-[Primary 5 4S.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%204S.pdf) <br>
-[Primary 5 4S1H.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%204S1H.pdf) <br>
-[Primary 5 3S1FMA.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%203S1FMA.pdf) <br>
-[Primary 5 3S1FMT.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%205%203S1FMT.pdf) <br>
-[Primary 6 2S2F FMA FMT.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%202S2F%20FMA%20FMT.pdf) <br>
-[Primary 6 2S2F FMA FSC.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%202S2F%20FMA%20FSC.pdf) <br>
-[Primary 6 3S1FMA.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%203S1FMA.pdf) <br>
-[Primary 6 3S1FMT.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%203S1FMT.pdf) <br>
-[Primary 6 3S1SMT.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%203F1SMT.pdf)<br>
-[Primary 6 4F.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%204F.pdf) <br>
-[Primary 6 4S.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%204S.pdf) <br>
-[Primary 6 4S1H.pdf][](/files/Bendemeer%20Booklist%202023%20Primary%206%204S1H.pdf)
+<h3>SCHOOL BOOKSHOP</h3><h4>Books and Stationery Supplier</h4><p><strong>Main Supplier:</strong>&nbsp;&nbsp; <br><strong>The Continental&nbsp; Book Centre</strong> <br>1013 Geylang East Ave 3 #02-154 Singapore 389728 <br>Tel: 62478482&nbsp;&nbsp; &nbsp;&nbsp;Fax: 68441779 <br>Email:&nbsp;<a href="mailto:admin@the-continental.com.sg" rel="noopener noreferrer nofollow" target="_blank">admin@the-continental.com.sg</a></p><p><strong>School Bookshop</strong> <br>Tel: 62960519</p><p><strong>Opening Hours:</strong> <br>For Students: <br>Mondays to Fridays <br>8.30 am to 2.30pm</p><p>For Parents: <br>Mondays to Fridays <br>11am to 12noon <br>2pm to 2.30pm</p><h4>Booklist</h4><p>2024 Booklists<br><a href="https://drive.google.com/file/d/1hjXudlzQUgtNWh78t2BG517MBBvH6NYC/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist </a><br><a href="https://drive.google.com/file/d/1Cn5GoCvo5uHpYZ5eyiBIeLS2FFWgrw7O/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist</a><br><a href="https://drive.google.com/file/d/12cxIeN0cKadd6KaNKHhEkzWGZ4VdhylY/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist</a><br><a href="https://drive.google.com/file/d/1JWyRWyCCYIKUYgILjJjR203ZgKZyiuVA/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist</a><br><a href="https://drive.google.com/drive/folders/1o4Joe8iXhVmx7Nx6yj41rx_YXyUIHWuX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist</a><br><a href="https://drive.google.com/drive/folders/11_ewYwCInxV9e2ewijJZe95CzLgUUxh2?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist</a></p>
