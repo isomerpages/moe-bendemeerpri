@@ -3,29 +3,6 @@ title: Dental Clinic
 permalink: /about-us/school-information/School-Services-and-Contacts/dental-clinic/
 description: ""
 third_nav_title: School Services and Contacts
+variant: tiptap
 ---
-### DENTAL CLINIC
-
-Monday, Tuesday &amp; Thursday: 8:00am to 5:30pm  <br>
-Lunch Time: 12:30pm to 1:30pm 
-
-**Clinic Operating hours especially during School Holidays**
-
-As a gentle reminder, we would like to inform that our Dental Clinics operating hours is from: 
-<br>
-* 8am to 5:30pm from Monday to Thursday
-* 8am to 5:00pm on Friday
-
-Tel:&nbsp;87646320
-<br>
-<br>
-<br>
-Pupils who require URGENT dental treatment on days when the school dental clinic is closed may visit any of the following school dental clinics:
-
-Please contact the dental school clinic to ensure the dental staff is on duty before going to the clinic.
-
-| Dental Clinic | Tel No | Address | Clinic opens on|
-|---|---|---|---|
-|Maris Stella High| 62851409 | 25 Mt Vernon Road, <br> Singapore 368051 | Monday &amp; Tuesday|
-| St. Andrew's Junior School| 62850722 | 2 Francis Thomas Drive, <br> Singapore 359337| Monday, Tuesday &amp; Friday|
-|Hong Wen School | 63920225 | 30 Towner Road, <br> Singapore 327829 | Monday, Tuesday &amp; Wednesday |
+<h3>DENTAL CLINIC</h3><p>Opening Hours:</p><p>Thursday: 8:00am to 5:30pm <br>Friday: 8:00am to 5:00pm <br><br>Lunch (Closed): 12:30pm to 1:30pm</p><p>Students who require URGENT dental treatment in the event clinic is closed, please contact any of the following dental clinic:<br></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Mobile Dental Clinic 17</p></th><th rowspan="1" colspan="1"><p>93895126</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Hong Wen Sch Dental Clinic<br>30 Towner Road</strong></p></td><td rowspan="1" colspan="1"><p><strong>87647854</strong></p></td></tr></tbody></table><p></p><p>Any other enquiries, please email <a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></p>
