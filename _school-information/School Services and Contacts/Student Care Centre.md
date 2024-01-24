@@ -3,41 +3,6 @@ title: Student Care Centre
 permalink: /about-us/school-information/School-Services-and-Contacts/student-care-centre/
 description: ""
 third_nav_title: School Services and Contacts
+variant: tiptap
 ---
-### STUDENT CARE CENTRE
-
-![Website_Info_BM](/images/student-care.png)  
-  
-
-Big Heart Student Care  
-(at school premises)  
-  
-Operating Hours   
-
-School Term:  
-1.30pm - 7pm  
-  
-School Holiday:  
-7.30am - 7pm  
-  
-School-based Student Care Centre  
-Tel No: 63919723  
-  
-
-#### Staff
-
-Ms Emmy Chan <br>
-Ms Suhaili Bte Samsudin  <br>
-Ms Lavanya d/o Raja Kumar  <br>
-Ms Ng Min Qi  <br>
-Ms Humaira Bte Abdul Latif Maricar <br>
-Mdm Chen Siew Yuen <br>
-Ms Sim Him Yee <br> 
-Ms Afiqah Bte Juhari  <br>
-Mr Bryan Boon <br>
-Ms Anna Ang  
-Ms Khairunnisa Bte Muzani <br>
-Ms Lucy Goh <br>
-Ms Cindy Tan  <br>
-Ms Lynn Chou <br>
-Mdm Kemala Kathairvelu
+<h3>STUDENT CARE CENTRE</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Website_Info_BM" src="/images/student-care.png"></div><p>Big Heart Student Care<br>(at school premises)</p><p>Operating Hours</p><p>School Term:<br>1.30pm - 7pm</p><p>School Holiday:<br>7.30am - 7pm</p><p>School-based Student Care Centre<br>Tel No: 9028 1471</p><h4>Staff</h4><p>Ms Nur Farhanah Binte Raman</p><p>Mdm Fazilah Binte Abdul Rajid</p><p>Ms Lucy Goh</p><p>Mdm Jaswinder Kaur</p><p>Ms Cecilia Lim Chye Kim</p><p>Ms Angeline Preetha D/O Sivathiyan</p><p>Mr Muhammad Zuhairee Bin Mohamed Abuan</p><p>Ms Nur Amirah Liana Binte Abdul Rahman</p><p>Ms Nur Afifah Binte Azizi</p><p>Ms Puteri Natassyah Binte Ramli</p>
