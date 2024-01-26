@@ -271,26 +271,4 @@ variant: tiptap
     <p>Some of the lamps created by the P1 and P2 students and batik paintings
         by the P3 and P4 to celebrate Hari Raya and Deepavali respectively as part
         of the Outreach programme.</p>
-    <h4><strong>Singapore Youth Festival 2023 (Art Exhibition)</strong></h4>
-    <p>Our school participated in the SYF Art Exhibition; an annual event organised
-        by the Ministry of Education to provide students with opportunities to
-        showcase artistic talents and to promote art appreciation in schools.</p>
-    <p>We were awarded the <strong>Certificate of Recognition</strong> for CAT
-        A and <strong>Certificate of Recognition</strong>  <strong>with Special Mention</strong> for
-        CAT C.</p>
-    <p>Here are the artworks with the accompanying details:</p>
-    <p></p>
-    <div class="isomer-image-wrapper">
-        <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_1.jpg">
-    </div>
-    <div class="isomer-image-wrapper">
-        <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_2.jpg">
-    </div>
-    <p></p>
-    <div class="isomer-image-wrapper">
-        <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_3.jpg">
-    </div>
-    <div class="isomer-image-wrapper">
-        <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_4.jpg">
-    </div>
     <p></p>
