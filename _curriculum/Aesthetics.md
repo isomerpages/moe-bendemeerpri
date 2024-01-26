@@ -279,23 +279,23 @@ variant: markdown
 <p>We were awarded the <strong>Certificate of Recognition</strong> for CAT
         A and <strong>Certificate of Recognition</strong>  <strong>with Special Mention</strong> for
         CAT C.</p>
-    <p></p>
+<p></p>
 <p>Here are the artworks with the accompanying details:</p>
 <p></p>
-    <div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_1.jpg">
-    </div>
+</div>
 <p></p>
     <div class="isomer-image-wrapper">
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_2.jpg">
     </div>
 <p></p>
 <p></p>
-    <div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_3.jpg">
-    </div>
+</div>
 <p></p>
 <p></p>
-    <div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_4.jpg">
-    </div>
+</div>
