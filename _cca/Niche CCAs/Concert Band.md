@@ -99,88 +99,101 @@ instruments;
 <br>3) To develop in members a sense of pride and belonging to the school
 through their band experiences</p>
 <h4>Our Achievements</h4>
-<p>SYF Arts Presentation 2022
-<br>SYF Arts Presentation 2014, 2016, 2018 - Certificate of Distinction
-<br>SYF 2010, 2012 – Gold with Honours
-<br>Hong Kong Winterband Festival 2012 – Gold
-<br>Best Band in Singapore - 2000</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2022</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2014, 2016, 2018 - Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF 2010, 2012 – Gold with Honours</p>
+</li>
+<li>
+<p>Hong Kong Winterband Festival 2012 – Gold</p>
+</li>
+<li>
+<p>Best Band in Singapore - 2000</p>
+</li>
+</ul>
 <h4>Performances</h4>
-<p>Festival Winds Concert (2023)
-<br>Festival Winds Concert (2022)</p>
-<p>Singapore Band Virtual Championships (2021)
-<br>“Friends of Exceptional Children” virtual fundraising concert for children
-with intellectual disabilities (2021)
-<br>“Schools in Concert” performance at Victoria Concert Hall (2019)
-<br>National Day Observance Ceremonies at The Treasury, Kolam Ayer ABC Waterfront,
-Geylang West CC (2013, 2015, 2017, 2018)
-<br>The Istana (2015, 2007)
-<br>SYF Band Presentation at Singapore Conference Hall (2012)
-<br>SYF Band Presentation at the Esplanade (2010)
-<br>SYF Opening Ceremony at Indoor Stadium – Parade Band (2010)
-<br>Botanic Gardens (July 2008)
-<br>Public performances at Jurong Bird Park (June 2007)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Festival Winds Concert (2023)</p>
+</li>
+<li>
+<p>Festival Winds Concert (2022)</p>
+</li>
+<li>
+<p>Singapore Band Virtual Championships (2021)</p>
+</li>
+<li>
+<p>“Friends of Exceptional Children” virtual fundraising concert for children
+with intellectual disabilities (2021)</p>
+</li>
+<li>
+<p>“Schools in Concert” performance at Victoria Concert Hall (2019)</p>
+</li>
+<li>
+<p>National Day Observance Ceremonies at The Treasury, Kolam Ayer ABC</p>
+</li>
+<li>
+<p>Waterfront, Geylang West CC (2013, 2015, 2017, 2018)</p>
+</li>
+<li>
+<p>The Istana (2015, 2007)</p>
+</li>
+<li>
+<p>SYF Band Presentation at Singapore Conference Hall (2012)</p>
+</li>
+<li>
+<p>SYF Band Presentation at the Esplanade (2010)</p>
+</li>
+<li>
+<p>SYF Opening Ceremony at Indoor Stadium – Parade Band (2010)</p>
+</li>
+<li>
+<p>Botanic Gardens (July 2008)</p>
+</li>
+<li>
+<p>Public performances at Jurong Bird Park (June 2007)</p>
+</li>
+</ul>
 <h4>Photos</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_1.jpg">
-</div><pre><code>        Festival of Winds 2023</code></pre>
+</div><pre><code>Festival of Winds 2023</code></pre>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_Exchange_with_Maha_Bodhi_Sch_in_Nov_2023.jpeg">
+</div><pre><code>Bendemeer Primary School X Maha Bodhi School, 2023</code></pre>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF Arts Presentation 2022" src="/images/SYF%20Arts%20Presentation%202022%201.jpg">
-</div><pre><code>               SYF Arts Presentation 2022</code></pre>
+</div><pre><code>SYF Arts Presentation 2022</code></pre>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(25).jpg">
-</div>
+</div><pre><code>“Schools in Concert” performance at Victoria Concert Hall, 2019</code></pre>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2%20(24).jpg">
-</div>
-<p>“Schools In Concert” performance at Victoria Concert Hall 2019</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3%20(21).jpg">
-</div>
+</div><pre><code>National Day Observance ceremonies at Geylang West CC and Kallang ABC Waterfront, 2018</code></pre>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band.png">
-</div>
-<p>National Day Observance ceremonies at Geylang West CC and at Kallang ABC
-Waterfront (from 2018)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%202.png">
-</div>
-<p>“Music In The City” at Ngee Ann City 2017</p>
+</div><pre><code>“Music In The City” at Ngee Ann City 2017</code></pre>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%203.png">
-</div>
-<p>National Day Band Performance at The Istana, 2015</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%204.png">
-</div>
-<p>SYF Arts Presentation 2014, 2016 and 2018 – Certificate of Distinction</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%209.png">
-</div>
-<p>Band Music Exchange at Yishun Primary, February 2016</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%205.png">
-</div>
+</div><pre><code>National Day Band Performance at The Istana, 2015</code></pre>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%206.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%207.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%208.png">
-</div>
-<p>SG50 Moulmein-Kallang GRC &amp; Whampoa SMC SG50 National Day Celebrations</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%2010.png">
-</div>
-<p>Hong Kong Winterband Festival 2012&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%2011.png">
-</div>
-<p>Performed 'live' on national television, Okto Channel, in 2014</p>
+</div><pre><code>Performed 'live' on national television, Okto Channel, in 2014</code></pre>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%2010.png">
+</div><pre><code>Hong Kong Winterband Festival 2012&nbsp;</code></pre>
+<p></p>
