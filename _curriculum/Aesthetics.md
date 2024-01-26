@@ -283,7 +283,7 @@ variant: markdown
 <p>Here are the artworks with the accompanying details:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-        <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_1.jpg">
+        <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Aesthetic_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -292,7 +292,7 @@ variant: markdown
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-        <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_3.jpg">
+        <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Aesthetic_3.jpg">
 </div>
 <p></p>
 <p></p>
