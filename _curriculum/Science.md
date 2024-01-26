@@ -74,7 +74,7 @@ Science Garden and Science pond so that outdoor lessons can be planned
 for the students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science_pond_garden.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science_pond_garden.jpg">
 </div>
 <h5>Useful Links</h5>
 <p>How Stuff Works -&nbsp;<a href="http://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.howstuffworks.com</a> 
