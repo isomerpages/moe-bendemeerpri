@@ -2,7 +2,7 @@
 title: English
 permalink: /curriculum/english/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>ENGLISH</h3>
 <h4>Vision and Mission</h4>
@@ -151,7 +151,7 @@ their writing.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English%2010" src="/images/English%2010.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="English%2010" src="/images/English%2010.jpg">
 </div>
 </td>
 </tr>
@@ -169,9 +169,38 @@ their writing.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elpicture2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL12.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL13.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL15.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Writing is so much fun in Bendemeer!</p>
 <h5><strong>Celebrate Writing through our Bendemeer OTTER Times</strong></h5>
 <p>We celebrate our young authors with our very own Otter Times. The attractive
@@ -224,7 +253,7 @@ strategies, according to the purpose, audience, context and culture.</p>
 </tr>
 </tbody>
 </table>
-<p>Leaning oracy through fun and authentic ways!</p>
+<p>Learning oracy through fun and authentic ways!</p>
 <h5><strong>A Vibrant English Environment</strong></h5>
 <h5><strong><u>Come as a Book Character Day&nbsp;</u></strong></h5>
 <p>We celebrated our annual Come as a Book Character Day on Wednesday, 19
@@ -282,21 +311,24 @@ an audience. Every child will have an opportunity to present to their class
 in this programme that aims to nurture and culture of conversation within
 the classroom.</p>
 <h4>Useful Links</h4>
-<p><strong>Good for online stories and games</strong> 
+<p><strong>Good for online stories and games</strong>
 </p>
-<p><a href="https://www.storylineonline.net/" rel="noopener noreferrer nofollow" target="_blank">https://www.storylineonline.net/</a>
-<br><a href="https://www.abcya.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.abcya.com/</a>
-<br><a href="http://www.bbc.co.uk/cbeebies/" rel="noopener noreferrer nofollow" target="_blank">http://www.bbc.co.uk/cbeebies/</a>
+<p><a href="https://www.storylineonline.net/" rel="noopener noreferrer nofollow" target="_blank">https://www.storylineonline.net/</a> 
+<br><a href="https://www.abcya.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.abcya.com/</a> 
+<br><a href="http://www.bbc.co.uk/cbeebies/" rel="noopener noreferrer nofollow" target="_blank">http://www.bbc.co.uk/cbeebies/</a> 
 <br><a href="http://www.roythezebra.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.roythezebra.com/</a>
 </p>
-<p><strong>Good for downloading&nbsp;poems and teaching poetry</strong> 
-<a href="http://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.poetry4kids.com</a>
+<p><strong>Good for downloading&nbsp;poems and teaching poetry</strong>
+<br><a href="http://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.poetry4kids.com</a>
 </p>
-<p><strong>Good for downloading Children's Songs</strong>  <a href="http://www.songsforteaching.com/animalsongs.htm" rel="noopener noreferrer nofollow" target="_blank">http://www.songsforteaching.com/animalsongs.htm</a>&nbsp;</p>
-<p><strong>Good for teaching reading through phonics</strong>  <a href="http://www.starfall.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.starfall.com</a>
+<p><strong>Good for downloading Children's Songs</strong>
+<br><a href="http://www.songsforteaching.com/animalsongs.htm" rel="noopener noreferrer nofollow" target="_blank">http://www.songsforteaching.com/animalsongs.htm</a>&nbsp;</p>
+<p><strong>Good for teaching reading through phonics</strong> 
+<br><a href="http://www.starfall.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.starfall.com</a>
 </p>
 <h4>Reference Resources</h4>
-<p><strong>Dictionaries</strong>  <a href="http://dictionary.reference.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.reference.com/</a>&nbsp;(Good
+<p><strong>Dictionaries</strong> 
+<br><a href="http://dictionary.reference.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.reference.com/</a>&nbsp;(Good
 pronunciation feature)</p>
 <p><strong>Good for advice on Teaching English and Reading</strong> 
 <br><a href="http://www.rif.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.rif.org/</a> 
