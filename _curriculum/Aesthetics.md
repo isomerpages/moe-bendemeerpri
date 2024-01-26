@@ -268,6 +268,6 @@ variant: markdown
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lampsbatikpaintings.jpg">
     </div>
-    <p>Some of the lamps created by the P1 and P2 students and batik paintings
+<p>Some of the lamps created by the P1 and P2 students and batik paintings
         by the P3 and P4 to celebrate Hari Raya and Deepavali respectively as part
         of the Outreach programme.</p>
