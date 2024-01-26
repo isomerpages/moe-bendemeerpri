@@ -269,4 +269,3 @@ variant: markdown
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lampsbatikpaintings.jpg">
     </div>
     <p></p>
-    <p></p>
