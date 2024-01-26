@@ -286,9 +286,9 @@ variant: markdown
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_1.jpg">
 </div>
 <p></p>
-    <div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_2.jpg">
-    </div>
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
