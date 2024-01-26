@@ -2,7 +2,7 @@
 title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>AESTHETICS</h3>
 <div class="isomer-image-wrapper">
@@ -222,7 +222,7 @@ variant: markdown
                 <h5><em>Outreach Programme</em></h5>
                 <p>
                     <br>Working on the community approach, the school continue to reach out to
-                    our school partners. In conjunction tothe major festivals celebrated in
+                    our school partners. In conjunction to the major festivals celebrated in
                     school, through a tiered approach, different levels of students designed
                     and created mementos for the non-teaching staff and the canteen vendors.&nbsp;&nbsp;</p>
             </td>
@@ -293,11 +293,4 @@ variant: markdown
     <div class="isomer-image-wrapper">
         <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_4.jpg">
     </div>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
     <p></p>
