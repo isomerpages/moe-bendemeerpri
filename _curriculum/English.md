@@ -212,7 +212,7 @@ a chance to be featured.</p>
 <p><a href="https://drive.google.com/file/d/1kcXOPUCFDYrc7jponpgg3F6iZsmX0He2/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 2</a>
 </p>
 <p>Volume 2 (2023)</p>
-<p><a href="https://drive.google.com/file/d/1e_meetjeSzLGcMvnsuh4Epj8VmYxqonp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 1</a>
+<p><a href="https://drive.google.com/file/d/1Tt-NycrqxTlGUMFaThqh3F5sn5m-Gxy7/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 1</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1zgjd-4xlABW54ThlF0FERqqmF3YEOtpp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 2</a>
 </p>
