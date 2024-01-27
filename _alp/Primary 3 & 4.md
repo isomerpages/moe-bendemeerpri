@@ -80,10 +80,10 @@ solution. The eco-enzyme is created through the process of fermentation
 of food scraps, sugar and water.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P4alp_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P4alp_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P4alp_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P4alp_2.jpg">
 </div>
 <p></p>
