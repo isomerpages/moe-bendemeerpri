@@ -48,15 +48,15 @@ National School Games (Junior Division) in 2023</p>
 <h4>Photo Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/floorball_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/floorball_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/floorball_3.jpg">
 </div>
 <p>
 <br>
