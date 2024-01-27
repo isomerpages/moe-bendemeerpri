@@ -173,19 +173,10 @@ Maker activity using the various activities from the Maker’s cart.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Comb_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/alp3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Comb_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -195,7 +186,7 @@ Maker activity using the various activities from the Maker’s cart.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rainbow_alp.jpg">
 </div>
-<p><strong><u>Staff development</u></strong>
+<p><strong><u>Staff development</u></strong> 
 <br>A school-wide design thinking training for all P5 teachers on design thinking
 protocols is carried out to equip them with the necessary skills and knowledge
 to facilitate the conduct of P5 ALP lessons.
