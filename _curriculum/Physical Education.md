@@ -36,8 +36,7 @@ these 4 chosen animals have very strong and distinct qualities.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/greeneagle.png">
 </div>
-<h4><strong>Programmes</strong></h4>
-<h4>P4 SwimSafer Programme</h4>
+<h4><strong>Programmes</strong><br><br>P4 SwimSafer Programme</h4>
 <p>Our Primary 4 students started their P4 SwimSafer Programme in Term 1
 this year.</p>
 <p>The SwimSafer Programme is conducted every Thursday, from 9.00 am to 11.30
