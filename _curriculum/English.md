@@ -14,8 +14,9 @@ mission of the English Department is to inspire the love of learning&nbsp;throug
 rich learning activities and positive role modelling. The English department
 has also embarked on Strategy-based instruction as its key approach to
 teaching EL.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/overview%20of%20lessons.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Programme_EL.jpg">
 </div>
 <h4><strong>Programmes</strong></h4>
 <h5>STELLAR (Strategies for English Language Learning and Reading)</h5>

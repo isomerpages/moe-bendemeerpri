@@ -2,27 +2,24 @@
 title: Modular CCAs
 permalink: /cca/modular/
 description: ""
+variant: tiptap
 ---
-### MODULAR CCAS
-
-#### Overall Modular Programme  
-
-![](/images/modular%20cca.jpg)
-
-![](/images/5%20(14).jpg)
-
-<p align="center">P3 students learnt basic cross stitching in the Life Skills Programme.</p> 
-
-<p align="center">P4 students learning to make simple cookies as part of their Life Skills lesson. (Photo taken before Covid-19) </p>
-
-![](/images/7%20(7).jpg)
-
-<p align="center">P5 students learning to pitch a tent as part of their Life Skills lesson in preparation for the P5 Camp. (Photo taken before Covid-19) </p>
-
-![](/images/8%20(5).jpg)
-
-<p align="center">P3 students learning about body percussion as part of their Music Enrichment Programme from instructors via Zoom sessions. </p>
-
-![](/images/9%20(5).jpg)
-
-<p align="center">P4 students learning some Malay dance moves from the instructor as part of their Dance Enrichment Programme via Zoom sessions. </p>
+<h3>Modular CCA Programme 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Modular_CCA_Overview.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Modular_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Modular_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Modular_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Modular_4.jpg">
+</div>
+<p></p>
