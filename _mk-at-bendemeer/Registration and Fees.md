@@ -2,6 +2,7 @@
 title: Registration and Fees
 permalink: /mk-at-bendemeer/registration-and-fees/
 description: ""
+variant: markdown
 ---
 ### Registration &amp; School Fees Details
 
@@ -16,7 +17,6 @@ description: ""
   
 
 **You will be contacted once there is suitable vacancy for your child.**<br>
-**Do note that for 2023 we only have K1 level.**
 
 **The monthly fee for MK**
 
@@ -33,4 +33,3 @@ If your child is a Singapore Citizen, they may qualify for financial assistance 
 
 **Kindergarten Care @ MOE Kindergaten Services**<br>
 [https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
-
