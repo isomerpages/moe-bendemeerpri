@@ -69,32 +69,32 @@ movements among team members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Wushu1" src="/images/wushu1.jpg">
 </div>
-<p>YEAH!! Second placing in the Junior Girls 1st International Broadsword
+<p style="text-align:center">YEAH!! Second placing in the Junior Girls 1st International Broadsword
 event!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="wushu2" src="/images/wushu2.jpg">
 </div>
-<p>Let me perfect this stance! Practice makes perfect!</p>
+<p style="text-align:center">Let me perfect this stance! Practice makes perfect!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="wushu3" src="/images/wushu3.jpg">
 </div>
-<p>So many different swords! We have them all in our Wushu CCA!</p>
+<p style="text-align:center">So many different swords! We have them all in our Wushu CCA!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="wushu4" src="/images/wushu4.jpg">
 </div>
-<p>“Haiiiiiiiiiiiiii!” Group Quanshu here we come!!!</p>
+<p style="text-align:center">“Haiiiiiiiiiiiiii!” Group Quanshu here we come!!!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/wushu_1.jpg">
 </div>
-<p>Our fearless 4-Duan spear competitor during his event!</p>
+<p style="text-align:center">Our fearless 4-Duan spear competitor during his event!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/wushu_2.jpg">
 </div>
-<p>Giving an energetic performance during the Deepavali concert.</p>
+<p style="text-align:center">Giving an energetic performance during the Deepavali concert.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/wushu_3.jpg">
 </div>
-<p>Wushu students wishing everyone a Happy Chinese New Year!</p>
+<p style="text-align:center">Wushu students wishing everyone a Happy Chinese New Year!</p>
