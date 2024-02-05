@@ -179,16 +179,22 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><u>Co-Advisor</u>
+<p><u>Co-Advisor</u> 
 <br>Mr Too Meng Ngee (Vice Principal Administration)</p>
 <p><u>PSG Coordination Team </u>Mr Alvin Lee (Subject Head Partnership)
 <br>Mdm Aziana Aziz (Subject Head Aesthetics &amp; PSG Coordinator)</p>
 <h4>Join us as a PSG member&nbsp;today!</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%203%20%20.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%204.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%204.jpg">
 </div>
 <p>As our school works towards strengthening engagement with parents, we
 encourage parents who are not in the Parent Support Group (PSG) to join
@@ -201,13 +207,15 @@ school life more vibrant and caring.</p>
 obtain a hardcopy form the General Office.</p>
 <h4>Programmes / Events</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%205.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%205.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%206.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%206.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%207.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our%20Partners/psg%20%207.jpg">
 </div>
 <p>There are many programmes and activities that parents can support and
 you can choose to participate and contribute based on your personal interest,
