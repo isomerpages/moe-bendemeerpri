@@ -59,12 +59,12 @@ movements among team members.</p>
 <p>1st&nbsp;International Broadsword (2nd&nbsp;position National)</p>
 <h4>Photos</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Wushu1" src="/images/wushu1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Wushu1" src="/images/wushu1.jpg">
 </div>
 <p>YEAH!! Second placing in the Junior Girls 1st International Broadsword
 event!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="wushu2" src="/images/wushu2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="wushu2" src="/images/wushu2.jpg">
 </div>
 <p>Let me perfect this stance! Practice makes perfect!</p>
 <div class="isomer-image-wrapper">
