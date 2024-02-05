@@ -25,7 +25,7 @@ by MINDEF that recognises a wide array of stakeholders’ exemplary support
 for NS, including individuals, small and medium enterprises, large companies
 and organisations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Our%20Partners/our%20partners%20awards1.jpg">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Our%20Partners/our%20partners%20awards1.jpg">
 </div>
 <p>Bendemeer Primary School was a recipient of this prestigious award on
 10 November 2022. This award affirms the continued good work that the school
