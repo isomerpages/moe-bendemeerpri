@@ -15,7 +15,8 @@ SINDA and our school will continue to deepen this collaboration.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/award_1.jpg">
 </div>
 <p>For many years, our students have been part of SINDA’s Teach Programme.
-Please click on the link to find out your child can participate. <a rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/education/teach/</a>
+Please click on the link to find out how your child can participate.
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/education/teach/</a>
 </p>
 <hr>
 <p>The National Service (NS) Advocate Award for Organisations which is part
