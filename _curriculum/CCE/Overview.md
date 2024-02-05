@@ -39,7 +39,7 @@ the respective portion of their schooling years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adaptability</strong>
+<p><strong>Adaptability</strong> 
 <br>Handle changes positively and look for opportunities in challenges</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Empathy</strong>
+<p><strong>Empathy</strong> 
 <br>Think, feel and do good for others</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,24 +172,13 @@ and recognised for their efforts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mindful_2.jpg">
 </div>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="1%20(8)" src="/images/1%20(8).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/mindful_3.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="2%20(9)" src="/images/2%20(9).jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/CCE6.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/CCE6.jpg">
 </div>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
