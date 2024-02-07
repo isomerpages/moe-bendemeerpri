@@ -42,7 +42,7 @@ external performances and competitions.</p>
 <br>2016 SYF Arts Presentation&nbsp; - Certificate of Distinction</p>
 <h4>Photos/Gallery</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/chinese_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/chinese_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
