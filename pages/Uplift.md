@@ -17,10 +17,14 @@ at four aspects of development in our students. They are:
 <br>3. Physical
 <br>4. Aesthetic</p>
 <p>For cognitive development, KidsREAD programme aims to build good reading
-habits in our lower primary students and build up their vocabulary. Heartware
-Tuition and Mendaki academic support for upper primary students provide
-platforms for these students with regards to any subject concepts they
-are unsure about and build on their readiness for the upcoming PSLE.</p>
+habits in our lower primary students and build up their vocabulary. The
+P1 and P2 Numeracy Enrichment Programme aims to boost the confidence and
+motivation of these students in Mathematics through the use of games and
+activities.</p>
+<p>For the upper primary students, Heartware Tuition and Mendaki Tuition
+Programme provide academic support for these students with regards to any
+subject concepts they are unsure about and build on their readiness for
+the upcoming PSLE.</p>
 <p>For Socio-Emotional development, NURTURE programme organised by the CDC
 aims to cultivate confidence in the students. They also learn the importance
 of effective communication and problem solving skills.</p>
@@ -49,8 +53,8 @@ CDC. Nurture is an initiative under SkillsFuture Junior which aims to provide
 learning opportunities for children and expose them to future-ready skills
 sets. The Tier 1 and 2 programmes are for Lower Primary and Middle Primary
 respectively.</p>
-<p>The Nurture Problem-Solving Module aims to develop the children’s 21st
-Century Competencies.</p>
+<p>The Nurture Communication Module aims to develop the children’s 21st Century
+Competencies.</p>
 <p>Lessons designed are interactive and activity-based. We hope to achieve
 the following learning outcomes :</p>
 <p>• Build confidence as communicators;
