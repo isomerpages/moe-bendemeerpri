@@ -18,62 +18,27 @@ at four aspects of development in our students. They are:
 <br>4. Aesthetic</p>
 <p>For cognitive development, KidsREAD programme aims to build good reading
 habits in our lower primary students and build up their vocabulary. Heartware
-Tuition for upper primary students provides a platform for the upper primary
-students with regards to any subject concepts they are unsure about and
-build on their readiness for the upcoming PSLE. For Socio-Emotional development,
-NURTURE programme organised by the CDC aims to cultivate confidence in
-the students. They also learn the importance of effective communication
-and problem solving skills. For the CARE Mentoring Programme, it aims to
-create opportunities for students to develop essential skills to meet their
-goals and take on challenge in school. At the same time, it provides a
-safe space for them to explore their strengths, developmental goals and
-forge prosocial relationships with their peers and teachers. For physical
-development, the school organized the Fun with Sports Programme. This programme
-allows students to learn self-discipline and communication skills through
-interactive games and sports activities.</p>
-<p><strong><u>Fun with Sports</u></strong>
+Tuition and Mendaki academic support for upper primary students provide
+platforms for these students with regards to any subject concepts they
+are unsure about and build on their readiness for the upcoming PSLE.</p>
+<p>For Socio-Emotional development, NURTURE programme organised by the CDC
+aims to cultivate confidence in the students. They also learn the importance
+of effective communication and problem solving skills.</p>
+<p>For physical development, the school organised the Fun with Kinball Programme.
+This programme allows students to learn self-discipline and communication
+skills through interactive activities.</p>
+<p><strong><u>Fun with Kinball</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/uplift2.jpg">
-</div>
-<p>Our lower primary students were engaged in a soccer game. Look at how
-excited they were!</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%;margin-left:65px;" height="auto" width="100%" src="/images/uplift3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/uplift_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:65px;" height="auto" width="100%" src="/images/uplift4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/uplist_2.jpg">
 </div>
-<p>
-<br>
-</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uplift_3.jpg">
+</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The boys were putting in effort to get the ball.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trying their best to score a goal.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Lastly for aesthetic development, students will participate in Artist-In-School
-that will provide them with opportunities to learn to explore the elements
-of play through image, objects, and audio visuals to represent self. At
-the same time, the students will also be onboard the Project Phoenix that
-allows students to learn English Proficiency through magic. All programmes
-aim to engage students meaningfully after school so that they will have
-a positive experience in school. Stay tuned for more updates!</p>
 <p><strong><u>Nurture Tier 1 and 2 programme</u></strong>
 </p>
 <div class="isomer-image-wrapper">
