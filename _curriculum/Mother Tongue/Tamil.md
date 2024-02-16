@@ -76,4 +76,14 @@ dancing, acting and hosting.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7366.JPG">
 </div>
 <hr>
+<h4>Useful Links</h4>
+<p>Tamil Touch-typing on Tamil99 keyboard
+<br><a href="https://www.branah.com/tamil" rel="noopener noreferrer nofollow" target="_blank">https://www.branah.com/tamil</a>
+</p>
+<p>Tamil e-dictionary website
+<br><a href="http://dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.tamilcube.com/</a>
+</p>
+<p>Tamil translation website
+<br> <a href="https://www.sgtranslatetogether.gov.sg/translate" rel="noopener noreferrer nofollow" target="_blank">https://www.sgtranslatetogether.gov.sg/translate</a>
+</p>
 <p></p>
