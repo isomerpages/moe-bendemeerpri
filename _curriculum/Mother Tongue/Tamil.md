@@ -60,18 +60,23 @@ dancing, acting and hosting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7188.JPG">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7302.JPG">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7237.JPG">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7274.JPG">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7286.JPG">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7366.JPG">
 </div>
@@ -84,6 +89,6 @@ dancing, acting and hosting.</p>
 <br><a href="http://dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.tamilcube.com/</a>
 </p>
 <p>Tamil translation website
-<br> <a href="https://www.sgtranslatetogether.gov.sg/translate" rel="noopener noreferrer nofollow" target="_blank">https://www.sgtranslatetogether.gov.sg/translate</a>
+<br><a href="https://www.sgtranslatetogether.gov.sg/translate" rel="noopener noreferrer nofollow" target="_blank">https://www.sgtranslatetogether.gov.sg/translate</a>
 </p>
 <p></p>
