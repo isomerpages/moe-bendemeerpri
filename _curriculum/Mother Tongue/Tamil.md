@@ -18,6 +18,7 @@ heritage for future generations.</p>
 and Culture through innovative and inclusive teaching methodologies.</p>
 <p>We aim to inspire pride, identity, and a sense of belonging among every
 Tamil student of Bendemeer Primary School.</p>
+<hr>
 <h4>Mother Tongue Fortnight</h4>
 <p>Mother Tongue Fortnight is a key annual event to provide an engaging environment
 for the learning of Mother Tongue Languages (MTL). A variety of activities
@@ -25,6 +26,7 @@ is organised to encourage the pupils to actively use their MTL and appreciate
 their MTL and associated culture. This year we had activities such as Traditional
 Tamil Games, Murukku making station and competitions. Competitions included
 Poetry Recitation, Story Telling, Jingles and Touch Typing.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/1%20(13).jpg">
 </div>
@@ -32,14 +34,9 @@ Poetry Recitation, Story Telling, Jingles and Touch Typing.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/2%20(14).jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/3%20(12).jpg">
 </div>
+<hr>
 <h4>Buddy Reading</h4>
 <p>Students who need help in reading will be selected for Buddy Reading Programme.
 This is conducted on a weekly basis where students meet their reading buddies
@@ -48,6 +45,7 @@ the Reading Booklet designed by the Tamil Language Department. This arrangement
 allows students to practice responsibility and empathy leading to improving
 each other's Reading skills. This is conducted during recess time on Tuesdays
 and Thursdays.</p>
+<hr>
 <h4>Deepavali Celebration @ BPS</h4>
 <p>Deepavali Celebration @ BPS was conducted by the Tamil Department successfully
 in the year 2023 with the theme, "Deepavali in Diversity". The theme focused
@@ -60,25 +58,22 @@ about an enriching Deepavali experience for our students. Deepavali Celebration
 was a great platform for our students to display their talents such as
 dancing, acting and hosting.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7188.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7188.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_7302.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7302.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7237.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7237.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7274.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7274.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7286.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7286.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7366.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7366.JPG">
 </div>
-<h4><em><u>Useful Links</u></em></h4>
-<p>Open source software- Tamil99 Keyboard free download to practice touch-typing
-at</p>
-<p>home:&nbsp;<a href="https://www.branah.com/tamil" rel="noopener noreferrer nofollow" target="_blank">https://www.branah.com/tamil</a>
-</p>
+<hr>
+<p></p>
