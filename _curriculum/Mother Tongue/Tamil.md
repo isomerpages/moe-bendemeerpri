@@ -3,7 +3,7 @@ title: Tamil
 permalink: /curriculum/mother-tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
-variant: markdown
+variant: tiptap
 ---
 <h3>TAMIL</h3>
 <div class="isomer-image-wrapper">
