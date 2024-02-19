@@ -259,7 +259,7 @@ games through the game-based learning in the class.</p>
 <p></p>
 <p><strong>Useful Links</strong>
 </p>
-<p><strong>Ministry of Education</strong>
+<p><strong>Ministry of Education</strong> 
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg</a>
 </p>
 <p><strong>Total Defence Day</strong> 
