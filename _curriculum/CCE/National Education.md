@@ -80,9 +80,8 @@ generation.</p>
 </p>
 <p><strong><u>Total Defence Day Commemoration (TDD) 2024 @BPS</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TD40_Logo_small.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TDD_2024.jpg">
 </div>
 <p>Bendemeer Primary School commemorated Total Defence Day (TDD) in February
 2024. 2024 marks 40 years of Total Defence in Singapore, since it was first
