@@ -8,11 +8,10 @@ variant: tiptap
 <h3><strong>Prefects’ Investiture - Honouring Our Leaders</strong></h3>
 <p>On 20 February 2024, Bendemeer Primary School held our Prefects’ Investiture
 Ceremony, celebrating the leadership journey of our P3 to P6 prefects and
-the Executive Committee (EXCO) prefects for 2024. Embracing the theme ‘Shaping
-Leaders through Good Habits', the ceremony emphasised our dedication to
-fostering leadership through positive daily behaviours and the embodiment
-of our ASPIRE (Adaptability, Self-discipline, Passion, Integrity, Resilience,
-Empathy) values.</p>
+the Executive Committee (EXCO) prefects for 2024. Embracing the theme <strong>‘Shaping Leaders through Good Habits'</strong>,
+the ceremony emphasised our dedication to fostering leadership through
+positive daily behaviours and the embodiment of our ASPIRE (Adaptability,
+Self-discipline, Passion, Integrity, Resilience, Empathy) values.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/investiture_2.jpg">
