@@ -1,0 +1,6 @@
+collections:
+  indian-dance:
+    output: true
+    order:
+      - Overview.md
+      - Public Performances.md

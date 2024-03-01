@@ -1,0 +1,74 @@
+logo: /images/school logo2.png
+links:
+  - title: About Us
+    url: /about-us/overview
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principal-message
+      - title: School Information
+        url: /about-us/School-Information/overview
+      - title: Our Achievements
+        url: /school-information/our-achievements/2023-cca-awards/
+      - title: The Bendemeer Experience
+        url: /about-us/the-bendemeer-experience
+      - title: Virtual Tour of BPS
+        url: /about-us/virtual-tour-of-bps
+      - title: Aspire Newsletter
+        url: /about-us/aspire-newsletter
+  - title: Our People
+    url: /our-people/exco
+    sublinks:
+      - title: Executive Committee (EXCO)
+        url: /our-people/exco
+      - title: Teaching Staff
+        url: /our-people/teaching-staff/level-managers
+      - title: Non Teaching Staff
+        url: /our-people/non-teaching-staff
+      - title: School Advisory Committee SAC
+        url: /our-people/sac
+      - title: For Parents
+        url: /our-people/for-parents
+      - title: School Mascot
+        url: /our-people/school-mascot/
+  - title: Curriculum
+    url: /curriculum/overview
+    sublinks:
+      - title: English
+        url: /curriculum/english
+      - title: Mother Tongue
+        url: /curriculum/Mother-Tongue/overview
+      - title: Mathematics
+        url: /curriculum/mathematics
+      - title: Science
+        url: /curriculum/science
+      - title: Aesthetics
+        url: /curriculum/aesthetics
+      - title: CCE
+        url: /curriculum/CCE/overview
+      - title: Health Education
+        url: /curriculum/health-education
+      - title: ICT
+        url: /curriculum/ict/overview
+      - title: Pupil Management
+        url: /curriculum/pupil-management/overview
+      - title: Physical Education
+        url: /curriculum/physical-education
+      - title: School Library
+        url: /curriculum/School-Library/overview
+  - title: Co-Curriculum
+    url: /co-curriculum
+    sublinks:
+      - title: ALP
+        url: /alp/overview
+      - title: CCA
+        url: /cca/overview
+      - title: IGNITE
+        url: /ignite/
+      - title: UPLIFT
+        url: /uplift/
+  - title: Links
+    collection: links
+  - title: Our Partners
+    collection: our-partners
+  - title: MK @ Bendemeer
+    collection: mk-at-bendemeer

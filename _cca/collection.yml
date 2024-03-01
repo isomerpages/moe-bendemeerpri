@@ -1,0 +1,19 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Overview.md
+      - Modular CCAs.md
+      - Niche CCAs/.keep
+      - Niche CCAs/Overview.md
+      - Niche CCAs/Concert Band.md
+      - Niche CCAs/Chinese Dance.md
+      - Niche CCAs/Malay Dance.md
+      - Niche CCAs/Indian Dance.md
+      - Niche CCAs/Sepak Takraw.md
+      - Niche CCAs/Rope Skipping.md
+      - Niche CCAs/Wushu.md
+      - Niche CCAs/Floorball.md
+      - Niche CCAs/Track and Field.md
+      - Niche CCAs/Art Club.md
+      - Niche CCAs/Media & Environment Club.md

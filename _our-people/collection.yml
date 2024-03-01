@@ -1,0 +1,19 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Executive Committee (EXCO).md
+      - Teaching Staff/.keep
+      - Teaching Staff/Level Managers & Coordinators.md
+      - Teaching Staff/Primary 1 Teachers.md
+      - Teaching Staff/Primary 2 Teachers.md
+      - Teaching Staff/Primary 3 Teachers.md
+      - Teaching Staff/Primary 4 Teachers.md
+      - Teaching Staff/Primary 5 Teachers.md
+      - Teaching Staff/Primary 6 Teachers.md
+      - Teaching Staff/Mother Tongue Teachers.md
+      - Teaching Staff/Allied Educators (T&L).md
+      - Non Teaching Staff.md
+      - School Advisory Committee (SAC).md
+      - For Parents.md
+      - School Mascot.md
