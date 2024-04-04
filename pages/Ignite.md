@@ -50,7 +50,7 @@ are motivated to learn in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_4.jpg">
 </div>
-<p>Students are all smiles as they learnt the basics of speaking Japanese.</p>
+<p style="text-align: center;">Students are all smiles as they learnt the basics of speaking Japanese.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_5.jpg">
