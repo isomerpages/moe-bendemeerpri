@@ -36,13 +36,12 @@ are motivated to learn in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_1.jpg">
 </div>
-<p>Fashion Design is one of the workshops offered to our students.</p>
+<p></p><center>Fashion Design is one of the workshops offered to our students.<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_2.jpg">
 </div>
-<p>Students learnt nifty football skills from an FAS coach and students from
-Bendemeer Secondary School.</p>
+<p>Students learnt nifty football skills from an FAS coach and students from Bendemeer Secondary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_3.jpg">
 </div>
@@ -80,4 +79,4 @@ guidance of a Football Coach from FAS.</p>
 </div>
 <p>Some of our students got a rare musical treat from the SAJC concert band.
 They even had an opportunity to be able to play some of the instruments.</p>
-<p></p>
+<p></p></center>
