@@ -29,7 +29,7 @@ variant: tiptap
 <br>Mr Thomas Gan Kok Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_karin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_karin@moe.edu.sg</a>
+<p><a href="mailto:lee_karin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_karin@moe.edu.sg</a> 
 <br><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
 </p>
 </td>
@@ -43,8 +43,8 @@ variant: tiptap
 <br>Mdm Siti Aisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalashobini_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalashobini_chandrasaharan@moe.edu.sg</a>
-<br><a href="mailto:siti_aisha_juraimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisha_juraimi@moe.edu.sg</a>
+<p><a href="mailto:kalashobini_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalashobini_chandrasaharan@moe.edu.sg</a> 
+<br><a href="mailto:siti_aisha_juraimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisha_juraimi@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -58,8 +58,8 @@ variant: tiptap
 <br>Mdm Teoh Hai Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kanageswari_ravindran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanageswari_ravindran@moe.edu.sg</a>
-<br><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_hai_wei@moe.edu.sg</a>
+<p><a href="mailto:kanageswari_ravindran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanageswari_ravindran@moe.edu.sg</a> 
+<br><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_hai_wei@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -73,7 +73,7 @@ variant: tiptap
 <br>Mdm Nora Ardilla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_shang_wei_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shang_wei_dorothy@moe.edu.sg</a>
+<p><a href="mailto:ho_shang_wei_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shang_wei_dorothy@moe.edu.sg</a> 
 <br><a href="mailto:nora_ardila_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ardila_azman@moe.edu.sg</a>
 </p>
 </td>
@@ -87,8 +87,8 @@ variant: tiptap
 <br>Ms Sulasteri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_kam_seng_tommy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kam_seng_tommy@moe.edu.sg</a>
-<br><a href="mailto:sulasteri_mohammad_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulasteri_mohammad_sidek@moe.edu.sg</a>
+<p><a href="mailto:ho_kam_seng_tommy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kam_seng_tommy@moe.edu.sg</a> 
+<br><a href="mailto:sulasteri_mohammad_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulasteri_mohammad_sidek@moe.edu.sg</a> 
 <br>
 </p>
 </td>
