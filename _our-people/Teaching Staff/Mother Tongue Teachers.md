@@ -20,15 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Kwang Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_kwang_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kwang_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Xu Yuanna</p>
 </td>
 <td rowspan="1" colspan="1">
