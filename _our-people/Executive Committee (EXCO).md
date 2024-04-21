@@ -80,19 +80,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yeo Kwang Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_kwang_yee@moe.edu" rel="noopener noreferrer nofollow" target="_blank">yeo_kwang_yee@moe.edu</a>.s
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Information Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
