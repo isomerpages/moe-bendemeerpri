@@ -29,7 +29,7 @@ variant: tiptap
 <br>Mdm Amnah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessintha_sasayiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessintha_sasayiah@moe.edu.sg</a>
+<p><a href="mailto:jessintha_sasayiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessintha_sasayiah@moe.edu.sg</a> 
 <br><a href="mailto:amnah_jantan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amnah_jantan@moe.edu.sg</a>
 </p>
 </td>
@@ -43,8 +43,8 @@ variant: tiptap
 <br>Mdm An Qinglin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maha_letchimi_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maha_letchimi_krishnasamy@moe.edu.sg</a>
-<br><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a>
+<p><a href="mailto:maha_letchimi_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maha_letchimi_krishnasamy@moe.edu.sg</a> 
+<br><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -60,8 +60,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norherliza_ab_rahim@moe.edu.sg</a>
-<br><a href="mailto:ngai_weijie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngai_weijie@moe.edu.sg</a>
+<p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norherliza_ab_rahim@moe.edu.sg</a> 
+<br><a href="mailto:ngai_weijie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngai_weijie@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -78,7 +78,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_zongyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_zongyu@moe.edu.sg</a> 
-<br><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a>
+<br><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -92,7 +92,7 @@ variant: tiptap
 <br>Mr Lim Dali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwei_seng_poh@moe.edu.sg</a>
+<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwei_seng_poh@moe.edu.sg</a> 
 <br><a href="mailto:lim_dali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_dali@moe.edu.sg</a>
 </p>
 </td>
@@ -106,8 +106,8 @@ variant: tiptap
 <br>Mdm Lam Shuzhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kow_mei_lin_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kow_mei_lin_stella@moe.edu.sg</a>
-<br><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a>
+<p><a href="mailto:kow_mei_lin_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kow_mei_lin_stella@moe.edu.sg</a> 
+<br><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -122,9 +122,9 @@ variant: tiptap
 <br>Mdm Chua Cheh Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:annabelle_ananthi_clemant@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_ananthi_clemant@moe.edu.sg</a>
-<br><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a>
-<br><a href="mailto:chua_cheh_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_cheh_lee@moe.edu.sg</a>
+<p><a href="mailto:annabelle_ananthi_clemant@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_ananthi_clemant@moe.edu.sg</a> 
+<br><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a> 
+<br><a href="mailto:chua_cheh_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_cheh_lee@moe.edu.sg</a> 
 <br>
 </p>
 </td>
