@@ -27,11 +27,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lee Karin
 <br>Mr Thomas Gan Kok Sim</p>
+<p>Ms Fiona PraptaUtam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_karin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_karin@moe.edu.sg</a> 
 <br><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
 </p>
+<p>fiona_prapta_utama@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -55,11 +57,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kanageswari
-<br>Mdm Teoh Hai Wei</p>
+<br>Mdm Ding Xue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kanageswari_ravindran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanageswari_ravindran@moe.edu.sg</a> 
-<br><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_hai_wei@moe.edu.sg</a> 
+<br><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_xue@moe.edu.sg</a> 
 <br>
 </p>
 </td>
