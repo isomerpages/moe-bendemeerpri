@@ -39,13 +39,13 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Sheau Horng
-<br>Mr Jerald Tan</p>
+<p>Mr Jerald Tan</p>
+<p>Ms Chia Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_sheau_horng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_sheau_horng@moe.edu.sg</a> 
-<br><a href="mailto:tan_sheng_yang_jerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sheng_yang_jerald@moe.edu.sg</a>
+<p><a href="mailto:tan_sheng_yang_jerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sheng_yang_jerald@moe.edu.sg</a>
 </p>
+<p>chia_jia_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -101,11 +101,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Azimi
 <br>Mdm Meenatchi</p>
+<p>Mdm Cherrine ONg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azimi_b_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azimi_b_ahmad@moe.edu.sg</a> 
 <br><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a>
 </p>
+<p>cherrie_ong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
