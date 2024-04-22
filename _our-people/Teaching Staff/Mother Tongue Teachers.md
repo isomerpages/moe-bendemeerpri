@@ -117,6 +117,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Gao Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gao_xin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Zhi Qiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_zhi_qiang@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Tamil</h5>
