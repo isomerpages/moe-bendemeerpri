@@ -18,7 +18,7 @@ variant: tiptap
 <br>Ms Xu Yuanna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a>
+<p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a> 
 <br><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
 </p>
 <p></p>
