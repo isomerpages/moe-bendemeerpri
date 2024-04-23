@@ -67,6 +67,7 @@ Visitor Center. This excursion provided valuable insights into water conservatio
 and purification, further enriching our understanding of environmental
 sustainability.</p>
 <p></p>
+<p></p>
 <h4>Earth Day 2024 - Planet vs. Plastics</h4>
 <p>At Bendemeer Primary School, Earth Day is a celebration of our commitment
 to the planet and a reminder of our responsibility to protect it. This
