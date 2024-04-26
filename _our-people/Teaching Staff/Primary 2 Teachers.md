@@ -27,13 +27,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Izyan Bte Wahid
 <br>Ms Wong Yee Yee</p>
-<p>Ms Wang Yuan Yuan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:izyan_wahid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izyan_wahid@moe.edu.sg</a> 
 <br><a href="mailto:wong_yee_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yee_yee@moe.edu.sg</a>
 </p>
-<p>wang_yuan_yuan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
