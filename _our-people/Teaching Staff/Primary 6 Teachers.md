@@ -109,8 +109,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kow_mei_lin_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kow_mei_lin_stella@moe.edu.sg</a>
 </p>
-<p>leon_sue_ning@moe.edu.sg
-<br><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a> 
+<p><a href="mailto:leong_sue_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_sue_ning@moe.edu.sg</a>
+</p>
+<p><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a> 
 <br>
 </p>
 </td>

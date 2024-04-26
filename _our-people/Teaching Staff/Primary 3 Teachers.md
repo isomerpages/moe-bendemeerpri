@@ -27,13 +27,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lee Karin
 <br>Mr Thomas Gan Kok Sim</p>
-<p>Ms Fiona PraptaUtam</p>
+<p>Ms Fiona Prapta Utama</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_karin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_karin@moe.edu.sg</a> 
 <br><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
 </p>
-<p>fiona_prapta_utama@moe.edu.sg</p>
+<p><a href="mailto:fiona_prapta_utama@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fiona_prapta_utama@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,11 +103,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lee Zheng Wei
 <br>Mdm Parameswari Malarvannan (Mrs Vannan)</p>
+<p>Ms Royce Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_zheng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zheng_wei@moe.edu.sg</a>
 </p>
 <p><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_malarvannan@moe.edu.sg</a>
+</p>
+<p><a href="mailto:royce_yap_tiong_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">royce_yap_tiong_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
