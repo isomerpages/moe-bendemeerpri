@@ -96,22 +96,25 @@ to enhance the learning experience</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_5.jpg">
 </div>
 <h5>Hari Raya Puasa Celebrations</h5>
-<p>The much-awaited Hari Raya Puasa celebrations is one of the festive occasions
-celebrated in Bendemeer Primary School. The celebrations aim to create
-awareness of the festival celebrated by the Muslim community in Singapore.
-It is also an opportunity to share with the school's multi-racial community,
-the significance of the culture and practices during the celebrations.</p>
+<p>One of the festive occasions celebrated in Bendemeer Primary is the Hari
+Raya Puasa Concert. This celebration aims to create awareness of the festival
+celebrated by the Muslim community in Singapore and share the joyous occasion
+with our muti-racial school community. This year, we saw students from
+BPS showcasing their talents as they sang and danced to popular Hari Raya
+songs. Our teachers were not left out as they participated in the ketupat
+arrangement game and sing-along session.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/raya1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/raya_2.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_8.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Raya_3.png">
 </div>
 <h4>Resources and Useful Links</h4>
 <p>Siri Bacaan Nabil Nabilah (Reader Series for P1- P6)
