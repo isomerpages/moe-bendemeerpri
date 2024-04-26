@@ -29,7 +29,7 @@ variant: tiptap
 <br>Ms Jennie Hon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yoo_pei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yoo_pei_li@moe.edu.sg</a>
+<p><a href="mailto:yoo_pei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yoo_pei_li@moe.edu.sg</a> 
 <br><a href="mailto:hon_soo_har_jennie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hon_soo_har_jennie@moe.edu.sg</a>
 </p>
 </td>
@@ -43,7 +43,7 @@ variant: tiptap
 <br>Mr Sum Tuck Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seetha_kumari_jeet_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetha_kumari_jeet_singh@moe.edu.sg</a>
+<p><a href="mailto:seetha_kumari_jeet_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetha_kumari_jeet_singh@moe.edu.sg</a> 
 <br><a href="mailto:sum_tuck_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sum_tuck_mun@moe.edu.sg</a>
 </p>
 </td>
@@ -57,7 +57,7 @@ variant: tiptap
 <br>Mr Lionel Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vani_thanasekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vani_thanasekar@moe.edu.sg</a>
+<p><a href="mailto:vani_thanasekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vani_thanasekar@moe.edu.sg</a> 
 <br><a href="mailto:poh_leong_aik_lionel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_leong_aik_lionel@moe.edu.sg</a>
 </p>
 </td>
@@ -71,7 +71,7 @@ variant: tiptap
 <br>Mdm Chua Xingrou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_sing_ying_geraldine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_sing_ying_geraldine@moe.edu.sg</a>
+<p><a href="mailto:seow_sing_ying_geraldine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_sing_ying_geraldine@moe.edu.sg</a> 
 <br><a href="mailto:chua_xingrou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xingrou@moe.edu.sg</a>
 </p>
 </td>
@@ -85,8 +85,8 @@ variant: tiptap
 <br>Mrs Joyce Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jun_ming_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jun_ming_alvin@moe.edu.sg</a>
-<br><a href="mailto:joyce_lim_joon_hen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_lim_joon_hen@moe.edu.sg</a>
+<p><a href="mailto:lee_jun_ming_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jun_ming_alvin@moe.edu.sg</a> 
+<br><a href="mailto:joyce_lim_joon_hen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_lim_joon_hen@moe.edu.sg</a> 
 <br>
 </p>
 </td>
