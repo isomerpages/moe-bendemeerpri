@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 EMPATHY</strong> 
+<p><strong>2 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,7 +468,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 EMPATHY</strong> 
+<p><strong>4 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -598,393 +598,136 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><strong>5 ADAPTABILITY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HU YIHE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KEK XUAN TONG JAMIE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PALANIVELU LAUKSHANA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 ADAPTABILITY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>HAMANA YUITO</p>
+</li>
+<li>
+<p>INSIYAH HOZEFA SHAKIR</p>
+</li>
+<li>
+<p>ZHANG QISHAN</p>
+</li>
+<li>
+<p>SHOFIYYATUS INAYAH BINTE SUHAINI</p>
+</li>
+<li>
+<p>NATHANAEL TYLER ANTHONY</p>
+</li>
+<li>
+<p>WINT WAH SHWE YEE</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p><strong>5 EMPATHY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE YAO CHANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RAHUL KONTRINER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KANG QUAY YIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 ADAPTABILITY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>SKYLER WANG SHENGWEI</p>
+</li>
+<li>
+<p>HAGAN JACK RYAN</p>
+</li>
+<li>
+<p>GAO ZHIYI</p>
+</li>
+<li>
+<p>AXELLE NADINE GOH</p>
+</li>
+<li>
+<p>AAHANA SAI MUTHURAJA</p>
+</li>
+<li>
+<p>SHAJAKHAN MOHAMED FAADIL IMTHIYAZ</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><strong>5 INTEGRITY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>QIU ZIYAO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHARLIZE ER SI HUI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FINESSE OTTILIA RIYADI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 EMPATHY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>DAVID ZACHARY FUENTES ROBLES</p>
+</li>
+<li>
+<p>JABIRAH D/O ABDUL RAHIM</p>
+</li>
+<li>
+<p>LIEW KAH HO</p>
+</li>
+<li>
+<p>THASSIA TAN TENG YAN</p>
+</li>
+<li>
+<p>TAY YU YOU JAYDEN</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p><strong>5 PASSION</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HTOO HTOO AUNG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KWA JIN XUAN APRIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHAN WAN XUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 EMPATHY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>BALILIA ERICA MONTAG</p>
+</li>
+<li>
+<p>MUHAMMAD AKID QUSHAIRI BIN ABDULLAH</p>
+</li>
+<li>
+<p>TAN XIN TING</p>
+</li>
+<li>
+<p>DAANIA KIERAN SANDHU D/O HARMINDER SINGH</p>
+</li>
+<li>
+<p>DANISH ANAQI BIN MUHAMMAD NAZREEN</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KHO YI XUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ASHLEE NG RAE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LI MINYU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LEE JIE HAO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICTORIA JAVILLONAR CHONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JOLIE SEAH RUI XIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KRESHA D/O KRISHNAMOORTHY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUR DIYANAH BINTE SAZALI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SANDILYAN SARKKUNAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SOFIA SABRINA BINTE JEFRI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YEO XIN TONG NATASA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHAHANA PARVEEN BINTE BATHARUL ISLAM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MONIRUZZAMAN MISHAIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ABDULLAH BIN HAROON</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DESIREE CHUANG ANH DUONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MATT ANDREW LAWRENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIU YONG FENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ARI NUR FIRZANAH BINTE MOHAMED FIRDAUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAHEEMA BINTE GULAM KATHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>32</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEENATCHI SUNDARAM KHUSHWANT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>33</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KAVIYARASAN LAKSHIKA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>34</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ANIQ NAZRIL BIN ABU BAKAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>35</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LOOI JIN XIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 SELF-DISCIPLINE</p>
+<p><strong>5 RESILIENCE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>FYNN LOW</p>
+</li>
+<li>
+<p>NEO RUI XIN ZOWIE</p>
+</li>
+<li>
+<p>SZE TING YING</p>
+</li>
+<li>
+<p>TEO JASMINE ZI YI</p>
+</li>
+<li>
+<p>AFSHEEN SHAZANA</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
@@ -1000,404 +743,174 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><strong>6 ADAPTABILITY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ATHARVA SAXENA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHANG DANIEL HAJOON</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TIFFANY CHUA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>GISELLE YAP GIUN SIM</p>
+</li>
+<li>
+<p>HU YIHE</p>
+</li>
+<li>
+<p>M JUSTIN TAN BENG SOON</p>
+</li>
+<li>
+<p>SANDILYAN SARKKUNAN</p>
+</li>
+<li>
+<p>TAM HIU YAU HAYLEY</p>
+</li>
+<li>
+<p>SUN LANXI</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p><strong>6 EMPATHY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BASKAR SOMESH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CIIN SIAN BAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN YU XIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>ARNAV KALYANAPURAM BHARATHAN</p>
+</li>
+<li>
+<p>KHEW KAI EN, CALEB</p>
+</li>
+<li>
+<p>KWOK ZHI YING, KAITLYN</p>
+</li>
+<li>
+<p>LIM KAI TENG</p>
+</li>
+<li>
+<p>TYLUS LOW TIANYIN</p>
+</li>
+<li>
+<p>CHENG FU YING</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><strong>6 GRACIOUS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VEERAKUMAR ELLORA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 ADAPTABILITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JORDAN KOH DONG SIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>DAVID MERLIN VICTOR MERCY EVANGELINE</p>
+</li>
+<li>
+<p>KAVIYARASAN LAKSHIKA</p>
+</li>
+<li>
+<p>ABU DZAR BIN ABDUL HAMEED</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p><strong>6 INTEGRITY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LANG YICHEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAM LIXUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIU HUAXUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>TOH SHEE THIONG</p>
+</li>
+<li>
+<p>LOW HUI XUAN</p>
+</li>
+<li>
+<p>HU XINGMENG</p>
+</li>
+<li>
+<p>LEE JIE HAO</p>
+</li>
+<li>
+<p>ZIQRY HAZIQ BIN ZULKIFLI</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p><strong>6 PASSION</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NEMSHA SIZALI MAGAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHELLADURAI ARUMUGASAIVELAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CAO HONG AN FIONA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 EMPATHY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>CHEN YILUN</p>
+</li>
+<li>
+<p>ISAAC ONG KAI JIE</p>
+</li>
+<li>
+<p>KRESHA D/O KRISHNAMOORTHY</p>
+</li>
+<li>
+<p>TAN YING HAN</p>
+</li>
+<li>
+<p>NUR DIYANAH BINTE SAZALI</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p><strong>6 RESILIENCE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG ZHI TING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MURUGESAN ARJUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KEE YONG AO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 INTEGRITY</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>HAIFA ALFIYAH BINTE MUSTAPAH</p>
+</li>
+<li>
+<p>DESIREE CHUANG ANH DUONG</p>
+</li>
+<li>
+<p>MATT ANDREW LAWRENCE</p>
+</li>
+<li>
+<p>JOSHY DHIVEK</p>
+</li>
+<li>
+<p>MOHD ZYHAN BIN MOHD GHAZALI</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p><strong>6 SELF-DISCIPLINE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISHIT GEDAM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AKMIL MUIZ ELFARHAN BIN MARTHAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHAZANA ALISHA BINTE SABIUDEEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 INTEGRITY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GOH YA LING DARICE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MAHENDRAN KIRAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MANSIMRAN ANISHA KAUR D/O GURVINDER SINGH SIDHU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YEE JIA HUI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WANG JIAHONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ZAVIER SIEW WAI YIP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 PASSION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ARISHA SUFIA AMBER BINTE MOHAMED SUFI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AWRA NURQASEH BINTE ABU BAKAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KUMAR NIRESH BABU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIM KAI LUN DYLAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GBIJAYA SHERCHAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>32</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AAYUSHI TAMANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>33</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOK ZI LIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>34</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NATALIA ANDRYANA NONIS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>35</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ARIANNA ALEESHA BINTE ASHIKIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 SELF-DISCIPLINE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>36</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BEVERLYN CHUA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 SELF-DISCIPLINE</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>LEE XIN EN JOVELLE</p>
+</li>
+<li>
+<p>ARI NUR FIRZANAH BINTE MOHAMED FIRDAUS</p>
+</li>
+<li>
+<p>SOFEA ADRIANNA BINTE MOHAMMAD AIDIL</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
