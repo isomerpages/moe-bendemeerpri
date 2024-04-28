@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h2>Academic Awards</h2>
 <h4>Student Recognition Day</h4>
-<p><strong>Star Students for Term 1 - Primary 1</strong>
-</p>
+<blockquote>
+<h4><strong>Star Students for Term 1 - Primary 1</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
@@ -131,8 +132,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Star Students for Term 1 - Primary 2</strong>
-</p>
+<blockquote>
+<h4><strong>Star Students for Term 1 - Primary 2</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
@@ -277,8 +279,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Star Students for Term 1 - Primary 3</strong>
-</p>
+<blockquote>
+<h4><strong>Star Students for Term 1 - Primary 3</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
@@ -429,8 +432,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Star Students for Term 1 - Primary 4</strong>
-</p>
+<blockquote>
+<h4><strong>Star Students for Term 1 - Primary 4</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
@@ -587,8 +591,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Star Students for Term 1 - Primary 5</strong>
-</p>
+<blockquote>
+<h4><strong>Star Students for Term 1 - Primary 5</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
@@ -732,8 +737,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Star Students for Term 1 - Primary 6</strong>
-</p>
+<blockquote>
+<h4><strong>Star Students for Term 1 - Primary 6</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
