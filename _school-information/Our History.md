@@ -119,7 +119,8 @@ the best learning experience in their six years of primary school and to
 build their self-confidence and leadership qualities as they develop into
 young adults who will contribute to the nation.</p>
 <p>The current school principal is Mrs Tan-Lim Kim Gek.</p>
-<p>The school celebrated its 45 Anniversary in 2023. &nbsp;
+<p>The school <strong><u>celebrated</u></strong> its 45 Anniversary in 2023.
+&nbsp;
 <br>For more information, please click <a href="https://www.bendemeerpri.moe.edu.sg/about-us/permalink/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>The new Bendemeer Primary School crest</strong> (Refer above)</p>
 <p>The new school crest will hereon serve the new Bendemeer Primary School
