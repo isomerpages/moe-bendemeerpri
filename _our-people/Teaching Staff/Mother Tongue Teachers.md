@@ -122,7 +122,8 @@ variant: tiptap
 <p>Mdm Gao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gao_xin@moe.edu.sg</p>
+<p><a href="mailto:gao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xin@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +131,8 @@ variant: tiptap
 <p>Mr Tay Zhi Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_zhi_qiang@moe.edu.sg</p>
+<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_zhi_qiang@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
@@ -157,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Parameswari Malarvannan (Mrs Vannan)</p>
+<p>Mdm Parameswari (Mrs Vannan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_malarvannan@moe.edu.sg</a>
