@@ -18,8 +18,8 @@ variant: tiptap
 <br>Ms Xu Yuanna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a> 
-<br><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
+<p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a>
+<br> <a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -31,7 +31,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Olivia Pan
 <br>Mdm Farhanah</p>
-<p>Mr Praven</p>
+<p>Mr Praven Raj Sukumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pan_si_yong_olivia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pan_si_yong_olivia@moe.edu.sg</a> 
