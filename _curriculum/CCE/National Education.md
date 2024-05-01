@@ -101,7 +101,7 @@ their learning in their new BPS Explorer booklets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TDD_pic_2024.jpg">
 </div>
-<h4>International Friendship Day (IFD) 2023 @ BPS</h4>
+<h4>International Friendship Day (IFD) 2024 @ BPS</h4>
 <p>International cooperation remains key in our complex world. Asia is the
 world's fastest-growing region, and Singapore continues to facilitate closer
 economic, political, social, and cultural cooperation within ASEAN and
@@ -112,19 +112,26 @@ the spirit of friendship and collaboration. In addition, our older students
 can deepen their understanding of Singapore's realities as a small state
 and appreciate how we can safeguard our national interest and have much
 to contribute to efforts at international cooperation. Therefore, celebrating
-“Singapore in Asia” as the theme for 2023.</p>
-<p>The focus for this year was Indonesia. The commemoration started off with
-a presentation by our international students on Indonesia and its connectivity
+“Singapore in Asia” as the theme for 2024.</p>
+<p>The focus for this year was Lao PDR. The commemoration started off with
+a presentation by our international students on Lao PDR and its connectivity
 to Singapore. The students were introduced to the food, traditions, costumes,
-and customs of Indonesia. The students had a hands-on experience in making
-the Bebean (Indonesian) kite using recycled materials with the guidance
-of the NE Champs and International Students.</p>
-<p>There was also collaboration with the Prefectorial Board in promoting
-the spirit of friendship amongst the students, Friendship@BPS came about
-as such. Students wrote messages of friendship to each other.&nbsp;</p>
+and customs of Lao PDR. The students had a photo booth that expressed “Friendship”
+in different ASEAN languages. The students were also involved in differentiated
+activities at the World Map where the ASEAN countries, their capitals and
+flags were of focus. This was a collaboration between the NE Champs, International
+Students, and the prefects.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IFD_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IFD_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFD_3.jpg">
 </div>
 <h4>Racial Harmony Day (RHD) 2023 @ BPS</h4>
 <p>The theme for this year was Multicultural Mosaic. Just like a mosaic,
@@ -238,17 +245,15 @@ to connect what they learn with the real-life context. &nbsp;</p>
 <p></p>
 <h4>Integration of International Students @BPS</h4>
 <p>The international students have a 3-year programme from P4 to P6 where
-they would go for learning journeys to Little India, Geylang Serai and
-Chinatown. Back in 2021 and 2022, virtual tours were carried out to these
-places. They would learn more about the different races and cultures through
-this authentic experiential learning. They are also involved in the NE
-commemorative events where they collaborate with the NE Champs and carry
-out activities for the rest. Rich learning takes place through this process.
-The P1 to P3 international students learn more about Singapore’s old school
-games through the game-based learning in the class.</p>
-<p></p>
+they would go for learning journeys to Little India, Geylang Serai/Kampong
+Glam and Chinatown. They would learn more about the different races and
+cultures through this authentic experiential learning. They are also involved
+in the NE commemorative events where they collaborate with the NE Champs
+and carry out activities for the rest. Rich learning takes place through
+this process. The P1 to P3 international students learn more about Singapore’s
+old school games through the game-based learning in the class.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IS_LJ.jpg">
 </div>
 <p><strong><em>Some artwork done by our P1 and P3 international students through the virtual learning journeys:</em></strong>
 </p>
