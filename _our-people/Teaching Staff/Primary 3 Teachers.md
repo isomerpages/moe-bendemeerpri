@@ -102,13 +102,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Zheng Wei
-<br>Mdm Parameswari Malarvannan (Mrs Vannan)</p>
-<p>Ms Royce Yap</p>
+<br>Mdm Parameswari
+<br>(Mrs Vannan)
+<br>Ms Royce Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_zheng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zheng_wei@moe.edu.sg</a>
-</p>
-<p><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_malarvannan@moe.edu.sg</a>
+<p><a href="mailto:lee_zheng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zheng_wei@moe.edu.s</a>
+<br><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_malarvannan@moe.edu.sg</a>
 </p>
 <p><a href="mailto:royce_yap_tiong_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">royce_yap_tiong_heng@moe.edu.sg</a>
 </p>
