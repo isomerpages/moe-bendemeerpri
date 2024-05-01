@@ -1,10 +1,11 @@
 ---
-title: 2023 CCA Awards
+title: CCA Awards
 permalink: /school-information/our-achievements/2023-cca-awards/
 description: ""
 third_nav_title: Our Achievements
+variant: markdown
 ---
-## 2023 CCA Awards
+## CCA Awards
 
 **National School Games - 
 Sepak Takraw 
@@ -26,7 +27,7 @@ Senior Team (Full Colours)**
 | 11     | MUHAMMAD HAIRUL NIZAM BIN NOUR MUHAMMAD ALLEY     | 5 SELF-DISCIPLINE     |
 | 12     | TAN HONG MING    | 5 INTEGRITY     |
 
-**National Floorball Championship 2023        
+**National Floorball Championship        
 Senior Boys 2nd Round (Final 16)**
 
 | S/N | Name of Student | Class |
@@ -41,7 +42,7 @@ Senior Boys 2nd Round (Final 16)**
 | 8     | LIM YU XIANG REBEN  |6 RESILIENCE   |
 | 9     | AFSAN S/O AHAMED SHERIFF     | 6 RESILIENCE     |
 
-**National  Wushu Championships 2023**
+**National  Wushu Championships **
 
 Junior Girls 1st International Broadsword        
 (2nd) 
@@ -109,7 +110,7 @@ Junior Girls Group Quanshu
 
 
 
-**National Rope Skipping Championships 2023**
+**National Rope Skipping Championships **
 
 Senior Boys - Double Dutch (3rd)
 
@@ -209,7 +210,7 @@ Junior Girls - Speed Relay (7th)
 | 3     |Low Hui Xuan    | 5 INTEGRITY|
 | 4     |Swa Jia Ni   | 5 RESILIENCE |
 
-**National Track and Field Championship 2023**
+**National Track and Field Championship**
 
 
 Junior 1 Girls Scissors Jump (3rd)
