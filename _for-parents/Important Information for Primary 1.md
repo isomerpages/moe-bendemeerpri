@@ -8,5 +8,4 @@ variant: markdown
 
 Dear Parents of Primary 1, 
 
-Bendemeer Primary extends a warm welcome to all of you! 
-
+Bendemeer Primary extends a warm welcome to all of you!
