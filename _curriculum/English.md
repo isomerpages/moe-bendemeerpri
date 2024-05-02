@@ -299,7 +299,6 @@ during the lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Book_Character.jpg">
 </div>
-<p>Students and teachers all caught up in the fun of dressing up as characters.</p>
 <p></p>
 <h5><strong><u>Speak Good English at BPS</u></strong></h5>
 <p>The school’s very own Good English speaking mascot- Grammar Grandma makes
