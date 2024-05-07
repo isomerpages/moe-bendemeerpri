@@ -89,11 +89,6 @@ via SLS, selected students are given the opportunities to showcase their
 talents for school events such as National Day and Teacher’s Day. Through
 this opportunity, students are able to boost their confidence and take
 ownership of their learning through the performances.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dancerandpianist.jpg">
-</div>
-<p>Our professional dancer and budding pianist who were selected from the
-Bendemeer's Got Talent programme to perform for Teachers' Day</p>
 <h4>Recess Performances and Activities</h4>
 <p>Recess is another platform for our students to express their creativity.
 We have performances and doodle drawing at the Aesthetics wall. Our students
