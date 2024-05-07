@@ -3,15 +3,21 @@ title: End Plastic Day in Collaboration with Earth Day
 permalink: /curriculum/pupil-management/student-leadership/zero-plastic-day-with-earth-day/
 description: ""
 third_nav_title: Student Leadership
+variant: tiptap
 ---
-### Earth Day – End Plastic Day
-
-**P6 Prefects Project in Collaboration with Media & Environment Club**
-
-The school observed Earth Day on April 21, 2023. P6 prefects and the EXCO team took an active role in promoting waste reduction and advocating the responsible use of plastic in collaboration with the Media & Environment Club. The P6 prefects were instrumental in the planning and creation of game booths designed to educate students on sorting out items based on recyclable materials and an upcycling booth where students could learn how to give new life to old items.
-
-Throughout the day, the students participated in a range of activities, including games, educational booths, and a canteen initiative to reduce the use of plastic items. Students were encouraged to bring their own containers, and the vendor provided alternatives to single-use plastic bags.
-
-The event was a resounding success, and the students had a lot of fun while learning about waste reduction and environmental conservation. It was an excellent opportunity for them to make a positive contribution to the environment, and we hope that the lessons learned at this event will inspire our students to be environmentally conscious and take steps towards a cleaner and greener future.
-  
-![](/images/endplasticwaste.jpg)
+<h3>Prefects Spreading Environmental Awareness Through Poster Campaigns</h3>
+<p>The P6 Prefects, in collaboration with the Media and Environment Club,
+take an active role in promoting sustainability efforts, particularly during
+events like Earth Day. As part of this collaboration, they channel their
+creative energy into designing posters that advocate for upcycling and
+recycling, amplifying the message of environmental consciousness throughout
+the school community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/prefect_poster.jpg">
+</div>
+<p>As the posters adorn the school walls, they serve as constant reminders
+of the collective commitment to environmental stewardship. Through collaboration
+and action, these student leaders inspire their peers to embrace sustainable
+practices and work towards a greener future for generations to come.</p>
+<p></p>
