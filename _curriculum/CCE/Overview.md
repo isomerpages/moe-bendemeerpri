@@ -207,6 +207,7 @@ to clean up after themselves.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(7).jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/2%20(8).jpg">
 </div>
@@ -223,18 +224,21 @@ ASPIRE values.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3%20(6)" src="/images/3%20(6).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Like_Ben_Poster_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4%20(6)" src="/images/4%20(6).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Like_Ben_Poster_2.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <h4><u>5. Enhanced CCE lessons (ECCE) Lower Primary</u></h4>
 <p>As the name suggests, ECCE lessons aim to enhance the character development
 of our students in our school ASPIRE values and CCE R3ICH values (Responsibility,
