@@ -21,7 +21,13 @@ domains of self, family, school, community, nation and the world.&nbsp;
 We hope our pupils will exhibit&nbsp;the following behavioural traits at
 the respective portion of their schooling years.</p>
 <h4><u>Desired Behaviour Outcomes of a BPS Pupil</u></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -166,11 +172,12 @@ filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mindful_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___2.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mindful_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -210,7 +217,11 @@ to clean up after themselves.</p>
 <p>To create an immersive environment whereby students can be reminded of
 how they could emulate the school mascot, Ben, in exhibiting the school
 ASPIRE values.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -256,7 +267,11 @@ restroom habits;</p>
 <p>(3) To improve the lives of people in the school community.</p>
 <p>Students carry out daily inspection of the restrooms and problems that
 require immediate attention would be reported to the General Office.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
