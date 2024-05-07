@@ -82,7 +82,7 @@ Art teachers, to mark our school's 45th anniversary</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/epedagogy.jpg">
 </div>
 <p>Capturing the art processes as the school leverages E-pedagogy</p>
-<h4><strong>Bendemeer’s Got Talent</strong></h4>
+<h4>Bendemeer’s Got Talent</h4>
 <p>Bendemeer’s Got Talent is a platform that encourages students to continue
 to pursue further their passion in the Aesthetics. Through video submission
 via SLS, selected students are given the opportunities to showcase their
