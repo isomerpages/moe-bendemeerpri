@@ -170,11 +170,9 @@ Support Leaders share gratitude notes from their peers to lead the school
 in a moment of gratitude. In the latter, students who have been caught
 filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___2.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___1.jpg">
