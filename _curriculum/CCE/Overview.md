@@ -21,7 +21,13 @@ domains of self, family, school, community, nation and the world.&nbsp;
 We hope our pupils will exhibit&nbsp;the following behavioural traits at
 the respective portion of their schooling years.</p>
 <h4><u>Desired Behaviour Outcomes of a BPS Pupil</u></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -164,13 +170,12 @@ Support Leaders share gratitude notes from their peers to lead the school
 in a moment of gratitude. In the latter, students who have been caught
 filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mindful_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mindful_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -202,6 +207,7 @@ to clean up after themselves.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(7).jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/2%20(8).jpg">
 </div>
@@ -210,22 +216,29 @@ to clean up after themselves.</p>
 <p>To create an immersive environment whereby students can be reminded of
 how they could emulate the school mascot, Ben, in exhibiting the school
 ASPIRE values.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3%20(6)" src="/images/3%20(6).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Like_Ben_Poster_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4%20(6)" src="/images/4%20(6).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Like_Ben_Poster_2.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <h4><u>5. Enhanced CCE lessons (ECCE) Lower Primary</u></h4>
 <p>As the name suggests, ECCE lessons aim to enhance the character development
 of our students in our school ASPIRE values and CCE R3ICH values (Responsibility,
@@ -256,7 +269,11 @@ restroom habits;</p>
 <p>(3) To improve the lives of people in the school community.</p>
 <p>Students carry out daily inspection of the restrooms and problems that
 require immediate attention would be reported to the General Office.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

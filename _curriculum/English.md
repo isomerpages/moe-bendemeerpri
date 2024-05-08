@@ -26,7 +26,11 @@ The lower primary STELLAR strategies are the Shared Book Approach (SBA),
 the Modified Language Experience Approach (MLEA) and Learning Centres.
 The strategies at the Upper Primary are Guided Reading, Supported Reading,
 KWL and Retelling.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,7 +88,11 @@ include:</p>
 of a book read. Then they would stand in front of their classmates and
 share what they have written. This also fosters confidence building and
 student-student relationship.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -101,7 +109,11 @@ student-student relationship.</p>
 </tbody>
 </table>
 <p>Our students enjoying a good book in our school library.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -142,7 +154,11 @@ In each issue, readers follow Ben, the school mascot, on an adventure to
 get inspiration and tips for good writing. In the process, our students
 are also inspired to adopt a Growth Mindset, taking concrete steps to improve
 their writing.&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -170,7 +186,11 @@ their writing.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -228,7 +248,11 @@ phrases for students to widen their vocabulary for speech and writing.</p>
 and competent communicators who 1) understand the key features of spoken
 language; and 2) can craft presentations using a variety of skills and
 strategies, according to the purpose, audience, context and culture.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -257,8 +281,8 @@ strategies, according to the purpose, audience, context and culture.</p>
 <p>Learning oracy through fun and authentic ways!</p>
 <h5><strong>A Vibrant English Environment</strong></h5>
 <h5><strong><u>Come as a Book Character Day&nbsp;</u></strong></h5>
-<p>We celebrated our annual Come as a Book Character Day on Wednesday, 19
-April with the theme, “Paradise is a library”. Our students and teachers
+<p>We celebrated our annual Come as a Book Character Day on Friday, 19 April
+with the theme, “Bring Your Character to Life”. Our students and teachers
 were encouraged to dress up as a character from a book.</p>
 <p>The objectives of Come as a Book Character Day are to develop a lifelong
 habit of reading for enjoyment and nurture a love of reading in students.&nbsp;</p>
@@ -273,20 +297,9 @@ during their Math lessons and Science related activities were conducted
 during the lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Book_Character.jpg">
 </div>
-<p>Students and teachers all caught up in the fun of dressing up as characters.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL9.jpg">
-</div>
-<p>Students were encouraged to do a book talk on their character and promote
-the books.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL8.jpg">
-</div>
-<p>Print to screen: Movie screening at the library.</p>
 <h5><strong><u>Speak Good English at BPS</u></strong></h5>
 <p>The school’s very own Good English speaking mascot- Grammar Grandma makes
 her appearance once a term to remind students on the importance of speaking
