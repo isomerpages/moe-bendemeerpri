@@ -62,17 +62,17 @@ to borrow books.</p>
 <p><u>Chinese Lesson Sharing</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2.jpg" src="/images/2%20(3).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="2.jpg" src="/images/2%20(3).jpg">
 </div>
 <p><u>Malay Lesson Sharing</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3.jpg" src="/images/3%20(2).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="3.jpg" src="/images/3%20(2).jpg">
 </div>
 <p><u>Tamil Lesson Sharing</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4.jpg" src="/images/4%20(2).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="4.jpg" src="/images/4%20(2).jpg">
 </div>
 <p>Storytelling is brought to life with the use of puppets, pop-up books
 and Kamishibai (i.e., story cards). Students are given opportunities to
@@ -80,12 +80,12 @@ do book talks and share their reads with their classmates too.</p>
 <p><u>A student doing a Book Talk in the classroom</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/5%20(3).jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/5%20(3).jpg">
 </div>
 <p><u>A vibrant Book Talk session in the library</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="6.jpg" src="/images/6%20(2).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="6.jpg" src="/images/6%20(2).jpg">
 </div>
 <p>Through reading circles, students have opportunities to engage in rich
 discussions about their reads with their peers as well. With the use of
@@ -151,7 +151,7 @@ to&nbsp;online resources.</p>
 a search of books and resources available in the school library at this
 website.</p>
 <p>5. NLB discoveReads&nbsp;(Children &amp; Teens Services):&nbsp;
-<br><strong><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/</a></strong>
+<br><strong><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/</a></strong> 
 <br>Access&nbsp;<a href="https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main" rel="noopener noreferrer nofollow" target="_blank">storytelling videos</a>,&nbsp;
 <a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p" rel="noopener noreferrer nofollow" target="_blank">e-books</a>,&nbsp;<a href="https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary" rel="noopener noreferrer nofollow" target="_blank">book recommendations</a>&nbsp;and
 other reading-related resources at NLB discoveReads. You will need an account
