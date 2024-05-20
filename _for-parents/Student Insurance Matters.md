@@ -9,7 +9,7 @@ variant: markdown
 Dear Parents,  
   
 With regard to student insurance matters, please refer to the attached product fact sheet below.  
-[Product Fact Sheet]() 
+[Product Fact Sheet (Revised May 2024)]
 (Product_Fact_Sheet__Revised_May_2024_.pdf)
   
 For e-Submission, please refer to the user guide in the document below for more details.  
