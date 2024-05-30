@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<p>_______________________________________________________________________________________________________</p>
-<p>Dear BPS Alumni,
+<p>_______________________________________________________________________________________________________
+<br>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
 one of you!
