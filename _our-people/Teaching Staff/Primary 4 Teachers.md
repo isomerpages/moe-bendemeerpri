@@ -45,6 +45,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jerald Tan
+<br>
 <br>Ms Chia Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
