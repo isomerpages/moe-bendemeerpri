@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3>PRIMARY 4 TEACHERS</h3>
 <h5>Primary 4 Teachers</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -84,13 +89,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Lee
-<br>Mrs Mahendran
+<br>Mrs Brindha Menon
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_siang@moe.edu.sg</a> 
-<br><a href="mailto:a_yoga_shanthi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_yoga_shanthi@moe.edu.sg</a>
+<br><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brindha_menon_siva@moe.edu.sg</a>
 </p>
 </td>
 </tr>
