@@ -11,8 +11,6 @@ variant: markdown
 **Co-Advisor**  <br>
 Mrs Santhi Ravindran (Vice Principal Academic)
 
-**Advisor**<br>
-Ms Kanageswari Ravindran (SH Student Development)
 
 **Student Leadership Team**<br>
 Mr Luke Goh (Student Leadership Coordinator)<br>
