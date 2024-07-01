@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3>PRIMARY 1 TEACHERS</h3>
 <h5>Primary 1 Teachers</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -19,7 +24,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a>
-<br> <a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
+<br><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -78,12 +83,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Jennifer Goon
 <br>Mdm Zakiyah Abdul Karim
-<br>Mrs Dhinagaran</p>
+<br>Ms Najlaa Binte Hameed Maricar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goon_yar_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goon_yar_guan@moe.edu.sg</a> 
 <br><a href="mailto:zakiyah_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiyah_abdul_karim@moe.edu.sg</a> 
-<br><a href="mailto:r_devaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_devaki@moe.edu.sg</a>
+<br><a href="mailto:Najlaa_Binte_Hameed_Maricar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Najlaa_Binte_Hameed_Maricar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
