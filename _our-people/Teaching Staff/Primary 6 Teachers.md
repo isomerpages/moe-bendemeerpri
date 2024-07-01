@@ -60,13 +60,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norheliza
-<br>Mr Ngai Weijie Roy
+<br>Mr Ngai Weijie Roy</p>
+<p>Ms Shahanaz Begum
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norherliza_ab_rahim@moe.edu.sg</a> 
 <br><a href="mailto:ngai_weijie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngai_weijie@moe.edu.sg</a> 
+</p>
+<p><a href="mailto:shahanaz_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahanaz_begum@moe.edu.sg</a>
 <br>
 </p>
 </td>
