@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>EXECUTIVE COMMITTEE (EXCO)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -309,18 +314,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kanageswari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kanageswari_ravindran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanageswari_ravindran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head Partnership &amp; Publicity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,6 +381,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_noel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_noel_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pravin Dass Mohkan Dass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pravin_dass_mohkan_dass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pravin_dass_mohkan_dass@schools.gov.sg</a>
 </p>
 </td>
 </tr>
