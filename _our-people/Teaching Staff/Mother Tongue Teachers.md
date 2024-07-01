@@ -8,7 +8,11 @@ variant: tiptap
 <h3>MOTHER TONGUE TEACHERS</h3>
 <h5>Mother Tongue Teachers</h5>
 <h5>Chinese</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,15 +28,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teoh Hai Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_hai_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -122,7 +117,7 @@ variant: tiptap
 <p>Mdm Gao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xin@moe.edu.sg</a> 
+<p><a href="mailto:gao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -131,14 +126,18 @@ variant: tiptap
 <p>Mr Tay Zhi Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_zhi_qiang@moe.edu.sg</a> 
+<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_zhi_qiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <h5>Tamil</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -178,7 +177,11 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Malay</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
