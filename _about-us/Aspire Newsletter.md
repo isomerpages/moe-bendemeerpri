@@ -6,6 +6,10 @@ variant: markdown
 ---
 ### ASPIRE NEWSLETTER
 
+Aspire Newsletter Issue 1 2024
+![](/images/Aspire_banner_newsletter_2024.jpg)
+[Click here to read the Aspire Newsletter Issue 1 2024](https://drive.google.com/file/d/1BFPIp44lG7ZtXxEgSoD_Yxb6Vf545VVD/view?usp=drive_link)
+
 Aspire Newsletter Issue 2 2023
 ![](/images/Aspire_Issue_2_2023.jpg)
 

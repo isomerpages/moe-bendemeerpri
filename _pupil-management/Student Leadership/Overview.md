@@ -11,12 +11,10 @@ variant: markdown
 **Co-Advisor**  <br>
 Mrs Santhi Ravindran (Vice Principal Academic)
 
-**Advisor**<br>
-Ms Kanageswari Ravindran (SH Student Development)
 
 **Student Leadership Team**<br>
 Mr Luke Goh (Student Leadership Coordinator)<br>
-Mdm Chua Xingrou
+Mdm Chua Xingrou<br>
 Ms Pan Si Yong Olivia<br>
 Mr Tan Sheng Yang, Jerald<br>
 Parameswari Malarvannan (Mrs Vannan)<br>

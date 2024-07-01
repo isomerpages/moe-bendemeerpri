@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3>PRIMARY 4 TEACHERS</h3>
 <h5>Primary 4 Teachers</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,10 +62,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Elis Tjandra
 <br>Mrs Yap Foong Keng</p>
+<p>Ms Lei Jiajia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:elis_tjandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elis_tjandra@moe.edu.sg</a> 
 <br><a href="mailto:mok_foong_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_foong_keng@moe.edu.sg</a>
+</p>
+<p><a href="mailto:lei_jiajia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lei_jiajia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,13 +92,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Lee
-<br>Mrs Mahendran
+<br>Mrs Brindha Menon
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_siang@moe.edu.sg</a> 
-<br><a href="mailto:a_yoga_shanthi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_yoga_shanthi@moe.edu.sg</a>
+<br><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brindha_menon_siva@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -102,12 +110,17 @@ variant: tiptap
 <p>Mr Azimi
 <br>Mdm Meenatchi
 <br>Mdm Cherrine Ong</p>
+<p>Mr Mohammad Adha Bin Kamaron
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azimi_b_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azimi_b_ahmad@moe.edu.sg</a> 
 <br><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a> 
 <br><a href="mailto:ong_shi_ying_cherrine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_ying_cherrine@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
