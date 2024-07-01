@@ -9,7 +9,6 @@ variant: tiptap
 <h4>Teachers in charge</h4>
 <p>Mdm An Qinglin (1st IC)
 <br>Mdm Chua Xingrou&nbsp;(2nd IC)
-<br>Mdm Teoh Hai Wei
 <br>Ms Woo Siew Foon
 <br>
 </p>
