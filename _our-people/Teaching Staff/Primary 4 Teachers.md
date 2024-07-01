@@ -62,10 +62,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Elis Tjandra
 <br>Mrs Yap Foong Keng</p>
+<p>Ms Lei Jiajia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:elis_tjandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elis_tjandra@moe.edu.sg</a> 
 <br><a href="mailto:mok_foong_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_foong_keng@moe.edu.sg</a>
+</p>
+<p><a href="mailto:lei_jiajia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lei_jiajia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
