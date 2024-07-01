@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3>PRIMARY 6 TEACHERS</h3>
 <h5>Primary 6 Teachers</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
