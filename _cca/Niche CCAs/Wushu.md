@@ -11,7 +11,6 @@ variant: markdown
 <br>Mdm He Xueya (2nd IC)
 <br>Ms Olivia Pan
 <br>Ms Soon Lay Har
-<br>Mdm Lam Shuzhen
 <br>Ms Choo Lee Tiang
 <br>
 </p>
