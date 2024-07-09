@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>CCA Awards</h2>
 <blockquote>
-<p><strong>Sepak Takraw National Championship 2024 </strong>
+<p><strong>Sepak Takraw National Championship 2024</strong>
 </p>
 <p><strong><u>1st Position for Senior Boys</u></strong>
 </p>
@@ -363,6 +363,120 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>RIFDY RIEZQI BIN MOHAMMED RIZAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6S</p>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>National Floorball Championship 2024 </strong>
+</p>
+<p><strong><u>League 2 for Senior Girls</u></strong>
+</p>
+</blockquote>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HTET PHYU SIN TUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KWA JIN XUAN APRIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WOO JING TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHO YI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG JING YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YING HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHANG KAI XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI ENXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOFEA ADRIANNA BINTE MOHAMMAD AIDIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6S</p>
