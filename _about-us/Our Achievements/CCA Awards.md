@@ -592,4 +592,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>National Rope Skipping Championship 2024 </strong></h4>
+<blockquote>
+<p>4th Position Senior Boys Individual Creative</p>
+</blockquote>
+<p></p>
 <p></p>
