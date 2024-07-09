@@ -6,11 +6,9 @@ third_nav_title: Our Achievements
 variant: tiptap
 ---
 <h2>CCA Awards</h2>
+<h4><strong>Sepak Takraw National Championship 2024</strong></h4>
 <blockquote>
-<p><strong>Sepak Takraw National Championship 2024</strong>
-</p>
-<p><strong><u>1st Position for Senior Boys</u></strong>
-</p>
+<h4>1st Position for Senior Boys</h4>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -21,158 +19,192 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
+<p><strong><sub>S/N</sub></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Student</strong>
+<p><strong><sub>Name of Student</sub></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
+<p><strong><sub>Class</sub></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><sub>1</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AARON ESHANN BIN AHMAD ASHIKIN</p>
+<p><sub>AARON ESHANN BIN AHMAD ASHIKIN</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ANIQ NAZRIL BIN ABU BAKAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6G</p>
+<p><sub>6G</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><sub>2</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD HAIRUL NIZAM BIN NOUR MUHAMMAD ALLEY</p>
+<p><sub>ANIQ NAZRIL BIN ABU BAKAR</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6SD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MARCUS LAW YING HAI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6R</p>
+<p><sub>6G</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p><sub>3</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN HONG MING</p>
+<p><sub>MUHAMMAD HAIRUL NIZAM BIN NOUR MUHAMMAD ALLEY</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD AIMAN TAQIM BIN AZHAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6SD</p>
+<p><sub>6SD</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><sub>4</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSCAR YIP ZHI HAO</p>
+<p><sub>MARCUS LAW YING HAI</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6SD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOHD ZYHAN BIN MOHD GHAZALI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6R</p>
+<p><sub>6R</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p><sub>5</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AARIZ ZULQARNAIN BIN MUHAMMAD HANAFI</p>
+<p><sub>TAN HONG MING</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ADYAN RAYEES BIN HAFFIS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5R</p>
+<p><sub>6I</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p><sub>6</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD IHSAN KURNIAWAN BIN MUHAMMAD SHOLIHIN</p>
+<p><sub>MUHAMMAD AIMAN TAQIM BIN AZHAR</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5P</p>
+<p><sub>6SD</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p><sub>7</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>THU HTET THAR</p>
+<p><sub>OSCAR YIP ZHI HAO</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4I</p>
+<p><sub>6SD</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>8</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>MOHD ZYHAN BIN MOHD GHAZALI</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>6R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>9</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>AARIZ ZULQARNAIN BIN MUHAMMAD HANAFI</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>5R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>10</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>ADYAN RAYEES BIN HAFFIS</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>5R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>11</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>MUHAMMAD IHSAN KURNIAWAN BIN MUHAMMAD SHOLIHIN</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>5P</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>12</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>THU HTET THAR</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>4I</sub>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<h4><strong>National Floorball Championship 2024</strong></h4>
 <blockquote>
-<p><strong>National Floorball Championship 2024</strong>
-</p>
-<p><strong><u>League 2 for Senior Boys</u></strong>
-</p>
+<p>League 2 for Senior Boys</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -183,198 +215,247 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><sub>1</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOWARD WONG HAO FENG</p>
+<p><sub>HOWARD WONG HAO FENG</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6A</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SOO ZHE YU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6A</p>
+<p><sub>P6A</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><sub>2</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAY BOON KIAT EDDIE</p>
+<p><sub>SOO ZHE YU</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6A</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IKRAM DIRNA BIN MUHAMMAD KHAIDIR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6E</p>
+<p><sub>P6A</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p><sub>3</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAEDEN HONG CHEN JUN</p>
+<p><sub>TAY BOON KIAT EDDIE</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MO JIN PENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6E</p>
+<p><sub>P6A</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><sub>4</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ABU DZAR BIN ABDUL HAMEED</p>
+<p><sub>IKRAM DIRNA BIN MUHAMMAD KHAIDIR</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EDAN NG YU ZHI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6I</p>
+<p><sub>P6E</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p><sub>5</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENZO LEE JIA CHENG</p>
+<p><sub>JAEDEN HONG CHEN JUN</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ZIQRY HAZIQ BIN ZULKIFLI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6I</p>
+<p><sub>P6E</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p><sub>6</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AMIR HAMZAH BIN HAIRUL</p>
+<p><sub>MO JIN PENG</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6P</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EIJAZ RAIYAN BIN ELIAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6P</p>
+<p><sub>P6E</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p><sub>7</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEE JUN YUAN</p>
+<p><sub>ABU DZAR BIN ABDUL HAMEED</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6P</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LUCAS LIM YAN LONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6R</p>
+<p><sub>P6G</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p><sub>8</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ADAM BIN MUHAMAD NAZMI</p>
+<p><sub>EDAN NG YU ZHI</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD IRFAN BIN MOHAMAT FIRMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6S</p>
+<p><sub>P6I</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p><sub>9</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RIFDY RIEZQI BIN MOHAMMED RIZAL</p>
+<p><sub>ENZO LEE JIA CHENG</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6S</p>
+<p><sub>P6I</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>10</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>ZIQRY HAZIQ BIN ZULKIFLI</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6I</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>11</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>AMIR HAMZAH BIN HAIRUL</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6P</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>12</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>EIJAZ RAIYAN BIN ELIAS</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6P</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>13</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>SEE JUN YUAN</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6P</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>14</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>LUCAS LIM YAN LONG</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>15</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>MUHAMMAD ADAM BIN MUHAMAD NAZMI</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>16</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>MUHAMMAD IRFAN BIN MOHAMAT FIRMAN</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6S</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>17</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>RIFDY RIEZQI BIN MOHAMMED RIZAL</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6S</sub>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>National Floorball Championship 2024</strong></h4>
 <blockquote>
-<p><strong>National Floorball Championship 2024 </strong>
-</p>
-<p><strong><u>League 2 for Senior Girls</u></strong>
-</p>
+<p>League 2 for Senior Girls</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -385,101 +466,128 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><sub>1</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HTET PHYU SIN TUN</p>
+<p><sub>HTET PHYU SIN TUN</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KWA JIN XUAN APRIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6E</p>
+<p><sub>P5E</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><sub>2</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WOO JING TING</p>
+<p><sub>KWA JIN XUAN APRIL</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KHO YI XUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6I</p>
+<p><sub>P6E</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p><sub>3</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NG JING YING</p>
+<p><sub>WOO JING TING</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN YING HAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6P</p>
+<p><sub>P6E</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p><sub>4</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHANG KAI XIN</p>
+<p><sub>KHO YI XUAN</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LI ENXIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6R</p>
+<p><sub>P6I</sub>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p><sub>5</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOFEA ADRIANNA BINTE MOHAMMAD AIDIL</p>
+<p><sub>NG JING YING</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6S</p>
+<p><sub>P6I</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>6</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>TAN YING HAN</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6P</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>7</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>CHANG KAI XIN</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>8</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>LI ENXIN</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6R</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>9</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>SOFEA ADRIANNA BINTE MOHAMMAD AIDIL</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>P6S</sub>
+</p>
 </td>
 </tr>
 </tbody>
