@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h3>SCHOOL UNIFORM</h3>
 <p><strong>Shanghai School Uniforms Pte Ltd</strong>&nbsp;
-<br> <a rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/product-category/bendemeer-primary/</a>
-</p>
-<p><strong>Outlet details:</strong>
+<br>Click on this link to visit the website: <a href="https://shop.shanghai-uniforms.com/product-category/bendemeer-primary/" rel="noopener noreferrer nofollow" target="_blank">Shanghai School Uniforms Pte Ltd</a>
+<br>
+<br><strong>Outlet details:</strong>
 <br>63 Ubi Ave 1 #04-09
 <br>63@Ubi (formerly Boustead House)
 <br>Singapore 408937
