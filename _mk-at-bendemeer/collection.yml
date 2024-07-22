@@ -2,6 +2,7 @@ collections:
   mk-at-bendemeer:
     output: true
     order:
+      - Video & Photo Gallery.md
       - About Mk@Bendemeer.md
       - MK Team.md
       - Registration and Fees.md
