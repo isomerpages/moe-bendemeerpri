@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>NON TEACHING STAFF</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -147,6 +152,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_puay_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_puay_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hup Lip Stephen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hup_lip_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hup_lip_stephen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
