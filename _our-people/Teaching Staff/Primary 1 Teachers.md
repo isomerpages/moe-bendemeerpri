@@ -24,7 +24,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a>
-<br><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
+<br>
+</p>
+<p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -59,7 +61,7 @@ variant: tiptap
 <p><a href="mailto:choo_lee_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_lee_tiang@moe.edu.sg</a> 
 <br><a href="mailto:yeo_kwang_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xin@moe.edu.sg</a>
 </p>
-<p>Cheong_gui_ying_a@moe.edu.sg</p>
+<p>cheong_gui_ying_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +92,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goon_yar_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goon_yar_guan@moe.edu.sg</a> 
 <br><a href="mailto:zakiyah_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiyah_abdul_karim@moe.edu.sg</a> 
-<br><a href="mailto:Najlaa_Binte_Hameed_Maricar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Najlaa_Binte_Hameed_Maricar@moe.edu.sg</a>
+<br>
+</p>
+<p><a href="mailto:Najlaa_Binte_Hameed_Maricar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Najlaa_Binte_Hameed_Maricar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
