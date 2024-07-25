@@ -98,7 +98,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kam_seng_tommy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kam_seng_tommy@moe.edu.sg</a> 
 <br><a href="mailto:sulasteri_mohammad_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulasteri_mohammad_sidek@moe.edu.sg</a> 
-<br>ervina_atan_a@moe.edu.sg</p>
+<br><a href="mailto:ervina_atan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ervina_atan_a@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
