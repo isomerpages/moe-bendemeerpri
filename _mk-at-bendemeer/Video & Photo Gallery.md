@@ -4,7 +4,7 @@ permalink: /video-photo-gallery/
 variant: tiptap
 description: ""
 ---
-<h3>Snapshots and Highlights @ MK Bendemeer</h3>
+<h3><strong>Snapshots and Highlights @ MK Bendemeer</strong></h3>
 <h4>A post shared by National Institute of Early Childhood Development (NIEC)</h4>
 <p>Prepare for some unexpected moments as the Minister of State for Education,
 Ms. Gan Siow Huang, addresses intriguing questions from preschoolers! Is
