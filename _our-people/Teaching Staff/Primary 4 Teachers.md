@@ -100,7 +100,8 @@ variant: tiptap
 <p><a href="mailto:lee_teck_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_siang@moe.edu.sg</a> 
 <br><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brindha_menon_siva@moe.edu.sg</a>
 </p>
-<p>wong_jun_kai_b@moe.edu.sg</p>
+<p><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jun_kai_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
