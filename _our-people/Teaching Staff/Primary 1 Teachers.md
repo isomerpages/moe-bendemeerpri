@@ -58,7 +58,7 @@ variant: tiptap
 <p>Ms Cheong Gui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_lee_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_lee_tiang@moe.edu.sg</a> 
+<p><a href="mailto:choo_lee_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_lee_tiang@moe.edu.sg</a>
 </p>
 <p><a href="mailto:yeo_kwang_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xin@moe.edu.sg</a>
 <br><em><a href="mailto:yeo_kwang_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong</a></em>
