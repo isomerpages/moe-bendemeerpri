@@ -53,11 +53,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Choo Lee Tiang
 <br>Mdm Gao Xin</p>
+<p>Ms Cheong Gui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choo_lee_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_lee_tiang@moe.edu.sg</a> 
 <br><a href="mailto:yeo_kwang_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xin@moe.edu.sg</a>
 </p>
+<p>Cheong_gui_ying_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
