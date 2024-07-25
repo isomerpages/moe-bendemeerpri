@@ -31,11 +31,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Mei Shan
-<br>Mr Hamzah</p>
+<br>Ms Sheila Chow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_mei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_shan@moe.edu.sg</a> 
-<br><a href="mailto:hamzah_mahmid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamzah_mahmid@moe.edu.sg</a>
+<br><a href="mailto:hamzah_mahmid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheila_chow_hui_niang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -94,13 +94,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Lee
 <br>Mrs Brindha Menon
-<br>
-</p>
+<br>Mr Stanley Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_siang@moe.edu.sg</a> 
 <br><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brindha_menon_siva@moe.edu.sg</a>
 </p>
+<p>wong_jun_kai_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
