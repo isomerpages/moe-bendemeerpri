@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norherliza_ab_rahim@moe.edu.sg</a> 
-<br><a href="mailto:ngai_weijie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngai_weijie@moe.edu.sg</a> 
+<br><a href="mailto:ngai_weijie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngai_weijie@moe.edu.sg</a>
 </p>
 <p><a href="mailto:shahanaz_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahanaz_begum@moe.edu.sg</a>
 <br>
@@ -81,14 +81,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Chia Zongyu
 <br>Mrs Regina Kaur
-<br>
-</p>
+<br>Ms Wong Yee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_zongyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_zongyu@moe.edu.sg</a> 
 <br><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a> 
-<br>
-</p>
+<br>wong_yee_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
