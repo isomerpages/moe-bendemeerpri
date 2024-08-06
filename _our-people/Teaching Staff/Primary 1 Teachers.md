@@ -55,7 +55,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Choo Lee Tiang
 <br>Mdm Gao Xin</p>
-<p></p>
 <p>Ms Cheong Gui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
