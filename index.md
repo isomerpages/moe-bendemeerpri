@@ -20,7 +20,7 @@ sections:
           url: /about-us/virtual-tour-of-bps
   - infopic:
       title: Calling all ex-BPS students and parents! 🎓✨
-      subtitle: Add an image and text
+      subtitle: Happy teachers' day 2024
       id: infopic
       description: Let's take a moment to pen down our heartfelt thoughts for our
         former teachers.  Share your messages with us by 21 August.
