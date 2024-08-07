@@ -22,7 +22,7 @@ sections:
       title: Calling all ex-BPS students and parents! 🎓✨
       subtitle: Happy teachers' day 2024
       id: infopic
-      description: Let's take a moment to pen down our heartfelt thoughts for our
+      description: Let's take a moment to pen down your heartfelt thoughts for our
         former teachers.  Share your messages with us by 21 August.
       button: "write your messages:"
       url: https://tinyurl.com/yhe7d77t
