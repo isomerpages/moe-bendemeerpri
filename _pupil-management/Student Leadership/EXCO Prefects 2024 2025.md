@@ -12,9 +12,11 @@ passed the baton to the newly appointed P5 EXCO prefects. This symbolic
 gesture of <em>'passing the baton' </em>represents the official transfer
 of their duties and responsibilities, highlighting the ongoing growth and
 development of leadership within our school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/picture_1.jpg">
 </div>
+<p></p>
 <p>Each of our P6 EXCO prefects has carried the baton of responsibility with
 excellence. The act of <em>'passing the baton'</em> also symbolises the continuous
 journey and shared responsibility, much like in a relay race. Each team
@@ -23,8 +25,9 @@ finish line. Even after the baton is passed, all members remain part of
 the same team, continuing to work together towards a common goal.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/picture_2.jpg">
 </div>
+<p></p>
 <p>In the same spirit, our P6 EXCO team will continue to nurture and guide
 their juniors, ensuring they succeed in their new roles. Now, it is time
 to hand over this baton to the next generation of leaders, who will continue
