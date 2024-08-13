@@ -56,7 +56,7 @@ three candidates were introduced to the school, each delivering heartfelt
 speeches outlining their goals and vision if elected.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3_4_5.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_4_5.png">
 </div>
 <p></p>
 <p>The candidates then engaged with their peers during recess over two days,
