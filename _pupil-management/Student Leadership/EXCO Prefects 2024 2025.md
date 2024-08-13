@@ -77,7 +77,7 @@ Insiyah Hozefa Shakir of class P5-Adaptability has been chosen as the new
 Head Prefect for 2024/2025!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture_9.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture_9.jpg">
 </div>
 <p></p>
 <p>Congratulations to Insiyah! Her vision, dedication, and leadership truly
@@ -85,7 +85,7 @@ stood out during this election, and we are excited to see the positive
 impact she will have on our school community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture_10.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture_10.jpg">
 </div>
 <p></p>
 <p>A heartfelt thank you goes out to all the candidates for their hard work,
