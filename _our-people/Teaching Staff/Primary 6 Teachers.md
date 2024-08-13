@@ -59,7 +59,7 @@ variant: tiptap
 <p>Mdm An Qinglin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a> 
+<p><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -123,7 +123,7 @@ variant: tiptap
 <p>Mrs Regina Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a> 
+<p><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Ms Wong Yee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yee_yee@moe.edu.sg</a> 
+<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yee_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwei_seng_poh@moe.edu.sg</a> 
+<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwei_seng_poh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -189,24 +189,40 @@ variant: tiptap
 <p>Mdm Lam Shuzhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a> 
+<p><a href="mailto:lam_shuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_shuzhen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>P6 Self-Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Annabelle Clemant
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:annabelle_ananthi_clemant@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_ananthi_clemant@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Self-Discipline</p>
+<p>Mr Mohammad Fahmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Annabelle Clemant
-<br>Mr Mohammad Fahmy
-<br>Mdm Chua Cheh Lee</p>
+<p><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Cheh Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:annabelle_ananthi_clemant@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_ananthi_clemant@moe.edu.sg</a> 
-<br><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a> 
-<br><a href="mailto:chua_cheh_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_cheh_lee@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:chua_cheh_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_cheh_lee@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
