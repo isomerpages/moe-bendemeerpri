@@ -37,7 +37,6 @@ student body. This process not only fosters leadership skills among students
 but also promotes active engagement within our school community. The Head
 Prefect, along with other student leaders, are entrusted with important
 responsibilities such as:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Assisting with school programs and activities throughout the academic
