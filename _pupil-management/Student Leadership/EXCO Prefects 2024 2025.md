@@ -70,6 +70,7 @@ schoolmates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/11_12.jpg">
 </div>
+<p></p>
 <p>After the enthusiastic participation, the votes were cast, and the results
 were eagerly awaited. Finally, on 2 August 2024, we proudly announced that
 Insiyah Hozefa Shakir of class P5-Adaptability has been chosen as the new
@@ -78,6 +79,7 @@ Head Prefect for 2024/2025!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture_9.jpg">
 </div>
+<p></p>
 <p>Congratulations to Insiyah! Her vision, dedication, and leadership truly
 stood out during this election, and we are excited to see the positive
 impact she will have on our school community.</p>
@@ -85,6 +87,7 @@ impact she will have on our school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture_10.jpg">
 </div>
+<p></p>
 <p>A heartfelt thank you goes out to all the candidates for their hard work,
 creativity, and brilliant ideas, as well as to everyone who participated
 in the election process. Together, we will continue to make Bendemeer Primary
