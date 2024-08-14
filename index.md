@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Sch_Website_Hero_Banner3.jpg
+      background: /images/Our_Students__Art_Worl__1_.jpg
       key_highlights:
         - title: Announcements
           description: ""
