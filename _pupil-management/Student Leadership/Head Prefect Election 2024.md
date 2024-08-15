@@ -1,38 +1,10 @@
 ---
-title: EXCO Prefects 2024 2025
-permalink: /exco-prefects-2024-2025/
+title: Head Prefect Election 2024
+permalink: /head-prefect-election-2024/
 variant: tiptap
 description: ""
 third_nav_title: Student Leadership
 ---
-<h4><strong>EXCO Prefect Handover Ceremony - Growing Our Leaders</strong></h4>
-<p>During this year’s EXCO Prefect Handover Ceremony, Bendemeer Primary School
-celebrated the important event of growing our leaders as the P6 EXCO prefects
-passed the baton to the newly appointed P5 EXCO prefects. This symbolic
-gesture of <em>'passing the baton' </em>represents the official transfer
-of their duties and responsibilities, highlighting the ongoing growth and
-development of leadership within our school.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/picture_1.jpg">
-</div>
-<p></p>
-<p>Each of our P6 EXCO prefects has carried the baton of responsibility with
-excellence. The act of <em>'passing the baton'</em> also symbolises the continuous
-journey and shared responsibility, much like in a relay race. Each team
-member plays a vital role in bringing the baton forward, closer to the
-finish line. Even after the baton is passed, all members remain part of
-the same team, continuing to work together towards a common goal.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/picture_2.jpg">
-</div>
-<p></p>
-<p>In the same spirit, our P6 EXCO team will continue to nurture and guide
-their juniors, ensuring they succeed in their new roles. Now, it is time
-to hand over this baton to the next generation of leaders, who will continue
-to grow and thrive, carrying forward the legacy of leadership with dedication
-and commitment.</p>
 <h4><strong>Head Prefect Election 2024 - Shaping Our Leaders</strong></h4>
 <p>The annual Head Prefect Election is a significant event at Bendemeer Primary
 School, where we focus on shaping a leader who will guide and inspire our
@@ -59,7 +31,7 @@ year</p>
 2023/2024 EXCO Prefect Handover Ceremony on 29 July 2024. Following this,
 three candidates were introduced to the school, each delivering heartfelt
 speeches outlining their goals and vision if elected.</p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_4_5.png">
 </div>
