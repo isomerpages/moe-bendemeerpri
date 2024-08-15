@@ -52,6 +52,9 @@ year</p>
 <p>Supporting younger students and student leaders</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wWG01w7pnjk?si=MD_HuczRxxKNKP0o"></iframe>
+</div>
 <p>This year, the journey to shaping our new Head Prefect began with the
 2023/2024 EXCO Prefect Handover Ceremony on 29 July 2024. Following this,
 three candidates were introduced to the school, each delivering heartfelt
