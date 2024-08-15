@@ -46,10 +46,10 @@ responsibilities such as:</p>
 year</p>
 </li>
 <li>
-<p>Representing BPS and being good host for visitors</p>
+<p>Representing BPS and being a good host for visitors</p>
 </li>
 <li>
-<p>Supporting younger students and student leaders</p>
+<p>Supporting younger students and fellow student leaders</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
