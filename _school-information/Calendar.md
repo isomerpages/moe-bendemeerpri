@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="1" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSE6l4YkQ8uHIYDpqkHfYkR3o0hElUIzGuNvSqs5KZq25x3qaGUNnRwi2RGQLUtBuS9cOR3poBhvHE9/pubhtml?gid=1241422741&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false"></iframe>
+<iframe height="800" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSE6l4YkQ8uHIYDpqkHfYkR3o0hElUIzGuNvSqs5KZq25x3qaGUNnRwi2RGQLUtBuS9cOR3poBhvHE9/pubhtml?gid=1241422741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 <p>You can also access the school calendar via Parent Gateway.
 <br>Please refer to the image below:</p>
