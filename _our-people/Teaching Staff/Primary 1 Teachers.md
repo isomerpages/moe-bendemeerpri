@@ -158,7 +158,7 @@ variant: tiptap
 <p>Ms Najlaa Binte Hameed Maricar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Najlaa_Binte_Hameed_Maricar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Najlaa_Binte_Hameed_Maricar@moe.edu.sg</a>
+<p><a href="mailto:Najlaa_Binte_Hameed_Maricar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Najlaa_Hameed_Maricar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
