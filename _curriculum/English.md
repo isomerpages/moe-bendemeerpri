@@ -240,6 +240,15 @@ a chance to be featured.</p>
 <p>Volume 3 (2024)</p>
 <p><a href="https://drive.google.com/file/d/1i8jJLbjj803S_SRiKQeCFM7kkfVF04Qg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 1</a>
 </p>
+<p></p>
+<h5><strong>Flipbooks for Lower Primary Students</strong></h5>
+<p>Let’s explore the stories written by our Primary 3 students through flipbooks.</p>
+<p><strong><a href="https://heyzine.com/flip-book/2147eb9e5e.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 3 Writers 2024</a></strong>
+</p>
+<p>Stories by our Primary 1 and Primary 2 students: Coming Soon!</p>
+<p>
+<br>
+</p>
 <h5><strong>A Pocketful of Phrases</strong></h5>
 <p>The EL department has also come up wit a compilation of useful words and
 phrases for students to widen their vocabulary for speech and writing.</p>
