@@ -384,6 +384,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Tat Chow Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Wong_Tat_Chow_Francis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
