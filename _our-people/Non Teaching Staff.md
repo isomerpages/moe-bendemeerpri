@@ -145,6 +145,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Sok Ee Michel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Goh_Chee_Kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_sok_ee_michel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
