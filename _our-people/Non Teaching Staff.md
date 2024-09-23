@@ -73,6 +73,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christopher_noel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_noel_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pravin Dass Mohkan Dass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pravin_dass_mohkan_dass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pravin_dass_mohkan_dass@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Tat Chow Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Wong_Tat_Chow_Francis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +140,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_ah_yoke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_ah_yoke@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Sok Ee Michel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Goh_Chee_Kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_sok_ee_michel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -169,6 +217,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ramna Kamaludi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hup_lip_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramna_kamaludi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,7 +280,7 @@ variant: tiptap
 <p>Dental Therapist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Fengming</p>
+<p>Ms Suzanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -253,7 +313,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hayati Binti Mohd</p>
+<p>Mdm Misnaya Binte Shunay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -276,6 +336,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahim Bin Sarwi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Leong Pheow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
