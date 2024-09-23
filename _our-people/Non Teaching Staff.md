@@ -208,10 +208,11 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ramna</p>
+<p>Ms Ramna Kamaludi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_hup_lip_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramna_kamaludi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +268,7 @@ variant: tiptap
 <p>Dental Therapist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Fengming</p>
+<p>Ms Suzanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -300,7 +301,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hayati Binti Mohd</p>
+<p>Mdm Misnaya Binte Shunay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -323,6 +324,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahim Bin Sarwi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Leong Pheow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
