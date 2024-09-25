@@ -4,8 +4,29 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements</h3>
-<p>______________________________________________________________________________________________
+<h3>Announcements<br><br><strong>PSLE Written Examination 2024 </strong></h3>
+<p>All P6 students will be taking his/her PSLE Written Examination from 26
+September 2024 (Thursday) to 2 October 2024 (Wednesday).</p>
+<p>Students have been briefed on what to do. They will need to bring along
+the necessary stationery e.g. dark blue/black pens, 2B pencils, erasers,
+rulers, sharpeners, standard mathematical instruments, calculator and dictionary/electronic
+dictionary (for selected papers), and extra batteries for calculator/electronic
+dictionary.</p>
+<p>There will be a recess break on each examination day. Please note the
+following reporting and dismissal timings during the PSLE Written Examination
+week.</p>
+<p>We seek your cooperation to ensure that your child reports punctually
+each morning</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSLE_exam_TT.jpg">
+</div>
+<p>Please make the necessary transport arrangements for your child. Students
+have been advised not to bring any mobile phones or electronic devices
+into the examination room. Should you have further queries, please contact
+the general office at 6298 2911.</p>
+<p>Thank you.</p>
+<p>______________________________________________________________________________________________________
 <br>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
