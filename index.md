@@ -29,6 +29,6 @@ sections:
             more information, please click on the link below.  Should you have
             further queries, please contact the general office at 6298 2911.
             Thank you.
-          link_text: Click here for more information
+          link_text: Click here for more details and schedule
           link_url: https://www.bendemeerpri.moe.edu.sg/Announcements/
 ---
