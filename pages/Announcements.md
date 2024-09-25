@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements<br><br><strong>PSLE Written Examination 2024 </strong></h3>
+<h3>Announcements<br><br><strong>PSLE Written Examination 2024</strong></h3>
 <p>All P6 students will be taking his/her PSLE Written Examination from 26
 September 2024 (Thursday) to 2 October 2024 (Wednesday).</p>
 <p>Students have been briefed on what to do. They will need to bring along
