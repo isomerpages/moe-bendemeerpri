@@ -4,6 +4,7 @@ title: Positive Parenting Programme (Triple P) Selected Seminar Series (For
 permalink: /our-people/for-parents/Positive-Parenting-Programmes/mandarin/
 description: ""
 third_nav_title: Positive Parenting Programmes
+variant: markdown
 ---
 ### POSITIVE PARENTING PROGRAMME (TRIPLE P) SELECTED SEMINAR SERIES (FOR MANDARIN SPEAKING PARENTS)
 
@@ -15,9 +16,8 @@ It is an evidence-based and research-backed parenting and family support strateg
 
 More information can be found in the attached e-flyer. You are strongly encouraged to attend all 3 seminars to get the most benefit from the programme, which has been fully subsidised for you by the Ministry of Social and Family Development (MSF).
 
-[](https://bit.ly/37NyAtY)To sign up, please register at  [**https://bit.ly/37NyAtY**](https://bit.ly/37NyAtY)
 
-\----------------------------------------------------------------------尊敬的家长，
+----------------------------------------------------------------------尊敬的家长，
 
 **触爱社会服务**将通过 Zoom 为所有在**明智小学**的家长主办**积极育儿精选研讨会系列****(****中文****)**。
 
@@ -25,4 +25,3 @@ More information can be found in the attached e-flyer. You are strongly encourag
 
 如需更多详情，可参考随附的电子传单。我们强力推荐家长们参与全套的研讨会系列（共3个讲座）并从中索取良好的积极育儿知识及策略。 本积极育儿精选研讨会系列是**由社会及家庭发展部**全额资助。
 
-请浏览 [**https://**](https://bit.ly/37NyAtY)[**bit.ly/37NyAtY**](https://bit.ly/37NyAtY) 预先报名参加。

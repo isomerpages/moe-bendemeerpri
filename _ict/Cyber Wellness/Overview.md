@@ -3,6 +3,7 @@ title: Overview
 permalink: /curriculum/ict/Cyber-Wellness/overview/
 description: ""
 third_nav_title: Cyber Wellness
+variant: markdown
 ---
 ### CYBER WELLNESS
 
@@ -53,7 +54,3 @@ Health Hub:
 
 Ministry of Education: <br>
 **[Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)** <br>
-
-  
-Media Literacy Council: <br>
-Information, tips and resources by Media Literacy Council&nbsp;[https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)

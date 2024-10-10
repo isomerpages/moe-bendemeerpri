@@ -4,28 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements<br><br><strong>PSLE Written Examination 2024</strong></h3>
-<p>All P6 students will be taking his/her PSLE Written Examination from 26
-September 2024 (Thursday) to 2 October 2024 (Wednesday).</p>
-<p>Students have been briefed on what to do. They will need to bring along
-the necessary stationery e.g. dark blue/black pens, 2B pencils, erasers,
-rulers, sharpeners, standard mathematical instruments, calculator and dictionary/electronic
-dictionary (for selected papers), and extra batteries for calculator/electronic
-dictionary.</p>
-<p>There will be a recess break on each examination day. Please note the
-following reporting and dismissal timings during the PSLE Written Examination
-week.</p>
-<p>We seek your cooperation to ensure that your child reports punctually
-each morning</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSLE_exam_TT.jpg">
-</div>
-<p>Please make the necessary transport arrangements for your child. Students
-have been advised not to bring any mobile phones or electronic devices
-into the examination room. Should you have further queries, please contact
-the general office at 6298 2911.</p>
-<p>Thank you.</p>
+<h3>Announcements</h3>
 <p>______________________________________________________________________________________________________
 <br>Dear BPS Alumni,
 <br>
@@ -43,7 +22,7 @@ we are all ears!
 <br>3) What is keeping you busy these days? Work, studies, or something exciting!
 <br>4) Contact number
 <br>5) Share a recent photo where you're shining bright like a Bendemeer star!</p>
-<p>Use this link to update your details: <a href="https://form.gov.sg/6638db1248878074b0d9ed48" rel="noopener noreferrer nofollow" target="_blank">Click Here</a><a href="https://go.gov.sg/bpsalumni￼" rel="noopener noreferrer nofollow" target="_blank"><br></a> 
+<p>Use this link to update your details: <a href="https://form.gov.sg/6638db1248878074b0d9ed48" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 <br>Calling out especially to those who walked our halls from 1977 onwards,
 including our buddies from Balestier Hill Primary School post-2019 merger.
 And if you were part of the crew between 1990 and 2000, you're in our spotlight!
