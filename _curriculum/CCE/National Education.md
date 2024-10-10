@@ -266,9 +266,6 @@ old school games through the game-based learning in the class.</p>
 <p><strong>Ministry of Education</strong> 
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg</a>
 </p>
-<p><strong>Total Defence Day</strong> 
-<br><a href="http://www.totaldefence.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.totaldefence.sg</a>
-</p>
 <p><strong>National Archives of Singapore</strong> 
 <br><a href="http://corporate.nas.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://corporate.nas.gov.sg</a>
 </p>
