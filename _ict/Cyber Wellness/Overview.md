@@ -65,7 +65,7 @@ at home. &nbsp;</p>
 Wellness.
 <br>1.&nbsp;<a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
 <br>2.&nbsp;&nbsp;<a href="/files/Cyberthreats%20Tip%20Sheet%202017.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Threats Tip Sheet (PDF)</a>
-<br>3.&nbsp;&nbsp;<a href="/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a> 
+<br>3.&nbsp;&nbsp;<a href="/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a>
 </p>
 <p><strong>Useful Links</strong>
 </p>
