@@ -80,5 +80,4 @@ for the students.</p>
 <p>How Stuff Works -&nbsp;<a href="http://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.howstuffworks.com</a> 
 <br>National Geographic kids -&nbsp;<a href="http://video.nationalgeographic.com/video/kids/" rel="noopener noreferrer nofollow" target="_blank">http://video.nationalgeographic.com/video/kids/</a> 
 <br>National Geographic channel -&nbsp;<a href="http://video.nationalgeographic.com/video/national-geographic-channel" rel="noopener noreferrer nofollow" target="_blank">http://video.nationalgeographic.com/video/national-geographic-channel</a> 
-<br>Discovery channel kids -<a href="http://kids.discovery.com/tell-me" rel="noopener noreferrer nofollow" target="_blank">http://kids.discovery.com/tell-me</a>
 </p>
