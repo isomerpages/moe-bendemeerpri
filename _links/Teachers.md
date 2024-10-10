@@ -149,13 +149,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/moe.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx" rel="noopener noreferrer nofollow" target="_blank">SEN Resource Portal</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
