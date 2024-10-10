@@ -10,7 +10,11 @@ variant: tiptap
 <blockquote>
 <h4><strong>Star Students for Term 1 - Primary 1</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -135,7 +139,11 @@ variant: tiptap
 <blockquote>
 <h4><strong>Star Students for Term 1 - Primary 2</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -282,7 +290,11 @@ variant: tiptap
 <blockquote>
 <h4><strong>Star Students for Term 1 - Primary 3</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -435,7 +447,11 @@ variant: tiptap
 <blockquote>
 <h4><strong>Star Students for Term 1 - Primary 4</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -594,7 +610,11 @@ variant: tiptap
 <blockquote>
 <h4><strong>Star Students for Term 1 - Primary 5</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -740,7 +760,11 @@ variant: tiptap
 <blockquote>
 <h4><strong>Star Students for Term 1 - Primary 6</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
