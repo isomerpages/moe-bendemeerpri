@@ -85,9 +85,6 @@ dancing, acting and hosting.</p>
 <p>Tamil Touch-typing on Tamil99 keyboard
 <br><a href="https://www.branah.com/tamil" rel="noopener noreferrer nofollow" target="_blank">https://www.branah.com/tamil</a>
 </p>
-<p>Tamil e-dictionary website
-<br><a href="http://dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.tamilcube.com/</a>
-</p>
 <p>Tamil translation website
 <br><a href="https://www.sgtranslatetogether.gov.sg/translate" rel="noopener noreferrer nofollow" target="_blank">https://www.sgtranslatetogether.gov.sg/translate</a>
 </p>
