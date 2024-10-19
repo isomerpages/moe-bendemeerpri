@@ -10,7 +10,12 @@ variant: tiptap
 </div>
 <p>MS NASREEN NASER
 <br>DEPUTY CENTRE HEAD</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,7 +42,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,7 +75,13 @@ variant: tiptap
 </tbody>
 </table>
 <h3>MTL Team</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,7 +129,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -132,20 +153,6 @@ variant: tiptap
 </div>
 <p>MR ANBARASU R J
 <br>TAMIL LANGUAGE TEACHER</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Support Staff</h3>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="mdmyati" src="https://file.for.edu.sg/mdmyati.JPG">
-</div>
-<p>MDM YATI
-<br>SUPPORT STAFF</p>
 </td>
 </tr>
 </tbody>
