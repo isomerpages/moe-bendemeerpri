@@ -242,14 +242,16 @@ a chance to be featured.</p>
 </p>
 <p></p>
 <h5><strong>Flipbooks for Lower Primary Students</strong></h5>
-<p>Let’s explore the stories written by our Primary 2 and Primary 3 students
-through flipbooks.</p>
+<p>Let’s explore the stories written by our Primary 1, Primary 2 and Primary
+3 students through flipbooks.</p>
 <p></p>
+<p><strong><a href="https://heyzine.com/flip-book/16a81c93cc.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 1 Writers 2024</a></strong>
+</p>
 <p><strong><a href="https://heyzine.com/flip-book/00e7a35eaf.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 2 Writers 2024</a></strong>
 </p>
 <p><strong><a href="https://heyzine.com/flip-book/2147eb9e5e.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 3 Writers 2024</a></strong>
 </p>
-<p>Stories by our Primary 1 students: Coming Soon!</p>
+<p></p>
 <p>
 <br>
 </p>
