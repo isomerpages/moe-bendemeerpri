@@ -33,5 +33,5 @@ are doing the right thing.</p>
 support to parents in 2021. We also look forward to your active participation
 in fully utilising these parenting resources made available for you.</p>
 <p>For more information on the parenting services provided by TOUCH and their
-contact details, please access the website at&nbsp;<strong><a href="http://www.touch.org.sg/parenting" rel="noopener noreferrer nofollow" target="_blank">https://www.touch.org.sg</a></strong>
+contact details, please access the website at&nbsp;<strong><a href="http://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.touch.org.sg</a></strong>
 </p>
