@@ -19,7 +19,7 @@ Interested applicants may submit your interest online via the URL online link or
  [Click here](https://bigheartstudentcare.com/interest/)
 or scan the following QR code to access the form.
 
-![](/images/Interest_Link_QR_Code_1.png)
+
 
 Big Heart Student Care  
 (at school premises)  
