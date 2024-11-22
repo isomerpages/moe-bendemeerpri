@@ -353,18 +353,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Noel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_noel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_noel_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Pravin Dass Mohkan Dass</p>
 </td>
 <td rowspan="1" colspan="1">
