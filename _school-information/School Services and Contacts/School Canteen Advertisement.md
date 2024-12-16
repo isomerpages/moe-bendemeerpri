@@ -47,7 +47,7 @@ via email OR to the School's General Office.</p>
 <p>Address: 91 Bendemeer Road
 <br>Contact No: 62982911
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">Bendemeer_ps@moe.edu.sg</a> 
-<br>Contact Person: Mr Sunny Phoon (Admin Manager)</p>
+<br>Contact Person: Mr Derrick Ang (Admin Manager)</p>
 <p></p>
 <p><strong>How to get there?</strong>
 </p>
