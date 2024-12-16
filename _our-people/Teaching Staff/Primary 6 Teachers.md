@@ -39,7 +39,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,15 +51,6 @@ variant: tiptap
 <p><a href="mailto:maha_letchimi_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maha_letchimi_krishnasamy@moe.edu.sg</a> 
 <br>
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm An Qinglin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a>
 </p>
 </td>
 </tr>

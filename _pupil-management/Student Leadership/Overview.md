@@ -9,7 +9,7 @@ variant: markdown
 
 
 **Co-Advisor**  <br>
-Mrs Santhi Ravindran (Vice Principal Academic)
+To be updated
 
 
 **Student Leadership Team**<br>

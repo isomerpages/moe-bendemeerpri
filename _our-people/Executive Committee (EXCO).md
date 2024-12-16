@@ -40,10 +40,22 @@ variant: tiptap
 <p>Vice Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Santhi Ravindran</p>
+<p>Mrs Linda Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:santhi_k_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_k_ramachandran@schools.gov.sg</a>
+<p><a href="mailto:santhi_k_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">linda_lau@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Kim Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:santhi_k_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kim_sing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -68,18 +80,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessintha_sasayiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessintha_sasayiah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lionel Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_leong_aik_lionel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_leong_aik_lionel@moe.edu.sg</a>
 </p>
 </td>
 </tr>

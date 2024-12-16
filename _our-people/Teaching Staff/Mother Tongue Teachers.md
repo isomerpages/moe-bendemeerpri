@@ -33,15 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm An Qinglin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:an_qinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_qinglin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms He Xueya</p>
 </td>
 <td rowspan="1" colspan="1">

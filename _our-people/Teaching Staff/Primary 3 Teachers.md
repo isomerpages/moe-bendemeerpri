@@ -114,23 +114,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Resilience</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Tommy Ho
-<br>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_kam_seng_tommy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kam_seng_tommy@moe.edu.sg</a> 
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sulasteri</p>
 </td>
