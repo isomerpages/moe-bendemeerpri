@@ -112,18 +112,6 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seah Ah Yoke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seah_ah_yoke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_ah_yoke@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Low Sok Ee Michel</p>
 </td>
 <td rowspan="1" colspan="1">
