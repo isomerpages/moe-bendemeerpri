@@ -105,7 +105,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,13 +127,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Amnah Bte Jantan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:amnah_jantan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amnah_jantan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
