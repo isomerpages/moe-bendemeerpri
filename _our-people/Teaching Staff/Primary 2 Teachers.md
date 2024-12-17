@@ -22,7 +22,8 @@ variant: tiptap
 <p>Mrs Elis Tjandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:elis_tjandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elis_tjandra@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,25 +46,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Tan</p>
+<p>Ms Pan Si Yong Olivia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_hui_christine@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ms Yeo Kwee Ping Sandy</p>
+<p>Mdm Parameswari d/o Suppayya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:yeo_kwee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kwee_ping@moe.edu.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dawn Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_poh_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_poh_har@moe.edu.sg</a>
 </p>
 </td>
 </tr>
