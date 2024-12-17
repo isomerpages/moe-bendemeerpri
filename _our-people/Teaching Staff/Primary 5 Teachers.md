@@ -100,11 +100,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Seetha Kumari d/o Jeet Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -112,7 +112,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kwek Hui Ying</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Fahmy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>5 Self Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Bharvindar Regina Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Jun Ming Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
