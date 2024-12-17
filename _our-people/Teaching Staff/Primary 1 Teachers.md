@@ -50,10 +50,11 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Sharon Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_lay_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_pheng@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
