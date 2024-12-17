@@ -31,7 +31,8 @@ variant: tiptap
 <p>Ms Chia Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nadine_soraya_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadine_soraya_fauzi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,23 +40,19 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kalashobhini
-<br>
-</p>
+<p>Ms Tan Jie Ying Cherynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalashobini_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalashobini_chandrasaharan@moe.edu.sg</a> 
-<br>
-<br>
+<p><a href="mailto:tan_jie_ying_cherynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jie_ying_cherynn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aisha</p>
+<p>Mr Praven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_aisha_juraimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisha_juraimi@moe.edu.sg</a>
+<p><a href="mailto:praven_raj_sukumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">praven_raj_sukumaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,8 +67,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
