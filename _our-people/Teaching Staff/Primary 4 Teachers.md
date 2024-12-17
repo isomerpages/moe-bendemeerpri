@@ -19,22 +19,21 @@ variant: tiptap
 <p>4 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Mei Shan
-<br>
-</p>
+<p>Ms Fiona Prapta Utama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_mei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_shan@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:fiona_prapta_utama@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fiona_prapta_utama@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sheila Chow</p>
+<p>Mr Jerald Tan
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hamzah_mahmid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheila_chow_hui_niang@moe.edu.sg</a>
+<p><a href="mailto:tan_sheng_yang_jerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sheng_yang_jerald@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -43,15 +42,10 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerald Tan
-<br>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sheng_yang_jerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sheng_yang_jerald@moe.edu.sg</a>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -182,7 +176,7 @@ variant: tiptap
 <p>Mdm Meenatchi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a> 
+<p><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
