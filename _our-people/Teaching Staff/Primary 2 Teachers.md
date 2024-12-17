@@ -83,7 +83,8 @@ variant: tiptap
 <p>Ms Choo Lee Tiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:choo_lee_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_lee_tiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
