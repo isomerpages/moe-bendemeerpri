@@ -135,56 +135,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Cynthia
-<br>
-</p>
+<p>Mdm Goon Yar Guan (Jennifer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_siew_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siew_cynthia@moe.edu.sg</a> 
-<br>
-<br>
+<p><a href="mailto:goon_yar_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goon_yar_guan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Zhi Qiang</p>
+<p>Ms Yeo Kwee Ping Sandy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_zhi_qiang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>2 Self-Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Luke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:luke_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luke_goh@moe.edu.sg</a>
+<p><a href="mailto:yeo_kwee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kwee_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dawn Ho</p>
+<p>Ms Cheong Gui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_poh_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_poh_har@moe.edu.sg</a>
+<p><a href="mailto:cheong_gui_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_gui_ying_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
