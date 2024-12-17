@@ -59,10 +59,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nora Ardilla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nora_ardila_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ardilla_azman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
