@@ -71,10 +71,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ding Xue</p>
+<p>Mrs Brindha Menon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_xue@moe.edu.sg</a>
+<p><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brindha_menon_siva@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -83,24 +83,31 @@ variant: tiptap
 <p>3 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dorothy Ho
-<br>
-</p>
-<p></p>
+<p>Ms Soon Lay Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_shang_wei_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shang_wei_dorothy@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:soon_lay_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soon_lay_har@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nora Ardilla</p>
+<p>Ms Kalvinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nora_ardila_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ardilla_azman@moe.edu.sg</a>
+<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalvinder_jeet_kaur@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lei Jiajia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
