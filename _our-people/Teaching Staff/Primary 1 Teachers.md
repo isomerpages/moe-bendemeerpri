@@ -15,7 +15,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -24,6 +24,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_wen_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_yee_rachel@moe.edu.sg</a> 
 <br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Yee Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yee_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
