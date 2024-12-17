@@ -53,7 +53,8 @@ variant: tiptap
 <p>Ms Pan Si Yong Olivia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pan_si_yong_olivia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pan_si_yong_olivia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +62,8 @@ variant: tiptap
 <p>Mdm Parameswari d/o Suppayya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parameswari_malarvannan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,9 +76,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Integrity</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Lee Tiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -86,11 +96,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Woo Siew Foon Alicia</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woo_siew_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_siew_foon@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
