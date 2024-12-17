@@ -19,23 +19,19 @@ variant: tiptap
 <p>3 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Gan Kok Sim</p>
-<p></p>
+<p>Ms Nadine Soraya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
+<p><a href="mailto:nadine_soraya_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadine_soraya_fauzi@moe.edu.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Prapta Utama</p>
+<p>Ms Chia Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fiona_prapta_utama@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fiona_prapta_utama@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,15 +64,14 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Xin
-<br>
-</p>
+<p>Mr Thomas Gan Kok Sim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_xin_xin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xin_xin_a@moe.edu.sg</a> 
-<br>
-<br>
+<p><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
