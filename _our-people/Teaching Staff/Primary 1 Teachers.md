@@ -119,10 +119,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sheila Chow&nbsp;</p>
+<p>Ms Sheila Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hamzah_mahmid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheila_chow_hui_niang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +131,8 @@ variant: tiptap
 <p>Ms Ervina Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ervina_atan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ervina_atan_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -138,29 +140,26 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jennifer Goon</p>
+<p>Ms Foo Siew I Cynthia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goon_yar_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goon_yar_guan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zakiyah Abdul Karim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zakiyah_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiyah_abdul_karim@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Najlaa Binte Hameed Maricar</p>
+<p>Ms Leong Sue Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:najlaa_hameed_maricar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">najlaa_hameed_maricar@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kwok Wai Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
