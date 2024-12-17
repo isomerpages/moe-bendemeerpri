@@ -15,7 +15,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -25,6 +25,25 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:izyan_wahid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izyan_wahid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraini Zainul
+<br>(Mrs Munawir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noraini_zainul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xu Yuanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -45,7 +64,7 @@ variant: tiptap
 <p>Ms Christine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_hui_christine@moe.edu.sg</a> 
+<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_hui_christine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -129,7 +148,7 @@ variant: tiptap
 <p>Mr Tay Zhi Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_zhi_qiang@moe.edu.sg</a> 
+<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_zhi_qiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -138,15 +157,10 @@ variant: tiptap
 <p>2 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Ong
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_wen_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_yee_rachel@moe.edu.sg</a> 
-<br>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
