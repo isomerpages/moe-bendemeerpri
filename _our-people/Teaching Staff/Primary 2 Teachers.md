@@ -15,17 +15,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Izyan Bte Wahid
-<br>
-</p>
+<p>Mrs Elis Tjandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:izyan_wahid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izyan_wahid@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -44,15 +41,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wang Yuan Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yee_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yuan_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
