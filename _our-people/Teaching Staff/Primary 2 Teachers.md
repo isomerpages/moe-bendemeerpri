@@ -97,10 +97,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ummi Umairah Binte Rosdin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ummi_Umairah_Binte_Rosdin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ummi_Umairah_Binte_Rosdin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,23 +109,29 @@ variant: tiptap
 <p>2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Siim Wii
-<br>
-</p>
+<p>Mdm Nursuhaila Bte Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_siim_wii@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siim_wii@moe.edu.sg</a> 
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aziana Aziz</p>
+<p>Mdm He Xueya&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aziana_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aziana_aziz@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amnah Bte Jantan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
