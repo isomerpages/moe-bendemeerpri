@@ -84,14 +84,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Lam
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_pheng@moe.edu.sg</a> 
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
