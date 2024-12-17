@@ -68,10 +68,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shahanaz Begum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shahanaz_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahanaz_begum@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
