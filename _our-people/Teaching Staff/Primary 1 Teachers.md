@@ -53,7 +53,7 @@ variant: tiptap
 <p>Mrs Sharon Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_pheng@moe.edu.sg</a> 
+<p><a href="mailto:ng_lay_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_pheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
