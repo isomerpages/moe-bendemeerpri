@@ -103,7 +103,8 @@ variant: tiptap
 <p>Ms Lim Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +115,8 @@ variant: tiptap
 <p>Mdm Seetha Kumari d/o Jeet Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seetha_kumari_jeet_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetha_kumari_jeet_singh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +124,8 @@ variant: tiptap
 <p>Mdm Kwek Hui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kwek_hui_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_hui_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +133,8 @@ variant: tiptap
 <p>Mr Mohammad Fahmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +145,8 @@ variant: tiptap
 <p>Mdm Bharvindar Regina Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,11 +154,12 @@ variant: tiptap
 <p>Mr Lee Jun Ming Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_jun_ming_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jun_ming_alvin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br>
+<br><a href="mailto:lim_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a>
 </p>
