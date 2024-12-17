@@ -22,7 +22,8 @@ variant: tiptap
 <p>Mdm Stella Kow (Mrs Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kow_mei_lin_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kow_mei_lin_stella@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +31,8 @@ variant: tiptap
 <p>Mdm Annabelle Ananthi Clemant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:annabelle_ananthi_clemant@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_ananthi_clemant@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +40,8 @@ variant: tiptap
 <p>Mdm Ong Meiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meiqing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +52,8 @@ variant: tiptap
 <p>Ms Yoo Pei Li (Mrs Ang)&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yoo_pei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yoo_pei_li@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +61,8 @@ variant: tiptap
 <p>Mdm Maha Letchimi d/o Krishnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:maha_letchimi_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maha_letchimi_krishnasamy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +73,8 @@ variant: tiptap
 <p>Mdm Geraldine Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seow_sing_ying_geraldine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_sing_ying_geraldine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +94,8 @@ variant: tiptap
 <p>Mr Lim Dali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_dali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_dali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
