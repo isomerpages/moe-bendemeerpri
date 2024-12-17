@@ -143,7 +143,8 @@ variant: tiptap
 <p>Ms Foo Siew I Cynthia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:foo_siew_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siew_cynthia@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +152,8 @@ variant: tiptap
 <p>Ms Leong Sue Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_sue_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_sue_ning@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +161,8 @@ variant: tiptap
 <p>Mdm Kwok Wai Mui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kwok_wai_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_wai_mui@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
