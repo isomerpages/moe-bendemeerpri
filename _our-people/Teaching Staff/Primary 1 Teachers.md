@@ -143,7 +143,7 @@ variant: tiptap
 <p>Ms Foo Siew I Cynthia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_siew_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siew_cynthia@moe.edu.sg</a> 
+<p><a href="mailto:foo_siew_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siew_cynthia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
