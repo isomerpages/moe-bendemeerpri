@@ -112,7 +112,8 @@ variant: tiptap
 <p>Mdm Nursuhaila Bte Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nursuhaila_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursuhaila_abdul_samad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
