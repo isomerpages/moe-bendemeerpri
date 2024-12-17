@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Self Discipline</p>
+<p>5 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Bharvindar Regina Kaur</p>
