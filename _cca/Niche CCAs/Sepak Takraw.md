@@ -6,16 +6,29 @@ third_nav_title: Niche CCAs
 variant: tiptap
 ---
 <h3>SEPAK TAKRAW</h3>
-<p><strong><u>Teachers in charge</u></strong>
-</p>
-<p>Mr Azimi bin Ahmad (1st IC)
-<br>Mr Lee Zheng Wei (2nd IC)
-<br>Mr Tay Zhi Qiang Shawn
-<br>Mdm Farhanah Suratman
-<br>Mr Praven Raj</p>
+<h4><strong><u>Teachers in charge</u></strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Azimi bin Ahmad (1st IC)</p>
+</li>
+<li>
+<p>Mr Lee Zheng Wei (2nd IC)</p>
+</li>
+<li>
+<p>Mr Tay Zhi Qiang Shawn</p>
+</li>
+<li>
+<p>Mdm Farhanah Suratman</p>
+</li>
+<li>
+<p>Mr Praven Raj</p>
+</li>
+<li>
 <p>Mdm Kwek Hui Ying</p>
-<p><strong><u>Coach </u></strong>
-<br>Mr. Mohamed Noor bin Mahmood</p>
+</li>
+</ol>
+<h4><strong><u>Coach</u></strong></h4>
+<p>Mr. Mohamed Noor bin Mahmood</p>
 <h2>CCA Schedule</h2>
 <table style="minWidth: 125px">
 <colgroup>
