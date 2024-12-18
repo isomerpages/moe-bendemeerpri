@@ -7,11 +7,29 @@ variant: tiptap
 ---
 <h3>FLOORBALL</h3>
 <h4>Teacher in charge</h4>
-<p>Ms Cynthia Foo&nbsp;(1st IC)
-<br>Mr Luke Goh (2nd IC)
-<br>Mr Chia Zongyu
-<br>Mdm Jennifer Goon
-<br>Mdm Serena Tiong</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ms Cynthia Foo&nbsp;(1st IC)</p>
+</li>
+<li>
+<p>Mr Mohammad Adha (2nd IC)</p>
+</li>
+<li>
+<p>Mr Luke Goh</p>
+</li>
+<li>
+<p>Mr Chia Zongyu</p>
+</li>
+<li>
+<p>Mdm Jennifer Goon</p>
+</li>
+<li>
+<p>Ms Rachel Ong</p>
+</li>
+<li>
+<p>Ms Lei Jiajia</p>
+</li>
+</ol>
 <h3>CCA Schedule</h3>
 <p>Every Wednesday (P3, P4, P5 and P6)
 <br>2pm to 4pm</p>
