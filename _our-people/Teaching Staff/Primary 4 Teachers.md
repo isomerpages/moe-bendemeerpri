@@ -104,7 +104,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,6 +121,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:woo_siew_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_siew_foon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Tan Meiqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adeline_tan_meiqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_meiqin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
