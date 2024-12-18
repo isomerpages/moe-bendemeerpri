@@ -7,20 +7,30 @@ variant: tiptap
 ---
 <h3>ROPE SKIPPING</h3>
 <h4>Teachers in charge</h4>
-<blockquote>
+<ol data-tight="true" class="tight">
+<li>
 <p>Mdm Nur Suhaila (1st IC)</p>
+</li>
+<li>
 <p>Mdm Siti Aisha (1st IC)</p>
+</li>
+<li>
 <p>Mrs Seetha Dhillon</p>
+</li>
+<li>
 <p>Mdm Ng Lay Pheng (2nd IC)</p>
+</li>
+<li>
 <p>Mdm Gao Xin</p>
+</li>
+<li>
 <p>Ms Brindha Menon</p>
-</blockquote>
-<blockquote>
+</li>
+</ol>
 <p>
 <br>Ms Edna Teo (coach)
 <br>Mr Kevin Koh (coach)
 <br>Mr Don Lui (coach)</p>
-</blockquote>
 <h4>CCA Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
