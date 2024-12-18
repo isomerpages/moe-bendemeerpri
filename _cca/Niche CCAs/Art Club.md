@@ -12,7 +12,6 @@ be an independent learner with an inquiring mind and strong moral values.</p>
 <h4>Teachers-in-Charge</h4>
 <p>Mr Hamzah Mahmid (1st IC)
 <br>Mrs Munawir (2nd IC)
-<br>Mr Tommy Ho
 <br>Ms Dorothy Ho
 <br>Ms Lau Kyla
 <br>
