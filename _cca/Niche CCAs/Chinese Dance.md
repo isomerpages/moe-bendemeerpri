@@ -8,8 +8,8 @@ variant: tiptap
 <h3>CHINESE DANCE</h3>
 <h4>Teachers in charge</h4>
 <p>Mdm An Qinglin (1st IC)
-<br>Mdm Chua Xingrou&nbsp;(2nd IC)
-<br>Ms Woo Siew Foon
+<br>Mdm Chua Xingrou&nbsp;
+<br>Ms Woo Siew Foon (2nd IC)
 <br>
 </p>
 <h4>Instructor</h4>
