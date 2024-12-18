@@ -12,16 +12,19 @@ variant: tiptap
 <p>Ms Sulasteri Binte Mohammad Sidek (1st IC)</p>
 </li>
 <li>
-<p>Mr Lim Dali (2nd IC)</p>
+<p>Ms Tan XIn XIn</p>
 </li>
 <li>
-<p>Ms Christine Tan</p>
+<p>Ms Christine Tan (2nd IC)</p>
 </li>
 <li>
 <p>Mdm Ding Xue</p>
 </li>
 <li>
-<p>Ms Wang Yuan Yuan</p>
+<p>Mdm Cherynn Tan</p>
+</li>
+<li>
+<p>Ms Fiona Prapta Utama</p>
 </li>
 </ol>
 <h4>CCA Schedule</h4>
