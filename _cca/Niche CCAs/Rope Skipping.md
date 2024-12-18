@@ -27,10 +27,10 @@ variant: tiptap
 <p>Ms Brindha Menon</p>
 </li>
 </ol>
-<p>
-<br>Ms Edna Teo (coach)
-<br>Mr Kevin Koh (coach)
-<br>Mr Don Lui (coach)</p>
+<h4>Coaches</h4>
+<p>1. Ms Edna Teo (coach)
+<br>2. Mr Kevin Koh (coach)
+<br>3. Mr Don Lui (coach)</p>
 <h4>CCA Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
