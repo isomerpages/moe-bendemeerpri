@@ -6,8 +6,8 @@ third_nav_title: Niche CCAs
 variant: tiptap
 ---
 <h4>Teachers in charge</h4>
-<p>1. Mdm Liew SW (1st i/c)
-<br>2. Mr Jerald Tan (2nd i/c)
+<p>1. Mdm Liew Siim Wii (1st IC)
+<br>2. Mr Jerald Tan (2nd IC)
 <br>3. Ms Leong Sue Ning
 <br>4. Ms Phua Mei Yin
 <br>5. Ms Wong Yee Yee
