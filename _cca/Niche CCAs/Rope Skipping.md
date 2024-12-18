@@ -15,10 +15,10 @@ variant: tiptap
 <p>Mdm Siti Aisha (1st IC)</p>
 </li>
 <li>
-<p>Mrs Seetha Dhillon</p>
+<p>Mdm Ng Lay Pheng (2nd IC)</p>
 </li>
 <li>
-<p>Mdm Ng Lay Pheng (2nd IC)</p>
+<p>Mrs Seetha Dhillon</p>
 </li>
 <li>
 <p>Mdm Gao Xin</p>
