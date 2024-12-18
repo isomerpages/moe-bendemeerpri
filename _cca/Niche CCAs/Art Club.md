@@ -10,12 +10,25 @@ variant: tiptap
 <p>Through creative and artistic expressions, every member is nurtured to
 be an independent learner with an inquiring mind and strong moral values.</p>
 <h4>Teachers-in-Charge</h4>
-<p>Mr Hamzah Mahmid (1st IC)
-<br>Mrs Munawir (2nd IC)
-<br>Ms Dorothy Ho
-<br>Ms Lau Kyla
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm Sheila Chow (2nd IC)</p>
+</li>
+<li>
+<p>Mrs Munawir (1st IC)</p>
+</li>
+<li>
+<p>Ms Dorothy Ho</p>
+</li>
+<li>
+<p>Ms Nadine Soraya</p>
+</li>
+<li>
+<p>Mr Lim Dali
 <br>
 </p>
+</li>
+</ol>
 <h4>CCA Schedule</h4>
 <p>Every Wednesday
 <br>2.00p.m. - 3.30p.m.</p>
