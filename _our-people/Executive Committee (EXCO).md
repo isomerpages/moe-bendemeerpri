@@ -85,6 +85,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norherliza Ab Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norherliza_ab_rahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Information Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,18 +237,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chu_yit_mei_juliana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yit_mei_juliana@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norherliza Ab Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norherliza_ab_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>

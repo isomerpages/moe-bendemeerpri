@@ -6,15 +6,20 @@ third_nav_title: Niche CCAs
 variant: tiptap
 ---
 <h4>Teachers in charge</h4>
-<p>1. Mdm Liew SW (1st i/c)
-<br>2. Mr Jerald Tan (2nd i/c)
-<br>3. Ms Chua Wen Qian
+<p>1. Mdm Liew Siim Wii (1st IC)
+<br>2. Mr Jerald Tan (2nd IC)
+<br>3. Ms Leong Sue Ning
 <br>4. Ms Phua Mei Yin
 <br>5. Ms Wong Yee Yee
 <br>6. Ms Selina Chong
 <br>7. Mr Thomas Gan</p>
 <h4>CCA Schedule</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

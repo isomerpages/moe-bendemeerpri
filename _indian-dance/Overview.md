@@ -7,9 +7,8 @@ variant: tiptap
 <h3>INDIAN DANCE</h3>
 <h4>Teachers in charge</h4>
 <p>1. Mrs Vannan (1st IC)
-<br>2. Mrs Mahendren (2nd IC)
-<br>3. Ms Regina Kaur
-<br>4. Ms Fiona Utama
+<br>2. Ms Regina Kaur (2nd IC)
+<br>3. Mdm Shahanaz Begum
 <br>
 </p>
 <p>Instructor

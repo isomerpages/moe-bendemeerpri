@@ -7,11 +7,10 @@ variant: tiptap
 ---
 <h3>MEDIA &amp; ENVIRONMENT CLUB</h3>
 <p><strong><u>Teachers in charge</u></strong> 
-<br>Mdm Elis Tjandra (1st IC)
-<br>Ms Geraldine Seow&nbsp;(2nd IC)
-<br>Ms Yoo Pei Li
+<br>Mdm Elis Tjandra
+<br>Ms Geraldine Seow&nbsp;(1st IC)
+<br>Ms Yoo Pei Li (2nd IC)
 <br>Ms Kalashobini D/O Chandrasaharan
-<br>Ms Ong Ying Fei Vienna
 <br>
 </p>
 <p><strong><u>CCA Schedule:</u></strong> 

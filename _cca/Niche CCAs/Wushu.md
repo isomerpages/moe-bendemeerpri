@@ -12,7 +12,7 @@ variant: markdown
 <br>Ms Olivia Pan
 <br>Ms Soon Lay Har
 <br>Ms Choo Lee Tiang
-<br>
+<br>Ms Venny Chan
 </p>
 <h4>CCA Schedule</h4>
 <p>Time of CCA
