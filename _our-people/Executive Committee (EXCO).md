@@ -133,6 +133,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Meiqing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Tan Meiqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Teacher Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,6 +223,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalvinder Jeet Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
