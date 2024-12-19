@@ -150,7 +150,8 @@ variant: tiptap
 <p>Ms Adeline Tan Meiqin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:adeline_tan_meiqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_meiqin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
