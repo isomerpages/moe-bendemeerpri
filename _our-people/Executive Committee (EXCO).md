@@ -233,7 +233,8 @@ variant: tiptap
 <p>Mdm Kalvinder Jeet Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalvinder_jeet_kaur@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +245,8 @@ variant: tiptap
 <p>Mdm Lim Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
