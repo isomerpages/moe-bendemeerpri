@@ -11,4 +11,3 @@ variant: markdown
 
 ![](/images/Termly%20CW%20Tips%20for%20Parents.jpg)
 
-Click on the link to find out more about [Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg)
