@@ -133,6 +133,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Meiqing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meiqing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Tan Meiqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adeline_tan_meiqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_meiqin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Teacher Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,6 +224,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalvinder Jeet Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalvinder_jeet_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
