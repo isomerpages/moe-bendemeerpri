@@ -43,7 +43,7 @@ variant: tiptap
 <p>Mrs Linda Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:santhi_k_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">linda_lau@schools.gov.sg</a>
+<p><a href="mailto:lau_wei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_wei_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Mr Toh Kim Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:santhi_k_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kim_sing@schools.gov.sg</a>
+<p><a href="mailto:toh_kim_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kim_sing@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -31,7 +31,7 @@ variant: tiptap
 <p>Ms Chia Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadine_soraya_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadine_soraya_fauzi@moe.edu.sg</a>
+<p><a href="mailto:chia_jia_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_jia_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
