@@ -23,7 +23,11 @@ variant: tiptap
 <p>At Bendemeer, we are committed to building an enabling and caring school
 environment where every student feels valued, heard, and supported. Our
 goal is to create a space where students are happy, challenged, and nurtured
-within a safe and encouraging setting.</p>
+within a safe and encouraging setting.
+<br>This year, our focus is encapsulated in the theme: <em>“Know Me. Affirm Me. Nurture Me.” </em>Guided
+by the principles of Positive Education, we will continue to emphasise
+the use of positive language, building strong relationships, and demonstrating
+kindness and resilience in all that we do.</p>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
@@ -34,10 +38,7 @@ within a safe and encouraging setting.</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<p>This year, our focus is encapsulated in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em>Guided
-by the principles of Positive Education, we will continue to emphasise
-the use of positive language, building strong relationships, and demonstrating
-kindness and resilience in all that we do.
+<p>
 <br>
 <br>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
 designed to set the right tone before lessons begin. This programme helps
