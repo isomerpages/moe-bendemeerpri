@@ -8,91 +8,85 @@ variant: tiptap
 <h3>PRINCIPAL'S MESSAGE</h3>
 <p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025</strong>
 </p>
-<p><strong>&nbsp;A Warm Welcome to All Our Parents and Students!</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<p>&lt;table&gt;</p>
-<p>&lt;tbody&gt;&lt;tr&gt;</p>
-<p>&lt;td&gt;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2025_photo_on_website.jpg">
 </div>
-<p>&lt;img style="width:35%" src="/images/Mrs_Tan_2.jpg"&gt;</p>
-<p>&lt;/a&gt;</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;td&gt;</p>
-<p>Discover how we work closely with our external partners to&amp;nbsp;&lt;b&gt;deliver
-the best learning experiences &lt;/b&gt;&amp;nbsp;to both students and
-staff through giving back to the community and participating as responsible
-citizens while&amp;nbsp;&lt;b&gt;forging mutually-beneficial relationships&lt;/b&gt;.
-(Click on the image)</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;/tr&gt;</p>
-<p>&lt;/tbody&gt;&lt;/table&gt;</p>
+</td>
+<td rowspan="1" colspan="2">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_profiel_photo.jpg">
-</div>
-<p>A warm welcome to all our parents and students!
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>A warm welcome to all our parents and students! </strong>
 <br>
-<br>Established in 1977, Bendemeer Primary School’s educational journey through
-the years has grown from strength to strength. We remain steadfast in our
-vision to nurture a gracious community of passionate learners and confident
-leaders through the Bendemeer experience where educating our students centres
-on the belief that each student is unique and their individual abilities
-differ widely.
-<br>At Bendemeer, we aim to build an enabling and caring school environment.
-One where the students feel that their voices matter and where they feel
-happy as well as challenged within a safe and supportive environment. Our
-focus this year is <em>‘Know me. Affirm me. Nurture me.’ </em>We are also
-guided by the principles of Positive Education and will be continuing with
-the emphasis on using positive language, building positive relationships
-as well as demonstrating positive actions in all we do.
-<br>The past year has been a meaningful journey for the school, as we celebrated
-our 45th anniversary and embarked on many school activities which promote
-the holistic development of our students. Our students had the opportunity
-to explore their interests through IGNITE- <em>Interest Groups to Nurture and Inspire through Experiences</em>.
-This programme is aimed at offering students workshops or courses that
-our P5 students could take up based on their interest. We believe that
-when students are given opportunities to be independent, to be engaged
-as well as to pursue their own interests, they are more motivated. Through
-this programme we have seen our students show initiative, curiosity and
-develop a greater sense of confidence in their ability.
-<br>When our students return to school they will experience our Get-It-Right
-(GIR) Programme. The programme aims to give our students an opportunity
-to get to know their peers, teachers and understand expectations in order
-to set the right tone before lessons begin. In addition, our school’s Applied
-Learning Programme (ALP) on Environment Education and Sustainable Living
-is part of students’ curriculum. The school is also on board MOE’s UPLIFT
-programme which aims to support and strengthen and enhance support for
-disadvantaged students.
-<br>We are also blessed by the myriad partnerships we have forged with other
-schools. Partnerships with Bendemeer Secondary, Raffles Institution, St
-Joseph’s Institution and St Andrew’s Junior College have benefitted our
-students greatly and we hope to continue such meaningful collaborations
-in 2024.
-<br>Our partnerships also extend beyond our borders as our students were given
-an opportunity to interact with students from overseas schools such as
-Y.C.H. Choi Hin To Primary School in Hong Kong, John Dewey School for Children
-from the Philippines, Shi Shi Tianfu High School Affiliated Primary School,
-our partner school in Chengdu, China as well as Bala Vinayaka Vidyaniketan
-(BVV) school in India.
-<br>We are also proud of our students in the Floorball, Rope Skipping, Track
-and Field, Wushu CCAs who did us proud in the National School Games (NSG).
-We are also heartened that our Sepak Takraw boys came in first in the Senior
-Division of the NSG. We hope that besides the accolades earned, our students
-were able to discover their talents and build character through the interaction
-with their teammates in the NSG.
-<br>We are also proud of our 2023 P6 cohort who has graduated and moved on
-to secondary school. We are pleased to note that majority of our students
-were posted to schools that were their first choice. We wish them well
-in their journey ahead!
-<br>I am confident that with the continued support of our valued stakeholders,
+<br>At Bendemeer, we are committed to building an enabling and caring school
+environment where every student feels valued, heard, and supported. Our
+goal is to create a space where students are happy, challenged, and nurtured
+within a safe and encouraging setting. This year, our focus is encapsulated
+in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em> Guided by the principles
+of Positive Education, we will continue to emphasise the use of positive
+language, building strong relationships, and demonstrating kindness and
+resilience in all that we do.</p>
+<p>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
+designed to set the right tone before lessons begin. This programme helps
+students build meaningful connections with their peers and teachers while
+clarifying expectations to ensure a positive start to the school year.
+Additionally, our Applied Learning Programme (ALP) on Environmental Education
+and Sustainable Living remains a cornerstone of our curriculum, fostering
+awareness and responsibility towards sustainability.</p>
+<p>This year, we are placing a special focus on enhancing classroom experiences
+to make learning more dynamic, relevant, and joyful. By cultivating curiosity,
+creativity, and collaboration, we aim to make every lesson an opportunity
+for exploration and discovery. Our goal is for every student to feel inspired
+and intrinsically motivated to learn, recognizing that education is not
+just about outcomes but the journey itself.</p>
+<p>We are also proud to support and uplift our students through programmes
+like MOE’s <em>UPLIFT</em> initiative, which strengthens and enhances support
+for disadvantaged students. Alongside these, our <em>IGNITE</em> programme
+will offer our P4 and P5 students the chance to explore their passions
+through workshops and courses tailored to their interests. By encouraging
+independence, initiative, and engagement, we hope to nurture self-directed
+learners who approach challenges with confidence and curiosity.</p>
+<p>Beyond academics, we treasure the partnerships we have built with schools,
+including Bendemeer Secondary, Raffles Institution, St Joseph’s Institution,
+Catholic Junior College, and St Andrew’s Junior College. These collaborations
+provide enriching opportunities for our students to grow. We also value
+our international connections, which have allowed our students to learn
+from peers worldwide, including those in Hong Kong, Malaysia, China, and
+India. Such exchanges broaden their horizons and help them appreciate diverse
+cultures and perspectives.</p>
+<p>We celebrate our students’ achievements in various domains, including
+their outstanding performances in the National School Games and the SYF
+Arts Presentation. Through these successes, we hope our students not only
+develop their talents but also build resilience, teamwork, and character.</p>
+<p>Lastly, we commend our 2024 P6 cohort, who have moved on to secondary
+schools, with many securing their first-choice placements. We are proud
+of their achievements and confident they will continue to shine in their
+next chapter.</p>
+<p>As we embark on another year, we remain steadfast in our vision to nurture
+a gracious community of passionate learners and confident leaders. By embracing
+each child’s uniqueness and fostering their individual strengths, we continue
+to grow from strength to strength.</p>
+<p>I am confident that with the continued support of our valued stakeholders,
 the unwavering dedication of the staff in Bendemeer and our commitment
 to provide the Bendemeer experience, our students will truly live up to
-being a gracious community of passionate learners and confident leaders.
-<br>I look forward to another year of meaningful partnerships with all our
-stakeholders as we work hand in hand to provide the best learning experiences
-for our children.</p>
+being a gracious community of passionate learners and confident leaders.</p>
+<p>Here’s to a wonderful year ahead!</p>
 <p>Your partner-in-education,</p>
-<p>Mrs Tan-Lim Kim Gek
-<br>Principal</p>
+<p>Mrs Tan-Lim Kim Gek</p>
+<p>Principal</p>
