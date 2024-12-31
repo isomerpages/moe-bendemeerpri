@@ -13,8 +13,10 @@ variant: tiptap
 <p>&lt;table&gt;</p>
 <p>&lt;tbody&gt;&lt;tr&gt;</p>
 <p>&lt;td&gt;</p>
-<p>&lt;a href="/our-people/Our-Partners/overview"&gt;</p>
-<p>&lt;img width="480" src="/images/partners%20open%20house%20pic.jpg"&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2.jpg">
+</div>
+<p>&lt;img style="width:35%" src="/images/Mrs_Tan_2.jpg"&gt;</p>
 <p>&lt;/a&gt;</p>
 <p>&lt;/td&gt;</p>
 <p>&lt;td&gt;</p>
