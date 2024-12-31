@@ -27,12 +27,13 @@ within a safe and encouraging setting.</p>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_1.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
+<p></p>
 <p>This year, our focus is encapsulated in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em>Guided
 by the principles of Positive Education, we will continue to emphasise
 the use of positive language, building strong relationships, and demonstrating
