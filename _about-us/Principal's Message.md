@@ -37,10 +37,7 @@ kindness and resilience in all that we do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p></p>
-<p>
-<br>
-<br>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
+<p>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
 designed to set the right tone before lessons begin. This programme helps
 students build meaningful connections with their peers and teachers while
 clarifying expectations to ensure a positive start to the school year.
