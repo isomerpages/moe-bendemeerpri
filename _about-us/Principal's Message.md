@@ -6,9 +6,7 @@ image: ""
 variant: tiptap
 ---
 <h3>PRINCIPAL'S MESSAGE</h3>
-<p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
