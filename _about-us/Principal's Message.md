@@ -10,33 +10,37 @@ variant: tiptap
 </p>
 <p><strong>A warm welcome to all our parents and students!</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2025_photo_on_website.jpg">
-</div>
-</td>
 <td rowspan="1" colspan="2">
 <p>At Bendemeer, we are committed to building an enabling and caring school
 environment where every student feels valued, heard, and supported. Our
 goal is to create a space where students are happy, challenged, and nurtured
 within a safe and encouraging setting. This year, our focus is encapsulated
-in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em> Guided by the principles
-of Positive Education, we will continue to emphasise the use of positive
-language, building strong relationships, and demonstrating kindness and
-resilience in all that we do.</p>
+in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em> 
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
+<td rowspan="1" colspan="4">
+<p>Guided by the principles of Positive Education, we will continue to emphasise
+the use of positive language, building strong relationships, and demonstrating
+kindness and resilience in all that we do.
+<br>
+<br>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
 designed to set the right tone before lessons begin. This programme helps
 students build meaningful connections with their peers and teachers while
 clarifying expectations to ensure a positive start to the school year.
