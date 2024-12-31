@@ -27,7 +27,7 @@ within a safe and encouraging setting.</p>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_4.jpg">
 </div>
 </td>
 </tr>
