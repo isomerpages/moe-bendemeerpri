@@ -20,16 +20,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <p>At Bendemeer, we are committed to building an enabling and caring school
 environment where every student feels valued, heard, and supported. Our
 goal is to create a space where students are happy, challenged, and nurtured
-within a safe and encouraging setting. This year, our focus is encapsulated
-in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em>
-</p>
+within a safe and encouraging setting.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Tan_2.jpg">
 </div>
@@ -37,7 +33,8 @@ in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Guided by the principles of Positive Education, we will continue to emphasise
+<p>This year, our focus is encapsulated in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em>Guided
+by the principles of Positive Education, we will continue to emphasise
 the use of positive language, building strong relationships, and demonstrating
 kindness and resilience in all that we do.
 <br>
