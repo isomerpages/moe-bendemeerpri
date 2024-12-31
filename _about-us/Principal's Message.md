@@ -8,7 +8,7 @@ variant: tiptap
 <h3>PRINCIPAL'S MESSAGE</h3>
 <p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025&nbsp;</strong>
 </p>
-<p><strong>A warm welcome to all our parents and students! </strong>
+<p><strong>A warm welcome to all our parents and students!</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
