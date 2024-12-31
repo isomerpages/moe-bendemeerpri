@@ -8,6 +8,8 @@ variant: tiptap
 <h3>PRINCIPAL'S MESSAGE</h3>
 <p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025&nbsp;</strong>
 </p>
+<p><strong>A warm welcome to all our parents and students! </strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -22,17 +24,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>A warm welcome to all our parents and students! </strong>
-<br>
-<br>At Bendemeer, we are committed to building an enabling and caring school
+<p>At Bendemeer, we are committed to building an enabling and caring school
 environment where every student feels valued, heard, and supported. Our
 goal is to create a space where students are happy, challenged, and nurtured
 within a safe and encouraging setting. This year, our focus is encapsulated
@@ -40,6 +32,10 @@ in the theme: <em>“Know Me. Affirm Me. Nurture Me.”</em> Guided by the princ
 of Positive Education, we will continue to emphasise the use of positive
 language, building strong relationships, and demonstrating kindness and
 resilience in all that we do.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>As our students return to school, they will engage in our <em>Get-It-Right (GIR) Programme</em>,
 designed to set the right tone before lessons begin. This programme helps
 students build meaningful connections with their peers and teachers while
@@ -87,4 +83,9 @@ being a gracious community of passionate learners and confident leaders.</p>
 <p>Here’s to a wonderful year ahead!</p>
 <p>Your partner-in-education,</p>
 <p>Mrs Tan-Lim Kim Gek</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Principal</p>
