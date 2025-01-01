@@ -82,11 +82,11 @@ the unwavering dedication of the staff in Bendemeer and our commitment
 to provide the Bendemeer experience, our students will truly live up to
 being a gracious community of passionate learners and confident leaders.</p>
 <p>Here’s to a wonderful year ahead!</p>
-<p>Your partner-in-education,</p>
-<p>Mrs Tan-Lim Kim Gek</p>
+<p>Your partner-in-education,
+<br>Mrs Tan-Lim Kim Gek
+<br>Principal</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Principal</p>
