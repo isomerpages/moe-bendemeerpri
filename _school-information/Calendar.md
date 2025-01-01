@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>CALENDAR</h3>
-<p>Please click on the link provided to view <a href="https://docs.google.com/spreadsheets/d/1hkH8u1OJXPji9Nm1btozlPQ6blT1C7pnENA1z_MnkxA/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Term 4 School Calendar 2024</a>
+<p>Please click on the link provided to view <a href="https://docs.google.com/spreadsheets/d/165_6fd5q8e8qY9EcybMwRHjT3IvrL8f2QwpOxsenCTY/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Term 1 School Calendar 2025</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="800" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSE6l4YkQ8uHIYDpqkHfYkR3o0hElUIzGuNvSqs5KZq25x3qaGUNnRwi2RGQLUtBuS9cOR3poBhvHE9/pubhtml?gid=1241422741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoVD0qdbrZJvUsDc0oVibp1gFEJkUcg5NAEmQcQ5nnQuiFCBb1wuzpL0j0RdUh7eJo1p4I7gBdFLlK/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 <p>You can also access the school calendar via Parent Gateway.
 <br>Please refer to the image below:</p>
