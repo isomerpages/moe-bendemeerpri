@@ -167,6 +167,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Praven Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:praven_raj_sukumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">praven_raj_sukumaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rajalakshmi Kannan</p>
 </td>
 <td rowspan="1" colspan="1">
