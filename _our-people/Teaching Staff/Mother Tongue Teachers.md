@@ -24,10 +24,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ong Meiqing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_meiqing@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Xu Yuanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_mei_ling@moe.edu.s</u></a>
 </p>
 </td>
 </tr>
@@ -112,15 +130,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Mei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_zhi_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Tamil</h5>
@@ -162,6 +171,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahanaz_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahanaz_begum@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Praven Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:praven_raj_sukumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">praven_raj_sukumaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
