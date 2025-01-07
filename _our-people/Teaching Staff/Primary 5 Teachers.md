@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Meiqing</p>
+<p>Ms Ong Meiqing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meiqing@moe.edu.sg</a>
@@ -108,7 +108,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,16 +129,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Fahmy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,6 +137,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bharvindar_regina_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharvindar_regina_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Fahmy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
