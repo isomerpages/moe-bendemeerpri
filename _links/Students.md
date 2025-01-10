@@ -14,6 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,9 +57,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/allears.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://forms.moe.edu.sg/forms/vEaqXO" rel="noopener nofollow" target="_blank">P1 to P2</a>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/J9bgy1" rel="noopener nofollow" target="_blank">P3 to P4</a>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/vXRmQP" rel="noopener nofollow" target="_blank">P5 to P6</a>
+</p>
 </td>
 </tr>
 </tbody>
