@@ -101,5 +101,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Parents Briefing 2025</a>
+<p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
 </p>
