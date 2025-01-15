@@ -253,7 +253,7 @@ providers.
 <br>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year via Parents Gateway. The completed
-opt-out form is to be submitted by <strong>24 January 2024.</strong>
+opt-out form is to be submitted by <strong>24 January 2025.</strong>
 </p>
 <ol start="10" data-tight="true" class="tight">
 <li>
