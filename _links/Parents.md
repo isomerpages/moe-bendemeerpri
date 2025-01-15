@@ -52,6 +52,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Microsoft_Teams_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </td>
@@ -101,5 +113,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
-</p>
+<p></p>

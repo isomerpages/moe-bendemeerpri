@@ -147,35 +147,14 @@ variant: tiptap
 <br>MALAY LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mranbarasu" src="https://file.for.edu.sg/mranbarasu.JPG">
-</div>
-<p>MR ANBARASU R J
-<br>TAMIL LANGUAGE TEACHER</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_3_34_05_PM.jpg">
-</div>
-<p>MR PRAKASH EZEKIEL
-<br>TAMIL LANGUAGE TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_3_34_05_PM.jpg">
+</div>
+<p>MR PRAKASH EZEKIEL
+<br>TAMIL LANGUAGE TEACHER</p>
