@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>MATHEMATICS</h3>
-<p>Singapore Mathematics Framework</p>
 <p>The school’s Mathematics Programme is guided by the Primary Mathematics
-Syllabus (MOE 2013). The syllabus aims to enable all students to:&nbsp;</p>
+Syllabus (MOE 2021). The syllabus aims to enable all students to:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>acquire mathematical concepts and skills for everyday use and continuous
@@ -15,10 +14,28 @@ learning in mathematics;</p>
 </li>
 <li>
 <p>develop thinking, reasoning, communication, application and metacognitive
-skills through a mathematical approach to problem-solving; build confidence
-and foster interest in mathematics.</p>
+skills through a mathematical approach to problem-solving;</p>
+</li>
+<li>
+<p>build confidence and foster interest in mathematics.</p>
 </li>
 </ul>
+<p></p>
+<p><strong>Vision</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To foster the joy in the learning of Mathematics</p>
+</li>
+<li>
+<p>To build student capacity for self-directed learning</p>
+</li>
+<li>
+<p>To enhance the quality of students’ learning experiences through innovation
+and integration</p>
+</li>
+</ul>
+<h4>Singapore Mathematics Framework</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5%20(7).jpg">
 </div>
@@ -34,7 +51,11 @@ interests and experiences and engage them in active and reflective learning.</p>
 <h5>Principle 3</h5>
 <p>Teaching should connect learning to the real world, harness ICT tools
 and emphasise 21st century competencies.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,7 +92,11 @@ when they enter Primary 1. Originally intended for Primary 1 and Primary
 2, the support has now been extended to Primary 4.&nbsp;</p>
 <p>The Key Math activities that promote joy of learning can be found in the
 table below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,10 +142,7 @@ table below:</p>
 </tr>
 </tbody>
 </table>
-<p><u>P3 – P6 Improving Confidence and Achievement in Numeracy (ICAN Programme)</u> 
-<br>The ICAN programme is a collaboration between schools and MOE to support
-students using intervention strategies and models that are guided by research
-to tackle the 4 key issues of learning gaps, language, motivation and memory.</p>
+<p></p>
 <p><u>P4 – P5 E2K Mathematics Programme (Selected students)</u> 
 <br>Math E2K is a Mathematics enrichment programme for upper primary students
 who demonstrate interest and ability in Mathematics.&nbsp; It aims to foster
@@ -133,22 +155,10 @@ critical and inventive thinking, and effective communication skills.</p>
 <br>P1 – 6 Math Whiz&nbsp;
 <br>P4 – 6 Math Olympiad Programme
 <br>P4 – 6 Math Competitions</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/3%20(9).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Math_2025_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/4%20(9).jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><em><u>Useful Links</u></em></h4>
 <p>Educational Games for kids</p>
 <ul>
