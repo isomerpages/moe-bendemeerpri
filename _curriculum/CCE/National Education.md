@@ -42,40 +42,31 @@ skills to interact with others when they support the 4 NE Core Events.
 NE Champs are the key to the events’ success! In fact, they are champions
 in more ways than they can think of!</p>
 <h5>NE Champs Training Session and Events</h5>
-<p>During these leadership sessions, NE Champs are informed on the roles
+<p>During their leadership sessions, NE Champs are informed on the roles
 and responsibilities of being an NE Champ. They also discuss and reflect
 on their purpose and how they can contribute to serve the school and community.
 The NE Champs also undergo specialized training in their areas to learn
 more about their roles in the student leadership of the school. The NE
 Champs are trained to engage the other students during recess time and
 during the NE Core Events. Therefore, they help anchor and spread the NE
-Messages and exhibit the school values to fellow students and staff. In
-2024, some NE Champs had the opportunity to attend the Chingay Parade.
-This enhanced their roles as student leaders in inculcating NE experiences
-and knowledge to their peers.&nbsp;&nbsp; &nbsp;
+Citizenship Dispositions and exhibit the school values to fellow students
+and staff.&nbsp;
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_2024_Champ.jpg">
-</div>
 <h4><strong><u>Core Events</u></strong></h4>
 <p>Annually schools observe 4 NE commemorative days which have been identified
 as defining moments in Singapore's history.&nbsp; The aim is to entrench
 these events and the images they evoke in the consciousness of each successive
 generation.</p>
-<p>The 4 events are:
-<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total Defence Day
-<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Friendship Day
-<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Racial Harmony Day
-<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Day
+<p>The 4 events are:</p>
+<p>1.&nbsp;&nbsp;&nbsp; Total Defence Day
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp; International Friendship Day
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp; Racial Harmony Day
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp; National Day
 <br>
 </p>
 <p><strong><u>Total Defence Day Commemoration (TDD) 2024 @BPS</u></strong>
@@ -133,73 +124,69 @@ Students, and the prefects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFD_3.jpg">
 </div>
-<h4>Racial Harmony Day (RHD) 2023 @ BPS</h4>
+<h4>Racial Harmony Day (RHD) 2024 @ BPS</h4>
 <p>The theme for this year was Multicultural Mosaic. Just like a mosaic,
 each community in Singapore has its own identity. This overlaps with other
 cultural diversity in Singapore. In BPS, we focused on the key element
 of living in harmony with others and not taking peace for granted. The
 students and staff commemorated Racial Harmony Day in July. Fun-filled
-activities were carried out in collaboration with the PSG and the Aesthetics
-Department. The students learnt more about the various musical instruments
-that each ethnic group plays with some hands-on experience. Students created
-their own paper lanterns and played with bambaram ( spinning top). The
-staff and students also came dressed in their colourful ethnic attires
-to immerse into the celebration of multiculturalism.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_5.jpg">
-</div>
+activities were carried out in collaboration with our PSG. The students
+learnt more about the ‘old school’ snacks and games that Singaporeans used
+to play during the Kampong Days. People from different races and religions
+bonded through these activities back in those days. The staff and students
+also came dressed in their colourful ethnic attires to immerse into the
+celebration of multiculturalism. &nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_6.jpg">
-</div>
-<h4>National Day 2023 @ BPS</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Onward_as_one.jpg">
-</div>
-<p>The theme for this year, “Onward As One”, calls upon Singaporeans to look
-forward confidently and move onward together in building our shared future
-as one united people. The 58th birthday celebrations started with the solemn
-march-past ceremony and the spirits hyped up with the mini concert and
-mass singing of the different National Day songs. The students also exercised
-to the “Get Active “Challenge and concluded the day by creating their own
-class identity, their class flags.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NE_Champ_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NE_Champ_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_3.jpg">
 </div>
-<h4>P5 NE Show 2023 @ the Padang (where the first National Day was held)</h4>
+<h4>National Day 2024 @ BPS</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_4.jpg">
+</div>
+<p>The theme for this year, <strong>“Together, As One United People”</strong>,
+calls upon the strength of our people and emphasizes on the importance
+of every citizen rallying together to share our future and uplift those
+around us.</p>
+<p>The 59<sup>th</sup> birthday celebrations started with the solemn march-past
+ceremony and the spirits hyped up with the mini concert and mass singing
+of the different National Day songs. The students also exercised to the
+“Get Active “Challenge and concluded the day by creating their own pennant
+flags in class.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_5.jpg">
+</div>
+<h4><u>P5 NE Show 2024 @ the Padang (where the first National Day was held)</u></h4>
 <p>The Primary 5 students get the opportunity to be a part of the NE Show
-yearly. This year the NE Show took place at the legendary Padang. The students
-were thrilled to be a part of the celebration of the nation as it was the
-first for many of them. They did the Kallang Wave, sang the National Day
-songs and soaked into the red sea of students. The various segments of
-the show kept the students energized and vibrant.</p>
-<p></p>
+yearly. The NE Show took place at the legendary Padang for the second year.
+The students were thrilled to be a part of the celebration of the nation
+as it was the first for many of them. They did the Kallang Wave, sang the
+National Day songs and soaked into the red sea of students. The various
+segments of the show kept the students energized and vibrant.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_9.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_6.jpg">
 </div>
 <h4>P4 and P5 Cohort Learning Journeys</h4>
 <p>All students experience at least one Cohort Learning Journey (LJ) per
 year starting from Primary 4. The Cohort LJs consist of Museum-based Learning
-(MBL) to the Geylang Serai Heritage Gallery (Primary 4) and Indian Heritage
-Centre (Primary 5). These LJs provided them with opportunities to explore
-their Singapore identity through the arts, culture and heritage. These
-LJs complement the Art, Character and Citizenship Education (CCE) and Social
-Studies (SS) curricula. The students were given the opportunity to explore
-space and etiquette in the museum and be engaged in observations and inquiry
-into selected heritage artefacts with a focus on the history of early Singapore.
-Through discussions and reflections, the students were able to make connections
-that developed and reinforced their Character and Citizenship Education
-(CCE) outcomes.</p>
+(MBL) to the Kreta Ayer Heritage Gallery (Primary 4), Indian Heritage Centre
+(Primary 5) and Asian Civilisation Museum (Primary 6). These LJs provided
+them with opportunities to explore their Singapore identity through the
+arts, culture and heritage. These LJs complement the Art, Character and
+Citizenship Education (CCE) and Social Studies (SS) curricula. The students
+were given the opportunity to explore space and etiquette in the museum
+and be engaged in observations and inquiry into selected heritage artefacts
+with a focus on the history of early Singapore. Through discussions and
+reflections, the students were able to make connections that developed
+and reinforced their Character and Citizenship Education (CCE) outcomes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NE_Champ_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_7.jpg">
 </div>
 <h4>Social Studies Curriculum @ BPS</h4>
 <p>The Social Studies curriculum spans the primary and secondary levels.
@@ -210,8 +197,9 @@ in achieving the purpose of Social Studies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_12.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_8.jpg">
 </div>
 <p>In addition to game-based learning, in BPS, the students learn more about
 their environment, the history of the schools that have merged and the
@@ -225,22 +213,15 @@ world map that we have in the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_14.jpg">
 </div>
-<p>Enriching the inquisitive minds of our students further, many collaborative
+<p>To enrich the inquisitive minds of our students further, many collaborative
 efforts take place in BPS between subject areas like Social Studies, Library
 (reading) and Applied Learning Programme (ALP). The P5 students are also
 given opportunities to design their own NE cum Camp T-shirts as a collaboration
 with the PE department. These collaborative efforts enable the students
 to connect what they learn with the real-life context. &nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_15.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_16.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_9.jpg">
 </div>
 <p></p>
 <h4>Integration of International Students @BPS</h4>
@@ -253,18 +234,19 @@ and carry out activities for the rest. Rich learning takes place through
 this process. The P1 to P3 international students learn more about Singapore’s
 old school games through the game-based learning in the class.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IS_LJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_10.jpg">
 </div>
-<p><strong><em>Some artwork done by our P1 and P3 international students through the virtual learning journeys:</em></strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE_Champ_19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_11.jpg">
 </div>
 <p></p>
-<p><strong>Useful Links</strong>
-</p>
+<h4>Useful Links</h4>
 <p><strong>Ministry of Education</strong> 
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg</a>
+</p>
+<p><strong>Total Defence Day</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.totaldefence.sg/</a>
 </p>
 <p><strong>National Archives of Singapore</strong> 
 <br><a href="http://corporate.nas.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://corporate.nas.gov.sg</a>
