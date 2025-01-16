@@ -144,8 +144,9 @@ celebration of multiculturalism. &nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_3.jpg">
 </div>
 <h4>National Day 2024 @ BPS</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_Champ_2025_4.jpg">
 </div>
 <p>The theme for this year, <strong>“Together, As One United People”</strong>,
 calls upon the strength of our people and emphasizes on the importance
