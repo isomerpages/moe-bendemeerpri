@@ -30,25 +30,28 @@ of the Malay Language</p>
 <h4><strong>Programmes</strong></h4>
 <h5>Reading Programme</h5>
 <p>The department promotes and encourages reading at all levels. The Reading
-Programme sees the reading periods allocated to Primary 1 to Primary 5
-students<strong> </strong>within the curriculum time. It provides students
-with a progressive reading structure that not only develops interest in
-reading but also sparking creative and critical thinking through critical
-questions and post-reading activities. Through this Reading Programme,
-the pupils can widen their general knowledge as well as improve on their
-vocabulary, understanding of text and sentence structure. This fosters
-a sense of responsibility and commitment to reading by emphasizing the
-joy and success pupils can obtain from reading proficiently.</p>
+Programme sees the reading periods allocated <strong>to Primary 1 to Primary 5 students </strong>within
+the curriculum time. It provides students with a progressive reading structure
+that not only develops interest in reading but also sparking creative and
+critical thinking through critical questions and post-reading activities.</p>
+<p>Through this Reading Programme, the pupils can widen their general knowledge
+as well as improve on their vocabulary, understanding of text and sentence
+structure. This fosters a sense of responsibility and commitment to reading
+by emphasizing the joy and success pupils can obtain from reading proficiently.</p>
 <p>Objectives of the programme are to:
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cultivate the love of reading Malay Language
 books in students; and
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improve reading proficiency of students</p>
+<p>This year, starting with P1 and P2, we will also be introducing <strong>SOAR</strong>,
+a nationwide initiative to instill students’ love for reading in MTL to
+(1) <strong>S</strong>park interest, (2) <strong>O</strong>pen minds, (3) <strong>A</strong>ppreciate
+cultural roots, and (4) <strong>R</strong>ise as a bilingual reader.</p>
 <h5>MTL Fortnight</h5>
 <p>This 2-week long event is aimed at creating an immersive environment for
 the learning of mother tongue languages. During the two weeks, a wide range
 of activities related to Malay language and culture are conducted.&nbsp;Different
 levels were exposed to a variety of cultural activities such as playing
-the angklung, silat and khat (Malay calligraphy).<strong>&nbsp;</strong>These&nbsp;activities
+the angklung, silat and<strong> </strong>rattan weaving.&nbsp;These&nbsp;activities
 provide authentic opportunities for students to use and experience the
 Malay language and culture.</p>
 <p>The objectives of the programme are to:
@@ -63,58 +66,52 @@ traditions;
 language and culture.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_2025_3.jpg">
 </div>
-<h5>MT Language &amp; Cultural ICT Trail</h5>
-<p>The Malay Language and Cultural ICT trail started in 2016. The trail received
-positive feedback. This programme was further enhanced with ICT tools such
-as iPads to scan QR codes to access quizzes. It was further refined in
-2018 with the use of google sites to host additional relevant resources
-such as videos and pictures to enhance learning. Since then, the trail
-has become a key programme that the students look forward to every year.</p>
-<p>Objectives of the programme are to:
-<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide students a rich language
-and cultural experience that complements the Malay Language curriculum.
+<h5><strong>Jejak Budaya (Malay Cultural Trail)</strong></h5>
+<p>&nbsp;The Malay Language and Cultural ICT trail started in 2016. The trail
+received positive feedback. This programme was further enhanced with ICT
+tools such as iPads to scan QR codes to access quizzes. It was further
+refined in 2018 with the use of google sites to host additional relevant
+resources such as videos and pictures to enhance learning. Since then,
+the trail has become a key programme that the students look forward to
+every year.</p>
+<p>The objectives of the programme are to:
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide students a rich language
+and cultural experience that complements the Malay Language curriculum,
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide students an engaging
-outdoor program that creates joy of learning, and
+outdoor program that creates joy of learning: and
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; leverage on the use of ICT
-to enhance the learning experience</p>
+to enhance the learning experience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_5.jpg">
 </div>
+<p></p>
 <h5>Hari Raya Puasa Celebrations</h5>
-<p>One of the festive occasions celebrated in Bendemeer Primary is the Hari
-Raya Puasa Concert. This celebration aims to create awareness of the festival
-celebrated by the Muslim community in Singapore and share the joyous occasion
-with our muti-racial school community. This year, we saw students from
-BPS showcasing their talents as they sang and danced to popular Hari Raya
-songs. Our teachers were not left out as they participated in the ketupat
-arrangement game and sing-along session.&nbsp;</p>
+<p>The much-awaited Hari Raya Puasa celebrations is one of the festive occasions
+celebrated in Bendemeer Primary School. The celebrations aim to create
+awareness of the festival celebrated by the Muslim community in Singapore.
+We had our student-emcees speaking in Malay and English as this is a good
+platform to encourage bilingualism amongst our students. It is also an
+opportunity to share with the school’s multi-racial community, the significance
+of the culture and practices during the celebrations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/raya1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_6.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/raya_2.png">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Raya_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_7.jpg">
 </div>
 <h4>Resources and Useful Links</h4>
 <p>Siri Bacaan Nabil Nabilah (Reader Series for P1- P6)
