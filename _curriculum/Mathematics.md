@@ -21,8 +21,7 @@ skills through a mathematical approach to problem-solving;</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Vision</strong>
-</p>
+<h4>Vision</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To foster the joy in the learning of Mathematics</p>
