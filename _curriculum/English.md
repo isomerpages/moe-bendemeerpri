@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>ENGLISH</h3>
-<h4>Vision and Mission</h4>
+<h4>Vision</h4>
 <p>The vision of the English Department is to ensure that every student of
 Bendemeer is a confident and competent communicator. In order to realise
 this vision, the department has planned a six-year programme to provide
@@ -14,9 +14,8 @@ mission of the English Department is to inspire the love of learning&nbsp;throug
 rich learning activities and positive role modelling. The English department
 has also embarked on Strategy-based instruction as its key approach to
 teaching EL.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Programme_EL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2025_1.jpg">
 </div>
 <h4><strong>Programmes</strong></h4>
 <h5>STELLAR (Strategies for English Language Learning and Reading)</h5>
@@ -71,7 +70,6 @@ a class party which everyone thoroughly enjoyed!</p>
 </div>
 <p>English learning through experience. Our students made sandwiches together
 and wrote about their experience.</p>
-<p></p>
 <p>Our students engaged in activities that encourage and inspire the love
 for English.</p>
 <h5>Reading</h5>
@@ -84,10 +82,10 @@ period, teachers weave in discussions based on Critical Literacy, and use
 newspapers to share about current affairs as well as visit the library
 to be immersed in the wonderful world of books. Other reading programmes
 include:</p>
-<p>Book Talk: Primary 1 to Primary 5 Students are encouraged to write a synopsis
-of a book read. Then they would stand in front of their classmates and
-share what they have written. This also fosters confidence building and
-student-student relationship.</p>
+<p><strong>Book Talk: </strong>Primary 1 to Primary 5 Students are encouraged
+to write a synopsis of a book read. Then they would stand in front of their
+classmates and share what they have written. This also fosters confidence
+building and student-student relationship.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -224,9 +222,8 @@ their writing.&nbsp;</p>
 </table>
 <p>Writing is so much fun in Bendemeer!</p>
 <h5><strong>Celebrate Writing through our Bendemeer OTTER Times</strong></h5>
-<p>We celebrate our young authors with our very own Otter Times. The attractive
-format of the publication inspires students to write well while earning
-a chance to be featured.</p>
+<p><em>We celebrate our young authors with our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured.</em>
+</p>
 <p>Volume 1(2022)</p>
 <p><a href="https://drive.google.com/file/d/1ut3GU94hGBwIJlR_u-czKQqYGalKfLPI/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 1</a>
 </p>
@@ -252,14 +249,11 @@ a chance to be featured.</p>
 <p><strong><a href="https://heyzine.com/flip-book/2147eb9e5e.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 3 Writers 2024</a></strong>
 </p>
 <p></p>
-<p>
-<br>
-</p>
 <h5><strong>A Pocketful of Phrases</strong></h5>
 <p>The EL department has also come up wit a compilation of useful words and
 phrases for students to widen their vocabulary for speech and writing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pocketful%20of%20phrases.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2025_2.jpg">
 </div>
 <h5><strong>Oracy</strong></h5>
 <p>The objectives of the Bendemeer Oracy Programme are to build confident
@@ -285,7 +279,6 @@ strategies, according to the purpose, audience, context and culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL5.jpg">
 </div>
@@ -299,15 +292,16 @@ strategies, according to the purpose, audience, context and culture.</p>
 <p>Learning oracy through fun and authentic ways!</p>
 <h5><strong>A Vibrant English Environment</strong></h5>
 <h5><strong><u>Come as a Book Character Day&nbsp;</u></strong></h5>
-<p>We celebrated our annual Come as a Book Character Day on Friday, 19 April
-with the theme, “Bring Your Character to Life”. Our students and teachers
-were encouraged to dress up as a character from a book.</p>
+<p>We celebrated our annual Come as a Book Character Day with the theme,
+“Paradise is a library”. Our students and teachers were encouraged to dress
+up as a character from a book.</p>
 <p>The objectives of Come as a Book Character Day are to develop a lifelong
 habit of reading for enjoyment and nurture a love of reading in students.&nbsp;</p>
-<p>In conjunction with Earth Day, students were encouraged to create a costume
-using recycled materials. During Art lessons, teachers supported the students
-with the crafting of the masks and costumes. Students were also given opportunities
-in class to share about the characters they dressed up as.</p>
+<p>&nbsp;In conjunction with Earth Day, students were encouraged to create
+a costume using recycled materials. During Art lessons, teachers supported
+the students with the crafting of the masks and costumes. Students were
+also given opportunities in class to share about the characters they dressed
+up as.</p>
 <p>Reading was infused across various subjects throughout that day. During
 the Mother Tongue lessons, students shared about their characters in the
 respective Mother Tongue languages. Students heard engaging Math stories
@@ -315,9 +309,11 @@ during their Math lessons and Science related activities were conducted
 during the lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Book_Character.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/English_2025_3.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/English_2025_4.jpg">
+</div>
 <h5><strong><u>Speak Good English at BPS</u></strong></h5>
 <p>The school’s very own Good English speaking mascot- Grammar Grandma makes
 her appearance once a term to remind students on the importance of speaking
@@ -342,6 +338,10 @@ would like to talk about, we can build their confidence in speaking to
 an audience. Every child will have an opportunity to present to their class
 in this programme that aims to nurture and culture of conversation within
 the classroom.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/English_2025_5.jpg">
+</div>
 <h4>Useful Links</h4>
 <p><strong>Good for online stories and games</strong>
 </p>
@@ -362,7 +362,7 @@ the classroom.</p>
 <p><strong>Dictionaries</strong> 
 <br><a href="http://dictionary.reference.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.reference.com/</a>&nbsp;(Good
 pronunciation feature)</p>
-<p><strong>Good for advice on Teaching English and Reading</strong> 
+<p><strong>Advice on Teaching English and Reading</strong>
 <br><a href="http://www.rif.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.rif.org/</a> 
 <br><a href="http://www.teachingenglish.org.uk/" rel="noopener noreferrer nofollow" target="_blank">http://www.teachingenglish.org.uk/</a> 
 <br><a href="http://www.pbs.org/launchingreaders/" rel="noopener noreferrer nofollow" target="_blank">http://www.pbs.org/launchingreaders/</a>
