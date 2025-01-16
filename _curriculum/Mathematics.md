@@ -156,7 +156,7 @@ critical and inventive thinking, and effective communication skills.</p>
 <br>P4 – 6 Math Competitions</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Math_2025_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Math_2025_1.jpg">
 </div>
 <h4><em><u>Useful Links</u></em></h4>
 <p>Educational Games for kids</p>
