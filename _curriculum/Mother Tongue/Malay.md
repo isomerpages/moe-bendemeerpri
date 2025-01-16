@@ -66,13 +66,13 @@ traditions;
 language and culture.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_2025_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_2025_3.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Malay_2025_3.jpg">
 </div>
 <h5><strong>Jejak Budaya (Malay Cultural Trail)</strong></h5>
 <p>&nbsp;The Malay Language and Cultural ICT trail started in 2016. The trail
@@ -91,11 +91,11 @@ outdoor program that creates joy of learning: and
 to enhance the learning experience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_2025_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_2025_5.jpg">
 </div>
 <p></p>
 <h5>Hari Raya Puasa Celebrations</h5>
@@ -108,10 +108,10 @@ opportunity to share with the school’s multi-racial community, the significanc
 of the culture and practices during the celebrations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_2025_6.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_2025_7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_2025_7.jpg">
 </div>
 <h4>Resources and Useful Links</h4>
 <p>Siri Bacaan Nabil Nabilah (Reader Series for P1- P6)
