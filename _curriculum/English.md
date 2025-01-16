@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>ENGLISH</h3>
-<h4>Vision </h4>
+<h4>Vision</h4>
 <p>The vision of the English Department is to ensure that every student of
 Bendemeer is a confident and competent communicator. In order to realise
 this vision, the department has planned a six-year programme to provide
@@ -309,10 +309,10 @@ during their Math lessons and Science related activities were conducted
 during the lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2025_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/English_2025_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/English_2025_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/English_2025_4.jpg">
 </div>
 <h5><strong><u>Speak Good English at BPS</u></strong></h5>
 <p>The school’s very own Good English speaking mascot- Grammar Grandma makes
@@ -340,7 +340,7 @@ in this programme that aims to nurture and culture of conversation within
 the classroom.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2025_5.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/English_2025_5.jpg">
 </div>
 <h4>Useful Links</h4>
 <p><strong>Good for online stories and games</strong>
