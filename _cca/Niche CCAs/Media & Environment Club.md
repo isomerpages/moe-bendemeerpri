@@ -64,16 +64,6 @@ future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_3.jpg">
 </div>
-<p>Last year, our CCA members participated in a Learning Journey to an indoor
-vertical farming facility. They learnt about food security and how we can
-efficiently make use of limited space to grow food in an urban environment.
-By experiencing the dynamic world of modern agriculture, the students were
-able to appreciate how science and design thinking can come together to
-provide a sustainable solution to real world challenges.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LJ_to_NEWater.png">
-</div>
 <p>The Environment Club members honed their 21st Century Competencies by
 learning to create basic app applications using Google AppSheet. They developed
 two impactful apps: one compiling information on Singapore parks to promote
