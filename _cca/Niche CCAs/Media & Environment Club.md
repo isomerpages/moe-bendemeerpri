@@ -6,10 +6,10 @@ third_nav_title: Niche CCAs
 variant: tiptap
 ---
 <h3>MEDIA &amp; ENVIRONMENT CLUB</h3>
-<p><strong><u>Teachers in charge</u></strong> 
-<br>Mdm Elis Tjandra
+<p><strong><u>Teachers in charge</u></strong>
 <br>Ms Geraldine Seow&nbsp;(1st IC)
 <br>Ms Yoo Pei Li (2nd IC)
+<br>Mdm Elis Tjandra
 <br>Ms Kalashobini D/O Chandrasaharan
 <br>
 </p>
@@ -37,34 +37,46 @@ through the main thrusts:</p>
 <p>Working and collaborating with stakeholders on environment programmes.</p>
 </li>
 </ul>
-<p>Our CCA exposes students to a variety of projects aimed at creating awareness
-of sustainability. We also uniquely integrate basic coding applications
-into our activities, empowering students to develop essential digital skills.
-By incorporating coding, we aim to enhance their problem-solving abilities
-and creativity. Moreover, this innovative approach allows our members to
-create digital projects that promote environmental stewardship.</p>
+<p>In 2024, the Environment Club embarked on enriching learning journeys
+to the NEWater Visitor Centre and Gardens by the Bay.</p>
+<p>At the NEWater Visitor Centre, students learned about Singapore's innovative
+water conservation strategies and the advanced technologies behind its
+sustainable drinking water supply. They gained a deeper understanding of
+the nation's efforts to overcome resource challenges and ensure water security.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Recycled_Paper.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities_Env.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_1.jpg">
 </div>
-<p>Last year, our CCA members participated in a Learning Journey to an indoor
-vertical farming facility. They learnt about food security and how we can
-efficiently make use of limited space to grow food in an urban environment.
-By experiencing the dynamic world of modern agriculture, the students were
-able to appreciate how science and design thinking can come together to
-provide a sustainable solution to real world challenges.</p>
+<p>At Gardens by the Bay, students explored cutting-edge innovations and
+creative designs that promote sustainability, while learning about Singapore’s
+resource management. These experiences inspired students to think critically
+about environmental challenges and innovative solutions for a sustainable
+future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LJ_to_NEWater.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/env_club_2025_4.jpg">
 </div>
-<p>Moreover, as part of our preparations for our school presentation on World
-Water Day in Term 1, we embarked on a fascinating visit to the NEWater
-Visitor Center. This excursion provided valuable insights into water conservation
-and purification, further enriching our understanding of environmental
-sustainability.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_3.jpg">
+</div>
+<p>The Environment Club members honed their 21st Century Competencies by
+learning to create basic app applications using Google AppSheet. They developed
+two impactful apps: one compiling information on Singapore parks to promote
+nature exploration and another guiding users on recycling right to encourage
+sustainable habits. Through this project, they demonstrated critical and
+inventive thinking, collaborative skills, and a sense of responsibility
+towards the environment. The experience empowered them to use technology
+as a tool for advocacy, showcasing how digital innovation can drive environmental
+education and awareness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_5.jpg">
+</div>
 <p></p>
 <p></p>
 <h4>Earth Day 2024 - Planet vs. Plastics</h4>

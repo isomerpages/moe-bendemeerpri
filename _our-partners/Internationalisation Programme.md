@@ -2,112 +2,70 @@
 title: Internationalisation Programme
 permalink: /our-partners/internationalisationprogramme/
 description: ""
+variant: tiptap
 ---
-### Internationalisation Programme
-
-Beyond our shores, our school has also cultivated and solidified its partnership efforts with student immersions with partner schools. All schools benefitted through exchanges of culture, food, dances, art and craft work during the immersions. As such, students and staff from all sides experience a myriad of learning experiences in sync with the theme of “Friendship beyond Boundaries”!
-
-Virtual Immersion with Bala Vinayaka Vidyaniketan School of India
-
-<img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%201.jpg" align="center">
-
-<br>
-<img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%202.jpg" align="center">
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rx9b{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%203.jpg" align="center"></td>
-    <td class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%204.jpg" align="center"></td>
-  </tr>
-</thead>
-</table>
-
-
-Have you heard of Warlie Art before? With much curiosity, our P5 students had an experience of creating their own Warlie Art pieces, an ancient Indian folk art, under the guidance of students of Bala Vinayaka Vidyaniketan (BVV) School located in India on 6 March 2023.&nbsp;
-
-This gathering marked the first time Bendemeer Primary School partnered a school from India on a virtual immersion and students of both schools were treated to a colourful ensemble of cultural dances, cuisine, arts and craft albeit online. In exchange, BPS had the honour of meeting and hearing from Director, BVV School, Mr Vinayak R. as he shared his excitement of introducing BVV school to fellow Bendemeerians.&nbsp;
-
-This immersion also affirms the warm and growing partnership between BVV school and Bendemeer Primary School and we look forward to meeting our Indian counterparts in Singapore soon!
-
-#### Round two of Virtual Immersion with Chengdu Shi Shi High School (石室中学)
-
-<img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%201.jpg" align="center">
-
-<br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rx9b{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%202.jpg" align="center"></th>
-    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%203.jpg" align="center"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%204.jpg" align="center"></td>
-    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%205.jpg" align="center"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%206.jpg" align="center"> </td>
-    <td class="tg-0lax"><img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20with%20chengdu%207.jpg" align="center"></td>
-  </tr>
-</tbody>
-</table>
-
-BPS organised and held another virtual immersion with Chengdu Shi Shi High School (石室中学) on Wednesday, 26 October 2022. Both schools prepared materials on the theme of ‘New Year celebrations around the world’. Shi Shi High School shared with us a Chinese poem about the Chinese New Year called ‘Yuan Ri’&nbsp;(元日) and invited our Primary Six students to paint persimmons using authentic Chinese calligraphy materials. Our students followed the Chengdu teachers and students with much enthusiasm and concentration. In return, our school shared about the objectives of the Maker’s Innovation Lab and on how to make a Chinese lantern out of Ang Pow packets to bring in the idea of sustainability with Mrs Sheila Kin leading the craft-making session.
-
-  
-
-The immersion successfully concluded with school leaders, teachers and students of both school sharing their thoughts about the session and wishing each other well wishes. This immersion also enabled both schools to strike a common chord to strengthen our partnership and to involve our students in appreciating each other’s culture.
-
-  
-  
-  
-
-  
-
-#### Rubik’s Cube friendly tournament organised by BPS’s partner school
-
-<img style="width:95%" src="/images/Our%20Partners/rubik’s%20cube%20friendly%201.jpg" align="center">
-
-Our very own BPS P6 Rubik’s Cubes professionals!  
-  
-<img style="width:95%" src="/images/Our%20Partners/rubik’s%20cube%20friendly%202.jpg" align="center">
-
-Look at that set up done by our partner school!&nbsp;(Photo from&nbsp;Chengdu ShiShi High School)
-
-When was the last time you played with a ‘Rubik’s cube’? Our partner school from Chengdu, ‘Chengdu ShiShi High School’ ([石室中学](https://web.archive.org/web/20150626070856/http:/www.cdshishi.net/its/trans.aspx?id=2608))&nbsp;organised a Rubik’s cube tournament for their students on 31 May 2022 and Bendemeer Primary was invited to participate virtually alongside the Chengdu students. Amidst our P6 students, there were some who possessed this hidden talent and were very proficient with Rubik’s Cube! They played a friendly match with 6 Integrity cheering on as spectators. It was very heart-warming to see both schools sharing applause and words of encouragement! The Chengdu school commended that one of our students completed the Rubik’s cube puzzle in 30 seconds which was considered lightning fast! This tournament was held in conjunction with other activities as part of Children’s Day in China on 1 June 2022.
-
-Please click this link to view the Rubik’s Cube tournament (Filmed by Chengdu ShiShi High School):&nbsp;[https://youtu.be/AJBY9OcDYgQ](https://youtu.be/AJBY9OcDYgQ)
-
-Please click this link to view our P6 students solving their Rubik’s cubes (Filmed by Bendemeer Primary School):&nbsp;[https://youtu.be/ngFZINmW0rk](https://youtu.be/ngFZINmW0rk)
-
-<img style="width:95%" src="/images/Our%20Partners/rubik’s%20cube%20friendly%203.jpg" align="center">
-
-The teachers and students of&nbsp;Chengdu ShiShi High School cheering all participants!&nbsp;(Photo from&nbsp;Chengdu ShiShi High School)
-
-#### Virtual immersion with Sichuan Da Yi Bei Jie Primary School (大邑县北街小学)
-
-<img style="width:95%" src="/images/Our%20Partners/virtual%20immersion%20sichuan.jpg" align="center">
-
-An innovative way of forging partnership and connecting with our overseas friends via ZOOM.
-
-We had our inaugural virtual immersion with&nbsp;Sichuan Da Yi Bei Jie Primary School (大邑县北街小学) on 22 April 2022. The theme of ‘Friendship Beyond Boundaries’ was apparent and achieved as the students and teachers from both schools warmly welcomed one another, watched cultural performances and proceeded to work together to create lovely flower craftwork which symbolises unity, friendship and happiness. This immersion programme has not only allowed our students to connect with their foreign counterparts, but it also affirms the friendship and partnership between both schools.
+<h2>Internationalisation Programme</h2>
+<p>In 2024, selected P5 students went on an Overseas Learning Journey to
+Penang and Hong Kong. These Learning Journeys allow our students to broaden
+their experiences by connecting with their peers overseas.</p>
+<h3>LEARNING JOURNEY TO PENANG<br></h3>
+<h4>LEARNING OBJECTIVES</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>To foster cultural exchange and sustain partnership with our counterparts
+from Malaysia and strengthen ties with our ASEAN neighbour.</p>
+</li>
+<li>
+<p>To provide opportunities for interaction between our students and students
+from Malaysia while gaining a better understanding of each other’s culture.</p>
+</li>
+<li>
+<p>To provide opportunities to develop their leadership skills through the
+activities and interactions with peers from Malaysia.</p>
+</li>
+<li>
+<p>To foster camaraderie and teamwork among the participants to showcase
+the school’s ASPIRE values.</p>
+</li>
+</ul>
+<h4>Visit to Penang Chinese Girls’ Primary School<br></h4>
+<p>Our students visited the Penang Chinese Girls’ Primary School and were
+warmly welcomed by the school Principal, staff and students. Our students
+engaged in cultural activities while our teachers toured around the school
+campus which includes a primary section, a secondary section and a pre-school
+section.</p>
+<p>At the end of the visit, our students, with their counterparts, showcased
+a dikir barat performance. It was amazing that they managed to put up a
+wonderful show within a short time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Internaational_Prog_2025_1.jpg">
+</div>
+<h4>Penang Heritage Walk and Entopia</h4>
+<p>A visit to Penang is not complete without a visit to the Unesco World
+Heritage site. Here, our students soaked in the sights and sounds of the
+bustling Armenian Street while admiring some of the world-famous wall murals.&nbsp;</p>
+<p>The students also visited the interesting world of insects, reptiles and
+amphibians. Before going on hunt at Entopia, the students learnt about
+these animals and got to touch some of them as well. &nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Internaational_Prog_2025_2.jpg">
+</div>
+<h4>Penang Hill and Wayang Kulit Making at Universiti Sains Malaysia (USM)</h4>
+<p>Our students also had a chance to visit the highest peak in Penang, Bukit
+Bendera or commonly known as Penang Hill. Going up the hill was an experience
+in itself, on a funicular train that zoomed uphill.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Internaational_Prog_2025_3.jpg">
+</div>
+<p>&nbsp;They also had a hands-on wayang kulit making activity at the Tengku
+Fauziah Museum and Art Gallery at USM. They had fun learning and crafting
+their own wayang kulit characters. They also get to bring these home as
+a keepsake of their visit here.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Internaational_Prog_2025_4.jpg">
+</div>
+<p></p>
