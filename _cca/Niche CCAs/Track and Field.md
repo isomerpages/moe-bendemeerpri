@@ -12,111 +12,23 @@ variant: tiptap
 <p>Ms Sulasteri Binte Mohammad Sidek (1st IC)</p>
 </li>
 <li>
-<p>Ms Tan XIn XIn</p>
-</li>
-<li>
 <p>Ms Christine Tan (2nd IC)</p>
 </li>
 <li>
 <p>Mdm Ding Xue</p>
 </li>
 <li>
-<p>Mdm Cherynn Tan</p>
+<p>Ms Tan Xin Xin</p>
 </li>
 <li>
 <p>Ms Fiona Prapta Utama</p>
 </li>
+<li>
+<p>Mdm Cherynn Tan</p>
+</li>
 </ol>
 <h4>CCA Schedule</h4>
 <p><strong>Term 1</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Pupil Involved</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Every Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Every Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Term 2</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Pupil Involved</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Every Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Every Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Term 3</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -144,8 +56,107 @@ variant: tiptap
 <p>7.30 a.m. – 9.00 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3, P4 and P5</p>
+<p>P3, P4, P5 and P6</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. - 4.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4, P5 and P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. - 4.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, P5 and P6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Term 2</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Pupil Involved</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m. – 9.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4, P5 and P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. - 4.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected Students Only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. - 4.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, P5 and P6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Term 3</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Pupil Involved</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,17 +193,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m. – 9.00 a.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3, P4 and P5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Every Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,44 +225,109 @@ of their labour from their rigorous training sessions. They also learn
 to empathise with their fellow athletes regardless of the result and appreciate
 the diversity of student-athletes from all over Singapore.</p>
 <h4>Achievements</h4>
-<p>National School Games Track &amp; Field Championships 2022
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd position in Junior 1 Boys Scissors
-Jump
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5th position in Junior 1 Boys 1000
-metres
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8th position in Junior 1 Boys Long
-Jump
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6th position in Junior 1 Boys 8
-x 50 metres Relay
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st position in Junior 2 Boys Medicine
-Ball Throw
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd position in Junior 2 Boys Scissors
-Jump</p>
+<p><strong>National School Games Track &amp; Field Championships 2022 </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1st position in Junior 2 Boys Medicine Ball Throw</p>
+</li>
+<li>
+<p>2nd position in Junior 2 Boys Scissors Jump</p>
+</li>
+<li>
+<p>&nbsp;2nd position in Junior 1 Boys Scissors Jump</p>
+</li>
+<li>
+<p>5th position in Junior 1 Boys 1000 metres</p>
+</li>
+<li>
+<p>8th position in Junior 1 Boys Long Jump</p>
+</li>
+<li>
+<p>6th position in Junior 1 Boys 8 x 50 metres Relay</p>
+</li>
+</ul>
 <p></p>
-<p>National School Games Track &amp; Field Championships 2023
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bronze Pin in Junior 1 Boys Multi-Skill
-Event
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8th position in Junior 1 Boys 1000
-metres
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4th position in Junior 1 Boys Medicine
-Ball Throw (2 kg)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7th position in Junior 1 Boys 8
-x 50 Metres Relay
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bronze Pin in Junior 1 Girls Multi-Skill
-Event
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3rd position in Junior 1 Girls Scissors
-Jump
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8th position in&nbsp; Junior 2 Boys
-4 x 50 Metres Relay</p>
+<p><strong>National School Games Track &amp; Field Championships 2023 </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>8th position in&nbsp; Junior 2 Boys 4 x 50 Metres Relay</p>
+</li>
+<li>
+<p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
+</li>
+<li>
+<p>8th position in Junior 1 Boys 1000 metres</p>
+</li>
+<li>
+<p>4th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
+</li>
+<li>
+<p>7th position in Junior 1 Boys 8 x 50 Metres Relay</p>
+</li>
+<li>
+<p>Bronze Pin in Junior 1 Girls Multi-Skill Event</p>
+</li>
+<li>
+<p>3rd position in Junior 1 Girls Scissors Jump</p>
+</li>
+</ul>
+<p></p>
+<p><strong>National School Games Track &amp; Field Championships 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4th position in Senior 1 Boys 40m</p>
+</li>
+<li>
+<p>5th position in Junior 2 Boys Medicine Ball Throw (2kg)</p>
+</li>
+<li>
+<p>6th position in Junior 2 Boys 4 x 50 Meters Relay</p>
+</li>
+<li>
+<p>7th position in Junior 2 Girls 60m Hurdles</p>
+</li>
+<li>
+<p>8th position in Junior 2 Girls Medicine Ball Throw (1 kg)</p>
+</li>
+<li>
+<p>8th position in Junior 2 Girls 4 x 50 Metres Relay</p>
+</li>
+<li>
+<p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
+</li>
+<li>
+<p>1st position in Junior 1 Boys Overhand Beanbag Throw</p>
+</li>
+<li>
+<p>6th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
+</li>
+<li>
+<p>8th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
+</li>
+<li>
+<p>Silver Pin in Junior 1 Girls Multi-Skill Event</p>
+</li>
+<li>
+<p>1st position in Junior 1 Girls Overhand Beanbag Throw</p>
+</li>
+<li>
+<p>8th position in Junior 1 Girls 4 x 50 Metres Relay</p>
+</li>
+</ul>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Track_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Track_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_2.jpg">
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_3.jpg">
+</div>
 <p></p>
