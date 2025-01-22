@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Internationalisation Programme
 ---
-<h3>Bendemeer Primary Overseas Learning Journey to Hong Kong</h3>
+<h3>Bendemeer Primary Overseas Learning Journey to Hong Kong - Yan Chai Hospital Chio Hin To Primary School</h3>
 <blockquote>
 <p>03 Nov 2024 - 06 Nov 2024</p>
 </blockquote>
@@ -13,7 +13,7 @@ third_nav_title: Internationalisation Programme
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/HK_2025_1.jpg">
 </div>
-<p><em>“To bring out the best in every child”. </em>
+<p><em>“To bring out the best in every child”.</em>
 </p>
 <p>After many years of a pandemic standstill, Bendemeer Primary School(BPS)
 learns beyond the borders of Singapore into a world of opportunities filled
