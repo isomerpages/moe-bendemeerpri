@@ -2,13 +2,13 @@ collections:
   our-partners:
     output: true
     order:
-      - Internationalisation Programme/Overview.md
-      - Internationalisation Programme/Learning Journey to Hong Kong.md
-      - Internationalisation Programme/Learning Journey to Penang.md
-      - Internationalisation Programme/.keep
       - Overview.md
       - Awards.md
       - New Events.md
       - Big Heart Student Care.md
       - Parent Support Group.md
       - Festive Community Outreach.md
+      - Internationalisation Programme/.keep
+      - Internationalisation Programme/Overview.md
+      - Internationalisation Programme/Learning Journey to Hong Kong.md
+      - Internationalisation Programme/Learning Journey to Penang.md
