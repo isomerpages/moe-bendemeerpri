@@ -9,22 +9,23 @@ variant: tiptap
 <h4><strong><u>Teachers in charge</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Azimi bin Ahmad (1st IC)</p>
+<p>Mr. Azimi bin Ahmad ( 1<sup>st</sup> IC)</p>
 </li>
 <li>
-<p>Mr Lee Zheng Wei (2nd IC)</p>
+<p>Mr Lee Zheng Wei William&nbsp; (2<sup>nd</sup>&nbsp; IC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Mr Tay Zhi Qiang Shawn</p>
+<p>Mr. Tay Zhi Qiang Shawn</p>
 </li>
 <li>
 <p>Mdm Farhanah Suratman</p>
 </li>
 <li>
-<p>Mr Praven Raj</p>
+<p>Mr. Praven Raj</p>
 </li>
 <li>
-<p>Mdm Kwek Hui Ying</p>
+<p>Mdm Kwek Hui Ying Valerie</p>
+<p>Coach : Mr. Mohamed Noor bin Mahmood</p>
 </li>
 </ol>
 <h4><strong><u>Coach</u></strong></h4>
@@ -56,7 +57,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>7.30 a.m. to 9.00 a.m.
-<br>(For Semester 2)</p>
+<br>(For Semester 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P6 pupils</p>
@@ -141,12 +142,17 @@ high in the air for your kick to reach it. This technique is used for both
 serving and striking.</p>
 <h4>Objectives</h4>
 <p>Since 2006, some of the pupils were identified as potential sepak takraw
-players and hence a team was formed to participate in the zonal competition.
-Since then, our sepak takraw boys have performed well in the zonal and
-subsequently went on to qualify and performed well in the National competition.
-To provide quality competition experiences for our school athletes to support
-character development through the pursuit of sporting excellence.</p>
+players and hence a team was formed to participate in the zonal competition.</p>
+<p>Since then, our sepak takraw boys have performed well in the zonal and
+subsequently went on to qualify and performed well in the National competition.</p>
+<p>To provide quality competition experiences for our school athletes to
+support character development through the pursuit of sporting excellence.</p>
 <h4>Achievements</h4>
+<p><strong>2024</strong>
+<br>Senior Team achieved 1<sup>st</sup> in the Nationals.</p>
+<p>JuniorTeam achieved
+<br>Team 1: 4th in Classification Round, 2nd in Tiered Rounds.
+<br>Team 2: 4th in Classification Round, 3rd in Tiered Rounds.</p>
 <p><strong>2023</strong>
 <br>Senior Team achieved 1st&nbsp; in the National School Games.</p>
 <p>Junior Team&nbsp; 1 :
@@ -173,28 +179,24 @@ Special Provision)</p>
 <h4><strong>Photos/ Gallery</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sepak_1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sepak_2.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sepak_3.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sepak_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sepak_5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_4.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_5.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
