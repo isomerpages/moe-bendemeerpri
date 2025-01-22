@@ -12,21 +12,20 @@ their experiences by connecting with their peers overseas.</p>
 <h4>LEARNING OBJECTIVES</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To foster cultural exchange and sustain partnership with our counterparts
-from other countries and strengthen ties with our ASEAN neighbours.</p>
+<p>To foster cultural exchange and sustain partnerships with counterparts
+from other countries, while strengthening ties with our ASEAN neighbours.</p>
 </li>
 <li>
-<p>To provide opportunities for interaction between our students and students
-from other countries while gaining a better understanding of each other’s
-culture.</p>
+<p>To provide opportunities for interaction between our students and those
+from other countries, enabling a deeper understanding of each other’s cultures.</p>
 </li>
 <li>
-<p>To provide opportunities to develop their leadership skills through the
+<p>To offer opportunities for students to develop leadership skills through
 activities and interactions with peers from other countries.</p>
 </li>
 <li>
-<p>To foster camaraderie and teamwork among the participants to showcase
-the school’s ASPIRE values.</p>
+<p>To promote camaraderie and teamwork among participants, exemplifying the
+school’s ASPIRE values.</p>
 </li>
 </ul>
 <p></p>
