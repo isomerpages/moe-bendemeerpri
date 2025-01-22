@@ -5,31 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Internationalisation Programme
 ---
-<h2>Internationalisation Programme</h2>
-<p>In 2024, selected P5 students went on an Overseas Learning Journey to
-Penang and Hong Kong. These Learning Journeys allow our students to broaden
-their experiences by connecting with their peers overseas.</p>
-<h3>LEARNING JOURNEY TO PENANG<br></h3>
-<h4>LEARNING OBJECTIVES</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>To foster cultural exchange and sustain partnership with our counterparts
-from Malaysia and strengthen ties with our ASEAN neighbour.</p>
-</li>
-<li>
-<p>To provide opportunities for interaction between our students and students
-from Malaysia while gaining a better understanding of each other’s culture.</p>
-</li>
-<li>
-<p>To provide opportunities to develop their leadership skills through the
-activities and interactions with peers from Malaysia.</p>
-</li>
-<li>
-<p>To foster camaraderie and teamwork among the participants to showcase
-the school’s ASPIRE values.</p>
-</li>
-</ul>
-<h4>Visit to Penang Chinese Girls’ Primary School<br></h4>
+<h3>Bendemeer Primary Overseas Learning Journey to Penang - Chinese Girls’ Primary School<br></h3>
 <p>Our students visited the Penang Chinese Girls’ Primary School and were
 warmly welcomed by the school Principal, staff and students. Our students
 engaged in cultural activities while our teachers toured around the school
