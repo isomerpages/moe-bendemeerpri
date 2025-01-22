@@ -13,7 +13,7 @@ their experiences by connecting with their peers overseas.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To foster cultural exchange and sustain partnership with our counterparts
-from other countries and strengthen ties with our ASEAN neighbour.</p>
+from other countries and strengthen ties with our ASEAN neighbours.</p>
 </li>
 <li>
 <p>To provide opportunities for interaction between our students and students
