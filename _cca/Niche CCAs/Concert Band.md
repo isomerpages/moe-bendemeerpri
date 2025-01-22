@@ -120,6 +120,9 @@ through their band experiences</p>
 <li>
 <p>Best Band in Singapore - 2000</p>
 </li>
+<li>
+<p>SYF Arts Presentation 2024 - Certificate of Distinction</p>
+</li>
 </ul>
 <h4>Performances</h4>
 <ul data-tight="true" class="tight">
@@ -167,6 +170,18 @@ with intellectual disabilities (2021)</p>
 <h4>Photos</h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_2025_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_2025_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Band_2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_1.jpg">
 </div><pre><code>Festival of Winds 2023</code></pre>
 <p></p>
@@ -177,28 +192,4 @@ with intellectual disabilities (2021)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF Arts Presentation 2022" src="/images/SYF%20Arts%20Presentation%202022%201.jpg">
 </div><pre><code>SYF Arts Presentation 2022</code></pre>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(25).jpg">
-</div><pre><code>“Schools in Concert” performance at Victoria Concert Hall, 2019</code></pre>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3%20(21).jpg">
-</div><pre><code>National Day Observance ceremonies at Geylang West CC and Kallang ABC Waterfront, 2018</code></pre>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%202.png">
-</div><pre><code>“Music In The City” at Ngee Ann City 2017</code></pre>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%203.png">
-</div><pre><code>National Day Band Performance at The Istana, 2015</code></pre>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%2011.png">
-</div><pre><code>Performed 'live' on national television, Okto Channel, in 2014</code></pre>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert%20band%2010.png">
-</div><pre><code>Hong Kong Winterband Festival 2012&nbsp;</code></pre>
 <p></p>
