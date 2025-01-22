@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Internationalisation Programme/Learning Journey to Hong Kong.md
       - Internationalisation Programme/Internationalisation Programme.md
       - Internationalisation Programme/.keep
       - Overview.md
