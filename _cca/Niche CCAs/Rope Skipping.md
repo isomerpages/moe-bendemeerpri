@@ -79,7 +79,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2pm - 3.30pm
-<br><strong><u>(selected dates in Semester 1 only)</u></strong>
+<br><strong>(selected dates in Semester 1 only)</strong>
 </p>
 </td>
 </tr>
