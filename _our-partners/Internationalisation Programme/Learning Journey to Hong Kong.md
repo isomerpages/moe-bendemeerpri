@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Internationalisation Programme
 ---
-<h3><strong>&nbsp;Bendemeer Primary Overseas Learning Journey to Hong Kong</strong></h3>
+<h3>Bendemeer Primary Overseas Learning Journey to Hong Kong</h3>
 <blockquote>
 <p>03 Nov 2024 - 06 Nov 2024</p>
 </blockquote>
