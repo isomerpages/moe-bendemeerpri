@@ -13,10 +13,12 @@ third_nav_title: Internationalisation Programme
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/HK_2025_1.jpg">
 </div>
-<p><em>“To bring out the best in every child”. </em>After many years of a
-pandemic standstill, Bendemeer Primary School(BPS) learns beyond the borders
-of Singapore into a world of opportunities filled with diverse cultures
-and building each student up to be a passionate learner and confident leader.</p>
+<p><em>“To bring out the best in every child”. </em>
+</p>
+<p>After many years of a pandemic standstill, Bendemeer Primary School(BPS)
+learns beyond the borders of Singapore into a world of opportunities filled
+with diverse cultures and building each student up to be a passionate learner
+and confident leader.</p>
 <p>This year, Hong Kong school, Yan Chai Hospital Chio Hin To Primary School(YCHCHTPS),
 hosted our students warmly into their school.&nbsp; YCHCHTPS kicked off
 the trip with a tour of its student-led Ecology lab whereby students cared
