@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PE_2025_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2025_1.jpg">
 </div>
 <h4>House System</h4>
 <p>All our school’s staff and students are assigned to 4 different Houses,
