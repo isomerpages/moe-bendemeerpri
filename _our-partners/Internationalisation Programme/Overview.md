@@ -7,7 +7,7 @@ third_nav_title: Internationalisation Programme
 ---
 <h2>Internationalisation Programme</h2>
 <p>In 2024, selected P5 students went on an Overseas Learning Journey to
-Penang and Hong Kong. These Learning Journeys allow our students to broaden
+Hong Kong and Penang. These Learning Journeys allow our students to broaden
 their experiences by connecting with their peers overseas.</p>
 <h4>LEARNING OBJECTIVES</h4>
 <ul data-tight="true" class="tight">
