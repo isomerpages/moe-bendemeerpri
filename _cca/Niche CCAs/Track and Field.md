@@ -205,16 +205,16 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Introduction</h4>
-<p>The Track and Field CCA was started in 2019. Track and field is a sport
-comprising athletic events on running, jumping, and throwing. The events
-in track include individual events such as 60m, 80m 120 metres, 200 metres,
-1000 metres, 60 metres hurdles, 80 metres hurdles and team events such
-as 8 x 50 metres, 5 x 80m and 4 x 200 metres relays. Field events include
-high jump, scissors jump, long jump and shot put.</p>
-<p>Track and field is an effective way to increase pupils’ cardiovascular
+<p>Track and Field CCA was started in 2019 in Bendemeer Primary School. Track
+and field is a sport comprising athletic events on running, jumping, and
+throwing. The events in track include individual events such as 60m, 80m
+120 metres, 200 metres, 1000 metres, 60 metres hurdles, 80 metres hurdles
+and team events such as 8 x 50 metres, 5 x 80m and 4 x 200 metres relays.
+Field events include high jump, scissors jump, long jump and shot put.</p>
+<p>Track and field is an effective way to increase students’ cardiovascular
 fitness as well as maintain a healthy weight. Through track and field,
-pupils develop a passion for exercising and healthy habits that will stay
-with them for life.</p>
+students develop a passion for exercising and healthy habits that will
+stay with them for life.</p>
 <h4>Objectives</h4>
 <p>During training, coaches and teachers work together to train our student-athletes
 in foot-work, endurance-building exercises, and team-work. These training
@@ -224,76 +224,29 @@ learn about integrity, championing good sportsmanship and see the fruit
 of their labour from their rigorous training sessions. They also learn
 to empathise with their fellow athletes regardless of the result and appreciate
 the diversity of student-athletes from all over Singapore.</p>
-<h4>Achievements</h4>
-<p><strong>National School Games Track &amp; Field Championships 2022 </strong>
-</p>
+<h4><strong>Achievements</strong></h4>
+<h4>National School Games Track &amp; Field Championships 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>1st position in Junior 2 Boys Medicine Ball Throw</p>
-</li>
-<li>
-<p>2nd position in Junior 2 Boys Scissors Jump</p>
-</li>
-<li>
-<p>&nbsp;2nd position in Junior 1 Boys Scissors Jump</p>
-</li>
-<li>
-<p>5th position in Junior 1 Boys 1000 metres</p>
-</li>
-<li>
-<p>8th position in Junior 1 Boys Long Jump</p>
-</li>
-<li>
-<p>6th position in Junior 1 Boys 8 x 50 metres Relay</p>
-</li>
-</ul>
+<p>4th position in Senior 1 Boys 30m</p>
 <p></p>
-<p><strong>National School Games Track &amp; Field Championships 2023 </strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>8th position in&nbsp; Junior 2 Boys 4 x 50 Metres Relay</p>
-</li>
-<li>
-<p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
-</li>
-<li>
-<p>8th position in Junior 1 Boys 1000 metres</p>
-</li>
-<li>
-<p>4th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
-</li>
-<li>
-<p>7th position in Junior 1 Boys 8 x 50 Metres Relay</p>
-</li>
-<li>
-<p>Bronze Pin in Junior 1 Girls Multi-Skill Event</p>
-</li>
-<li>
-<p>3rd position in Junior 1 Girls Scissors Jump</p>
-</li>
-</ul>
-<p></p>
-<p><strong>National School Games Track &amp; Field Championships 2024</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>4th position in Senior 1 Boys 40m</p>
 </li>
 <li>
 <p>5th position in Junior 2 Boys Medicine Ball Throw (2kg)</p>
 </li>
 <li>
 <p>6th position in Junior 2 Boys 4 x 50 Meters Relay</p>
+<p></p>
 </li>
 <li>
 <p>7th position in Junior 2 Girls 60m Hurdles</p>
 </li>
 <li>
-<p>8th position in Junior 2 Girls Medicine Ball Throw (1 kg)</p>
+<p>8th position in Junior 2 Girls Medicine Ball Throw (2 kg)</p>
 </li>
 <li>
 <p>8th position in Junior 2 Girls 4 x 50 Metres Relay</p>
+<p></p>
 </li>
 <li>
 <p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
@@ -306,6 +259,7 @@ the diversity of student-athletes from all over Singapore.</p>
 </li>
 <li>
 <p>8th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
+<p></p>
 </li>
 <li>
 <p>Silver Pin in Junior 1 Girls Multi-Skill Event</p>
@@ -315,8 +269,60 @@ the diversity of student-athletes from all over Singapore.</p>
 </li>
 <li>
 <p>8th position in Junior 1 Girls 4 x 50 Metres Relay</p>
+<p></p>
 </li>
 </ul>
+<h4>National School Games Track &amp; Field Championships 2023</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>8th position in&nbsp; Junior 2 Boys 4 x 50 Metres Relay</p>
+<p></p>
+</li>
+<li>
+<p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
+</li>
+<li>
+<p>8th position in Junior 1 Boys 1000 metres</p>
+</li>
+<li>
+<p>4th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
+</li>
+<li>
+<p>7th position in Junior 1 Boys 8 x 50 Metres Relay</p>
+<p></p>
+</li>
+<li>
+<p>Bronze Pin in Junior 1 Girls Multi-Skill Event</p>
+</li>
+<li>
+<p>3rd position in Junior 1 Girls Scissors Jump</p>
+</li>
+</ul>
+<p></p>
+<h4>National School Games Track &amp; Field Championships 2022</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>1st position in Junior 2 Boys Medicine Ball Throw</p>
+</li>
+<li>
+<p>2nd position in Junior 2 Boys Scissors Jump</p>
+<p></p>
+</li>
+<li>
+<p>2nd position in Junior 1 Boys Scissors Jump</p>
+</li>
+<li>
+<p>5th position in Junior 1 Boys 1000 metres</p>
+</li>
+<li>
+<p>8th position in Junior 1 Boys Long Jump</p>
+</li>
+<li>
+<p>6th position in Junior 1 Boys 8 x 50 metres Relay</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">

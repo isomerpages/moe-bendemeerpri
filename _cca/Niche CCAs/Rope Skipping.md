@@ -61,7 +61,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30am - 9am
-<br><strong>(Semester 1 only)</strong>
+<br><strong>(in Semester 1 only)</strong>
 </p>
 </td>
 </tr>
@@ -86,12 +86,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Introduction</h4>
-<p>Rope skipping is a sport where one or more participants jump over a swung
-rope so that it passes under their feet and over their heads. There are
-many types of rope skipping events such as speed events and freestyle events.
-The events are often separated by gender and age.</p>
-<p>In speed events, a jumper alternates their feet with the rope going around
-the jumper every time one of their feet hit the ground for 30 seconds,
+<p>Rope skipping, also known as jump-roping, is a fun and classic activity
+that's great for kids and adults alike! It's an excellent way to get some
+exercise, improve coordination, and boost cardiovascular health.</p>
+<p>There are many types of rope skipping events such as speed events and
+freestyle events. The events are often separated by gender and age.</p>
+<p>&nbsp;In speed events, a jumper alternates their feet with the rope going
+around the jumper every time one of their feet hit the ground for 30 seconds,
 one minute, or three minutes. The jumper is judged on the number of times
 the right foot touches the ground in those times.</p>
 <p>In freestyle events, jumpers use a variety of basic and advanced techniques
@@ -99,18 +100,29 @@ in a routine of one minute, which is judged by a head judge, content judges,
 and performance judges. Different techniques can be used when skipping
 and these can be used individually, or combined in a series, to create
 a routine.</p>
-<p>Rope skipping is a high intensity level workout, like jogging or bicycle
-riding. Skipping for 15–20 minutes is enough to burn off the calories from
-a candy bar and is equivalent to 45–60 minutes of running (depending on
-the intensity of jumps and leg swings.) Many professional trainers, fitness
-experts and MMA fighters greatly recommend skipping for burning fat over
-any other alternative exercises like running and jogging.</p>
-<p><strong>Adapted from: <a rel="noopener noreferrer nofollow" target="_blank">https://en.wikipedia.org/wiki/Skipping_rope</a></strong>
+<p></p>
+<p>Some benefits of rope skipping include:&nbsp;
+<br>1. Improves cardiovascular fitness
+<br>2. Increases agility and coordination
+<br>3. Burns calories and aids in weight management
+<br>4. Strengthens legs and core muscles
+<br>5. Enhances bone density
+<br>6. Reduces stress and improves mood</p>
+<p>Many professional trainers, fitness experts and MMA fighters greatly recommend
+skipping for burning fat over any other alternative exercises like running
+and jogging.</p>
+<p>&nbsp;<strong>Adapted from: <a rel="noopener noreferrer nofollow" target="_blank">https://en.wikipedia.org/wiki/Skipping_rope</a></strong>
 </p>
-<h4>Objectives</h4>
-<p>1.&nbsp; &nbsp;To stimulate&nbsp;interest and love for the sport among
-pupils.
-<br>2.&nbsp; To instill sportsmanship and fair play among pupils.</p>
+<p></p>
+<h4>Objectives:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To stimulate interest and love for the sport among students.</p>
+</li>
+<li>
+<p>To instil sportsmanship and fair play among students.</p>
+</li>
+</ol>
 <h4>Achievements</h4>
 <p><strong><u>NSG Senior Competition 2024</u></strong>
 </p>
@@ -126,7 +138,7 @@ pupils.
 <br>Individual Creative – 3<sup>rd</sup>
 <br>Pair Creative – 4<sup>th</sup>
 </p>
-<p>&nbsp;<u>Junior Girls:</u>
+<p><u>Junior Girls:</u>
 <br>Double Under - 1st</p>
 <p></p>
 <p><strong><u>NSG Senior Competition 2023</u></strong>
