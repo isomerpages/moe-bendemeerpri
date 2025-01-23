@@ -4,56 +4,92 @@ permalink: /our-partners/newevents/
 description: ""
 variant: tiptap
 ---
-## New Events 
-
-
-### 2023 Civil Defence Junior Lionhearters Challenge
-
-#### 24 February 2023
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rx9b{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-acgv{background-color:#FFF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
-.tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf1.png" align="center"></th>
-    <th class="tg-rx9b"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf2.jpg" align="center"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-acgv"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf3.jpg" align="center"></td>
-    <td class="tg-nbj5"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf4.jpg" align="center"></td>
-  </tr>
-  <tr>
-    <td class="tg-acgv"><img style="width:95%" src="/images/Our%20Partners/new%20events_%20cdf5.jpg" align="center"></td>
-    <td class="tg-nbj5"><img style="width:98%" src="/images/Our%20Partners/new%20events_%20cdf6.jpg" align="center"></td>
-  </tr>
-</tbody>
-</table>
-
-Six of our NE Champs took part in the 2023 Civil Defence Junior Lionhearters Challenge held on 24 Feb 2023. This event was organised by the Singapore Civil Defence Force.  
-  
-Prior to this day, the student team spent much time and effort learning and imparting First Aid skills and knowledge among themselves, identifying where are the AEDs located in the school, completing the Community Emergency Preparedness Tier 1 Certificates and creating their own version of the SCDF Ready Bag and painted it to their own design! This bag contains essentials for use during emergencies. The challenge saw the team putting their teamwork and resilience against many other Primary schools around Singapore in solving puzzles and quizzes related to Emergency Preparedness.  
-  
-Although our team did not win the main challenge, we are proud to announce that the team's Ready Bag was in the top 10 schools, and they were awarded a $50 voucher! The team was very happy and excited that their efforts paid off and they had a lot of fun!  
-
-
-
-#### Total Defence Day 2023 - Stronger Together at BPS!
-
-#### 15 February 2023
-
-Bendemeer Primary School commemorated Total Defence Day in which staff and students remembered the surrender of Singapore to the Japanese forces 81 years ago on 15 Feb 1942.  
-  
-Our partners from Rochor Neighbourhood Police Centre of the Singapore Police Force showcased police vehicles and equipment to our excited and curious students! Our male staff also wore their NS uniforms and shared with our students what they did as National Servicemen.  
-  
-Together We Keep Singapore Strong!
+<h4><strong>Singapore Traffic Games 2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_1.jpg">
+</div>
+<p>Our partner, the Traffic Police, invited our Primary 4 and Primary 5 students
+to participate in the finals of the Singapore Traffic Games 2024 on 8 November
+2024. The students were awarded Certificates of Proficiency after competing
+with other schools in areas such as road safety knowledge and civic awareness.</p>
+<h4><strong>Alumni Homecoming during Teachers’ Day 2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_2.jpg">
+</div>
+<p>During the Teachers’ Day celebrations on 29 August 2024, our alumni returned
+to Bendemeer Primary to reconnect with their former teachers. Around 80
+former students gathered in the school hall that morning, with many arriving
+right after their secondary school celebrations—some even traveling from
+distant locations. This heartfelt reunion is a testament to the lasting
+impact our BPS teachers have had on their lives.</p>
+<p></p>
+<h4><strong>Care packs courtesy of Kolam Ayer Community Club</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_3.jpg">
+</div>
+<p>Our Primary 6 students received a delightful surprise on the morning of
+12 August 2024. Each student was gifted a stationery care pack by our generous
+partner, Kolam Ayer Community Club. This thoughtful gesture was intended
+to encourage and wish our P6 Bendemeer Primary School students the very
+best for their PSLE. The students were excited and deeply grateful for
+this kind support from Dr. Wan Rizal, Adviser to Jalan Besar GRC GROs,
+and the staff of Kolam Ayer Community Club.</p>
+<h4><strong>Visit to Toa Payoh Bus Interchange during Kindness Month</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_4.jpg">
+</div>
+<p>As part of Kindness Month, our Primary 5 Student Leaders visited the SBS
+Transit Bus Captains at Toa Payoh Bus Interchange on 16 May 2024. During
+the visit, the Student Leaders interacted with the staff and distributed
+handwritten notes of appreciation. Their thoughtful gestures and words
+of gratitude brought smiles to the faces of the hardworking Bus Captains.
+This outreach initiative strengthens the partnership between Bendemeer
+Primary School and SBS Transit, fostering a spirit of giving back to the
+community and spreading kindness.</p>
+<h4><strong>2024 Civil Defence Junior Lionhearters Challenge</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_d7.jpg">
+</div>
+<p>Our courageous NE Champs participated in the 2024 Civil Defence Junior
+Lionhearters Challenge on 23 February 2024, an event organised by the Singapore
+Civil Defence Force. Leading up to the challenge, the team dedicated significant
+time and effort to mastering First Aid skills, locating AEDs around the
+school, earning their Community Emergency Preparedness Tier 1 Certificates,
+and designing their own version of the SCDF Ready Bag, complete with a
+custom-painted design.</p>
+<p>During the challenge, the team demonstrated exceptional teamwork and resilience
+as they competed against other primary schools, solving puzzles and answering
+quizzes related to emergency preparedness. We are proud to share that their
+Ready Bag design ranked among the top 10 schools! The team was thrilled
+that their hard work paid off and thoroughly enjoyed the experience.</p>
+<h4><strong>Lions Befrienders’ Sustainability Exhibition</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whats_New_2025_8.jpg">
+</div>
+<p>On 20 February 2024, Lions Befrienders (Bendemeer 32) Active Aging Centre
+organised its first exhibition on sustainability and invited our students
+to attend and interact with the elderly. During the visit, our students
+shared insights on climate change and upcycling with the staff and had
+an engaging time learning about sustainability through interactive activities
+and play!</p>
+<h4><strong>Ground Deployment Exercise in BPS!</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_5.jpg">
+</div>
+<p>On 27 January 2024, members of the Singapore Police Force (SPF) and the
+Singapore Civil Defence Force (SCDF) conducted a combined Ground Deployment
+Exercise at Bendemeer Primary School. Officers utilized our school to simulate
+emergency scenarios, showcasing the strong partnership we share with SPF
+and SCDF.</p>
+<p></p>
