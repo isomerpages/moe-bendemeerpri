@@ -9,13 +9,10 @@ variant: tiptap
 <h4>Teachers in charge</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Nur Suhaila (1st IC)</p>
+<p>Mdm Siti Aisha (1<sup>st</sup> IC)</p>
 </li>
 <li>
-<p>Mdm Siti Aisha (1st IC)</p>
-</li>
-<li>
-<p>Mdm Ng Lay Pheng (2nd IC)</p>
+<p>Mrs Sharon Lam (2<sup>nd</sup> IC)</p>
 </li>
 <li>
 <p>Mrs Seetha Dhillon</p>
@@ -24,13 +21,25 @@ variant: tiptap
 <p>Mdm Gao Xin</p>
 </li>
 <li>
-<p>Ms Brindha Menon</p>
+<p>Mdm Suhaila</p>
+</li>
+<li>
+<p>Mrs Brindha Menon</p>
+<p></p>
 </li>
 </ol>
 <h4>Coaches</h4>
-<p>1. Ms Edna Teo (coach)
-<br>2. Mr Kevin Koh (coach)
-<br>3. Mr Don Lui (coach)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ms Edna Teo (coach)</p>
+</li>
+<li>
+<p>Mr Don Lui (coach)</p>
+</li>
+<li>
+<p>Mr Kevin Koh (coach)</p>
+</li>
+</ol>
 <h4>CCA Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,7 +61,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30am - 9am
-<br><strong>(from Semester 2 onwards)</strong>
+<br><strong>(Semester 1 only)</strong>
 </p>
 </td>
 </tr>
@@ -70,7 +79,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2pm - 3.30pm
-<br><strong>(for selected skippers only)</strong>
+<br><strong>(selected dates in Semester 1 only)</strong>
 </p>
 </td>
 </tr>
@@ -103,6 +112,23 @@ any other alternative exercises like running and jogging.</p>
 pupils.
 <br>2.&nbsp; To instill sportsmanship and fair play among pupils.</p>
 <h4>Achievements</h4>
+<p><strong><u>NSG Senior Competition 2024</u></strong>
+</p>
+<p><u>Senior Boys:</u>
+<br>Individual Creative – 4<sup>th</sup> &nbsp;
+<br>Pair Creative – 3<sup>rd</sup> &nbsp;</p>
+<p>&nbsp;<strong><u>NSG Junior Competition 2024</u></strong>
+</p>
+<p><u>Junior Boys:</u>
+<br>Individual Speed – 1<sup>st</sup>
+<br>Double Under – 1<sup>st</sup>
+<br>Speed Relay – 3<sup>rd</sup>
+<br>Individual Creative – 3<sup>rd</sup>
+<br>Pair Creative – 4<sup>th</sup>
+</p>
+<p>&nbsp;<u>Junior Girls:</u>
+<br>Double Under - 1st</p>
+<p></p>
 <p><strong><u>NSG Senior Competition 2023</u></strong>
 </p>
 <p><u>Senior Boys:</u>
@@ -129,24 +155,24 @@ pupils.
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1_skipping.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2_skipping.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/3_skipping.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_5.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4_skipping.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/5_skipping.jpg">
-</div>
-<p></p>
-<p></p>
 <p></p>
