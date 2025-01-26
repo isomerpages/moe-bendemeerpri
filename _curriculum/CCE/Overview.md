@@ -203,11 +203,11 @@ to develop the value of Self-Discipline&nbsp;by taking&nbsp;responsibility
 for the water spilled and taking the initiative to locate the nearest mop
 to clean up after themselves.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE_2025_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE_2025_4.jpg">
 </div>
 <h4><u>4. Be like BEN</u></h4>
 <h4>Objective</h4>
