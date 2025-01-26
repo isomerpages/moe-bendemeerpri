@@ -12,10 +12,10 @@ be an independent learner with an inquiring mind and strong moral values.</p>
 <h4>Teachers-in-Charge</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Sheila Chow (2nd IC)</p>
+<p>Mrs Munawir (1st IC)</p>
 </li>
 <li>
-<p>Mrs Munawir (1st IC)</p>
+<p>Mdm Sheila Chow (2nd IC)</p>
 </li>
 <li>
 <p>Ms Dorothy Ho</p>
@@ -39,14 +39,9 @@ Designing and Mixed-Media
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3D Sculpture &amp;
 Assemblage&nbsp;
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage Decorations
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art VIA to support
-school’s Outreach Programmes
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art Competitions&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parent-Child Bonding
-Session with Parent Support Group
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School-Based Exhibitions
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Exchange/Collaboration
-<br>•&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Art workshops</p>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;School-Based Exhibitions
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Exchange/Collaboration</p>
 <h5>Art&nbsp; Club members in action...</h5>
 <table style="minWidth: 50px">
 <colgroup>
