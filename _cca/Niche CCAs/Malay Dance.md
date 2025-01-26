@@ -103,6 +103,7 @@ them to be an active leader and confident performers.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_dance_2025_2.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_dance_2025_1.jpg">
 </div>
