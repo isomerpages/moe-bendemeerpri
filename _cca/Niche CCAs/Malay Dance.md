@@ -88,32 +88,28 @@ them to be an active leader and confident performers.</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>2024 SYF Arts Presentation – Certificate of Accomplishment</p>
+</li>
+<li>
 <p>2018 SYF Arts Presentation - Certificate of Accomplishment</p>
 </li>
 <li>
 <p>2016 SYF Arts Presentation - Certificate of Distinction</p>
 </li>
 </ul>
-<p>The pupils are given the opportunities to showcase their talents during
-school events (Hari Raya Aidilfitri concert, Honours Day), external performances
-and dance competitions.</p>
 <h4>Photos / Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_dance_2025_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_dance_2025_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_4.jpg">
-</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

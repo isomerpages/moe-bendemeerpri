@@ -149,6 +149,10 @@ effectively.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_1.jpg">
+</div>
 <h4><u>1. ASPIRE Wednesdays</u></h4>
 <h5>Objective</h5>
 <p>At Bendemeer Primary School, we strive to develop our students to become
@@ -170,21 +174,15 @@ Support Leaders share gratitude notes from their peers to lead the school
 in a moment of gratitude. In the latter, students who have been caught
 filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/T1W3_Bucket_Filler__20240118___1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/mindful_3.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/CCE6.jpg">
-</div>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
 school committee and are engaged in deep breathing exercises after that
@@ -205,14 +203,14 @@ to develop the value of Self-Discipline&nbsp;by taking&nbsp;responsibility
 for the water spilled and taking the initiative to locate the nearest mop
 to clean up after themselves.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(7).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE_2025_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/2%20(8).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE_2025_4.jpg">
 </div>
 <h4><u>4. Be like BEN</u></h4>
-<h5>Objective</h5>
+<h4>Objective</h4>
 <p>To create an immersive environment whereby students can be reminded of
 how they could emulate the school mascot, Ben, in exhibiting the school
 ASPIRE values.</p>
@@ -238,7 +236,6 @@ ASPIRE values.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h4><u>5. Enhanced CCE lessons (ECCE) Lower Primary</u></h4>
 <p>As the name suggests, ECCE lessons aim to enhance the character development
 of our students in our school ASPIRE values and CCE R3ICH values (Responsibility,
@@ -248,46 +245,5 @@ teachers and this provides opportunity for the form teacher to strengthen
 teacher-student relation and peer support relations. The lessons are designed
 and customised to meet the needs of the students and explicitly integrate
 school values into it to communicate to students the expected observables.</p>
-<h4><u>6. Sustaining Toilets As Restrooms (STAR)</u></h4>
-<h5>Objectives</h5>
-<ol>
-<li>
-<p>To&nbsp;educate our students and all stakeholders of the school in embracing
-a quality restroom culture.&nbsp;</p>
-</li>
-<li>
-<p>To provide opportunity for students to be responsible by practicing proper
-restroom habits and to be gracious in adopting the restrooms.</p>
-</li>
-</ol>
-<h5>Activities:</h5>
-<p>Our students are briefed and educated:</p>
-<p>(1) On the positive and negative impact their actions have in building
-a quality restroom culture;</p>
-<p>(2) To share care and responsibility to the community by practising good
-restroom habits;</p>
-<p>(3) To improve the lives of people in the school community.</p>
-<p>Students carry out daily inspection of the restrooms and problems that
-require immediate attention would be reported to the General Office.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCE%20Star%201.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="images/CCE%20Star%202.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>We are proud to annonounce that the school has attained the Platinum STAR
-in 2021 and 2022.</p>
+<h4></h4>
+<p></p>
