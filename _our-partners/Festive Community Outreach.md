@@ -20,7 +20,7 @@ we connected with our non-teaching staff!&nbsp;</p>
 <p>This way, we continue to forge and deepen our positive relationship with
 these important groups of stakeholders with the warm presence of the Bendemeer
 family!</p>
-<h4><strong>Chinese New Year Festive Outreach 2024</strong></h4>
+<h4><strong>Chinese New Year Festive Outreach 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Festive_2025_1.jpg">
