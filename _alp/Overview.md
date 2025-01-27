@@ -48,7 +48,12 @@ Aesthetics and Mathematics (STEAM).</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2%20(28).jpg">
 </div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -130,13 +135,15 @@ Maker activity using the various activities from the Maker’s cart.</p>
 </div>
 <p><strong>Staff PD in Maker Education &amp; Facilitation of Maker’s Activity</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2%20(27).jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
@@ -153,24 +160,13 @@ Maker activity using the various activities from the Maker’s cart.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Students from the Environmental Club involved in Maker Activity</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5%20(17).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/makers_lab_2025_4.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6%20(13).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7%20(8).jpg">
-</div>
-<p><strong>Maker’s Lab Recess Activities</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2maker%E2%80%99s%20lab%20recess%20activities%20(term%201).jpg">
-</div>
-<p><strong>IFD collaboration between E2SL committee and SS unit where students created an upcycled bookmark for their friends in the Maker’s Innovation Lab during recess</strong>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Comb_1.jpg">
