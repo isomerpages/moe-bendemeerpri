@@ -13,7 +13,7 @@ variant: tiptap
 <br>
 </p>
 <h4>Instructor</h4>
-<p>Ms Ang Lay Hoon</p>
+<p>Mr Quek Jiang Da</p>
 <h4>CCA Schedule</h4>
 <p>Wednesday, 2 p.m. - 4 p.m.</p>
 <h4>Introduction</h4>
@@ -40,8 +40,17 @@ external performances and competitions.</p>
 <p>2018 SYF Arts Presentation&nbsp; - Certificate of Distinction
 <br>2016 SYF Arts Presentation&nbsp; - Certificate of Distinction</p>
 <h4>Photos/Gallery</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/chinese_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_Dance_2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_Dance_2025_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_Dance_2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
