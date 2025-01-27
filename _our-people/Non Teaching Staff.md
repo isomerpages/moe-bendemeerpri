@@ -244,18 +244,7 @@ variant: tiptap
 <p>Dental Therapist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suzanna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Paravathi d/o Koonjikannan</p>
+<p>Mdm Khin Ei Ei Thein</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -333,6 +322,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nagaselvi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Security</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nadan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
