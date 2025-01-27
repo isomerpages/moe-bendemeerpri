@@ -2,7 +2,7 @@
 title: Parent Support Group
 permalink: /our-partners/parentsupportgroup/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Parent Support Group (PSG)</h3>
 <div class="isomer-image-wrapper">
@@ -51,7 +51,12 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_1.jpg">
 </div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,7 +77,7 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seriwati Salim</p>
+<p>Mdm Chua Shuqi Lydia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -83,7 +88,7 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Nazmi Bin Abu Bakar</p>
+<p>Mdm Anahita Kersi Aspar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -94,18 +99,7 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Punam Gurung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Anahita Kersi Aspar</p>
+<p>Mdm Anwar Sathath Shakila Banu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -113,10 +107,21 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Karen Ng Kim Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Badhar Nisha</p>
+<p>Mdm Ng Heng Boon Alina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -127,7 +132,7 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Rizhu Cheryl</p>
+<p>Mr Teo Beng Ngo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -138,7 +143,7 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tianne Quek</p>
+<p>Mdm Yong Wai Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -146,35 +151,13 @@ in the school activities, programmes and events.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anwar Sathath Shakila Banu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Shuqi Lydia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kong Sze Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<p></p>
 </td>
 </tr>
 </tbody>
