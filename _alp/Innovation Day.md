@@ -32,7 +32,6 @@ in the event, gaining insights into sustainable features in a smart home
 through their seniors' projects.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovation_2025_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Innovation_2025_2.jpg">
 </div>
-<p></p>
 <p></p>
