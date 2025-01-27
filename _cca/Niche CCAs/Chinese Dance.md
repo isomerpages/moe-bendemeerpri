@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h3>CHINESE DANCE</h3>
 <h4>Teachers in charge</h4>
-<p>Ms Chia Jia Min
-<br>Mdm Chua Xingrou&nbsp;(1st IC)
+<p>Mdm Chua Xingrou&nbsp;(1st IC)
 <br>Ms Woo Siew Foon (2nd IC)
+<br>Ms Chia Jia Min
 <br>
 </p>
 <h4>Instructor</h4>
