@@ -17,7 +17,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.d1qmsrsh4o1jg3.amplifyapp.com/curriculum/overview/"><img style="width: 100%" height="auto" width="480" src="/images/Main%20Page/2d41695da_245.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://staging-lite.d1qmsrsh4o1jg3.amplifyapp.com/curriculum/overview/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/curriculum.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ready to explore our vibrant curriculum? Find out more on how our students&nbsp;<strong>deepen their learning and widen their perspectives</strong>&nbsp;in
