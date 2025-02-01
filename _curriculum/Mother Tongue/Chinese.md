@@ -22,7 +22,15 @@ students had fun during the classroom handicraft activity and learnt about
 the significance of Chinese New Year’s culture and practices.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CNY1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_2025_1_jpeg.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_2025_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_2025_2.jpg">
 </div>
 <h4>Mother Tongue Language (MTL) Fortnight</h4>
 <p>Mother Tongue Language Fortnight is a key annual event to provide an engaging
