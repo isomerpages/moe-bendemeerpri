@@ -3,7 +3,7 @@ title: Wushu
 permalink: /cca/niche/wushu/
 description: ""
 third_nav_title: Niche CCAs
-variant: markdown
+variant: tiptap
 ---
 <h3>WUSHU</h3>
 <h4>Teachers in charge</h4>
@@ -12,8 +12,7 @@ variant: markdown
 <br>Ms Olivia Pan
 <br>Ms Soon Lay Har
 <br>Ms Choo Lee Tiang
-<br>Ms Venny Chan
-</p>
+<br>Ms Venny Chan</p>
 <h4>CCA Schedule</h4>
 <p>Time of CCA
 <br>Tuesday (7.30am – 9am) Semester 2</p>
@@ -65,35 +64,16 @@ movements among team members.</p>
 <h4>Achievements</h4>
 <p>1st&nbsp;International Broadsword (2nd&nbsp;position National)</p>
 <h4>Photos</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Wushu1" src="/images/wushu1.jpg">
-</div>
-<p style="text-align:center">YEAH!! Second placing in the Junior Girls 1st International Broadsword
-event!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="wushu2" src="/images/wushu2.jpg">
-</div>
-<p style="text-align:center">Let me perfect this stance! Practice makes perfect!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="wushu3" src="/images/wushu3.jpg">
-</div>
-<p style="text-align:center">So many different swords! We have them all in our Wushu CCA!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="wushu4" src="/images/wushu4.jpg">
-</div>
-<p style="text-align:center">“Haiiiiiiiiiiiiii!” Group Quanshu here we come!!!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/wushu_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2025_1.jpg">
 </div>
-<p style="text-align:center">Our fearless 4-Duan spear competitor during his event!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/wushu_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2025_2.jpg">
 </div>
-<p style="text-align:center">Giving an energetic performance during the Deepavali concert.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/wushu_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2025_3.jpg">
 </div>
-<p style="text-align:center">Wushu students wishing everyone a Happy Chinese New Year!</p>
+<p></p>
