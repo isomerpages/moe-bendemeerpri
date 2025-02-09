@@ -74,6 +74,7 @@ variant: tiptap
 </table>
 </td>
 <td rowspan="1" colspan="1">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -121,6 +122,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/xMNWCqRyGimC8gsJ8" rel="noopener noreferrer nofollow" target="_blank">Our Voices</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CW_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
 </p>
 </td>
 </tr>
