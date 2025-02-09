@@ -45,25 +45,4 @@ schedules and activities if the training is done outside curricular hours.</p>
 </ul>
 <p>It is a platform for all students to have a wide variety of learning experiences
 and to unearth hidden talents amongst students.</p>
-<h4>Modular CCA Programme 2025</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_20251.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_2025_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_2025_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_2025_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_2025_5.jpg">
-</div>
 <p></p>
