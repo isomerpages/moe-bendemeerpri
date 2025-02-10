@@ -62,11 +62,6 @@ such as Chinese brush painting, bean art and paper puppet .</p>
 <p>Mother Tongue Language Cultural Camp is an annual key programme for our
 P3 pupils. It creates an exciting environment for pupils to learn and appreciate
 Mother Tongue Language (MTL) and its culture.</p>
-<h4>Conversational Chinese Programme</h4>
-<p>Conversational Chinese Programme is organised to expose our P3 and P4
-non-Chinese pupils to Chinese Language and its culture. By exposing our
-pupils to different Mother Tongue languages, we hope to emphasise the importance
-of racial harmony to our pupils.</p>
 <h4>Reading Programme</h4>
 <p>The Reading Programme aims to instil a love for reading through structured
 curriculum reading periods, silent reading every Wednesday morning, coupled
