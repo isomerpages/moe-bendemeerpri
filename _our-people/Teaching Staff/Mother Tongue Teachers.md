@@ -130,6 +130,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chia Jia Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_jia_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_jia_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Venny Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_li_yi_venny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_li_yi_venny@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dawn Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ho_poh_har@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Tamil</h5>
