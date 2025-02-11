@@ -4,7 +4,7 @@ permalink: /learning-for-life-programme-llp-bendemeer-s-tempo/
 variant: tiptap
 description: ""
 ---
-<h2>Learning for Life programme (LLP) - Bendemeer’s TEMPO</h2>
+<h2>Learning for Life Programme (LLP) - Bendemeer’s TEMPO</h2>
 <p>Our Learning for Life programme (LLP) entitled Bendemeer’s TEMPO, is designed
 to foster a love for music and the performing arts, personal growth and
 positive relationships.</p>
