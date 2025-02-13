@@ -71,7 +71,7 @@ or insulting /humiliating/embarrassing and/or abusive words.</p>
 </p>
 </li>
 </ol>
-<h4>Prohibited Items </h4>
+<h4>Prohibited Items</h4>
 <ol start="17" data-tight="true" class="tight">
 <li>
 <p>All pupils are not allowed to have in their possession any weapon. They
@@ -120,18 +120,20 @@ used to cause harm to others. Items that can be confiscated include:</p>
 nose studs</p>
 </li>
 </ul>
+<ol start="18" data-tight="true" class="tight">
+<li>
 <p>Parents/guardians will be called to collect the confiscated items from
 the school. All confiscated items will be handed over to the parents after
 they have signed an acknowledgement letter of the child irresponsible behaviour.</p>
+</li>
+</ol>
 <h4>Mobile phone Policy (2025)</h4>
-<ol start="18" data-tight="true" class="tight">
+<ol start="19" data-tight="true" class="tight">
 <li>
 <p>Students are not to use mobile phones during school hours, including recess,
 CCA, and after-school programmes (e.g. supplementary/enrichment/remedial
 lessons).</p>
 </li>
-</ol>
-<ol start="18" data-tight="true" class="tight">
 <li>
 <p>Students who bring mobile phones are to put them in their school bags
 / pockets before school start time. They can retrieve the devices after
@@ -144,7 +146,7 @@ school ends. Students should bear responsibility for safekeeping of devices.</p>
 in the General Office for contacting parents in case of an emergency, students
 may bring a mobile phone if absolutely necessary.</p>
 <p>However, students and parents must be aware of the following rules:</p>
-<ol start="19" data-tight="true" class="tight">
+<ol start="20" data-tight="true" class="tight">
 <li>
 <p><strong>Responsibility: </strong>Students are fully responsible for the
 security of their mobile phones. The school will not be held liable for
@@ -172,9 +174,11 @@ will result in further disciplinary actions.</p>
 of the student and members of the Pupil Management team) if there is a
 suspicion of misuse or involvement in a disciplinary issue.</p>
 <p></p>
-<h4>Examination Protocol:</h4>
-<p></p>
 </li>
+</ol>
+<p><strong>Examination Protocol:</strong>
+</p>
+<ol start="20" data-tight="true" class="tight">
 <li>
 <p>For <strong>national exams </strong>(e.g., PSLE), students must hand over
 their mobile phones to the examination team for safekeeping.</p>
@@ -238,9 +242,11 @@ disciplinary action.</p>
 of the student and members of the Pupil Management team) if there is a
 suspicion of misuse or involvement in a disciplinary issue.</p>
 <p></p>
-<h4>Examination Protocol:</h4>
-<p></p>
 </li>
+</ol>
+<p><strong>Examination Protocol:</strong>
+</p>
+<ol start="34" data-tight="true" class="tight">
 <li>
 <p>For <strong>national exams</strong> (e.g., PSLE), students must hand over
 their smartwatches to the examination team for safekeeping.</p>
