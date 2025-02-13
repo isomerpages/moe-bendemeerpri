@@ -146,7 +146,7 @@ school ends. Students should bear responsibility for safekeeping of devices.</p>
 in the General Office for contacting parents in case of an emergency, students
 may bring a mobile phone if absolutely necessary.</p>
 <p>However, students and parents must be aware of the following rules:</p>
-<ol start="20" data-tight="true" class="tight">
+<ol start="21" data-tight="true" class="tight">
 <li>
 <p><strong>Responsibility: </strong>Students are fully responsible for the
 security of their mobile phones. The school will not be held liable for
@@ -178,7 +178,7 @@ suspicion of misuse or involvement in a disciplinary issue.</p>
 </ol>
 <p><strong>Examination Protocol:</strong>
 </p>
-<ol start="20" data-tight="true" class="tight">
+<ol start="26" data-tight="true" class="tight">
 <li>
 <p>For <strong>national exams </strong>(e.g., PSLE), students must hand over
 their mobile phones to the examination team for safekeeping.</p>
@@ -195,7 +195,7 @@ to the examination rules.</p>
 </li>
 </ol>
 <h4>Smartwatch Policy (2025)</h4>
-<ol start="27" data-tight="true" class="tight">
+<ol start="29" data-tight="true" class="tight">
 <li>
 <p>Students are not to use smartwatches^ during school hours, including recess,
 CCA, and after-school programmes (e.g. supplementary/enrichment/remedial
@@ -213,7 +213,7 @@ ends. Students should bear responsibility for safekeeping of devices.</p>
 have step, heart rate, and blood oxygen monitoring functions only. Smartwatches
 with communication, photo-taking, or recording capabilities are strictly
 prohibited. Please take note of the following guidelines:</p>
-<ol start="29" data-tight="true" class="tight">
+<ol start="31" data-tight="true" class="tight">
 <li>
 <p><strong>Responsibility: </strong>Students are fully responsible for their
 smartwatches and other wearable devices. The school will not be liable
@@ -246,7 +246,7 @@ suspicion of misuse or involvement in a disciplinary issue.</p>
 </ol>
 <p><strong>Examination Protocol:</strong>
 </p>
-<ol start="34" data-tight="true" class="tight">
+<ol start="36" data-tight="true" class="tight">
 <li>
 <p>For <strong>national exams</strong> (e.g., PSLE), students must hand over
 their smartwatches to the examination team for safekeeping.</p>
