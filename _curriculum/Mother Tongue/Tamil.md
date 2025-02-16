@@ -23,19 +23,16 @@ Tamil student of Bendemeer Primary School.</p>
 <p>Mother Tongue Fortnight is a key annual event to provide an engaging environment
 for the learning of Mother Tongue Languages (MTL). A variety of activities
 is organised to encourage the pupils to actively use their MTL and appreciate
-their MTL and associated culture. This year we had activities such as Traditional
-Tamil Games, Murukku making station and competitions. Competitions included
-Poetry Recitation, Story Telling, Jingles and Touch Typing.</p>
+their MTL and associated culture.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/1%20(13).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/3%20(12).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL2.jpg">
 </div>
+<p></p>
 <hr>
 <h4>Buddy Reading</h4>
 <p>Students who need help in reading will be selected for Buddy Reading Programme.
@@ -48,38 +45,23 @@ and Thursdays.</p>
 <hr>
 <h4>Deepavali Celebration @ BPS</h4>
 <p>Deepavali Celebration @ BPS was conducted by the Tamil Department successfully
-in the year 2023 with the theme, "Deepavali in Diversity". The theme focused
-on Celebrating Deepavali together with other races harmoniously. The objective
-was to develop social awareness and manage relationships for personal and
-social well-being towards Deepavali and Racial harmony. Tamil Language
-Department collaborated with MOE Kindergarten, Wushu CCA, Malay Dance CCA,
+in the year 2024 with the theme, "Deepavali Beyond Screens". The theme
+focused on setting a limit for screen time and how it can affect the Deepavali
+celebration preparations and family bondedness. The objective was to develop
+cyber wellness and manage relationships for personal and social well-being
+towards Deepavali. Tamil Language Department collaborated with MOE Kindergarten,
 Indian Dance CCA, Parent Support Group and Indian Heritage Centre to bring
 about an enriching Deepavali experience for our students. Deepavali Celebration
 was a great platform for our students to display their talents such as
 dancing, acting and hosting.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7188.JPG">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7302.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL3.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7237.JPG">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7274.JPG">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7286.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7366.JPG">
-</div>
 <hr>
 <h4>Useful Links</h4>
 <p>Tamil Touch-typing on Tamil99 keyboard
