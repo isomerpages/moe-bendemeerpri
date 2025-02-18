@@ -23,7 +23,9 @@ it possible for teachers to learn from their preschool students as well?
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pC-uxYi8SAI?si=eT3hssCVAnAILUmJ"></iframe>
 </div>
-<p></p>
-<h4><a href="https://drive.google.com/file/d/1HD_cSC_lh-OzLqoXTVAFwF8DUGzpY4rq/view?usp=sharing" rel="noopener nofollow" target="_blank">Chinese New Year 2025</a></h4>
+<h4>Chinese New Year Celebrations 2025<br></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K-Q5sOJ-9KI?si=pkXMaRo02MJ1f06b"></iframe>
+</div>
 <p></p>
 <p></p>
