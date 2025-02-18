@@ -23,7 +23,14 @@ it possible for teachers to learn from their preschool students as well?
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pC-uxYi8SAI?si=eT3hssCVAnAILUmJ"></iframe>
 </div>
-<p></p>
-<h4><a href="https://drive.google.com/file/d/1HD_cSC_lh-OzLqoXTVAFwF8DUGzpY4rq/view?usp=sharing" rel="noopener nofollow" target="_blank">Chinese New Year 2025</a></h4>
+<h4><br><strong>Celebrating the Joy of Chinese New Year at MK! 🏮🐉</strong></h4>
+<p>Our MOE Kindergarten at Bendemeer welcomed the Lunar New Year with an
+exciting and vibrant celebration! 🎊 From festive performances to hands-on
+activities, our little ones had a wonderful time learning about Chinese
+New Year traditions while embracing the spirit of togetherness and joy.
+Watch the highlights of this special occasion in the video below! 🎥✨</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K-Q5sOJ-9KI?si=pkXMaRo02MJ1f06b"></iframe>
+</div>
 <p></p>
 <p></p>
