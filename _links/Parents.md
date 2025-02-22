@@ -13,6 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,7 +49,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Update contact details</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Update contact details form</a>
 </p>
 </td>
 </tr>
