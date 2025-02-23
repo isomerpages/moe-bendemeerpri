@@ -76,6 +76,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Details Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </td>
