@@ -132,18 +132,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPB_Logo2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Consent to health vaccinations and dental services</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTUC_Income2.jpg">
 </div>
 </td>
