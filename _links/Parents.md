@@ -81,7 +81,7 @@ variant: tiptap
 <p>Student Details Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
 </td>
 </tr>
