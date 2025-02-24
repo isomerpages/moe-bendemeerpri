@@ -46,5 +46,9 @@ variant: tiptap
 <p><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">Insurance claims NTUC GPA</a>
 </p>
 </li>
+<li>
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Consent on Vaccination and dental services </a>
+</p>
+</li>
 </ol>
 <p></p>
