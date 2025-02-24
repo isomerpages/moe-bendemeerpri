@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Consent on Vaccination and dental services </a>
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Consent on Vaccination and dental services</a>
 </p>
 </li>
 </ol>
