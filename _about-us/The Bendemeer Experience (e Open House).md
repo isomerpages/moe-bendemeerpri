@@ -100,7 +100,7 @@ as responsible citizens while&nbsp;<strong>forging mutually-beneficial relations
 <p>Do you want to find out about what happens during a Physical Education
 Lesson? What sort of programmes do we have in the school to&nbsp;<strong>promote a healthy lifestyle, life skills and values through sports</strong>?</p>
 <p>Find out more about what happens for the teaching of Physical Education
-lessons, Annual Games Day and SwimSafer. (Click on the video)&nbsp;</p>
+lessons, Annual Games Day and SwimSafer. (Click on the image)&nbsp;</p>
 </td>
 </tr>
 </tbody>

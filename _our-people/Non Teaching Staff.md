@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cynthia Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_yuet_mun_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_yuet_mun_cynthia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
