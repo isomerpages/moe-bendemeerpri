@@ -398,6 +398,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Adibah Binte Ariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adibah_ariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adibah_ariff@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,18 +429,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Wong_Tat_Chow_Francis@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Adibah Binte Ariff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:adibah_ariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adibah_ariff@moe.edu.sg</a>
 </p>
 </td>
 </tr>
