@@ -14,7 +14,7 @@ and provides direction based on changing and evolving landscapes.</p>
 <p><strong>Members:</strong> 
 <br>Mr Loo Chin Nong PBM
 <br>Mr Viswanatha Ramasubramanian
-<br>Ms Charissa Tan Li Pin
+<br>Dr Charissa Tan Li Pin
 <br>Ms Nana Wong
 <br>
 </p>
