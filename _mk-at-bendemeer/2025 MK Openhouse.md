@@ -4,10 +4,9 @@ permalink: /announcements/
 variant: tiptap
 description: ""
 ---
-<h4>2025 MK Open House </h4>
+<h4>2025 MK Open House</h4>
 <p><strong>Highlights</strong>
-</p>
-<p>Our <strong>MOE Kindergarten (MK) Open House</strong> on <strong>Saturday, 15 February 2025</strong>,
+<br>Our <strong>MOE Kindergarten (MK) Open House</strong> on <strong>Saturday, 15 February 2025</strong>,
 was a wonderful opportunity for parents to explore our nurturing learning
 environment and discover how we cultivate joyful, curious, and confident
 learners. Visitors had the chance to meet our dedicated educators, tour
