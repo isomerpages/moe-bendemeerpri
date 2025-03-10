@@ -48,5 +48,9 @@ variant: tiptap
 <p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link </a>
+</p>
+</li>
 </ol>
 <p></p>
