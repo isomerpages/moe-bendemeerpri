@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="nasreennasir" src="https://file.for.edu.sg/nasreennasir.JPG">
 </div>
-<p>MS NASREEN NASER
-<br>DEPUTY CENTRE HEAD</p>
+<p>MS NASREEN NASER, DEPUTY CENTRE HEAD</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
