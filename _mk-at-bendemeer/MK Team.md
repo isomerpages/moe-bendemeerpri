@@ -123,6 +123,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -130,22 +131,29 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mssitifarhana" src="https://file.for.edu.sg/mssitifarhana.JPG">
+<img style="width: 40%;" height="auto" width="100%" alt="mssitifarhana" src="https://file.for.edu.sg/mssitifarhana.JPG">
 </div>
-<p>MS SITI FARHANA GHUFRAN
-<br>MALAY LANGUAGE TEACHER</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_3_34_05_PM.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS SITI FARHANA GHUFRAN</p>
+<p>MALAY LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MR PRAKASH EZEKIEL
+<br>TAMIL LANGUAGE TEACHER</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_3_34_05_PM.jpg">
-</div>
-<p>MR PRAKASH EZEKIEL
-<br>TAMIL LANGUAGE TEACHER</p>
+<p></p>
+<p></p>
