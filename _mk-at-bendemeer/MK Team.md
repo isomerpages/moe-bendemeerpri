@@ -108,15 +108,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="WhatsApp_Image_2024_01_18_at_10_34_54" src="/images/WhatsApp_Image_2024_01_18_at_10_34_54.jpeg">
+<img style="width: 97%;" height="auto" width="100%" alt="WhatsApp_Image_2024_01_18_at_10_34_54" src="/images/WhatsApp_Image_2024_01_18_at_10_34_54.jpeg">
 </div>
 <p>MS QIN YULIN
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/LJJ.jpg">
+</div>
 <p></p>
 <p>MS LI JIAO JIAO CHINESE LANGUAGE TEACHER</p>
 </td>
