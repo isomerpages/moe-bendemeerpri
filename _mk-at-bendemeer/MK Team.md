@@ -75,8 +75,54 @@ variant: tiptap
 </tbody>
 </table>
 <h3>MTL Team</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -86,21 +132,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mszhenglei" src="https://file.for.edu.sg/mszhenglei.JPG">
+<img style="width: 73%;" height="auto" width="100%" alt="mszhenglei" src="https://file.for.edu.sg/mszhenglei.JPG">
 </div>
 <p>MS ZHANG LEI
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="cheokfoong" src="https://file.for.edu.sg/mslowchokfong.jpeg">
+<img style="width: 73%;" height="auto" width="100%" alt="cheokfoong" src="https://file.for.edu.sg/mslowchokfong.jpeg">
 </div>
 <p>MS LOW CHEOK FOONG
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mrxuli" src="https://file.for.edu.sg/mrxuli.JPG">
+<img style="width: 73%;" height="auto" width="100%" alt="mrxuli" src="https://file.for.edu.sg/mrxuli.JPG">
 </div>
 <p>MR XU LI
 <br>CHINESE LANGUAGE TEACHER</p>
@@ -112,22 +158,12 @@ variant: tiptap
 <p>MS QIN YULIN
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Li_Jiao_Jiao.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>MS LI JIAO JIAO CHINESE LANGUAGE TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
