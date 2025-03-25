@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GO_TV_slides_1.jpg
+      background: /images/DSC_8067.jpg
       key_highlights:
         - title: Announcements
           description: ""

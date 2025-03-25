@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="nasreennasir" src="https://file.for.edu.sg/nasreennasir.JPG">
 </div>
-<p>MS NASREEN NASER
-<br>DEPUTY CENTRE HEAD</p>
+<p>MS NASREEN NASER, DEPUTY CENTRE HEAD</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -75,8 +74,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3>MTL Team</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -86,75 +86,81 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mszhenglei" src="https://file.for.edu.sg/mszhenglei.JPG">
+<img style="width: 73%;" height="auto" width="100%" alt="mszhenglei" src="https://file.for.edu.sg/mszhenglei.JPG">
 </div>
 <p>MS ZHANG LEI
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="cheokfoong" src="https://file.for.edu.sg/mslowchokfong.jpeg">
+<img style="width: 73%;" height="auto" width="100%" alt="cheokfoong" src="https://file.for.edu.sg/mslowchokfong.jpeg">
 </div>
 <p>MS LOW CHEOK FOONG
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mrxuli" src="https://file.for.edu.sg/mrxuli.JPG">
+<img style="width: 73%;" height="auto" width="100%" alt="mrxuli" src="https://file.for.edu.sg/mrxuli.JPG">
 </div>
 <p>MR XU LI
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="WhatsApp_Image_2024_01_18_at_10_34_54" src="/images/WhatsApp_Image_2024_01_18_at_10_34_54.jpeg">
+<img style="width: 90%;" height="auto" width="100%" alt="WhatsApp_Image_2024_01_18_at_10_34_54" src="/images/WhatsApp_Image_2024_01_18_at_10_34_54.jpeg">
 </div>
 <p>MS QIN YULIN
 <br>CHINESE LANGUAGE TEACHER</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Li_Jiao_Jiao.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/LJJ.jpg">
 </div>
+<p></p>
 <p>MS LI JIAO JIAO CHINESE LANGUAGE TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="mssitifarhana" src="https://file.for.edu.sg/mssitifarhana.JPG">
+<img style="width: 20%;" height="auto" width="100%" alt="mssitifarhana" src="https://file.for.edu.sg/mssitifarhana.JPG">
 </div>
-<p>MS SITI FARHANA GHUFRAN
-<br>MALAY LANGUAGE TEACHER</p>
-</td>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p>MS SITI FARHANA GHUFRAN, MALAY LANGUAGE TEACHER</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_3_34_05_PM.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR PRAKASH EZEKIEL, TAMIL LANGUAGE TEACHER</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_3_34_05_PM.jpg">
-</div>
-<p>MR PRAKASH EZEKIEL
-<br>TAMIL LANGUAGE TEACHER</p>
+<p></p>
