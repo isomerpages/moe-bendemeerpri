@@ -133,33 +133,43 @@ to 11.30 am, during their PE lessons for a total of 8 sessions.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/swimsafer_4.jpg">
 </div>
 <h4>Annual Games Day</h4>
-<p>Our Annual Games Day for 2025 will be conducted on 21 February 2025. All
-Primary 3 to Primary 6 students will get to games and sports events in
-the school.</p>
-<p>Students will be grouped according to their Houses: Rhino (red), Manta
-(blue), Cheetah (yellow) and Eagles (green) to compete in a variety of
-different games and sports events for each level to earn points for their
-respective Houses and medals for themselves. These House points will be
-tabulated to determine the Overall House Champion at the end of the year.</p>
-<p>We hope to provide a platform for our students to exhibit our ASPIRE school
-values through their participation in sporting events and build teamwork
-with students from other classes through these games.</p>
-<p>More details will be shared at a later date.</p>
+<p>With the theme, ‘<em>Compete with Joy, Connect with Empathy’</em>, our
+Annual Games Day this year was conducted on 21 February 2025. The Annual
+Games Day provides opportunities for students from Primary 3 to 6 and staff
+to come together to compete passionately in the spirit of the activities
+and games.</p>
+<p>It is also a platform to inculcate in students, the ASPIRE values and
+demonstrate these values through the different activities throughout the
+event. With the ASPIRE values &amp; the EXPLORE Framework as the foundation,
+students work towards achieving personal success.</p>
+<p>It was heartening to see everyone coming together to put up their House
+decor in the school hall and cheering proudly during the cheer competition.</p>
+<p>Cheetah House emerged as the House Champion for Annual Games Day this
+year. Congratulations!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1.jpg">
+</div>
+<p>P3 students in action during the ‘Precision Passers’ game challenge</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+</div>
+<p>P4 students taking part in the ‘Let’s Synergise 1’ game challenge</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo3.jpg">
+</div>
+<p>P5 students playing modified volleyball game</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo4.jpg">
+</div>
+<p>P6 students exhibiting good team work during the ‘Let’s Synergise 2’ game
+challenge</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2025_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2025_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2025_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo6.jpg">
 </div>
 <h4>P5 Cohort Camp</h4>
 <p>As one of the key Student Development Experiences (SDEs) by MOE to achieve
