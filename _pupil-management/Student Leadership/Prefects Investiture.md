@@ -42,7 +42,7 @@ Valerie Lee, and Axelle Goh. Together, they form the core leadership team
 guiding the prefects through the year with dedication, integrity, and heart.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Investiture_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Investiture_4.jpg">
 </div>
 <p>The ceremony concluded with the recitation of the Prefects’ Oath, led
 confidently by Head Prefect Insiyah, and her moving speech, which inspired
