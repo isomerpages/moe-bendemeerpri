@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Student Leadership/STARm Student Leadership Camp.md
       - Student Leadership/.keep
       - Student Leadership/Overview.md
       - Student Leadership/Prefects Investiture.md
