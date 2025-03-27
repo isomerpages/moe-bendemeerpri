@@ -5,37 +5,34 @@ description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-<h3><strong>P5 Public Speaking Programme - Supporting Our Leaders</strong></h3>
-<p>In our continuous effort to support the growth and development of our
-student leaders, in January we held Public Speaking Programme for our student
-leaders. These leaders encompass roles such as Prefects, NE Champs, Lead
-Librarians, Peer Support Leaders, Cyber Wellness Ambassadors, and Sports
-Leaders. The program was designed to enhance their communication skills,
-combining engaging drama activities with essential public speaking tips.</p>
+<h3><strong>P5 Public Speaking Programme - Nurturing Confident Communicators</strong></h3>
+<p>This year, the P5 Public Speaking Programme returned with even greater
+energy and purpose. Due to overwhelming interest and strong demand, the
+intake was doubled since last year, allowing more of our specialised student
+leaders (i.e. Prefects, NE Champs, Lead Librarians, Peer Support Leaders,
+Cyber Wellness Ambassadors, and Sports Leaders) to benefit from this enriching
+opportunity.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/public_speaking_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_public_speaking.jpg">
 </div>
-<p>The student leaders were led through a series of workshops that emphasized
-speech preparation, mastery of body language, and articulation exercises,
-among other essential public speaking skills. By engaging in role-playing
-activities and sharing of stories, our students had the opportunity to
-practice speaking in real-life scenarios, effectively translating lessons
-into tangible skills.</p>
+<p>The expanded cohort participated in a dynamic series of workshops designed
+to build essential public speaking skills. From crafting compelling speeches
+to refining body language and articulation, students explored a mix of
+drama-based activities, speech delivery techniques, and real-world speaking
+scenarios.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/public_speaking_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_public_speaking2.jpg">
 </div>
-<p>The highlight of the program was when each student leader was tasked to
-present in front of their peers, showcasing the skills they had learned.
-Witnessing their transformation into confident and articulate speakers,
-ready to take charge at school events, was just remarkable.</p>
+<p>The highlight of the programme was the showcase segment, where each student
+leader had the chance to present confidently in front of their peers. It
+was inspiring to witness their transformation into poised speakers, ready
+to advocate, inspire, and lead in their various leadership roles.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/public_speaking_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_public_speaking3.jpg">
 </div>
-<p>A resounding applause for their achievements – it's evident that adept
-communication is fundamental to exceptional leadership. Here's to our young
-leaders, stepping up and ready to make a positive change with their newfound
-skills!</p>
-<p></p>
+<p>With more students now equipped with the power to speak with clarity and
+confidence, we’re proud to see our leadership community growing stronger
+and more empowered to make a meaningful impact within the school and beyond.</p>
