@@ -16,7 +16,7 @@ in leadership – emphasising how prefects can build stronger relationships,
 foster unity, and uplift the school community through their words and actions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Investiture_1_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Investiture_1_2025.jpg">
 </div>
 <p>The ceremony began with a warm welcome and an inspiring address by our
 Principal, Mrs Tan, who reminded all students that true leadership begins
@@ -42,13 +42,12 @@ Valerie Lee, and Axelle Goh. Together, they form the core leadership team
 guiding the prefects through the year with dedication, integrity, and heart.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Investiture_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Investiture_4.jpg">
 </div>
 <p>The ceremony concluded with the recitation of the Prefects’ Oath, led
 confidently by Head Prefect Insiyah, and her moving speech, which inspired
 her fellow prefects to lead with empathy, courage, and a commitment to
 making a difference.</p>
-<p></p>
 <p>As we look ahead to the year, Bendemeer Primary School remains confident
 in the potential of our prefects to be not just responsible role models,
 but also compassionate leaders who communicate with purpose and connect
