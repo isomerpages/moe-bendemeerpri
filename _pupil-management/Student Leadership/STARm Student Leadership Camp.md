@@ -10,6 +10,7 @@ third_nav_title: Student Leadership
 As Role Models (STARm) Student Leadership Camp hosted by St Andrew's Secondary
 School. Centred around the theme ‘Connecting Hearts, Connecting Communities,’
 the camp offered a focused afternoon of learning and collaboration.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/STARm_1.jpg">
 </div>
