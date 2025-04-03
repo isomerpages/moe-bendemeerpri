@@ -205,18 +205,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chian Kuan Yew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chian_kuan_yew_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chian_kuan_yew_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
