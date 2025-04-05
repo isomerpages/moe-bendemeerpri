@@ -7,34 +7,29 @@ third_nav_title: School Services and Contacts
 ---
 <p><strong>School Canteen Advertisement</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Food Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 June 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rice or noodle stalls are acceptable</p>
+<p>Bendemeer Primary School has a vacancy for <strong><u>Halal Rice Stall</u></strong> and
+would like to invite interested applicants to operate the stall to start
+from _________________________________.</p>
+<p>If you know of anyone who is interested, please refer them to our school.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Application Procedure</strong>
+<p>
+<br><strong>Application Procedure</strong>
 </p>
-<p></p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
 <p><a href="https://drive.google.com/file/d/1Sh0mSHdnAH29CvkSFiTkxDOMCB_iyDGY/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">[Application Form]</a>
+<br>
 </p>
-<p></p>
 <p>2. Attached the following documents together with the application form:</p>
 <p>* Photocopy of the NRIC (front and back)
 <br>* List of proposed menu and pricing for all items
@@ -47,7 +42,7 @@ via email OR to the School's General Office.</p>
 <p>Address: 91 Bendemeer Road
 <br>Contact No: 62982911
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">Bendemeer_ps@moe.edu.sg</a> 
-<br>Contact Person: Mr Derrick Ang (Admin Manager)</p>
+<br>Contact Person: Contact Person: Mr Francis Wong (OM)</p>
 <p></p>
 <p><strong>How to get there?</strong>
 </p>
@@ -75,7 +70,6 @@ Food Hygiene Certificate.</p>
 <p>* Possess catering experience or experience operating in a school environment.</p>
 <p>* Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
-<p></p>
 <p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
