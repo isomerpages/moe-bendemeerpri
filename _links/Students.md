@@ -49,7 +49,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link </a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
+</p>
+</li>
+<li>
+<p><a href="https://portal.mims.moe.gov.sg/sspr/private/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a>
 </p>
 </li>
 </ol>
