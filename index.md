@@ -20,5 +20,5 @@ sections:
           url: /about-us/virtual-tour-of-bps
         - title: BPS School Calendar
           description: ""
-          url: https://calendar.google.com/calendar/u/0/r/month/2025/3/1
+          url: https://calendar.google.com/calendar/embed?src=bpsprimaryfb%40gmail.com&ctz=Asia%2FSingapore
 ---
