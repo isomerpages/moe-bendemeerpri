@@ -15,9 +15,9 @@ sections:
         - title: Links
           description: ""
           url: /links/students
-        - title: Virtual Tour
+        - title: Follow Us on Instagram!
           description: ""
-          url: /about-us/virtual-tour-of-bps
+          url: https://www.instagram.com/bendemeerprimary.official/
         - title: BPS School Calendar
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpsprimaryfb%40gmail.com&ctz=Asia%2FSingapore
