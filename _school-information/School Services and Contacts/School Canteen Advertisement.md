@@ -15,8 +15,7 @@ third_nav_title: School Services and Contacts
 <tr>
 <td rowspan="1" colspan="1">
 <p>Bendemeer Primary School has a vacancy for <strong><u>Halal Rice Stall</u></strong> and
-would like to invite interested applicants to operate the stall to start
-from _________________________________.</p>
+would like to invite interested applicants to operate the stall to start <strong><u>from mid of June 2025</u></strong>.</p>
 <p>If you know of anyone who is interested, please refer them to our school.</p>
 </td>
 </tr>
@@ -25,19 +24,25 @@ from _________________________________.</p>
 <p>
 <br><strong>Application Procedure</strong>
 </p>
-<p>1. Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.</p>
-<p><a href="https://drive.google.com/file/d/1Sh0mSHdnAH29CvkSFiTkxDOMCB_iyDGY/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">[Application Form]</a>
+<p>1. Download and complete the <a href="https://drive.google.com/file/d/1Sh0mSHdnAH29CvkSFiTkxDOMCB_iyDGY/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">[Application Form].</a>
 <br>
 </p>
-<p>2. Attached the following documents together with the application form:</p>
-<p>* Photocopy of the NRIC (front and back)
-<br>* List of proposed menu and pricing for all items
-<br>* Photocopy of relevant certificates such as Basic Food Hygiene Course,
+<p>2. Attach the following documents together with the application form:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
-<p></p>
-<p>3. Submit the completed application form and documents by closing date
-via email OR to the School's General Office.</p>
+</li>
+</ul>
+<p>3. Submit the completed application form and documents before closing
+date
+<br>via email to the School’s General Office.</p>
 <p></p>
 <p>Address: 91 Bendemeer Road
 <br>Contact No: 62982911
@@ -58,7 +63,7 @@ in consultation with the school.
 set by the Health
 <br>
 <br>Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)"
-guidelines (see [link](<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>)).</p>
+guidelines (see [link](<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
 <p>* Able to maintain high standard of food safety and personal hygiene.
 <br>* Healthy and fit to operate the stall.</p>
 <p></p>
