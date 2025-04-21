@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>STUDENT LEADERSHIP</h3>
-<p><strong>Co-Advisor</strong> 
+<p><strong>Advisor</strong> 
 <br>Ms Adeline Tan</p>
 <p><strong>Student Leadership Team</strong>
 <br>Mr Luke Goh (Student Leadership Coordinator)
