@@ -112,7 +112,7 @@ of the culture and practices during the celebrations.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raya_Performers_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_Performers_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_Performers_2.jpg">
