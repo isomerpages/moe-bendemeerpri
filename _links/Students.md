@@ -56,5 +56,9 @@ variant: tiptap
 <p><a href="https://portal.mims.moe.gov.sg/sspr/private/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
+</p>
+</li>
 </ol>
 <p></p>
