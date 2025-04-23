@@ -108,10 +108,14 @@ opportunity to share with the school’s multi-racial community, the significanc
 of the culture and practices during the celebrations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Malay_2025_6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raya_Performers_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_Performers_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_2025_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_Performers_2.jpg">
 </div>
 <h4>Resources and Useful Links</h4>
 <p>Siri Bacaan Nabil Nabilah (Reader Series for P1- P6)

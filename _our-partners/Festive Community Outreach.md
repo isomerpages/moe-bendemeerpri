@@ -25,10 +25,10 @@ family!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Festive_2025_1.jpg">
 </div>
-<h4><strong>Hari Raya Festive Outreach 2024</strong></h4>
+<h4><strong>Hari Raya Festive Outreach 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Festive_2025_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Outreach_Raya_2025.jpg">
 </div>
 <h4><strong>Deepavali Festive Outreach 2024</strong></h4>
 <p></p>

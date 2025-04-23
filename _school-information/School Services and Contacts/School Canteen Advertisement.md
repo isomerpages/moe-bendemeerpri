@@ -41,8 +41,7 @@ etc</p>
 </li>
 </ul>
 <p>3. Submit the completed application form and documents before closing
-date
-<br>via email to the School’s General Office.</p>
+date via email to the School’s General Office.</p>
 <p></p>
 <p>Address: 91 Bendemeer Road
 <br>Contact No: 62982911

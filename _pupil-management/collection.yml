@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - Student Leadership/STARm Student Leadership Camp.md
       - Student Leadership/.keep
       - Student Leadership/Overview.md
+      - Student Leadership/STARm Student Leadership Camp.md
       - Student Leadership/Prefects Investiture.md
       - Student Leadership/EXCO Prefect Handover Ceremony.md
       - Student Leadership/Head Prefect Election 2024.md
