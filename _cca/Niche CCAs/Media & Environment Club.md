@@ -37,6 +37,53 @@ through the main thrusts:</p>
 <p>Working and collaborating with stakeholders on environment programmes.</p>
 </li>
 </ul>
+<p></p>
+<h4>Earth Day 2025 - Our Power, Our Planet</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_1.jpg">
+</div>
+<p>In celebration of Earth Day, our school came together under the theme <em>Our Power, Our Planet</em> to
+raise awareness about the importance of renewable energy and caring for
+our environment. The Environment Club kick-started the day with an engaging
+school presentation, educating students on various types of renewable energy
+and how they contribute to a more sustainable future.</p>
+<p>During recess, students were treated to a fun and interactive puzzle-matching
+game designed by members of the Media and Environment Clubs. The puzzles
+were creatively made from recycled cereal boxes, reinforcing the message
+of reusing materials to reduce waste.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_2.jpg">
+</div>
+<p>In addition, an informative display board showcased how countries such
+as Singapore, Canada, Japan, Sweden, and New Zealand are adopting renewable
+energy practices. Through these visuals, students learned how global communities
+are working towards a greener future and how they, too, can play a part.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_3.jpg">
+</div>
+<p>It was a meaningful and educational event that reminded everyone that
+protecting the planet starts with us.</p>
+<h4>World Water Day 2025 - Glacier Preservation</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD_2025_1.jpg">
+</div>
+<p>In support of the worldwide <em>World Water Day</em> movement, our school
+focused this year’s theme on <em>Glacier Preservation</em>. The Media and
+Environment Clubs took the lead by researching glaciers across different
+continents and exploring how global warming has caused them to shrink at
+an alarming rate.</p>
+<p>Through their presentation, the students shared how the melting of glaciers
+not only threatens ecosystems but also affects human populations that rely
+on glaciers for freshwater and stable climates. Their well-researched findings
+were presented to the whole school, raising awareness about the urgent
+need to protect these vital water sources.</p>
+<p>The event reminded everyone that conserving water and fighting climate
+change are global responsibilities—and it starts with being informed and
+taking small actions in our daily lives.</p>
+<p></p>
+<h4>Learning Journeys</h4>
 <p>In 2024, the Environment Club embarked on enriching learning journeys
 to the NEWater Visitor Centre and Gardens by the Bay.</p>
 <p>At the NEWater Visitor Centre, students learned about Singapore's innovative
@@ -44,6 +91,7 @@ water conservation strategies and the advanced technologies behind its
 sustainable drinking water supply. They gained a deeper understanding of
 the nation's efforts to overcome resource challenges and ensure water security.</p>
 <p></p>
+<h4>Learning Journeys</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_2.jpg">
 </div>
@@ -79,35 +127,5 @@ education and awareness.</p>
 </div>
 <p></p>
 <p></p>
-<h4>Earth Day 2024 - Planet vs. Plastics</h4>
-<p>At Bendemeer Primary School, Earth Day is a celebration of our commitment
-to the planet and a reminder of our responsibility to protect it. This
-year theme "Planet vs Plastics" focusing on the urgent issue of plastic
-pollution and its impact on our environment.</p>
+<h4></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_1.png">
-</div>
-<p>Our Media &amp; Environment Club members presented a talk during the morning
-assembly, highlighting the harmful impacts of microplastics on our ecosystems.
-As this celebration also coincided with Book Character Day, students were
-encouraged to craft their costumes from recyclable materials, showcasing
-their creativity and commitment to sustainability. Furthermore, students
-delved into the heartwarming tale of "Ms. Jug Finds a Home," a story that
-underscores the importance of repurposing materials and reducing waste.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_2.png">
-</div>
-<p>Informative boards were displayed, educating students about the hazards
-of plastic pollution. Additionally, P3 students' tote bag upcycling projects,
-part of their Social Studies syllabus, were proudly showcased, highlighting
-their efforts in waste reduction.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_3.png">
-</div>
-<p>As we go beyond just one day, our commitment to taking care of the environment
-stays strong at Bendemeer Primary School. Our efforts extend beyond Earth
-Day; we continue working on projects to safeguard our planet for future
-generations. Together, we're building a cleaner, greener world.</p>
