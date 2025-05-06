@@ -39,14 +39,18 @@ through the main thrusts:</p>
 </ul>
 <p></p>
 <h4>Earth Day 2025 - Our Power, Our Planet</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_1.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SGLWZqYwAEA?si=YV0Um4NZnXhG1qNX"></iframe>
 </div>
 <p>In celebration of Earth Day, our school came together under the theme <em>Our Power, Our Planet</em> to
 raise awareness about the importance of renewable energy and caring for
 our environment. The Environment Club kick-started the day with an engaging
 school presentation, educating students on various types of renewable energy
 and how they contribute to a more sustainable future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_1.jpg">
+</div>
 <p>During recess, students were treated to a fun and interactive puzzle-matching
 game designed by members of the Media and Environment Clubs. The puzzles
 were creatively made from recycled cereal boxes, reinforcing the message
