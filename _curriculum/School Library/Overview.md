@@ -102,18 +102,26 @@ as well.</p>
 <h5>3. Come as a Book Character Day</h5>
 <p>Students and teachers had fun dressing up as book characters during the
 Come as a Book Character Day!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_2025_3.jpg">
+</div>
 <p>Students shared about the characters they have dressed up as and introduced
 various interesting books to their classmates during Book Talk. Reading
 was infused across various subjects throughout that week too – for instance,
 students read engaging Math stories and Young Scientists magazines in their
 Math and Science lessons. It was carried out during Mother Tongue lessons
 as well.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/character_day_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CABCD_2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/character_day_teacher.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_2025_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_2025_1.jpg">
 </div>
 <h4><em><u>Resources</u></em></h4>
 <h5><u>School library</u></h5>
