@@ -74,10 +74,10 @@ protecting the planet starts with us.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD_2025_1.jpg">
 </div>
 <p>In support of the worldwide <em>World Water Day</em> movement, our school
-focused this year’s theme on <em>Glacier Preservation</em>. The Media and
-Environment Clubs took the lead by researching glaciers across different
-continents and exploring how global warming has caused them to shrink at
-an alarming rate.</p>
+focused this year’s theme on <em>Save Our Glaciers</em>. The Media and Environment
+Clubs took the lead by researching glaciers across different continents
+and exploring how global warming has caused them to shrink at an alarming
+rate.</p>
 <p>Through their presentation, the students shared how the melting of glaciers
 not only threatens ecosystems but also affects human populations that rely
 on glaciers for freshwater and stable climates. Their well-researched findings
