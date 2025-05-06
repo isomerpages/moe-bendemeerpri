@@ -69,15 +69,18 @@ are working towards a greener future and how they, too, can play a part.</p>
 <p>It was a meaningful and educational event that reminded everyone that
 protecting the planet starts with us.</p>
 <h4>World Water Day 2025 - Glacier Preservation</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD_2025_1.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E038UCd1hCw?si=BhGfm8nSnpd8FHl9"></iframe>
 </div>
 <p>In support of the worldwide <em>World Water Day</em> movement, our school
 focused this year’s theme on <em>Save Our Glaciers</em>. The Media and Environment
 Clubs took the lead by researching glaciers across different continents
 and exploring how global warming has caused them to shrink at an alarming
 rate.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD_2025_1.jpg">
+</div>
 <p>Through their presentation, the students shared how the melting of glaciers
 not only threatens ecosystems but also affects human populations that rely
 on glaciers for freshwater and stable climates. Their well-researched findings
