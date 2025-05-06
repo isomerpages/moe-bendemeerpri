@@ -44,9 +44,9 @@ through the main thrusts:</p>
 </div>
 <p>In celebration of Earth Day, our school came together under the theme <em>Our Power, Our Planet</em> to
 raise awareness about the importance of renewable energy and caring for
-our environment. The Environment Club kick-started the day with an engaging
-school presentation, educating students on various types of renewable energy
-and how they contribute to a more sustainable future.</p>
+our environment. The Media and Environment Club kick-started the day with
+an engaging school presentation, educating students on various types of
+renewable energy and how they contribute to a more sustainable future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_1.jpg">
