@@ -24,7 +24,7 @@ variant: tiptap
 environment where every student feels valued, heard, and supported. Our
 goal is to create a space where students are happy, challenged, and nurtured
 within a safe and encouraging setting.
-<br>This year, our focus is encapsulated in the theme: <em>“Know Me. Affirm Me. Nurture Me.” </em>Guided
+<br>This year, our focus is encapsulated in the theme: <em>“BPS Cares, Collaborates and Connects.”      </em>Guided
 by the principles of Positive Education, we will continue to emphasise
 the use of positive language, building strong relationships, and demonstrating
 kindness and resilience in all that we do.</p>
