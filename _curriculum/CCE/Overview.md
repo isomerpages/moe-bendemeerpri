@@ -245,5 +245,25 @@ teachers and this provides opportunity for the form teacher to strengthen
 teacher-student relation and peer support relations. The lessons are designed
 and customised to meet the needs of the students and explicitly integrate
 school values into it to communicate to students the expected observables.</p>
-<h4></h4>
+<p></p>
+<h4><u>6. Education and Career Guidance (ECG)</u></h4>
+<p>As part of our Education and Career Guidance (ECG) efforts, our upper
+primary students actively engaged with the <em>MySkillsFuture</em> portal
+— a dynamic platform designed to help them discover their interests, strengths,
+and aspirations. The portal also introduced students to Career Quest, enabling
+them to explore various industries and professions in a fun and engaging
+way. Through interactive features such as avatar creation and career exploration
+tools, students gained valuable insights into their personal profiles and
+future possibilities.</p>
+<p>These sessions play a crucial role in nurturing a sense of purpose by
+helping students understand the skills, attitudes, and knowledge needed
+to achieve their goals. With greater awareness of the Singapore education
+landscape and career opportunities, students are empowered to make informed,
+responsible decisions about their future learning and career pathways.</p>
+<p>By the end of the sessions, students expressed greater confidence in navigating
+the platform independently to further explore their options and set meaningful
+goals.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG.jpg">
+</div>
 <p></p>

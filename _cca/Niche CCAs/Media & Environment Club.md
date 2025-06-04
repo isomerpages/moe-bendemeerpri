@@ -91,26 +91,29 @@ change are global responsibilities—and it starts with being informed and
 taking small actions in our daily lives.</p>
 <p></p>
 <h4>Learning Journeys</h4>
-<p>In 2024, the Environment Club embarked on enriching learning journeys
-to the NEWater Visitor Centre and Gardens by the Bay.</p>
-<p>At the NEWater Visitor Centre, students learned about Singapore's innovative
-water conservation strategies and the advanced technologies behind its
-sustainable drinking water supply. They gained a deeper understanding of
-the nation's efforts to overcome resource challenges and ensure water security.</p>
-<p></p>
-<h4>Learning Journeys</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_LJ_2025.png">
 </div>
+<p>In May, our Environmental Club members had an enriching learning journey
+to Co+Nut+Ink on May, where they discovered how the company contributes
+to sustainability and environmental stewardship. The visit offered students
+a firsthand look at eco-friendly business practices, including waste reduction
+and upcycling efforts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_LJ_2025_1.png">
 </div>
-<p>At Gardens by the Bay, students explored cutting-edge innovations and
-creative designs that promote sustainability, while learning about Singapore’s
-resource management. These experiences inspired students to think critically
-about environmental challenges and innovative solutions for a sustainable
-future.</p>
+<p>A highlight of the trip was the hands-on activity where students upcycled
+coconut husks—turning them into beautifully decorated planters for new
+seedlings. This meaningful experience deepened their understanding of sustainable
+living and inspired them to take small but impactful actions for the environment.</p>
+<p></p>
+<p></p>
+<p>In 2024, our students went to Gardens by the Bay and explored cutting-edge
+innovations and creative designs that promote sustainability, while learning
+about Singapore’s resource management. These experiences inspired students
+to think critically about environmental challenges and innovative solutions
+for a sustainable future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/env_club_2025_4.jpg">
