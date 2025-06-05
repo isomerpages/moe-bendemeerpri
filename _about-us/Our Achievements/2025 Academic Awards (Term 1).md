@@ -1,5 +1,5 @@
 ---
-title: 2024 Academic Awards (Term 1)
+title: 2025 Academic Awards (Term 1)
 permalink: /school-information/2022-our-achievements/academic-awards/
 description: ""
 third_nav_title: Our Achievements

@@ -1,5 +1,5 @@
 ---
-title: 2024 Academic Awards (Term 2)
+title: 2025 Academic Awards (Term 2)
 permalink: /2024-academic-awards-term-2/
 variant: tiptap
 description: ""
