@@ -5,6 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>ASPIRE NEWSLETTER</h3>
+<p>Aspire Newsletter Issue 1 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspire_Banner_2025_Semester_1.jpg">
+</div>
+<p><a href="https://drive.google.com/file/d/18KGjWhU4dX5VKNRFLwuId91DZhr9cdh-/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here to read the Aspire Newsletter Issue 1 2025</a>
+</p>
 <p>Aspire Newsletter Issue 2 2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspire_Banner_Issue_2_2024.jpg">
