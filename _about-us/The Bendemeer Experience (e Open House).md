@@ -14,9 +14,11 @@ variant: tiptap
 video. Learn more about our vibrant learning environment, dedicated staff,
 and the holistic programmes that nurture every child to be a confident,
 caring and curious learner.</p>
-<p>▶️ <em>Watch our video to see how we Aspire, Believe, and Grow together as a school community.</em>
+<p>▶️ <em>Watch our video to see how we Aspire and Grow together as a school community.</em>
 </p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QxsBS3ekxFs?si=bASP1Xv0yRaLByMb"></iframe>
+</div>
 <p></p>
 <h5>Curriculum</h5>
 <table style="minWidth: 50px">
