@@ -9,6 +9,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_BPS_banner.jpg">
 </div>
+<h5>Discover Bendemeer Primary School</h5>
+<p>Get a glimpse into the heart of Bendemeer Primary through our corporate
+video. Learn more about our vibrant learning environment, dedicated staff,
+and the holistic programmes that nurture every child to be a confident,
+caring and curious learner.</p>
+<p>▶️ <em>Watch our video to see how we Aspire, Believe, and Grow together as a school community.</em>
+</p>
+<p></p>
+<p></p>
 <h5>Curriculum</h5>
 <table style="minWidth: 50px">
 <colgroup>
