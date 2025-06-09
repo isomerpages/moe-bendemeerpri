@@ -9,6 +9,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_BPS_banner.jpg">
 </div>
+<h5>Discover Bendemeer Primary School</h5>
+<p>Get a glimpse into the heart of Bendemeer Primary through our corporate
+video. Learn more about our vibrant learning environment, dedicated staff,
+and the holistic programmes that nurture every child to be a confident,
+caring and curious learner.</p>
+<p>▶️ <em>Watch our video to see how we Aspire and Grow together as a school community.</em>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QxsBS3ekxFs?si=bASP1Xv0yRaLByMb"></iframe>
+</div>
+<p></p>
 <h5>Curriculum</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -116,15 +127,26 @@ lessons, Annual Games Day and SwimSafer. (Click on the image)&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://staging-lite.d1qmsrsh4o1jg3.amplifyapp.com/about-us/aspire-newsletter/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/aspire_newsletter.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspire_Banner_2025_Semester_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about the Bendemeer experience through our bi-annual newsletter.
-<br>(Click on the image)</p>
+<br><a href="https://drive.google.com/file/d/18KGjWhU4dX5VKNRFLwuId91DZhr9cdh-/view" rel="noopener nofollow" target="_blank">Click here to read the Aspire Newsletter Issue 1 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h5><strong>Stay Connected with Us on Instagram</strong></h5>
+<p>Follow us on Instagram <a href="https://www.instagram.com/bendemeerprimary.official/" class="" rel="noopener" target="_new">@bendemeerprimary.official</a> for
+the latest updates on school events, student achievements, and everyday
+moments that reflect the spirit of Bendemeer Primary. Get a closer look
+at the vibrant learning experiences and joyful school life we share as
+a community!</p>
+<p></p>
 <h5>Get in touch with us!</h5>
 <p><strong>Address: 91 Bendemeer Road Singapore 339948</strong>
 </p>
