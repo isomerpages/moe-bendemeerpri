@@ -116,11 +116,15 @@ lessons, Annual Games Day and SwimSafer. (Click on the image)&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://staging-lite.d1qmsrsh4o1jg3.amplifyapp.com/about-us/aspire-newsletter/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/aspire_newsletter.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspire_Banner_2025_Semester_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about the Bendemeer experience through our bi-annual newsletter.
-<br>(Click on the image)</p>
+<br><a href="https://drive.google.com/file/d/12f938l_NXxkTqK6SGLNFttD2O1W2mG6i/view" rel="noopener nofollow" target="_blank">Click here to read the Aspire Newsletter Issue 1 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
