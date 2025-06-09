@@ -134,12 +134,19 @@ lessons, Annual Games Day and SwimSafer. (Click on the image)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about the Bendemeer experience through our bi-annual newsletter.
-<br><a href="https://drive.google.com/file/d/12f938l_NXxkTqK6SGLNFttD2O1W2mG6i/view" rel="noopener nofollow" target="_blank">Click here to read the Aspire Newsletter Issue 1 2024</a>
+<br><a href="https://drive.google.com/file/d/18KGjWhU4dX5VKNRFLwuId91DZhr9cdh-/view" rel="noopener nofollow" target="_blank">Click here to read the Aspire Newsletter Issue 1 2025</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<h5><strong>Stay Connected with Us on Instagram</strong></h5>
+<p>Follow us on Instagram <a href="https://www.instagram.com/bendemeerprimary.official/" class="" rel="noopener" target="_new">@bendemeerprimary.official</a> for
+the latest updates on school events, student achievements, and everyday
+moments that reflect the spirit of Bendemeer Primary. Get a closer look
+at the vibrant learning experiences and joyful school life we share as
+a community!</p>
+<p></p>
 <h5>Get in touch with us!</h5>
 <p><strong>Address: 91 Bendemeer Road Singapore 339948</strong>
 </p>
