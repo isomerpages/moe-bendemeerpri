@@ -79,7 +79,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,15 +96,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalvinder_jeet_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lei Jiajia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lei_jiajia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lei_jiajia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
