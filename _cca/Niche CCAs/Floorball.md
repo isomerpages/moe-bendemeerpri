@@ -26,9 +26,6 @@ variant: tiptap
 <li>
 <p>Ms Rachel Ong</p>
 </li>
-<li>
-<p>Ms Lei Jiajia</p>
-</li>
 </ol>
 <h3>CCA Schedule</h3>
 <p>Every Wednesday (P3, P4, P5 and P6)
