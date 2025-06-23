@@ -28,18 +28,6 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Ting Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:derrick_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">derrick_ang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Adibah Binte Ariff</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,6 +288,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loo Leong Pheow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Roselind D/O Manokaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
