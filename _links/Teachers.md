@@ -42,5 +42,9 @@ variant: tiptap
 <p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExams2</a>
 </p>
 </li>
+<li>
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System (RBS)</a>
+</p>
+</li>
 </ol>
 <p></p>
