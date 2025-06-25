@@ -60,5 +60,9 @@ variant: tiptap
 <p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/qse2025" rel="noopener nofollow" target="_blank">QSE Survey 2025</a>
+</p>
+</li>
 </ol>
 <p></p>
