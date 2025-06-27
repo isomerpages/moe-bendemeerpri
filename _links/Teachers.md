@@ -46,5 +46,9 @@ variant: tiptap
 <p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System (RBS)</a>
 </p>
 </li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
+</p>
+</li>
 </ol>
 <p></p>
