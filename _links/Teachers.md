@@ -46,5 +46,17 @@ variant: tiptap
 <p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System (RBS)</a>
 </p>
 </li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Intranet</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Cyber Wellness Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mesrc.net/" rel="noopener nofollow" target="_blank">Ministry of Education Sports and Recreation Club</a>
+</p>
+</li>
 </ol>
 <p></p>
