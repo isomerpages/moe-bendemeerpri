@@ -114,7 +114,7 @@ performance. Students will engage in post-drama class-based discussion
 with their teachers and complete student reflection to consolidate their
 learning experience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_093029.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_094701.png">
 </div>
 <h4><strong>（6）Talent Development (才能培训）</strong></h4>
 <p>Students with good language ability will have the opportunity to represent
