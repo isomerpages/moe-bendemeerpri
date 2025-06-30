@@ -178,5 +178,9 @@ to engage students and build their confidence in CL learning.</p>
 <p>NLB - <a rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/chinese-language/</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1lJF1IRV5o8JfRDbjLaCzRuumHDxKot4n/view?usp=sharing" rel="noopener nofollow" target="_blank">PSLE Approved Dictionary List</a>
+</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Approved Dictionary List</p>
+<p></p>
