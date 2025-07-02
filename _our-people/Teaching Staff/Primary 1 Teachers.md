@@ -19,10 +19,10 @@ variant: tiptap
 <p>1Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Ong</p>
+<p>Mr Alvin Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_wen_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_yee_rachel@moe.edu.sg</a> 
+<p><a href="mailto:lee_jun_ming_alvin@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_jun_ming_alvin@moe.edu.sg</a> 
 <br>
 </p>
 </td>
