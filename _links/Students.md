@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/5d536818f0c5370012d1c890" rel="noopener noreferrer nofollow" target="_blank">SLS School Helpline Form</a>
+<p><a href="https://form.gov.sg/5d536818f0c5370012d1c890" rel="noopener noreferrer nofollow" target="_blank">School Helpline Form</a>
 </p>
 </li>
 <li>
@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>All Ears Survey:</p>
+<p>Check-In Survey:</p>
 <p><a href="https://forms.moe.edu.sg/forms/vyO8z7" rel="noopener nofollow" target="_blank">P1 to P2</a>
 </p>
 <p><a href="https://forms.moe.edu.sg/forms/JMNqX8" rel="noopener nofollow" target="_blank">P3 to P4</a>
