@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Annabelle Ananthi Clemant</p>
+<p>Mdm Annabelle Clemant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:annabelle_ananthi_clemant@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_ananthi_clemant@moe.edu.sg</a>
@@ -129,7 +129,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,15 +146,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Jun Ming Alvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jun_ming_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jun_ming_alvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
