@@ -2,21 +2,21 @@
 title: School Crest, Mission, Vision, Motto, Values
 permalink: /about-us/school-mission/
 description: ""
+variant: markdown
 ---
-
 ### SCHOOL CREST / MISSION / VISION / MOTTO / VALUES
 
-<img src="/images/Bendemeer%20Logos/Bendemeer-Primary-Final.png" style="width:30%"/>
+<img src="/images/Bendemeer%20Logos/Bendemeer-Primary-Final.png" style="width:30%">
 
 The school badge of Bendemeer Primary School is created as a result of the merger of Balestier Hill Primary School and Bendemeer Primary School in 2019.
 
   
 
-The school crest consists of four equal sections. Each feature of the section has its own distinctive meaning and significance.  In the top left section is a globe that signifies that our students will develop critical thinking about complex global issues as global citizen and yet to be rooted to their homeland Singapore, signified by the dynamic red lion on the bottom left section.  The bottom-right section signifies the students, staff, parents and community working together hand-in-hand to nurture our students to be the best they can be.  The top right section is the acronym of our school **B**endemeer **P**rimary **S**chool.
+The school crest consists of four equal sections. Each feature of the section has its own distinctive meaning and significance.&nbsp; In the top left section is a globe that signifies that our students will develop critical thinking about complex global issues as global citizen and yet to be rooted to their homeland Singapore, signified by the dynamic red lion on the bottom left section.&nbsp; The bottom-right section signifies the students, staff, parents and community working together hand-in-hand to nurture our students to be the best they can be.&nbsp; The top right section is the acronym of our school&nbsp;**B**endemeer&nbsp;**P**rimary&nbsp;**S**chool.
 
   
 
-The shield is supported by our motto - "Today's Learners, Tomorrow's Leaders” lauded on a banner.  We believe that each of our students will strive to be a confident person, self-directed learner with strong moral values and to lead themselves and others for the glory of our nation.  The four colours on the school crest are red, blue, yellow and white.  Red signifies integrity and passion for learning, blue symbolises peace and harmony, white signifies courage and virtue, yellow stands for confidence and vibrancy.
+The shield is supported by our motto - "Today's Learners, Tomorrow's Leaders” lauded on a banner.&nbsp; We believe that each of our students will strive to be a confident person, self-directed learner with strong moral values and to lead themselves and others for the glory of our nation.&nbsp; The four colours on the school crest are red, blue, yellow and white.&nbsp; Red signifies integrity and passion for learning, blue symbolises peace and harmony, white signifies courage and virtue, yellow stands for confidence and vibrancy.
 
   
 
@@ -45,7 +45,7 @@ Thrust 1 <br>
 Holistic Student Development
 
 Thrust 2 <br>
-Staff Development and Well-Being  
+Staff Well-being and Development
 
 Thrust 3 <br>
-Partnership with Stakeholders
+Leveraging Partnerships
