@@ -167,8 +167,8 @@ where every student can thrive.</p>
 </table>
 <p><u>Co-Advisor</u> 
 <br>Mr Too Meng Ngee (Vice Principal Administration)</p>
-<p><u>PSG Coordination Team </u>Mr</p>
-<p>Alvin Lee (Subject Head Partnership)
+<p><u>PSG Coordination Team </u>
+<br>Mr Alvin Lee (Subject Head Partnership)
 <br>Mdm Aziana Aziz (Subject Head Aesthetics &amp; PSG Coordinator)</p>
 <p></p>
 <h4>When Parents Partner, Children Thrive!</h4>
@@ -201,7 +201,7 @@ growth through workshops, training sessions and collaborative projects
 with the school.</p>
 <p>Be part of the heartbeat of our school! Share your skills, contribute
 your time and make a difference in your child’s school journey!</p>
-<p>To join us, simply complete the online <a href="https://form.gov.sg/5db53f0707f16e00125e7390" rel="noopener nofollow" target="_blank">online PSG Application Form [HERE]</a>or
+<p>To join us, simply complete the online <a href="https://form.gov.sg/5db53f0707f16e00125e7390" rel="noopener nofollow" target="_blank">PSG Application Form [HERE]</a>or
 request a hardcopy form from our General Office. Together, let’s make school
 life brighter for every child!</p>
 <p></p>
