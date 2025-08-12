@@ -158,7 +158,16 @@ also played interactive Racial Harmony games at ASPIRE Arena.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_8.png">
 </div>
+<p>The 60<sup>th</sup> birthday celebrations started with the solemn march-past
+ceremony and the spirits were hyped with the mini concerts and mass singing
+of the different National Day songs. The students danced and exercised
+to the “Get Active “Challenge. The celebrations concluded with reflections
+on the students’ future community spaces, learning environments and transportation
+in class.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_15.png">
+</div>
 <h4><strong><u>P5 NE Show 2025 @ the Padang (where the first National Day was held)</u></strong></h4>
 <p>The Primary 5 students get the opportunity to be a part of the NE Show
 yearly. The NE Show took place at the legendary Padang for the third year.
