@@ -10,8 +10,8 @@ variant: tiptap
 product fact sheet below.
 <br><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Insurance Product Fact Sheet</a>
 </p>
-<p>For E-submission of claims, click the link below. You can refer to the
-Student GPA User Guide for more details.
+<p>For E-submission of claims, click the link below.
 <br><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Student GPA E-submission</a>
+<br>You can refer to the Student GPA User Guide for more details.
 <br><a href="/files/Student%20GPA%20User%20Guide%20-%20Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide - Parent.pdf</a>
 </p>
