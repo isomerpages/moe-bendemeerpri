@@ -2,14 +2,15 @@
 title: Student Insurance Matters
 permalink: /for-parents/Student-Insurance-Matters/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Student Insurance Matters
-
-Dear Parents,  
-  
-With regard to student insurance matters, please refer to the attached product fact sheet below.  
-[](/files/Product_Fact_Sheet__Year_2025_.pdf)          Insurance Product Fact Sheet
-  
-For e-Submission, please refer to the user guide in the document below for more details.  
-[Student GPA User Guide - Parent.pdf](/files/Student%20GPA%20User%20Guide%20-%20Parent.pdf)
+<h2>Student Insurance Matters</h2>
+<p>Dear Parents,</p>
+<p>With regard to student insurance matters, please refer to the attached
+product fact sheet below.
+<br>Insurance Product Fact Sheet</p>
+<p>For E-submission of claims, click the link below. You can refer to the
+Student GPA User Guide for more details.
+<br><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Student GPA E-submission</a>
+<br><a href="/files/Student%20GPA%20User%20Guide%20-%20Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide - Parent.pdf</a>
+</p>
