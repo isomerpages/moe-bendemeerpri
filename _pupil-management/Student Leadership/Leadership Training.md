@@ -6,26 +6,62 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>LEADERSHIP TRAINING</h3>
-<p>Bendemeer Primary firmly believes in providing a platform for the development
-of leadership skills to better prepare students for the globalized world.
-We conduct trainings for the different leadership tiers, starting by anchoring
-the foundation in self-leadership and building their team leadership competencies
-as they progress through the levels.</p>
-<p>Our school-based leadership training is conducted per semester and every
-student is exposed to the responsibilities and roles that they are involved
-in their daily classroom activities.</p>
-<p>The school also conducts cohort leadership trainings for Primary 3 and
-Primary 4 pupils. During these trainings, students are given the opportunity
-to develop and practice 21st-century skills. They learn and develop their
-leadership skills by learning to cooperate and communicate with fellow
-students through fun and engaging activities. These trainings focus on
-three levels of the student’s development: as a leader, team builder, and
-communicator.</p>
+<h4><strong>Primary 3 Cohort Leadership Programme</strong></h4>
+<p>At Bendemeer Primary School, we believe that every child can be a leader.
+The Primary 3 Cohort Leadership Programme introduces students to the basics
+of self-leadership through fun, hands-on activities that build teamwork,
+communication, and problem-solving skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student%20ledership1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_leadership_1.png">
 </div>
-<p>Throughout the duration of the training, students worked in groups. As
-they interact with their classmates, they learn to balance their social
-and emotional competencies and identify their strengths and weaknesses.
-Students were also taught social awareness by comprehending the importance
-of making responsible decisions and the role of a team leader.</p>
+<p></p>
+<p>Designed to be age-appropriate and engaging, the programme includes role-plays,
+group challenges, and reflection tasks that help students understand what
+it means to be responsible, respectful, and resilient in a team. Students
+work together to solve problems, take on different roles, and learn how
+their actions can influence those around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P80GOL_H.jpg">
+</div>
+<p>The programme is closely aligned with our school’s ASPIRE values and 21st
+Century Competencies (21CC), allowing students to build leadership habits
+that grow with them. Each child receives a leadership booklet to guide
+their learning and reflection, which they can continue to refer to even
+after the programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_leadership_3.png">
+</div>
+<p>For many Primary 3 students, this is their first formal leadership experience,
+a starting point that helps them recognise their strengths, appreciate
+the value of teamwork, and take that first step towards leading with purpose.</p>
+<p></p>
+<h4><strong>Primary 4 Cohort Leadership Programme</strong></h4>
+<p>Building on the foundation laid in Primary 3, the Primary 4 Cohort Leadership
+Programme takes students deeper into the heart of leadership. This level
+focuses on self-motivation, resilience, and goal-setting, helping students
+take greater ownership of their actions and growth.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_leadership_4.png">
+</div>
+<p>Through scenario-based challenges, interactive workshops, and structured
+reflection, students explore what it means to stay focused in the face
+of challenges, bounce back from setbacks, and persevere towards their goals.
+The sessions also provide space for students to think about the kind of
+leader they want to become and how they can lead with empathy and integrity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_leadership_5.png">
+</div>
+<p>The programme continues to align closely with our school’s ASPIRE values
+and 21st Century Competencies (21CC), offering students a clear progression
+in skills and values. Training materials such as student booklets and activity
+guides are provided to support their learning.</p>
+<p></p>
+<p>More than just a workshop, the P4 programme is a platform for students
+to realise that leadership isn’t about position, it’s about character.
+Through this experience, they begin to see that the way they act, respond,
+and influence others matters.</p>
