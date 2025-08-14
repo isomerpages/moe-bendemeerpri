@@ -8,7 +8,8 @@ variant: tiptap
 <p>Dear Parents,</p>
 <p>With regard to student insurance matters, please refer to the attached
 product fact sheet below.
-<br>Insurance Product Fact Sheet</p>
+<br><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Insurance Product Fact Sheet</a>
+</p>
 <p>For E-submission of claims, click the link below. You can refer to the
 Student GPA User Guide for more details.
 <br><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Student GPA E-submission</a>
