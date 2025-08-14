@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">Insurance claims NTUC GPA</a>
+<p><a href="https://www.bendemeerpri.moe.edu.sg/for-parents/Student-Insurance-Matters/" rel="noopener nofollow" target="_blank">Student Insurance Matters</a>
 </p>
 </li>
 <li>
