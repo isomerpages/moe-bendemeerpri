@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Student Leadership/Community Outreach.md
       - Student Leadership/.keep
       - Student Leadership/Overview.md
       - Student Leadership/STARm Student Leadership Camp.md
@@ -12,4 +11,5 @@ collections:
       - Student Leadership/Head Prefect Election 2024.md
       - Student Leadership/Leadership Training.md
       - Student Leadership/Public Speaking and Presentation Skills Training.md
+      - Student Leadership/Community Outreach.md
       - Student Leadership/End Plastic Day in Collaboration with Earth Day.md
