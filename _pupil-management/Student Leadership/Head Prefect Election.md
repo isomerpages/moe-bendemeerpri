@@ -22,10 +22,11 @@ With clarity and conviction, they shared their goals and the kind of Head
 Prefect they hoped to be. The candidates for 2025 were:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Prefects_Election_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Prefects_Election_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Prefects_Election_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
