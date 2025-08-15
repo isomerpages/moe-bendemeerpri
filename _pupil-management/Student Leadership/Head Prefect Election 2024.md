@@ -5,67 +5,57 @@ variant: tiptap
 description: ""
 third_nav_title: Student Leadership
 ---
-<h4><strong>Head Prefect Election 2024 - Shaping Our Leaders</strong></h4>
-<p>The annual Head Prefect Election is a significant event at Bendemeer Primary
-School, where we focus on shaping a leader who will guide and inspire our
-student body. This process not only fosters leadership skills among students
-but also promotes active engagement within our school community. The Head
-Prefect, along with other student leaders, are entrusted with important
-responsibilities such as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assisting with school programs and activities throughout the academic
-year</p>
-</li>
-<li>
-<p>Representing BPS and being a good host for visitors</p>
-</li>
-<li>
-<p>Supporting younger students and fellow student leaders</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wWG01w7pnjk?si=MD_HuczRxxKNKP0o"></iframe>
-</div>
-<p>This year, the journey to shaping our new Head Prefect began with the
-2023/2024 EXCO Prefect Handover Ceremony on 29 July 2024. Following this,
-three candidates were introduced to the school, each delivering heartfelt
-speeches outlining their goals and vision if elected.</p>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_4_5.png">
-</div>
-<p></p>
-<p>The candidates then engaged with their peers during recess over two days,
-running creative canvassing campaigns to earn the votes of their fellow
-schoolmates.</p>
+<h4><strong>Head Prefect Election 2025 - Shaping Our Leaders</strong></h4>
+<p>At Bendemeer Primary School, the Head Prefect Election is a meaningful
+tradition that reflects our belief in nurturing student voices and growing
+leaders from within. This annual process gives our students a chance to
+reflect on the kind of leadership they value, and empowers them to play
+a part in shaping the future of our student community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/6_7_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HKS3YW_R.jpg">
+</div>
+<p></p>
+<p>The election was launched during the EXCO Prefect Handover Ceremony, where
+three shortlisted candidates took the stage to deliver their campaign speeches.
+With clarity and conviction, they shared their goals and the kind of Head
+Prefect they hoped to be. The candidates for 2025 were:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Prefects_Election_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Prefects_Election_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/11_12.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Prefects_Election_3.jpg">
+</div>
+<p>Following their speeches, the campaign trail continued into recess time,
+where each candidate and their team ran creative canvassing booths at the
+school foyer. Students and staff were invited to engage with the candidates,
+ask questions, and understand their values before voting.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prefects_Election_4.jpg">
 </div>
 <p></p>
+<p>Voting took place on Student Learning Space (SLS) and was open to all
+students from Primary 3 to 6. Every student had one vote to cast, and they
+were reminded to vote wisely and keep their choice confidential.</p>
 <p>After the enthusiastic participation, the votes were cast, and the results
-were eagerly awaited. Finally, on 2 August 2024, we proudly announced that
-Insiyah Hozefa Shakir of class P5-Adaptability has been chosen as the new
-Head Prefect for 2024/2025!</p>
+were eagerly awaited. Finally, on 4 August 2025, we proudly announced that
+Srika Sivasankaran of class P5 Empathy had been elected as the new Head
+Prefect for 2025.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HKS3YW_I.jpg">
 </div>
 <p></p>
-<p>Congratulations to Insiyah! Her vision, dedication, and leadership truly
-stood out during this election, and we are excited to see the positive
-impact she will have on our school community.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture_10.jpg">
-</div>
-<p></p>
+<p>Congratulations to Srika! Her warmth, creativity, and strong sense of
+purpose stood out throughout the election, and we look forward to seeing
+the positive impact she will bring to our school community.</p>
 <p>A heartfelt thank you goes out to all the candidates for their hard work,
-creativity, and brilliant ideas, as well as to everyone who participated
-in the election process. Together, we will continue to make Bendemeer Primary
-an even better place for everyone.</p>
+thoughtful ideas, and commitment to serve. We also thank our students and
+staff for their support and involvement in this process. Together, we continue
+to grow a school where every voice matters and every leader makes a difference.</p>
