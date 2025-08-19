@@ -5,7 +5,35 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<p>______________________________________________________________________________________________________
+<p></p>
+<p>_____________________________________________________________________________________________________________________________</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="BPS_Teachers_Day_2025" src="/images/BPS_Teachers_Day_2025.jpg">
+</div>
+<p>Calling all ex-BPS students and parents! 🎓✨</p>
+<p>Teachers' Day 2025 is just around the corner, and we have a special way
+to show our appreciation for the educators who made a lasting impact on
+you or your child's journey at Bendemeer Primary School.</p>
+<p>🖋️ Let's take a moment to reminisce and pen down some heartfelt thoughts
+for our former teachers. Whether it's a favorite memory, a valuable lesson
+learned, or simply a thank-you note, your words will mean the world to
+them. 💕</p>
+<p>🗓️ Please share your messages with us by 29 August 2025, so we can compile
+all your beautiful messages and present them to our beloved teachers on
+their special day!</p>
+<p>🌐 Use this link to contribute your messages:
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/32373ykm</a>
+</p>
+<p>🤝 This heartwarming experience is brought to you by the Partnership and
+PSG Committee of Bendemeer Primary School. Share this link with fellow
+BPS alumni and friends, and let's make Teachers' Day 2025 truly memorable.
+🎉</p>
+<p>Thank you all!</p>
+<hr>
+<p></p>
+<p>
 <br>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
