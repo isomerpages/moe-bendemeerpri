@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Internationalisation Programme
 ---
-<h4><strong>Overseas Learning Journey to Penang, Malaysia: Discovering Heritage, Nurturing Friendships (21 – 23 May 2025)</strong></h4>
+<h3><strong>Overseas Learning Journey to Penang, Malaysia: Discovering Heritage, Nurturing Friendships (21 – 23 May 2025)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penang_1.jpg">
