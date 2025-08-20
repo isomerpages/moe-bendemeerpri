@@ -1,6 +1,6 @@
 ---
-title: Learning Journey to Hong Kong
-permalink: /learning-journey-to-hong-kong/
+title: 2024 Learning Journey to Hong Kong
+permalink: /2024learning-journey-to-hong-kong/
 variant: tiptap
 description: ""
 third_nav_title: Internationalisation Programme

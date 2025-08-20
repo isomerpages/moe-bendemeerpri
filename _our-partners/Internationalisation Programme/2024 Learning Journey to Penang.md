@@ -1,6 +1,6 @@
 ---
-title: Learning Journey to Penang
-permalink: /our-partners/internationalisationprogramme/
+title: 2024 Learning Journey to Penang
+permalink: /our-partners/internationalisationprogramme/2024learning-journey-to-penang/
 description: ""
 variant: tiptap
 third_nav_title: Internationalisation Programme
