@@ -1,5 +1,5 @@
 ---
-title: 2025 Learning Journey Hong Kong
+title: 2025 Learning Journey to Hong Kong
 permalink: /learning-journey-hong-kong-2025/
 variant: tiptap
 description: ""
@@ -83,4 +83,5 @@ friendships and provided valuable lessons beyond the classroom. Above all,
 the journey allowed our students to practise the <strong>ASPIRE school values</strong> in
 meaningful ways, building confidence, resilience and empathy that will
 guide them in the years ahead.</p>
+<p></p>
 <p></p>

@@ -24,7 +24,7 @@ them. 💕</p>
 all your beautiful messages and present them to our beloved teachers on
 their special day!</p>
 <p>🌐 Use this link to contribute your messages:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/32373ykm</a>
+<br><a href="https://tinyurl.com/32373ykm" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/32373ykm</a>
 </p>
 <p>🤝 This heartwarming experience is brought to you by the Partnership and
 PSG Committee of Bendemeer Primary School. Share this link with fellow
