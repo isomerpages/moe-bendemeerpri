@@ -35,10 +35,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.stellarliteracy.sg/" rel="noopener noreferrer nofollow" target="_blank">Stellar Literacy</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Bag</a>
 </p>
 </li>
