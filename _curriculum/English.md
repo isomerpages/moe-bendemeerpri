@@ -359,9 +359,7 @@ the classroom.</p>
 <br><a href="http://www.starfall.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.starfall.com</a>
 </p>
 <h4>Reference Resources</h4>
-<p><strong>Dictionaries</strong> 
-<br><a href="http://dictionary.reference.com/" rel="noopener noreferrer nofollow" target="_blank">http://dictionary.reference.com/</a>&nbsp;(Good
-pronunciation feature)</p>
+<p></p>
 <p><strong>Advice on Teaching English and Reading</strong>
 <br><a href="http://www.rif.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.rif.org/</a> 
 <br><a href="http://www.teachingenglish.org.uk/" rel="noopener noreferrer nofollow" target="_blank">http://www.teachingenglish.org.uk/</a> 
