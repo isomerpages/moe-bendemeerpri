@@ -248,6 +248,8 @@ their writing.&nbsp;</p>
 </p>
 <p><strong><a href="https://heyzine.com/flip-book/2147eb9e5e.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 3 Writers 2024</a></strong>
 </p>
+<p><strong><a href="https://heyzine.com/flip-book/9890c749fe.html" rel="noopener nofollow" target="_blank">Stories By Our Primary 2 Writers 2025</a></strong>
+</p>
 <p></p>
 <h5><strong>A Pocketful of Phrases</strong></h5>
 <p>The EL department has also come up wit a compilation of useful words and
