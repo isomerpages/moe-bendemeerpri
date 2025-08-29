@@ -6,8 +6,20 @@ variant: tiptap
 ---
 <h3>Announcements</h3>
 <p></p>
-<p>__________________________________________________________________________________________</p>
-<p></p>
+<p>___________________________________________________________________________________________</p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Green_Orange_International_Teachers__Day_Instagram_Post__Instagram_Post__45____1_.jpg">
+</div>
+<p>
+<br>
+</p>
+<hr>
+<p>
+<br>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="BPS_Teachers_Day_2025" src="/images/BPS_Teachers_Day_2025.jpg">
