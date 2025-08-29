@@ -8,6 +8,14 @@ variant: tiptap
 <p></p>
 <p>__________________________________________________________________________________________</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Green_Orange_International_Teachers__Day_Instagram_Post__Instagram_Post__45____1_.jpg">
+</div>
+<p></p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="BPS_Teachers_Day_2025" src="/images/BPS_Teachers_Day_2025.jpg">
