@@ -6,17 +6,17 @@ variant: tiptap
 ---
 <h3>Announcements</h3>
 <p></p>
-<p>__________________________________________________________________________________________</p>
-<p></p>
+<p>___________________________________________________________________________________________</p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Green_Orange_International_Teachers__Day_Instagram_Post__Instagram_Post__45____1_.jpg">
 </div>
-<p></p>
 <p>
 <br>
 </p>
 <hr>
-<p></p>
 <p>
 <br>
 </p>
