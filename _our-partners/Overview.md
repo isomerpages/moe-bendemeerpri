@@ -2,19 +2,13 @@
 title: Overview
 permalink: /our-partners/overview/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Overview</h3>
-<p>The Partnership &amp; PSG Committee&nbsp;of Bendemeer Primary School endeavours
-to forge and sustain meaningful partnerships by working with the community
-both from within and out. We never cease from connecting with our partners
-because we believe that we can work together hand-in-hand to nurture our
-students to be the best they can be and this is signified by the icon of
-a handshake in the&nbsp;bottom-right section of our school crest.
-<br>
-<br><strong><u>Our Partners – Overview</u></strong>
-<br>
-</p>
+<p>At Bendemeer Primary School, partnership is not an extra, it is the fabric
+that binds our school family together. Guided by our vision of <em>A Gracious Community of Passionate Learners and Confident Leaders</em>,
+we believe that every partnership enriches learning, nurtures character
+and deepens our roots in the community.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,7 +19,7 @@ a handshake in the&nbsp;bottom-right section of our school crest.
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Partners/Image_A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Image_A.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -43,6 +37,64 @@ a handshake in the&nbsp;bottom-right section of our school crest.
 </tr>
 </tbody>
 </table>
+<p><strong><u>Our Journey and Approach</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Image_SGH.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>From early bridges with Singapore General Hospital to a school-wide partnership culture.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our partnership journey began with bridge-building collaborations with
+organisations such as Singapore General Hospital, MINDEF, and Project Chulia
+Street. These early initiatives laid the foundation for our <em>Source – Strengthen – Sustain</em> model,
+which guides how we grow meaningful and enduring partnerships. Every collaboration
+is purposeful, mutually beneficial, and aligned to our school programmes
+and the holistic development of our students.
+<br>
+<br><strong><u>Our Parent Support Group (PSG)</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Image_PSG.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Our Parent Support Group; parents as co-planners, ambassadors, and role models for our students.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our Parent Support Group is a cornerstone of home-school partnership.
+The PSG and its EXCO lead by example by co-planning activities, supporting
+key school events, and modelling positive values for our children. Parents
+contribute through career talks, festive outreach, parent–child bonding
+activities, and learning journeys. Together, they are visible ambassadors
+of our school and champions of student well-being.</p>
+<p></p>
 <hr>
 <p><strong><u>Partnership From Within</u></strong>
 </p>
