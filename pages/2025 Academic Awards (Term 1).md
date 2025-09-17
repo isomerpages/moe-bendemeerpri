@@ -1,14 +1,13 @@
 ---
-title: 2025 Academic Awards (Term 2)
-permalink: /2024-academic-awards-term-2/
-variant: tiptap
+title: 2025 Academic Awards (Term 1)
+permalink: /school-information/2022-our-achievements/academic-awards/
 description: ""
-third_nav_title: Our Achievements
+variant: tiptap
 ---
 <h2>Academic Awards</h2>
 <h4>Student Recognition Day</h4>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 1</strong></h4>
+<h4><strong>Star Students for Term 1 - Primary 1</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,16 +31,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>FANG CHENYAN</p>
+<p>MAYA LIBIN GURRALA</p>
 </li>
 <li>
-<p>LIN YITONG</p>
+<p>SADHANANTHARAJ NILAN JIREHRAJ</p>
 </li>
 <li>
-<p>BUDHA MAGAR AARYANA</p>
+<p>ZOE LOW HYUN</p>
 </li>
 <li>
-<p>CANDICE FANG YAN XI</p>
+<p>SHAH MOHAMED BIN YUNOS</p>
 </li>
 </ol>
 </td>
@@ -54,16 +53,20 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>KIMBERLY ZHAO RUIYI</p>
+<p>OU JIANFENG, ZAYDEN&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>REEHE THAPA MAGAR</p>
+<p>YOUN YUNA&nbsp;&nbsp;</p>
 </li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p>SANJIV SATHISH KUMAR</p>
+<p>NUR ALESHA TAN&nbsp;&nbsp;</p>
 </li>
+</ol>
+<ol start="4" data-tight="true" class="tight">
 <li>
-<p>SAYYIDAH PUTRI SHAFANA BINTE SUHAIRY</p>
+<p>YANGNONGA RAI&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -76,16 +79,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>XU YIXI ESTHER</p>
+<p>TOH SI TING</p>
 </li>
 <li>
-<p>ZHANG JINYU</p>
+<p>CALEB NG EN FENG</p>
 </li>
 <li>
-<p>ZAYD BIN SHANURDIN</p>
+<p>CHOO YU LIN JESS</p>
 </li>
 <li>
-<p>KIRA LIM RUI XUAN</p>
+<p>HIMANI RANA</p>
 </li>
 </ol>
 </td>
@@ -98,16 +101,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>GRACE LIMBU</p>
+<p>AAFIYA ZAIRA BINTE MOHAMED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MUZAMIL RIAZ</p>
 </li>
 <li>
-<p>SEE YA QI</p>
+<p>LEE AI NING</p>
 </li>
 <li>
-<p>LEONG JIE XIN, KAYE</p>
+<p>SAMANTHA THAPA</p>
 </li>
 <li>
-<p>ANG NING XUAN</p>
+<p>ZAHRA HOZEFA SHAKIR</p>
 </li>
 </ol>
 </td>
@@ -120,16 +123,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>FARZEEN ABBAS</p>
+<p>CHAN RUI DE</p>
 </li>
 <li>
-<p>GENELLE LAM PEI QI</p>
+<p>LIMBU SUBI</p>
 </li>
 <li>
-<p>MAIA TEO YU QI</p>
+<p>NUR RAUNAQAH AWFIYAH BINTE MUHAMMAD AIDIL</p>
 </li>
 <li>
-<p>TOH JEEN THIONG</p>
+<p>SUMMER YEOH KAI XIN</p>
 </li>
 </ol>
 </td>
@@ -137,7 +140,7 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 2</strong></h4>
+<h4><strong>Star Students for Term 1 - Primary 2</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -161,16 +164,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>HALIMA SHAREEF NOUFAL</p>
+<p>WANG ZIMO</p>
 </li>
 <li>
-<p>MIRA ARORA</p>
+<p>AIN SOFEA BINTE AHMAT ANDA</p>
 </li>
 <li>
-<p>TAN KE WEN, OLIVER</p>
+<p>RAILYNN EILIYAH BINTE MOHAMMED ROMEENO</p>
 </li>
 <li>
-<p>TENG JUN XUAN</p>
+<p>PRAJAY GURUNG</p>
 </li>
 </ol>
 </td>
@@ -183,16 +186,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>THANG SHANE HARRAZ</p>
+<p>ALEXIS HUANG LEXIN</p>
 </li>
 <li>
-<p>LHU JIA XIN</p>
+<p>EMBER HUANG LE'EN</p>
 </li>
 <li>
-<p>FOO HAORAN ETHAN</p>
+<p>MOHAMED RIYATH RITHUL MOHAMED</p>
 </li>
 <li>
-<p>HUANG XUZHE</p>
+<p>NUR UMMIYAH BINTE ABDULLAH</p>
 </li>
 </ol>
 </td>
@@ -205,16 +208,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>KYAN ZHANG RENJIE</p>
+<p>WONG YU KEE</p>
 </li>
 <li>
-<p>NASHMIA FAZLUNA BINTE MUHAMMAD FADZLI</p>
+<p>LAU JING MING, JUSTIN</p>
 </li>
 <li>
-<p>ADEN TAN JUN KAI</p>
+<p>SHE YI XUAN</p>
 </li>
 <li>
-<p>LEE XUAN HANIA</p>
+<p>TNG ZE KEAT</p>
 </li>
 </ol>
 </td>
@@ -227,16 +230,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>MAX ZHAO ZIMING</p>
+<p>AMBER TANG JING WEN</p>
 </li>
 <li>
-<p>TEO ZI XUAN</p>
+<p>CHENG WANG YIP AIDAN</p>
 </li>
 <li>
-<p>HUSNA IRDINA BINTE MUHAMMAD ASRI</p>
+<p>SAPKOTA SIDDHARTH</p>
 </li>
 <li>
-<p>AUSTIN PRATHEEP ABEL DANNY</p>
+<p>SHEILA NG SI YU</p>
 </li>
 </ol>
 </td>
@@ -249,16 +252,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>LEONG JING XUAN SHERRIANNE</p>
+<p>NIU XINQI, CINDY</p>
 </li>
 <li>
-<p>XANDER LIANG ENKAI</p>
+<p>SAI WEN YI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>NG YU HENG CLOVEN</p>
+<p>NUR AAFIYAH BINTE MUHAMMAD NIZAMUDDEEN</p>
 </li>
 <li>
-<p>DOROTHY TJANG YU HAN</p>
+<p>SARWIN RANA</p>
 </li>
 </ol>
 </td>
@@ -266,7 +269,7 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 3</strong></h4>
+<h4><strong>Star Students for Term 1 - Primary 3</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -290,19 +293,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ADISADENDRA RAZIN STAMBOEL</p>
+<p>ZHAO ZIYUE</p>
 </li>
 <li>
-<p>ANANYA LITING GURRALA</p>
+<p>YOUN ANNA</p>
 </li>
 <li>
-<p>KHO JIA QI</p>
+<p>AERITH TEO XIN YUE</p>
 </li>
 <li>
-<p>NG XING LOONG</p>
+<p>ABDULLAH BIN LUQMAN</p>
 </li>
 <li>
-<p>STEPHANIE LEE RUO TONG</p>
+<p>MOHAMMAD RAZIQ QUSYAIRIE BIN MOHAMMAD RAZALI</p>
 </li>
 </ol>
 </td>
@@ -315,19 +318,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>WANG SHIQI</p>
+<p>CAELYN ONG YUN TING</p>
 </li>
 <li>
-<p>TAKAYUKI JOSHUA TEO</p>
+<p>KHEW LU EN, HANNAH</p>
 </li>
 <li>
-<p>KINGSTEIN CHUA</p>
+<p>LEONG JIE EN, JADE</p>
 </li>
 <li>
-<p>HU YIZE</p>
+<p>MEGAN WANG XUANNI</p>
 </li>
 <li>
-<p>TOR JIAN LIANG</p>
+<p>NAIR GAYATRI DILIP</p>
 </li>
 </ol>
 </td>
@@ -340,16 +343,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>HANIN ILYASA BIN MUHAMMAD ASRI</p>
+<p>DENISE CHUA LUO MAN</p>
 </li>
 <li>
-<p>HONG YUN TZE</p>
+<p>ADALIA CHAI YI XIN</p>
 </li>
 <li>
-<p>SAPEHIA ARYAN</p>
+<p>SUBANMUTHAIAH CHANDRAN</p>
 </li>
 <li>
-<p>MOHANASUNDARAM ABARNA</p>
+<p>SAJEESH DHAMODARAN</p>
 </li>
 </ol>
 </td>
@@ -362,16 +365,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>DIYA AYSEGUL D/O BAHRIPASA TULUK</p>
+<p>CHIN SHI YA</p>
 </li>
 <li>
-<p>GIAN ZHI QING</p>
+<p>ZARACHIEL LEE QIAO YU</p>
 </li>
 <li>
-<p>LIM JIA EN ERINA</p>
+<p>PUTRA AQIL NAZRAN BIN ABU BAKAR</p>
 </li>
 <li>
-<p>UQILA KHALFANI RAFLI BIN IBRAHIM</p>
+<p>TAN SHI MIN</p>
 </li>
 </ol>
 </td>
@@ -384,16 +387,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>FARREL MATIN BIN MUHAMMAD HAIKAL</p>
+<p>LIM SI EN</p>
 </li>
 <li>
-<p>TAN YU TONG</p>
+<p>NUR QALESYA ALIA BINTE ABDULLAH</p>
 </li>
 <li>
-<p>LAM PEI WEN GISELLE</p>
+<p>LINGESHVARRAH MANOJKUMAR</p>
 </li>
 <li>
-<p>TAN HWEE MAY</p>
+<p>GULAM GHOUSE S/O NURUL HAQ</p>
 </li>
 </ol>
 </td>
@@ -401,7 +404,7 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 4</strong></h4>
+<h4><strong>Star Students for Term 1 - Primary 4</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -425,19 +428,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>TAN YONG SHIN</p>
+<p>LIM YU CHEN</p>
 </li>
 <li>
-<p>TANG YU WEN</p>
+<p>SEE YA TING</p>
 </li>
 <li>
-<p>HEW ZI YU</p>
+<p>TAN HONG XUAN AARON</p>
 </li>
 <li>
-<p>TANG HAOCHEN</p>
+<p>TERAI AI MELISSA</p>
 </li>
 <li>
-<p>M HARRIS MULIA SHAMSUDDIN</p>
+<p>QUEK EN LING, LEEANN</p>
 </li>
 </ol>
 </td>
@@ -450,19 +453,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>GOH EN RUI ARIEL</p>
+<p>EUNICE WONG YAN XIM</p>
 </li>
 <li>
-<p>BRANDON NG JING HENG</p>
+<p>KHAW QIAO YEE</p>
 </li>
 <li>
-<p>OLIVIA WON ZHI YA</p>
+<p>TAY YU LIN</p>
 </li>
 <li>
-<p>SAHAYA PRATHEEP XAVIER MARIA NIRALYA</p>
+<p>LOW KOON KAI</p>
 </li>
 <li>
-<p>PHAN LINH AN</p>
+<p>ZAYN ASHIQ MEHAR BATCHA</p>
 </li>
 </ol>
 </td>
@@ -475,19 +478,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ADIIBAH AN NUHA BINTI LUQMAN NUL HAKIM</p>
+<p>XIE ZIXIU</p>
 </li>
 <li>
-<p>MICHELLE LIM</p>
+<p>TEY EE IN</p>
 </li>
 <li>
-<p>ALIEYQA NA'QEIYFA BINTE MUHAMMAD JUMAIRI</p>
+<p>EVA AYRA EDRIENNA BINTE AZLAN</p>
 </li>
 <li>
-<p>SHARVIN BRANN RAJENDRAN</p>
+<p>LEE YI ZE, BRYSON</p>
 </li>
 <li>
-<p>SANDHINI SANKAR</p>
+<p>JAYDEN LIM MING RUI</p>
 </li>
 </ol>
 </td>
@@ -500,19 +503,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>SALSABILA NUR MAISYAH TALIYA BINTI BORHAN</p>
+<p>SHAFIYYAH PUTRI SAFURA BINTE SUHAIRY</p>
 </li>
 <li>
-<p>TAN ZHANG YUAN</p>
+<p>SIVAGURU VAIBHAV</p>
 </li>
 <li>
-<p>TEH MING YOUNG</p>
+<p>TAN QI QI TABITHA</p>
 </li>
 <li>
-<p>WONG SE YAN SHAINE</p>
+<p>TANGUDU AARAV</p>
 </li>
 <li>
-<p>VIGNESH INDHUMATHI RAEHAAN KRISHNA</p>
+<p>VISHALI VASANTHAKUMAR</p>
 </li>
 </ol>
 </td>
@@ -525,13 +528,13 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>KWA XIAO XUAN, JOI</p>
+<p>MUHAMMAD NIYAZ BIN MOHAMMAD NIZAM</p>
 </li>
 <li>
-<p>BUI THAO NHI</p>
+<p>TAN YAN FEI, SOPHIE</p>
 </li>
 <li>
-<p>ZARIEL LEE XI YU</p>
+<p>JANIELLE NG XUE EN</p>
 </li>
 </ol>
 </td>
@@ -544,13 +547,13 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>NUR AYESHA BINTE ABDUL MUTALIB</p>
+<p>RANA JENISHA</p>
 </li>
 <li>
-<p>WAN JIA XIN</p>
+<p>TEJASWEE THAPA</p>
 </li>
 <li>
-<p>SADHANANTHARAJ RIYA ANGEL</p>
+<p>LAI CAYLEY</p>
 </li>
 </ol>
 </td>
@@ -558,7 +561,7 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 5</strong></h4>
+<h4><strong>Star Students for Term 1 - Primary 5</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -582,22 +585,22 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ARJUNA KEENAN ATTILA</p>
+<p>ARISSA GRACE TEO</p>
 </li>
 <li>
-<p>FLEMING KHAW SIAK TENG</p>
+<p>XU YIFEI</p>
 </li>
 <li>
-<p>DANISH ZAWAWI BIN MUHAMAD YUZA</p>
+<p>WU JIAEN</p>
 </li>
 <li>
-<p>CHANDINI VIKRAM</p>
+<p>RACHEL DHIVYAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>ISHANA JOSHI</p>
+<p>LOKE SZE YU, ISABEL</p>
 </li>
 <li>
-<p>GWEE EE XU, ANDRAYE</p>
+<p>SEE YEE FENG</p>
 </li>
 </ol>
 </td>
@@ -610,19 +613,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ALYA BINTE MOHAMAD HARIS</p>
+<p>AYUSHA RAI</p>
 </li>
 <li>
-<p>HMUE DYAN MIN HTIKE</p>
+<p>RAJVEER</p>
 </li>
 <li>
-<p>KOTAKONDA AGASTYA</p>
+<p>KEH JEN YIN</p>
 </li>
 <li>
-<p>REANNA NUR SHASMEEN BINTE MOHAMMED ROMEENO</p>
+<p>SMAYA SIVASANKARAN</p>
 </li>
 <li>
-<p>TAY YU HUI</p>
+<p>SRIKA SIVASANKARAN</p>
 </li>
 </ol>
 </td>
@@ -635,19 +638,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>MIMIKA SIZALI MAGAR</p>
+<p>VIOLET SOPHIE CHONG</p>
 </li>
 <li>
-<p>LINN THU WON</p>
+<p>KESHNI D/O KRISHNAMOORTHY</p>
 </li>
 <li>
-<p>TAY YI XUAN, BERLINDA</p>
+<p>CHANG KAI LE</p>
 </li>
 <li>
-<p>SAI HARITH RAM S/O SUDHAN</p>
+<p>JAY KUHENDRAN</p>
 </li>
 <li>
-<p>TAKATSUKI YUKI</p>
+<p>SURESHKUMAR AKSHAT</p>
 </li>
 </ol>
 </td>
@@ -660,19 +663,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>XIE QINYU</p>
-</li>
-<li>
-<p>JOSIAH LEE ZHENG YING</p>
-</li>
-<li>
-<p>JOANNE KOH CUI SHAN</p>
-</li>
-<li>
 <p>CHEN SHIQI</p>
 </li>
 <li>
-<p>CHAN YONG JUNG</p>
+<p>CHUA YAN CHENG</p>
+</li>
+<li>
+<p>ROZARIO JOANNA</p>
+</li>
+<li>
+<p>NUR HANIZA BINTE GUDUBADSHA MALIK JOHN</p>
+</li>
+<li>
+<p>ONG SHAO YU, DARIUS</p>
 </li>
 </ol>
 </td>
@@ -685,18 +688,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>LIM JIA XIN</p>
+<p>KIERA AAMANI MOHAMMAD FARDZLY</p>
 </li>
 <li>
-<p>BLISS JANINE GOH</p>
+<p>AULIYA NA'QEIYRA BINTE MUHAMMAD JUMAIRI</p>
 </li>
 <li>
-<p>SUMAIYA RAHMATH FATHIMA</p>
-</li>
-<li>
-<p>GOH CHUN JIE</p>
+<p>LAI BEVERLY</p>
 </li>
 </ol>
+<p>CHEONG RUI ZHI</p>
 </td>
 </tr>
 <tr>
@@ -707,16 +708,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ALYSSA ELAYNA BINTE MOHAMAD SURYADI</p>
+<p>ELLENA LIM JIA YING</p>
 </li>
 <li>
-<p>CHIN SIEW CHING</p>
+<p>LIM HUI XUAN</p>
 </li>
 <li>
-<p>HIEW JIA XUAN</p>
+<p>RENEE LOW ZHINING&nbsp;</p>
 </li>
 <li>
-<p>NG ZHENG KAI LUCAS</p>
+<p>XU GUOHANG</p>
 </li>
 </ol>
 </td>
@@ -724,7 +725,7 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 6</strong></h4>
+<h4><strong>Star Students for Term 1 - Primary 6</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -748,22 +749,24 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>GAN YU JUN</p>
+<p>ADITYA RAI</p>
 </li>
 <li>
-<p>WEN JIWU</p>
+<p>LIAN XINYING</p>
 </li>
 <li>
-<p>ZHANG YUEJIA</p>
+<p>HAMANA YUITO</p>
 </li>
 <li>
-<p>SAI SHU QI</p>
+<p>INSIYAH HOZEFA SHAKIR</p>
+</li>
+</ol>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>WANG YIHAN</p>
 </li>
 <li>
-<p>WINT WAH SHWE YEE</p>
-</li>
-<li>
-<p>SHOFIYYATUS INAYAH BINTE SUHAINI</p>
+<p>ZHANG QISHAN</p>
 </li>
 </ol>
 </td>
@@ -776,22 +779,22 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>AAHANA SAI MUTHURAJA</p>
+<p>AXELLE NADINE GOH</p>
 </li>
 <li>
-<p>GAO ZHIYI</p>
+<p>HTET PHYU SIN TUN</p>
 </li>
 <li>
-<p>HEW ZI HAO</p>
+<p>KARTHIKEYAN NISHAANTH</p>
 </li>
 <li>
-<p>TAN WEI EN</p>
+<p>YENG ZENG XIN GRACE</p>
 </li>
 <li>
-<p>WONG KAI YANG</p>
+<p>SKYLER WANG SHENGWEI</p>
 </li>
 <li>
-<p>XIA YICHENG</p>
+<p>TAN LE SHUEN</p>
 </li>
 </ol>
 </td>
@@ -804,19 +807,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>NUR KESYA HUMYRA BINTE ABDUL KARIM</p>
+<p>TAN SHI JIA</p>
 </li>
 <li>
-<p>HANIYA DIYA</p>
+<p>UTHMAAN BIN MOHAMED HAJA GUTHUPUDEEN</p>
 </li>
 <li>
-<p>CHONG XIN YI</p>
+<p>LEW YAU WAI</p>
 </li>
 <li>
-<p>SENTHIL KUMAR JYOTSNA</p>
+<p>ZHENG YANZHI</p>
 </li>
 <li>
-<p>MARVIN QUAH ZI SHENG</p>
+<p>SAHAYA PRATHEEP XAVIER GALFRIDO</p>
 </li>
 </ol>
 </td>
@@ -829,16 +832,16 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>TAN XIN TING</p>
+<p>DAANIA KIERAN SANDHU D/O HARMINDER</p>
 </li>
 <li>
-<p>BALASUBRAMANIAN KIRUBASHINI</p>
+<p>HUI ZHE YUAN EASON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>TAY HUI RU</p>
+<p>JANICE THAM ZI CHENG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>SZE CHENG DA</p>
+<p>THIRUNAVUKKARASU SRI VARSHA</p>
 </li>
 </ol>
 </td>
@@ -851,19 +854,19 @@ third_nav_title: Our Achievements
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>PUTRA AQISH NAZIRIL BIN ABU BAKAR</p>
+<p>SZE TING YING</p>
 </li>
 <li>
-<p>REUBEN RAPHAEL TAN</p>
+<p>TEO JASMINE ZI YI</p>
 </li>
 <li>
-<p>REAMUS CHAN EN JIE</p>
+<p>ADYAN RAYEES BIN HAFFIS</p>
 </li>
 <li>
-<p>SYED FA'IZ RAYYAN AL-ZIYAD BIN SYED MOHD AL-JUFRI</p>
+<p>FALICIA YAU JIE RUI</p>
 </li>
 <li>
-<p>FYNN LOW</p>
+<p>JERALD TAY JING HAN</p>
 </li>
 </ol>
 </td>
