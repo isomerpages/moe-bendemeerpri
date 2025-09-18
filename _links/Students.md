@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 <p><a href="https://forms.moe.edu.sg/forms/JMNqX8" rel="noopener nofollow" target="_blank">P3 to P4</a>
 </p>
-<p><a href="https://forms.moe.edu.sg/forms/eLKpkw" rel="noopener nofollow" target="_blank">P5 to P6</a>
+<p><a href="https://forms.moe.edu.sg/forms/eg35Bk" rel="noopener nofollow" target="_blank">P5 to P6</a>
 </p>
 </li>
 <li>
