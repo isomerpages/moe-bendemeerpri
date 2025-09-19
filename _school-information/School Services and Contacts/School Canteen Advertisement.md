@@ -14,9 +14,9 @@ third_nav_title: School Services and Contacts
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bendemeer Primary School has a vacancy for Halal Noodle Stall and would
-like to invite interested applicants to operate the stall to start from
-October 2025.
+<p>Bendemeer Primary School has a vacancy for <strong>Halal Noodle Stall</strong> and
+would like to invite interested applicants to operate the stall to start
+from <strong>October 2025</strong>.
 <br>
 <br>If you know of anyone who is interested, please refer them to our school.</p>
 </td>
@@ -70,7 +70,7 @@ in consultation with the school.
 set by the Health
 <br>
 <br>Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)"
-guidelines (see [link](<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).
+guidelines (see [link](<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).
 <br>* Able to maintain high standard of food safety and personal hygiene.
 <br>* Healthy and fit to operate the stall.</p>
 <p><strong>Applicants should preferably fulfil the following criteria:</strong>
