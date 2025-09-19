@@ -54,9 +54,7 @@ via email to the School’s General Office.</p>
 <p>Address: 91 Bendemeer Road
 <br>Contact No: 6298911
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">bendemeer_ps@moe.edu.sg</a>
-<br>Contact Person: Mr Francis Wong (OM)
-<br>More information may be found at our school website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bendemeerpri.moe.edu.sg/school-canteen-advertisement/</a>
-</p>
+<br>Contact Person: Mr Francis Wong (OM)</p>
 </li>
 </ol>
 <p><strong>How to get there?</strong>
