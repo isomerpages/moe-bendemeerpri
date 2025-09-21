@@ -171,35 +171,34 @@ challenge</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo6.jpg">
 </div>
-<h4>P5 Cohort Camp</h4>
-<p>As one of the key Student Development Experiences (SDEs) by MOE to achieve
-our CCE learning outcomes, our school will be conducting our P5 Cohort
-Camp from 8 to 10 July 2024 at MOE Jalan Bahtera Adventure Centre.</p>
-<p>We hope to equip our students with knowledge, skills and values to explore
-and connect with natural and urban environments safely and responsibly.
-This 3D2N residential cohort camp will allow students to extend and deepen
-their learning beyond the classrooms into real life and also provides adventure
-and challenge for students to develop and demonstrate resilience, apply
-self-management skills and work with others collaboratively.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PE_Camp_2025_1.jpg">
+<h4>Primary 5 Outdoor Adventure Camp 2025</h4>
+<p>From 7 to 9 July 2025, our Primary 5 students experienced three days of
+adventure, challenge, and discovery at the MOE Jalan Bahtera Outdoor Adventure
+Learning Centre (OALC). This Cohort Outdoor Adventure Camp is one of the
+key Student Development Experiences (SDEs) and supports the learning outcomes
+of Character and Citizenship Education (CCE).</p>
+<p>The camp provided meaningful opportunities for students to explore the
+outdoors and develop important life skills. Through activities such as
+high elements, outdoor cooking, shelter-building, orienteering, and communal
+living, students learnt to manage themselves, work as a team, and step
+outside of their comfort zones. These hands-on experiences allowed them
+to put our school’s ASPIRE values into practice.</p>
+<p>One of the most memorable moments of the camp was the campfire night.
+It began with the lighting of the campfire to cheers from the crowd, setting
+the stage for an evening of celebration and connection. Students took turns
+performing with their classes, showcasing skits, songs, and cheers they
+had practised together. Laughter filled the air during the exciting games,
+and many students shared that this was their favourite part of camp. It
+was a night where friendships were strengthened, confidence grew, and everyone
+felt the joy of coming together as one cohort under the stars.</p>
+<p>For many students, this was their first time staying away from home. They
+returned with a greater sense of independence, new friendships, and a deeper
+confidence in what they are capable of. We are proud of how they embraced
+each experience with enthusiasm and heart.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vnz6VfuxbDo?si=8HbfrpClzMUFwrdr"></iframe>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_Camp_2025_2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_Camp_2025_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_Camp_2025_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_Camp_2025_5.jpg">
-</div>
 <p></p>
