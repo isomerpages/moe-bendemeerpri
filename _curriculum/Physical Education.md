@@ -195,7 +195,9 @@ felt the joy of coming together as one cohort under the stars.</p>
 returned with a greater sense of independence, new friendships, and a deeper
 confidence in what they are capable of. We are proud of how they embraced
 each experience with enthusiasm and heart.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_t7c-_sS3_Y?si=B1PrKiAv1RTqGscz"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
