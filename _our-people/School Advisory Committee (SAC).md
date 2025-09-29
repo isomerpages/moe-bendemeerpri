@@ -16,6 +16,7 @@ and provides direction based on changing and evolving landscapes.</p>
 <br>Mr Viswanatha Ramasubramanian
 <br>Dr Charissa Tan Li Pin
 <br>Ms Nana Wong
+<br>Ms Ang Ping Hua
 <br>
 </p>
 <p></p>
