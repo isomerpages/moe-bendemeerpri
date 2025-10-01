@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/5d536818f0c5370012d1c890" rel="noopener noreferrer nofollow" target="_blank">School Helpline Form</a>
+<p><a href="https://form.gov.sg/5d536818f0c5370012d1c890" rel="noopener noreferrer nofollow" target="_blank">SLS/MIMS Helpline Form</a>
 </p>
 </li>
 <li>
