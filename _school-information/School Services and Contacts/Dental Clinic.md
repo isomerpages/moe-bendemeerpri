@@ -17,5 +17,6 @@ hours)
 </p>
 <p></p>
 <p>Contact Cedar Primary at 87646935 (when clinic is closed in Bendemeer
-Primary) Contact SJI (Junior) at 89097946 (when clinics are closed in Bendemeer
+Primary)
+<br>Contact SJI (Junior) at 89097946 (when clinics are closed in Bendemeer
 Primary and Cedar Primary)</p>
