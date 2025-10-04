@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space[SLS]</a>
 </p>
 </li>
 <li>
@@ -24,6 +24,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://forms.gle/xMNWCqRyGimC8gsJ8" rel="noopener noreferrer nofollow" target="_blank">Our Voices</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE</a>
 </p>
 </li>
@@ -32,15 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://forms.gle/xMNWCqRyGimC8gsJ8" rel="noopener noreferrer nofollow" target="_blank">Our Voices</a>
-</p>
-</li>
-<li>
 <p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
 </p>
 </li>
 <li>
@@ -49,6 +45,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
 </p>
 </li>
 </ol>
