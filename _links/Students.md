@@ -8,6 +8,10 @@ variant: tiptap
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space[SLS]</a>
+</p>
+</li>
+<li>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCon</a>
 </p>
 </li>
@@ -16,16 +20,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+<p><a href="https://portal.mims.moe.gov.sg/sspr/private/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a>
 </p>
 </li>
 <li>
-<p>Check-In Survey:</p>
-<p><a href="https://forms.moe.edu.sg/forms/J70E1y" rel="noopener nofollow" target="_blank">P1 to P2</a>
-</p>
-<p><a href="https://forms.moe.edu.sg/forms/vEpj1k" rel="noopener nofollow" target="_blank">P3 to P4</a>
-</p>
-<p><a href="https://forms.moe.edu.sg/forms/eg35Bk" rel="noopener nofollow" target="_blank">P5 to P6</a>
+<p><a href="https://forms.gle/xMNWCqRyGimC8gsJ8" rel="noopener noreferrer nofollow" target="_blank">Our Voices</a>
 </p>
 </li>
 <li>
@@ -37,23 +36,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.channelnewsasia.com/" rel="noopener noreferrer nofollow" target="_blank">Channel News Asia</a>
-</p>
-</li>
-<li>
-<p><a href="https://forms.gle/xMNWCqRyGimC8gsJ8" rel="noopener noreferrer nofollow" target="_blank">Our Voices</a>
-</p>
-</li>
-<li>
 <p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
-</p>
-</li>
-<li>
-<p><a href="https://portal.mims.moe.gov.sg/sspr/private/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a>
+<p><a href="https://www.channelnewsasia.com/" rel="noopener noreferrer nofollow" target="_blank">Channel News Asia</a>
 </p>
 </li>
 <li>
@@ -61,7 +48,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/qse2025" rel="noopener nofollow" target="_blank">QSE Survey 2025</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
 </p>
 </li>
 </ol>

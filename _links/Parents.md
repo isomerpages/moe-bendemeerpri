@@ -19,10 +19,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.microsoft.com/en-sg/microsoft-teams/join-a-meeting" rel="noopener nofollow" target="_blank">Microsoft Teams Meeting</a>
 </p>
 </li>
@@ -31,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations &amp; Assessment Board</a>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE</a>
 </p>
 </li>
 <li>
@@ -44,6 +40,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Consent on Vaccination and dental services</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations &amp; Assessment Board</a>
 </p>
 </li>
 </ol>

@@ -220,14 +220,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Amnah Bte Jantan</p>
 </td>
@@ -269,15 +261,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Mohammad_Fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fahmy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ummi Umairah Binte Rosdin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ummi_Umairah_Binte_Rosdin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ummi_Umairah_Binte_Rosdin@moe.edu.sg</a>
 </p>
 </td>
 </tr>

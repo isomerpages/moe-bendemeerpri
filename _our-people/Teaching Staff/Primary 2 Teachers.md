@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,15 +84,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azimi_b_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azimi_b_ahmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ummi Umairah Binte Rosdin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ummi_Umairah_Binte_Rosdin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ummi_Umairah_Binte_Rosdin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
