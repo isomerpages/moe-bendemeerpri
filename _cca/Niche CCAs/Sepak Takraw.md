@@ -25,7 +25,6 @@ variant: tiptap
 </li>
 <li>
 <p>Mdm Kwek Hui Ying Valerie</p>
-<p>Coach : Mr. Mohamed Noor bin Mahmood</p>
 </li>
 </ol>
 <h4><strong><u>Coach</u></strong></h4>
