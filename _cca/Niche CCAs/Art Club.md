@@ -42,7 +42,7 @@ Assemblage&nbsp;
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art Competitions&nbsp;
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;School-Based Exhibitions
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Exchange/Collaboration</p>
-<h5>Art&nbsp; Club members in action...</h5>
+<h5>Art&nbsp;Club members in action...</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
