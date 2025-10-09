@@ -29,11 +29,6 @@ it possible for teachers to learn from their preschool students as well?
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<hr>
-<h4>Our MK @Bendemeer Events and Celebrations for Term 2, 2024</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pC-uxYi8SAI?si=eT3hssCVAnAILUmJ"></iframe>
-</div>
 <h4><br></h4>
 <p></p>
 <p></p>
