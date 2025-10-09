@@ -61,7 +61,8 @@ given ICT lessons to acquire the necessary core skills to follow:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. P5 Code for Fun
-<br>2. P6 ICT Project (Post-PSLE)</p>
+<br>2. Learning Micro:bit
+<br>3. P6 ICT Project (Post-PSLE)</p>
 </td>
 </tr>
 </tbody>
@@ -151,6 +152,16 @@ future.</p>
 </tr>
 </tbody>
 </table>
+<h5>Micro:Bit Learning @ BPS</h5>
+<p>As part of the modular CCA programme, all P5 Students went through the
+Micro:Bits Coding Programme&nbsp;&nbsp;to encourage innovation, foster
+collaboration and empower students to create with technology. Students
+underwent training and built Smart Homes using smart sensors. The students
+created innovative smart homes with the Design Thinking approach. On the
+last day of their training, each group presented their smart homes and
+shared about the sensor they had incorporated in their smart homes. This
+programme had provided the opportunity to develop creative and innovative
+citizens of tomorrow.&nbsp;</p>
 <h5>Mobile Trail @ BPS</h5>
 <p>At Bendemeer Primary School, there are many interesting learning spaces.
 The mobile trails came about to make these learning spaces come alive and
