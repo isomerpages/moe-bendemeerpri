@@ -53,27 +53,42 @@ Assemblage&nbsp;
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Character_drawing.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_2.png">
-</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Creating_background_for_their_fictional_characters.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_4.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/fictional_characters.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/CCA/Making_pencil_topper1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Making_pencil_topper.jpg">
 </div>
 </td>
 </tr>
@@ -81,18 +96,23 @@ Assemblage&nbsp;
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/working_in_team_projects.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_6.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/printmaking_workshop.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visiting_SYF_ARt_exhibition_2025.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
