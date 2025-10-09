@@ -176,13 +176,12 @@ with intellectual disabilities (2021)</p>
 </li>
 </ul>
 <h4>Photos</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
