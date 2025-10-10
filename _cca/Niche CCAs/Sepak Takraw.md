@@ -147,26 +147,26 @@ subsequently went on to qualify and performed well in the National competition.<
 <p>To provide quality competition experiences for our school athletes to
 support character development through the pursuit of sporting excellence.</p>
 <h4>Achievements</h4>
+<p><strong>2025</strong>
+<br>Senior Team achieved 3<sup>rd</sup> in the Nationals.</p>
+<p>Junior Team achieved:
+<br>Team 2: 4th place in Classification Round, 1st in Tiered Round.
+<br>Team 3: 2nd place in Classification Round, 3rd in Tiered Round.</p>
 <p><strong>2024</strong>
 <br>Senior Team achieved 1<sup>st</sup> in the Nationals.</p>
-<p>JuniorTeam achieved
+<p>Junior Team achieved:
 <br>Team 1: 4th in Classification Round, 2nd in Tiered Rounds.
 <br>Team 2: 4th in Classification Round, 3rd in Tiered Rounds.</p>
 <p><strong>2023</strong>
 <br>Senior Team achieved 1st&nbsp; in the National School Games.</p>
-<p>Junior Team&nbsp; 1 :
-<br>Classification Round: 4th
-<br>Tiered Rounds (Tier 2&nbsp; Silver 1 group : 7th)</p>
-<p>Junior Team 2 :
-<br>Classification Round: 2nd
-<br>Tiered Rounds (Tier&nbsp; 1 Gold group: 5th)</p>
-<p>Junior Team 3 :
-<br>Classification Round: 4th
-<br>Tiered Rounds( Tier 2&nbsp; Silver 1 group : 3rd)</p>
+<p>Junior Team achieved:
+<br>Team 1: 4th place in Classification Round, 7th in Tiered Round.
+<br>Team 2: 2nd place in Classification Round, 5th in Tiered Round.
+<br>Team 3: 4th place in Classification Round, 3rd in Tiered Round.</p>
 <p><strong>2022</strong> 
 <br>Senior Team achieved 2nd in position in the Nationals.</p>
-<p>Junior Team 1 achieved 1st in place in their Tier 1 Gold Group.</p>
-<p>Junior Team 2 achieved 2nd place in in their Tier 2 Silver 1 Group.</p>
+<p>Junior Team 1 achieved 1st in place in their Tier 1 Gold Group.
+<br>Junior Team 2 achieved 2nd place in in their Tier 2 Silver 1 Group.</p>
 <p><strong>2021</strong>
 <br>Senior Team achieved 1st in the Nationals.</p>
 <p><strong>2020</strong>
@@ -176,26 +176,6 @@ Special Provision)</p>
 <br>Senior Team achieved 2nd in the Nationals.
 <br>Junior Team achieved 1st in Tiered 2 rounds in the Nationals.</p>
 <h4><strong>Photos/ Gallery</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Takraw_2025_5.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
