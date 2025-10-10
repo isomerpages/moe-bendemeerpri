@@ -181,13 +181,13 @@ Special Provision)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075538.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075555.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075555.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075610.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075610.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075624.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075624.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -197,13 +197,13 @@ Special Provision)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075659.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075715.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075715.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075728.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075728.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075739.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075739.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075750.png">
