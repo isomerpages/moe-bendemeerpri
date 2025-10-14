@@ -5,6 +5,16 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Snapshots and Highlights @ MK Bendemeer</strong></h3>
+<h4><strong>Semester 1 School Events Compilation (June 2025)</strong></h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gl-4S9hUye4?si=5BFRURd6I5Rcp6l2"></iframe>
+</div>
+<h4><strong>K1 Learning Journey (May 2025)</strong></h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gkCVWDFUwVQ?si=aOwJHFNj85ZgySBu"></iframe>
+</div>
 <h4><strong>Celebrating the Joy of Chinese New Year at MK! 🏮🐉</strong></h4>
 <p>Our MOE Kindergarten at Bendemeer welcomed the Lunar New Year with an
 exciting and vibrant celebration! 🎊 From festive performances to hands-on
@@ -15,7 +25,7 @@ Watch the highlights of this special occasion in the video below! 🎥✨</p>
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K-Q5sOJ-9KI?si=pkXMaRo02MJ1f06b"></iframe>
 </div>
 <hr>
-<h4>A post shared by National Institute of Early Childhood Development (NIEC)</h4>
+<h4><strong>A post shared by National Institute of Early Childhood Development (NIEC)</strong></h4>
 <p>Prepare for some unexpected moments as the Minister of State for Education,
 Ms. Gan Siow Huang, addresses intriguing questions from preschoolers! Is
 it possible for teachers to learn from their preschool students as well?
