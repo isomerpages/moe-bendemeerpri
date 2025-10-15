@@ -20,7 +20,11 @@ and collaborative learning.</p>
 all students to have the necessary skills to support them in learning and
 to prepare them for the future needs. Students in different levels are
 given ICT lessons to acquire the necessary core skills to follow:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,24 +60,28 @@ given ICT lessons to acquire the necessary core skills to follow:</p>
 <p>Primary 5 &amp; 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. P5 &amp; P6 Code for Fun
-<br>2. Learning Micro:bit with Smart Sensors
+<p>1. P5 Code for Fun
+<br>2. Learning Micro:bit
 <br>3. P6 ICT Project (Post-PSLE)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(4).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07011.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2%20(6).jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSC07000.jpg">
 </div>
 </th>
 </tr>
@@ -82,7 +90,7 @@ given ICT lessons to acquire the necessary core skills to follow:</p>
 <p>Students engaged with online class activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 students editing their video during Video&nbsp;Journalism Training</p>
+<p>Students using iPads for online class activities</p>
 </td>
 </tr>
 </tbody>
@@ -104,32 +112,46 @@ days as students need not attend school.&nbsp;They are expected to complete
 the online assignments found in&nbsp;<strong><a href="/our-people/for-parents/ict-matters/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">SLS Portal</a></strong>&nbsp;assigned
 by their subject teachers.&nbsp;</p>
 <h5>Code For Fun @ BPS</h5>
-<p>The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE)
-is offered to all MOE primary schools.&nbsp;The school embarked on the
-Code for Fun programme, for our primary 5 students since 2020. &nbsp;
-<br>This year, our P6 are also onboard the Code for Fun pilot programme on
-Artificial Intelligence.
-<br>The Code for Fun programme plays an important role in MOE’s computer Science
-Education roadmap.</p>
-<p>The aim of this programme is to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>develop an appreciation of core computational thinking and coding concepts
-through simple visual programming-based lessons ·&nbsp; &nbsp; &nbsp; &nbsp;</p>
-</li>
-<li>
-<p>Exposure to emerging technologies such as artificial intelligence. Computational
-thinking is a learned approach and one of the better ways to learn it,
-is through programming.&nbsp;</p>
-</li>
-</ul>
-<p>This learning approach employs all the components of computational thinking
-and the knowledge gained through the experience of tackling programming
-challenges. It can provide a framework not only for computer science, but
-for any field from natural and health sciences, to the social sciences
-and humanities.</p>
-<p>During the Code for Fun workshops, students use block-based programming
-to programme the Sphero Bolt and complete exciting challenges.</p>
+<p></p>
+<p>Our Primary 5 students had an exciting and enriching experience during
+the Code for Fun Programme! Through the sessions, they explored the world
+of Computational Thinking and discovered how these skills can be applied
+in their daily lives.</p>
+<p>Students learnt basic programming concepts such as events, loops, variables,
+and functions, while also strengthening their logical thinking and problem-solving
+abilities by breaking big problems into smaller, manageable steps.</p>
+<p>A highlight of the programme was the hands-on activity where students
+worked in teams to program a dance using their Sphero robotic kits. This
+engaging task not only fostered teamwork and creativity but also allowed
+them to see coding come to life in a fun way!</p>
+<p>The 10-hour workshop concluded with an introduction to Artificial Intelligence
+(AI), sparking students’ curiosity about how technology is shaping the
+future.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>P5 Students working on dance program using their Sphero robotic kits</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Micro:Bit Learning @ BPS</h5>
 <p>As part of the modular CCA programme, all P5 Students went through the
 Micro:Bits Coding Programme&nbsp;&nbsp;to encourage innovation, foster
@@ -140,31 +162,6 @@ last day of their training, each group presented their smart homes and
 shared about the sensor they had incorporated in their smart homes. This
 programme had provided the opportunity to develop creative and innovative
 citizens of tomorrow.&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3%20(3).jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4%20(3).jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>P5 Students working on their Smart Homes using Micro:Bit and sensors</p>
 <h5>Mobile Trail @ BPS</h5>
 <p>At Bendemeer Primary School, there are many interesting learning spaces.
 The mobile trails came about to make these learning spaces come alive and

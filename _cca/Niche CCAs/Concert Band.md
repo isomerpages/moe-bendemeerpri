@@ -12,7 +12,8 @@ variant: tiptap
 <br>4. Ms Phua Mei Yin
 <br>5. Ms Wong Yee Yee
 <br>6. Ms Selina Chong
-<br>7. Mr Thomas Gan</p>
+<br>7. Mr Thomas Gan
+<br>8. Mdm Cherrine Ong</p>
 <h4>CCA Schedule</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -127,6 +128,13 @@ through their band experiences</p>
 <h4>Performances</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Bendemeer Primary School x Maha Bodhi School Band Exchange, 3 June 2025</p>
+</li>
+<li>
+<p>Charity Lunch Performance at EXPO for Lions Club of Nanyang, 12 April
+2025</p>
+</li>
+<li>
 <p>Festival Winds Concert (2023)</p>
 </li>
 <li>
@@ -168,6 +176,13 @@ with intellectual disabilities (2021)</p>
 </li>
 </ul>
 <h4>Photos</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture2.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_2025_2.jpg">
