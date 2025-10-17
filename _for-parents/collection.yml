@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Administering of Medicine.md
       - Overview.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
@@ -26,3 +25,4 @@ collections:
       - Featured on.md
       - Important Information for Primary 1.md
       - Student Insurance Matters.md
+      - Administering of Medicine.md
