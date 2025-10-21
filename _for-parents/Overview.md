@@ -16,5 +16,6 @@ variant: tiptap
 <br><a href="https://www.open/administering-of-medicine/" rel="noopener nofollow" target="_blank">Administering of Medicine</a>
 <br><a href="/our-people/for-parents/impt-info-p1" rel="noopener noreferrer nofollow" target="_blank">Important Information for Primary 1</a>
 <br><a href="/for-parents/Student-Insurance-Matters/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Matters</a>
+<br><a href="https://www.bendemeerpri.moe.edu.sg/administering-of-medicine/" class="" rel="noopener noreferrer nofollow" target="_blank">Administering of Medicine</a>
 </p>
 <p></p>
