@@ -1,6 +1,6 @@
 ---
 title: Student Insurance Matters
-permalink: /for-parents/Student-Insurance-Matters/
+permalink: /our-people/for-parents/student-insurance-matters/
 description: ""
 variant: tiptap
 ---

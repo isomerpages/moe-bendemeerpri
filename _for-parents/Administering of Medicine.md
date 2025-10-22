@@ -1,6 +1,6 @@
 ---
 title: Administering of Medicine
-permalink: /administering-of-medicine/
+permalink: /our-people/for-parents/administering-of-medicine/
 variant: tiptap
 description: ""
 ---
