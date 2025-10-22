@@ -13,7 +13,7 @@ variant: markdown
 <br><a href="/our-people/for-parents/HPB-modern-parent" rel="noopener noreferrer nofollow" target="_blank">HPB Modern Parent</a>
 <br><a href="/our-people/for-parents/growing-years" rel="noopener noreferrer nofollow" target="_blank">The Growing Years Programme for P5 &amp; P6</a>
 <br><a href="/our-people/for-parents/featured-on" rel="noopener noreferrer nofollow" target="_blank">Featured On</a>
-<br><a href="/our-people/for-parents/administering-of-medicine/" rel="noopener nofollow" target="_blank">Administering of Medicine</a>
+<br><a href="/our-people/for-parents/administering-of-medicine/" rel="noopener noreferrer nofollow" target="_blank">Administering of Medicine</a>
 <br><a href="/our-people/for-parents/impt-info-p1" rel="noopener noreferrer nofollow" target="_blank">Important Information for Primary 1</a>
 <br><a href="/for-parents/Student-Insurance-Matters/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Matters</a>
 </p>
