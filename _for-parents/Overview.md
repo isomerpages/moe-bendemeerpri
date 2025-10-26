@@ -16,5 +16,5 @@ variant: tiptap
 <br><a href="/our-people/for-parents/administering-of-medicine/" rel="noopener noreferrer nofollow" target="_blank">Administering of Medicine</a>
 <br><a href="/our-people/for-parents/impt-info-p1" rel="noopener noreferrer nofollow" target="_blank">Important Information for Primary 1</a>
 <br><a href="/our-people/for-parents/student-insurance-matters/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Matters</a>
+<br><a href="/acceptable-use-policy-aup-agreement-for-cyberwellness/" rel="noopener nofollow" target="_blank">Acceptable Use Policy (AUP) Agreement for Cyber Wellness</a>
 </p>
-<p></p>
