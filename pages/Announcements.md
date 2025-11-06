@@ -18,6 +18,9 @@ how to start nominating.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
 </div>
+<p>
+<br>
+</p>
 <hr>
 <p></p>
 <p>Dear BPS Alumni,
