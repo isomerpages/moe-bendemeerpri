@@ -5,6 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
+<h4>Open for nominations: Caring Teachers Awards (CTA)</h4>
+<p>The<strong> Caring Teacher Awards (CTA) </strong>celebrate educators who
+exemplify care and compassion in their teaching, going beyond the call
+of duty to nurture the holistic development of their students. These dedicated
+teachers play a vital role in shaping confident, independent, and resilient
+learners who contribute meaningfully to our nation.</p>
+<p>👉 <a href="https://www.cta.nie.edu.sg/" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
+get started.</p>
+<p>For step-by-step instructions, please refer to the <strong><a href="/files/CTA_2026_Administrator_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">CTA Administrator Guide</a></strong> on
+how to start nominating.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
+</div>
+<p>
+<br>
+</p>
+<hr>
+<p></p>
 <p>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
