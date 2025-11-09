@@ -17,14 +17,8 @@ for the teacher(s).</p>
 <p>👉 <a href="https://form.gov.sg/68ae474d09f68097e77beda3" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for PAT]</u></a> or <strong>scan the QR code below</strong> to
 get started.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4b__2026_PAT_Nomination_Poster.png">
-</div>
 <p>👉 <a href="https://form.gov.sg/68ae5a5dd7758bf48048b574" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for OYEA]</u></a> or <strong>scan the QR code below</strong> to
 get started.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4a__2026_OYEA_Nomination_Poster.png">
-</div>
 <p>
 <br>
 </p>
