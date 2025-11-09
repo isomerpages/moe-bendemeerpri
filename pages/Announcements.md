@@ -5,7 +5,38 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4>Open for nominations: Caring Teachers Awards (CTA)</h4>
+<h4>Open for nominations: <br><strong>President’s Award for Teachers (PAT)</strong> and <strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
+<p>Every year, the <strong>President’s Award for Teachers (PAT)</strong> and
+the <strong>Outstanding Youth in Education Award (OYEA)</strong> are given
+out to teachers in Singapore to recognise their professional excellence.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The <strong>PAT</strong> pays tribute to experienced teachers for their
+role in moulding the future of our nation. These teachers are role models
+for the teaching profession as they embody a deep passion for teaching,
+and they inspire both their students and peers through their words and
+deeds.</p>
+</li>
+<li>
+<p>The<strong> OYEA</strong> recognises young teachers who have shown admirable
+passion for teaching, and commitment to inspiring and nurturing their students.
+These teachers embody youthful idealism, energy and enthusiasm, and inspire
+both their students and peers through their words and deeds. Teachers who
+are 35 years old and below in 2026 are eligible for the award.</p>
+</li>
+</ul>
+<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
+will <strong>close at 12 noon on Friday, 9 January 2026</strong>. Submit
+your nomination(s) for one or more deserving teacher(s) by clicking on
+the URLs or scanning the QR codes below. Your nomination(s) will be a source
+of encouragement for the teacher(s).</p>
+<p>👉 <a href="https://form.gov.sg/68ae474d09f68097e77beda3" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for PAT]</u></a> or <strong>scan the QR code below</strong> to
+get started.</p>
+<p>👉 <a href="https://form.gov.sg/68ae5a5dd7758bf48048b574" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for OYEA]</u></a> or <strong>scan the QR code below</strong> to
+get started.</p>
+<p></p>
+<hr>
+<h4>Open for nominations: <strong>Caring Teachers Awards (CTA)</strong></h4>
 <p>The<strong> Caring Teacher Awards (CTA) </strong>celebrate educators who
 exemplify care and compassion in their teaching, going beyond the call
 of duty to nurture the holistic development of their students. These dedicated
