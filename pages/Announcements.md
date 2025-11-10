@@ -5,7 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4>Open for nominations: Caring Teachers Awards (CTA)</h4>
+<h4><strong>Open for nominations: </strong><br><strong>President’s Award for Teachers (PAT)</strong> and <strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
+<p>Every year, the <strong>President’s Award for Teachers (PAT)</strong> and
+the <strong>Outstanding Youth in Education Award (OYEA)</strong> are given
+out to teachers in Singapore to recognise their professional excellence.</p>
+<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
+will <strong>close on Friday, 9 January 2026</strong>. Submit your nomination(s)
+for one or more deserving teacher(s) by clicking on the URLs or scanning
+the QR codes below. Your nomination(s) will be a source of encouragement
+for the teacher(s).</p>
+<p>👉 <a href="https://form.gov.sg/68ae474d09f68097e77beda3" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for PAT]</u></a> or <strong>scan the QR code below</strong> to
+get started.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT_Banner.jpg">
+</div>
+<p>👉 <a href="https://form.gov.sg/68ae5a5dd7758bf48048b574" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for OYEA]</u></a> or <strong>scan the QR code below</strong> to
+get started.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA_Banner.jpg">
+</div>
+<p>
+<br>
+</p>
+<hr>
+<h4><strong>Open for nominations: Caring Teachers Awards (CTA)</strong></h4>
 <p>The<strong> Caring Teacher Awards (CTA) </strong>celebrate educators who
 exemplify care and compassion in their teaching, going beyond the call
 of duty to nurture the holistic development of their students. These dedicated
