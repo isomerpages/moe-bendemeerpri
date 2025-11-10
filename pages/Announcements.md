@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4>Open for nominations: <br><strong>President’s Award for Teachers (PAT)</strong> and <strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
+<h4><strong>Open for nominations: </strong><br><strong>President’s Award for Teachers (PAT)</strong> and <strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
 <p>Every year, the <strong>President’s Award for Teachers (PAT)</strong> and
 the <strong>Outstanding Youth in Education Award (OYEA)</strong> are given
 out to teachers in Singapore to recognise their professional excellence.</p>
@@ -28,7 +28,7 @@ get started.</p>
 <br>
 </p>
 <hr>
-<h4>Open for nominations: <strong>Caring Teachers Awards (CTA)</strong></h4>
+<h4><strong>Open for nominations: Caring Teachers Awards (CTA)</strong></h4>
 <p>The<strong> Caring Teacher Awards (CTA) </strong>celebrate educators who
 exemplify care and compassion in their teaching, going beyond the call
 of duty to nurture the holistic development of their students. These dedicated
