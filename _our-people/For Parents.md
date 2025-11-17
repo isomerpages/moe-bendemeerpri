@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>FOR PARENTS</h3>
-<p><a href="/our-people/for-parents/Parents-Engagement-Resources/overview" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Resources</a> 
+<p><a href="/about-us/school-information/School-Services-and-Contacts/Overview/" rel="noopener nofollow" target="_blank">School services and Contacts</a>
+<br><a href="/our-people/for-parents/Parents-Engagement-Resources/overview" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Resources</a> 
 <br><a href="/our-people/for-parents/Positive-Parenting-Programmes/overview" rel="noopener noreferrer nofollow" target="_blank">Positive Parenting Programmes</a>
 <br><a href="/our-people/for-parents/Academic-Matters/overview" rel="noopener noreferrer nofollow" target="_blank">Academic Matters</a>
 <br><a href="/our-people/for-parents/letter-to-parents/" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents</a>
