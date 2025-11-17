@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - School services and Contacts.md
       - Overview.md
+      - School services and Contacts.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
       - Parents Engagement Resources/Micro Learning Unit For Parents with SEN
