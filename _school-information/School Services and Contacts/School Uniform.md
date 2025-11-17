@@ -8,6 +8,8 @@ variant: tiptap
 <h3>SCHOOL UNIFORM</h3>
 <p><strong>Shanghai School Uniforms Pte Ltd</strong>&nbsp;
 <br>Click on this link to visit the website: <a href="https://shanghai-uniforms.sg/shop/category/bendemeer-primary-94" rel="noopener noreferrer nofollow" target="_blank">Shanghai School Uniforms Pte Ltd</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1i3kt7fnX7IkcBdHLnrzhStXjpxyDqt2L/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Shanghai Uniform Letter to Parents </a>
 <br>
 <br><strong>Outlet details:</strong>
 <br>63 Ubi Ave 1 #04-09
