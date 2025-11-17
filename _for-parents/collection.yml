@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 11) School services and Contacts.md
       - Overview.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
