@@ -46,5 +46,9 @@ variant: tiptap
 <p><a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations &amp; Assessment Board</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.bendemeerpri.moe.edu.sg/about-us/school-information/School-Services-and-Contacts/Overview/" rel="noopener nofollow" target="_blank">School Services and Contracts</a>
+</p>
+</li>
 </ol>
 <p></p>
