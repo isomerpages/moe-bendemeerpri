@@ -12,7 +12,7 @@ and provides direction based on changing and evolving landscapes.</p>
 <p><strong>Chairman:</strong>&nbsp;Mr Tang Wen Yeow</p>
 <p><strong>Secretary:</strong>&nbsp;Mrs Tan-Lim Kim Gek</p>
 <p><strong>Members:</strong> 
-<br>Mr Loo Chin Nong PBM
+<br>Mr Loo Chin Nong BBM
 <br>Mr Viswanatha Ramasubramanian
 <br>Dr Charissa Tan Li Pin
 <br>Ms Nana Wong
