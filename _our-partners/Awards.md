@@ -14,7 +14,13 @@ the collective commitment that continues to support and uplift our Bendemeer
 community.</p>
 <hr>
 <h4><strong>Celebrating Our National Honour: Total Defence Awards 2025 &amp; NS Mark (Gold)!</strong></h4>
-<p></p>
+<p>Bendemeer Primary School is honoured to be recognised once again at the
+national level with the Total Defence Awards (TDA) 2025 and the NS Mark
+(Gold), Singapore’s highest accolades for exemplary contributions to Total
+Defence. Jointly conferred by the Ministry of Defence (MINDEF) and the
+Ministry of Home Affairs (MHA), these awards affirm our school’s unwavering
+commitment to promoting resilience, responsibility, and unity within our
+student body and wider community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/IMG_0001__233_.jpg">
 </div>
@@ -22,7 +28,16 @@ community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/TDA_2025.png">
 </div>
-<p></p>
+<p>This achievement builds on our earlier recognition in 2022, when Bendemeer
+Primary received the National Service (NS) Advocate Award for Organisations
+and the NS Mark (Gold) under the TDA framework. As these honours are awarded
+on a three-year cycle, attaining them again in 2025 highlights our sustained
+efforts and consistent support for Total Defence and National Service.</p>
+<p>Beyond being a prestigious accolade, this milestone celebrates the collective
+dedication of our staff, students, parents, and community partners including
+the SAF, SPF, and SCDF. It reinforces our mission to nurture responsible
+citizens who stand steadfast for Singapore and strengthens our resolve
+to cultivate a school culture grounded in service, resilience, and unity.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -47,23 +62,8 @@ community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/TDA_and_NS_Mark_Gold_logos.png">
 </div>
-<p>Bendemeer Primary School is honoured to be recognised once again at the
-national level with the Total Defence Awards (TDA) 2025 and the NS Mark
-(Gold), Singapore’s highest accolades for exemplary contributions to Total
-Defence. Jointly conferred by the Ministry of Defence (MINDEF) and the
-Ministry of Home Affairs (MHA), these awards affirm our school’s unwavering
-commitment to promoting resilience, responsibility, and unity within our
-student body and wider community.</p>
-<p>This achievement builds on our earlier recognition in 2022, when Bendemeer
-Primary received the National Service (NS) Advocate Award for Organisations
-and the NS Mark (Gold) under the TDA framework. As these honours are awarded
-on a three-year cycle, attaining them again in 2025 highlights our sustained
-efforts and consistent support for Total Defence and National Service.</p>
-<p>Beyond being a prestigious accolade, this milestone celebrates the collective
-dedication of our staff, students, parents, and community partners including
-the SAF, SPF, and SCDF. It reinforces our mission to nurture responsible
-citizens who stand steadfast for Singapore and strengthens our resolve
-to cultivate a school culture grounded in service, resilience, and unity.</p>
+<p></p>
+<p></p>
 <h4><strong>SINDA Appreciation Ceremony 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -78,7 +78,7 @@ to the shared commitment between Bendemeer Primary and SINDA in nurturing
 the growth, confidence, and well-being of every child. We look forward
 to continuing this strong and purposeful partnership in the years ahead.</p>
 <hr>
-<p></p>
+<h4><strong>SINDA Appreciation Ceremony 2024</strong></h4>
 <p>The Singapore Indian Development Association (SINDA) specially invited
 Bendemeer Primary School to attend the SINDA Appreciation Ceremony 2023
 to recognise the contributions and support provided to SINDA from 2021-2022.
