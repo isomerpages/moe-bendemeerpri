@@ -62,8 +62,7 @@ to cultivate a school culture grounded in service, resilience, and unity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/TDA_and_NS_Mark_Gold_logos.png">
 </div>
-<p></p>
-<p></p>
+<hr>
 <h4><strong>SINDA Appreciation Ceremony 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
