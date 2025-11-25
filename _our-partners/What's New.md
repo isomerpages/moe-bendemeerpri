@@ -54,6 +54,7 @@ teachers who shaped their journeys. Our alumni shared fond memories, reconnected
 with former teachers and friends, and celebrated the strong Bendemeer spirit
 that continues to unite generations. We are grateful for their presence
 and for the enduring bonds that make our Bendemeer family truly special.</p>
+<hr>
 <h4><strong>P6 Care packs courtesy of Kolam Ayer Community Club</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -70,6 +71,7 @@ and Dr Wan Rizal included a personal message in each pack to motivate them
 as they prepare for the PSLE.</p>
 <p>We appreciate this meaningful partnership and value their continued commitment
 to nurturing the well-being and confidence of our Bendemeer students.</p>
+<hr>
 <h4><strong>2025 Civil Defence Junior Lionhearters Challenge</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
