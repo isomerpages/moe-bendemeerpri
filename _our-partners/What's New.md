@@ -9,7 +9,6 @@ events, and initiatives that strengthen Bendemeer Primary School’s connections
 with our valued partners. These updates showcase meaningful engagements
 that enrich our students’ learning experiences and reflect our continued
 commitment to building impactful Home–School–Community partnerships.</p>
-<p></p>
 <h4><strong>Alumni Homecoming during Teachers’ Day 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
