@@ -4,92 +4,95 @@ permalink: /our-partners/newevents/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Singapore Traffic Games 2024</strong></h4>
+<p>Our Partnership “What’s New” page highlights the latest collaborations,
+events, and initiatives that strengthen Bendemeer Primary School’s connections
+with our valued partners. These updates showcase meaningful engagements
+that enrich our students’ learning experiences and reflect our continued
+commitment to building impactful Home–School–Community partnerships.</p>
+<hr>
+<h4><strong>Alumni Homecoming during Teachers’ Day 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/IMG_9244.jpg">
 </div>
-<p>Our partner, the Traffic Police, invited our Primary 4 and Primary 5 students
-to participate in the finals of the Singapore Traffic Games 2024 on 8 November
-2024. The students were awarded Certificates of Proficiency after competing
-with other schools in areas such as road safety knowledge and civic awareness.</p>
-<h4><strong>Alumni Homecoming during Teachers’ Day 2024</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/IMG_9232.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our Partners/Teachers_Day_visit_1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/IMG_9258.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/IMG_9234.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Bendemeer Primary School warmly welcomed our alumni back for Homecoming
+during Teachers’ Day 2025. It was a meaningful occasion filled with joyful
+reunions, heartfelt conversations, and expressions of gratitude for the
+teachers who shaped their journeys. Our alumni shared fond memories, reconnected
+with former teachers and friends, and celebrated the strong Bendemeer spirit
+that continues to unite generations. We are grateful for their presence
+and for the enduring bonds that make our Bendemeer family truly special.</p>
+<hr>
+<h4><strong>P6 Care packs courtesy of Kolam Ayer Community Club</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_2.jpg">
-</div>
-<p>During the Teachers’ Day celebrations on 29 August 2024, our alumni returned
-to Bendemeer Primary to reconnect with their former teachers. Around 80
-former students gathered in the school hall that morning, with many arriving
-right after their secondary school celebrations—some even traveling from
-distant locations. This heartfelt reunion is a testament to the lasting
-impact our BPS teachers have had on their lives.</p>
-<p></p>
-<h4><strong>Care packs courtesy of Kolam Ayer Community Club</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_3.jpg">
-</div>
-<p>Our Primary 6 students received a delightful surprise on the morning of
-12 August 2024. Each student was gifted a stationery care pack by our generous
-partner, Kolam Ayer Community Club. This thoughtful gesture was intended
-to encourage and wish our P6 Bendemeer Primary School students the very
-best for their PSLE. The students were excited and deeply grateful for
-this kind support from Dr. Wan Rizal, Adviser to Jalan Besar GRC GROs,
-and the staff of Kolam Ayer Community Club.</p>
-<h4><strong>Visit to Toa Payoh Bus Interchange during Kindness Month</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_4.jpg">
-</div>
-<p>As part of Kindness Month, our Primary 5 Student Leaders visited the SBS
-Transit Bus Captains at Toa Payoh Bus Interchange on 16 May 2024. During
-the visit, the Student Leaders interacted with the staff and distributed
-handwritten notes of appreciation. Their thoughtful gestures and words
-of gratitude brought smiles to the faces of the hardworking Bus Captains.
-This outreach initiative strengthens the partnership between Bendemeer
-Primary School and SBS Transit, fostering a spirit of giving back to the
-community and spreading kindness.</p>
-<h4><strong>2024 Civil Defence Junior Lionhearters Challenge</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Care_packs_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_d7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Care_packs_2.png">
 </div>
-<p>Our courageous NE Champs participated in the 2024 Civil Defence Junior
-Lionhearters Challenge on 23 February 2024, an event organised by the Singapore
-Civil Defence Force. Leading up to the challenge, the team dedicated significant
-time and effort to mastering First Aid skills, locating AEDs around the
-school, earning their Community Emergency Preparedness Tier 1 Certificates,
-and designing their own version of the SCDF Ready Bag, complete with a
-custom-painted design.</p>
-<p>During the challenge, the team demonstrated exceptional teamwork and resilience
-as they competed against other primary schools, solving puzzles and answering
-quizzes related to emergency preparedness. We are proud to share that their
-Ready Bag design ranked among the top 10 schools! The team was thrilled
-that their hard work paid off and thoroughly enjoyed the experience.</p>
-<h4><strong>Lions Befrienders’ Sustainability Exhibition</strong></h4>
+<p>Bendemeer Primary School thanks Kolam Ayer Community Club for their thoughtful
+support for our Primary 6 students. The People’s Association Youth Movement
+(PAYM) and the Kolam Ayer Youth Network prepared care packs for our students,
+and Dr Wan Rizal included a personal message in each pack to motivate them
+as they prepare for the PSLE.</p>
+<p>We appreciate this meaningful partnership and value their continued commitment
+to nurturing the well-being and confidence of our Bendemeer students.</p>
+<hr>
+<h4><strong>2025 Civil Defence Junior Lionhearters Challenge</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whats_New_2025_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Lionhearters_1.png">
 </div>
-<p>On 20 February 2024, Lions Befrienders (Bendemeer 32) Active Aging Centre
-organised its first exhibition on sustainability and invited our students
-to attend and interact with the elderly. During the visit, our students
-shared insights on climate change and upcycling with the staff and had
-an engaging time learning about sustainability through interactive activities
-and play!</p>
-<h4><strong>Ground Deployment Exercise in BPS!</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Whats_New_2025_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Lionhearters_2.png">
 </div>
-<p>On 27 January 2024, members of the Singapore Police Force (SPF) and the
-Singapore Civil Defence Force (SCDF) conducted a combined Ground Deployment
-Exercise at Bendemeer Primary School. Officers utilized our school to simulate
-emergency scenarios, showcasing the strong partnership we share with SPF
-and SCDF.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Lionhearters_3.png">
+</div>
+<p>Our Primary 4 and Primary 5 NE Champs represented Bendemeer Primary School
+at the 2025 Civil Defence Junior Lionhearters Challenge, organised by the
+Singapore Civil Defence Force (SCDF). The competition brought together
+students from schools across Singapore to test their emergency preparedness
+knowledge, teamwork, and quick thinking. We are proud to share that our
+students once again clinched a spot in the Top 10 Ready Bag Design category
+for the third consecutive year! This achievement reflects their creativity,
+resilience, and commitment to staying prepared. We congratulate our NE
+Champs for flying the Bendemeer flag high and thank SCDF for providing
+this meaningful learning opportunity.</p>
 <p></p>
