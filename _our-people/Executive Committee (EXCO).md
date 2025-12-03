@@ -314,13 +314,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Aesthetics</p>
+<p>Level Head English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aziana Aziz</p>
+<p>Mdm Seetha Kumari d/o Jeet Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aziana_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aziana_aziz@moe.edu.sg</a>
+<p><a href="mailto:seetha_kumari_jeet_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetha_kumari_jeet_singh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
