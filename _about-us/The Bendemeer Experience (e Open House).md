@@ -46,7 +46,10 @@ this section! (Click on the image)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.d1qmsrsh4o1jg3.amplifyapp.com/co-curriculum/"><img style="width: 100%" height="auto" width="480" src="/images/Main%20Page/4fe8d32ea_246.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main Page/BPS25_0534.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more on how the different departments come together to&nbsp;<strong>support our students’ holistic development</strong>.
