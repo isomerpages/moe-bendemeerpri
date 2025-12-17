@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Watt Kian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Wai Kuin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
