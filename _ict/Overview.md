@@ -4,18 +4,18 @@ permalink: /curriculum/ict/overview/
 description: ""
 variant: tiptap
 ---
-<h1><strong>INFORMATION COMMUNICATION TECHNOLOGY (ICT)</strong></h1>
-<h2><strong>VISION</strong></h2>
+<h2><strong>INFORMATION COMMUNICATION TECHNOLOGY (ICT)</strong></h2>
+<h3><strong>VISION</strong></h3>
 <p>Future-ready and Digitally Responsible Learners</p>
-<h2><strong>ICT @ BPS</strong></h2>
+<h3><strong>ICT @ BPS</strong></h3>
 <p>The ICT department strives to harness ICT to transform the teaching and
 learning landscape in school. Aspiring for our students to become&nbsp;Future-ready
 and Responsible Digital Learners, the school has&nbsp;planned various ICT
 programmes that have been integrated into the curriculum and subject disciplines.&nbsp;
 These programmes aim to develop students’ competencies for self-directed
 and collaborative learning.</p>
-<h2><strong>Programme Highlights/Enrichment Activities</strong></h2>
-<h3><strong>Building Strong Digital Foundations</strong></h3>
+<h3><strong>Programme Highlights/Enrichment Activities</strong></h3>
+<h4><strong>Building Strong Digital Foundations</strong></h4>
 <p>To support students’ learning and prepare them for future demands, Bendemeer
 Primary School provides structured ICT lessons across levels. These lessons
 focus on developing essential digital skills that enable students to learn
@@ -96,7 +96,7 @@ in their learning.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Blended Learning during Home Based Learning(HBL) lessons </strong></h3>
+<h4><strong>Blended Learning during Home Based Learning(HBL) lessons</strong></h4>
 <p>In the digital era, it is important for our students to be equipped with
 the necessary knowledge, skills and dispositions to thrive in an interconnected,
 diverse and rapidly changing world. Hence, Blended Learning will be a key
@@ -112,14 +112,15 @@ days as students need not attend school.&nbsp;They are expected to complete
 the online assignments found in&nbsp;<strong><a href="/our-people/for-parents/ict-matters/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">SLS Portal</a></strong>&nbsp;assigned
 by their subject teachers.&nbsp;</p>
 <p></p>
-<h3><strong>Primary 3 &amp; Primary 4 Scratch Coding Programme</strong></h3>
+<h4><strong>Primary 3 &amp; Primary 4 Scratch Coding Programme</strong></h4>
 <p>The Primary 3 and Primary 4 Scratch Coding Programme at Bendemeer Primary
 School supports the EdTech Masterplan 2030 by developing students into
 digitally empowered future-ready learners.</p>
 <p>Through hands-on coding using Scratch, students strengthen key MOE Digital
 Competencies, learning not just <em>how</em> to use technology, but <em>why</em> and <em>how responsibly</em> it
 can be applied to real-world issues.</p>
-<h4><strong>Developing MOE Digital Competencies</strong></h4>
+<p><strong>Developing MOE Digital Competencies</strong>
+</p>
 <p>Through the programme, students develop:</p>
 <ul>
 <li>
@@ -172,7 +173,7 @@ learn to:</p>
 <p>These learning experiences reflect Bendemeer Primary School’s commitment
 to developing students who are confident, responsible, and purposeful users
 of technology, equipped with essential digital competencies for the future.</p>
-<h2><strong>Code For Fun @ BPS</strong></h2>
+<h4><strong>Code For Fun @ BPS</strong></h4>
 <p>Our Primary 5 students had an exciting and enriching experience during
 the Code for Fun Programme! Through the sessions, they explored the world
 of Computational Thinking and discovered how these skills can be applied
@@ -212,7 +213,7 @@ future.</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>AI for Fun (AIFF)  </strong><br><strong>Primary 6 Post-Exam Programme</strong></h2>
+<h4><strong>AI for Fun (AIFF) </strong><br><strong>Primary 6 Post-Exam Programme</strong></h4>
 <p>Building on this foundation, our Primary 6 students also took part in
 AI for Fun (AIFF) as a post-examination enrichment programme. AIFF provides
 students with meaningful and engaging learning experiences after exams,
@@ -236,7 +237,7 @@ AI plays an increasingly important role.</p>
 <p>Together, Code For Fun and AI for Fun support Bendemeer Primary School’s
 commitment to developing future-ready learners who are confident, thoughtful,
 and responsible users of technology.</p>
-<h3><strong>Micro:Bit Learning @ BPS</strong></h3>
+<h4><strong>Micro:Bit Learning @ BPS</strong></h4>
 <p>As part of the modular CCA programme, all P5 Students went through the
 Micro:Bits Coding Programme&nbsp;&nbsp;to encourage innovation, foster
 collaboration and empower students to create with technology. Students
@@ -246,7 +247,7 @@ last day of their training, each group presented their smart homes and
 shared about the sensor they had incorporated in their smart homes. This
 programme had provided the opportunity to develop creative and innovative
 citizens of tomorrow.&nbsp;</p>
-<h3><strong>Mobile Trail @ BPS</strong></h3>
+<h4><strong>Mobile Trail @ BPS</strong></h4>
 <p>At Bendemeer Primary School, there are many interesting learning spaces.
 The mobile trails came about to make these learning spaces come alive and
 to extend learning beyond the classroom.</p>
@@ -271,7 +272,7 @@ trails in the school. The portal allows many different forms of assessment
 and embedding of external web-based applications which offer resources,
 tools and features to complement teaching and learning. Both teachers and
 students find it easy to navigate and complete the trail.</p>
-<h3><strong>DigitalAccess@Home</strong></h3>
+<h4><strong>DigitalAccess@Home</strong></h4>
 <p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
 lower-income households to support their lifestyle needs, including work
 and social activities.</p>
