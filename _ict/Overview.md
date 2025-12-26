@@ -51,8 +51,7 @@ in their learning.</p>
 <p>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Microsoft Office PowerPoint Module
-<br>2. Scratch Programming
+<p>1. Scratch Programming
 <br>(Animation &amp; Game Creation)</p>
 </td>
 </tr>
@@ -62,8 +61,8 @@ in their learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. P5 Code for Fun
-<br>2. Learning Micro:bit
-<br>3. P6 ICT Project (Post-PSLE)</p>
+<br>2. Learning Micro:bit and Smart Home Sensors
+<br>3. P6 AI For Fun (AIFF)</p>
 </td>
 </tr>
 </tbody>
