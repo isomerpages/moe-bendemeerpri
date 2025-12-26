@@ -4,22 +4,23 @@ permalink: /curriculum/ict/overview/
 description: ""
 variant: tiptap
 ---
-<h3>INFORMATION COMMUNICATION TECHNOLOGY (ICT)</h3>
-<h4>VISION</h4>
+<h1><strong>INFORMATION COMMUNICATION TECHNOLOGY (ICT)</strong></h1>
+<h2><strong>VISION</strong></h2>
 <p>Future-ready and Digitally Responsible Learners</p>
-<h4>ICT @ BPS</h4>
+<h2><strong>ICT @ BPS</strong></h2>
 <p>The ICT department strives to harness ICT to transform the teaching and
 learning landscape in school. Aspiring for our students to become&nbsp;Future-ready
 and Responsible Digital Learners, the school has&nbsp;planned various ICT
 programmes that have been integrated into the curriculum and subject disciplines.&nbsp;
 These programmes aim to develop students’ competencies for self-directed
 and collaborative learning.</p>
-<h4>Programme Highlights/Enrichment Activities</h4>
-<h5>ICT Baseline Standards</h5>
-<p>The baseline ICT standards are sets of essential skills developed to enable
-all students to have the necessary skills to support them in learning and
-to prepare them for the future needs. Students in different levels are
-given ICT lessons to acquire the necessary core skills to follow:</p>
+<h2><strong>Programme Highlights/Enrichment Activities</strong></h2>
+<h3><strong>Building Strong Digital Foundations</strong></h3>
+<p>To support students’ learning and prepare them for future demands, Bendemeer
+Primary School provides structured ICT lessons across levels. These lessons
+focus on developing essential digital skills that enable students to learn
+confidently, use technology responsibly and apply digital tools meaningfully
+in their learning.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,14 +96,13 @@ given ICT lessons to acquire the necessary core skills to follow:</p>
 </tr>
 </tbody>
 </table>
-<h5>Blended Learning during weekly HBL lessons (Learning via SLS)</h5>
+<h3><strong>Blended Learning during Home Based Learning(HBL) lessons </strong></h3>
 <p>In the digital era, it is important for our students to be equipped with
 the necessary knowledge, skills and dispositions to thrive in an interconnected,
 diverse and rapidly changing world. Hence, Blended Learning will be a key
 feature of the schooling experience to further develop students’ ability
 to be self-directed, passionate and life-long learners. Through Blended
-Learning, weekly HBL lessons (LvS) will complement teaching and learning
-in schools.</p>
+Learning, HBL lessons will complement teaching and learning in schools.</p>
 <p>The main objectives of the HBL are:
 <br>1.&nbsp;To provide an alternative platform for continuous learning in
 case of school closure due to emergencies.
@@ -111,8 +111,68 @@ case of school closure due to emergencies.
 days as students need not attend school.&nbsp;They are expected to complete
 the online assignments found in&nbsp;<strong><a href="/our-people/for-parents/ict-matters/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">SLS Portal</a></strong>&nbsp;assigned
 by their subject teachers.&nbsp;</p>
-<h5>Code For Fun @ BPS</h5>
 <p></p>
+<h3><strong>Primary 3 &amp; Primary 4 Scratch Coding Programme</strong></h3>
+<p>The Primary 3 and Primary 4 Scratch Coding Programme at Bendemeer Primary
+School supports the EdTech Masterplan 2030 by developing students into
+digitally empowered future-ready learners.</p>
+<p>Through hands-on coding using Scratch, students strengthen key MOE Digital
+Competencies, learning not just <em>how</em> to use technology, but <em>why</em> and <em>how responsibly</em> it
+can be applied to real-world issues.</p>
+<h4><strong>Developing MOE Digital Competencies</strong></h4>
+<p>Through the programme, students develop:</p>
+<ul>
+<li>
+<p><strong>Computational Thinking</strong> – breaking down problems, sequencing
+instructions, and debugging their code</p>
+</li>
+<li>
+<p><strong>Creative Thinking &amp; Innovation</strong> – designing original
+animations and games to communicate ideas</p>
+</li>
+<li>
+<p><strong>Communication &amp; Collaboration</strong> – working with peers
+to plan, test, and improve their projects</p>
+</li>
+<li>
+<p><strong>Responsible &amp; Ethical Use of Technology</strong> – using digital
+tools purposefully to promote sustainability and positive values</p>
+</li>
+</ul>
+<h4><strong>Learning with Purpose</strong></h4>
+<ul>
+<li>
+<p>Primary 3 students create Scratch animations centred on Zero Waste Management,
+using code to advocate habits such as reducing, reusing, recycling, and
+responsible consumption.</p>
+</li>
+<li>
+<p>Primary 4 students design interactive Scratch games focused on Food Waste
+Management, encouraging players to make informed and sustainable choices
+about food usage and waste reduction.</p>
+</li>
+</ul>
+<h4><strong>Preparing Students for the Future</strong></h4>
+<p>By applying coding skills to authentic environmental issues, students
+learn to:</p>
+<ul>
+<li>
+<p>Think critically and solve problems systematically</p>
+</li>
+<li>
+<p>Persevere through trial, error, and refinement</p>
+</li>
+<li>
+<p>Express ideas clearly through digital creations</p>
+</li>
+<li>
+<p>See themselves as creators of technology, not just consumers</p>
+</li>
+</ul>
+<p>These learning experiences reflect Bendemeer Primary School’s commitment
+to developing students who are confident, responsible, and purposeful users
+of technology, equipped with essential digital competencies for the future.</p>
+<h2><strong>Code For Fun @ BPS</strong></h2>
 <p>Our Primary 5 students had an exciting and enriching experience during
 the Code for Fun Programme! Through the sessions, they explored the world
 of Computational Thinking and discovered how these skills can be applied
@@ -152,7 +212,31 @@ future.</p>
 </tr>
 </tbody>
 </table>
-<h5>Micro:Bit Learning @ BPS</h5>
+<h2><strong>AI for Fun (AIFF)  </strong><br><strong>Primary 6 Post-Exam Programme</strong></h2>
+<p>Building on this foundation, our Primary 6 students also took part in
+AI for Fun (AIFF) as a post-examination enrichment programme. AIFF provides
+students with meaningful and engaging learning experiences after exams,
+allowing them to explore AI concepts in an age-appropriate and accessible
+way.</p>
+<p>Through interactive activities, students gained exposure to:</p>
+<ul>
+<li>
+<p>How AI works in daily life</p>
+</li>
+<li>
+<p>The responsible and ethical use of AI</p>
+</li>
+<li>
+<p>How technology can be used to solve real-world problems</p>
+</li>
+</ul>
+<p>AIFF value-adds to students’ learning by nurturing curiosity, critical
+thinking, and digital awareness, while preparing them for a future where
+AI plays an increasingly important role.</p>
+<p>Together, Code For Fun and AI for Fun support Bendemeer Primary School’s
+commitment to developing future-ready learners who are confident, thoughtful,
+and responsible users of technology.</p>
+<h3><strong>Micro:Bit Learning @ BPS</strong></h3>
 <p>As part of the modular CCA programme, all P5 Students went through the
 Micro:Bits Coding Programme&nbsp;&nbsp;to encourage innovation, foster
 collaboration and empower students to create with technology. Students
@@ -162,7 +246,7 @@ last day of their training, each group presented their smart homes and
 shared about the sensor they had incorporated in their smart homes. This
 programme had provided the opportunity to develop creative and innovative
 citizens of tomorrow.&nbsp;</p>
-<h5>Mobile Trail @ BPS</h5>
+<h3><strong>Mobile Trail @ BPS</strong></h3>
 <p>At Bendemeer Primary School, there are many interesting learning spaces.
 The mobile trails came about to make these learning spaces come alive and
 to extend learning beyond the classroom.</p>
@@ -187,8 +271,7 @@ trails in the school. The portal allows many different forms of assessment
 and embedding of external web-based applications which offer resources,
 tools and features to complement teaching and learning. Both teachers and
 students find it easy to navigate and complete the trail.</p>
-<p><strong>DigitalAccess@Home</strong>
-</p>
+<h3><strong>DigitalAccess@Home</strong></h3>
 <p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
 lower-income households to support their lifestyle needs, including work
 and social activities.</p>
