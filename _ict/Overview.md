@@ -4,10 +4,10 @@ permalink: /curriculum/ict/overview/
 description: ""
 variant: tiptap
 ---
-<h2><strong>INFORMATION COMMUNICATION TECHNOLOGY (ICT)</strong></h2>
-<h3><strong>VISION</strong></h3>
+<h3><strong>INFORMATION COMMUNICATION TECHNOLOGY (ICT)</strong></h3>
+<h4><strong>VISION</strong></h4>
 <p>Future-ready and Digitally Responsible Learners</p>
-<h3><strong>ICT @ BPS</strong></h3>
+<h4><strong>ICT @ BPS</strong></h4>
 <p>The ICT department strives to harness ICT to transform the teaching and
 learning landscape in school. Aspiring for our students to become&nbsp;Future-ready
 and Responsible Digital Learners, the school has&nbsp;planned various ICT
