@@ -30,10 +30,10 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Tan</p>
+<p>Ms Phua Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_hui_christine@moe.edu.sg</a>
+<p><a href="mailto:phua_mei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phua_mei_yin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
