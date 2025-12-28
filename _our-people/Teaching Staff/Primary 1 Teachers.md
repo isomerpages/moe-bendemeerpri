@@ -130,7 +130,7 @@ variant: tiptap
 <p>Ms Royce Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yap_Tiong_Heng_Royce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Tiong_Heng_Royce@moe.edu.sg</a> 
+<p><a href="mailto:Yap_Tiong_Heng_Royce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Tiong_Heng_Royce@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -188,6 +188,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Choo Watt Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
