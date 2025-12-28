@@ -19,91 +19,6 @@ variant: tiptap
 <p>3 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadine Soraya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nadine_soraya_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadine_soraya_fauzi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Jia Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_jia_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_jia_min@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>3 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Cheng Yee, Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_cheng_yee_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_yee_rachel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Praven</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:praven_raj_sukumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">praven_raj_sukumaran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>3 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Thomas Gan Kok Sim</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gan_kok_sim_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_kok_sim_thomas@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Brindha Menon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:brindha_menon_siva@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brindha_menon_siva@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>3 Passion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Soon Lay Har</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soon_lay_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soon_lay_har@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kalvinder Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kalvinder_jeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalvinder_jeet_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>3 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Koh Mei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,29 +28,115 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cherrine Ong</p>
+<p>Mdm Gao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_shi_ying_cherrine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_ying_cherrine@moe.edu.sg</a>
+<p><a href="mailto:gao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gao_xin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Xin Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_xin_xin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_xin_xin_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zakiyah Bte Abdul Karim</p>
+<p>Mdm Parameswari (Mrs Vannan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zakiyah_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiyah_abdul_karim@moe.edu.sg</a>
+<p><a href="mailto:parameswari_malarvannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>parameswari_malarvannan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fiona Prapta Utama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fiona_prapta_utama@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fiona_prapta_utama@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mok Foong Keng</p>
+<p>Mdm Kwek Hui Ying Valerie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mok_foong_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_foong_keng@moe.edu.sg</a>
+<p><a href="mailto:kwek_hui_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwek_hui_ying@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Zheng Wei William</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_zheng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_zheng_wei@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sulasteri Binte Mohd Sidek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sulasteri_mohammad_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sulasteri_mohammad_sidek@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ervina Atan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ervina_atan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ervina_atan_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nursuhaila Bte Abdul Samad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nursuhaila_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nursuhaila_abdul_samad@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Woo Siew Foon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:woo_siew_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woo_siew_foon@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -51,8 +51,7 @@ in their learning.</p>
 <p>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Microsoft Office PowerPoint Module
-<br>2. Scratch Programming
+<p>1. Scratch Programming
 <br>(Animation &amp; Game Creation)</p>
 </td>
 </tr>
@@ -62,8 +61,8 @@ in their learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. P5 Code for Fun
-<br>2. Learning Micro:bit
-<br>3. P6 ICT Project (Post-PSLE)</p>
+<br>2. Learning Micro:bit and Smart Home Sensors
+<br>3. P6 AI For Fun (AIFF)</p>
 </td>
 </tr>
 </tbody>
@@ -173,6 +172,9 @@ learn to:</p>
 <p>These learning experiences reflect Bendemeer Primary School’s commitment
 to developing students who are confident, responsible, and purposeful users
 of technology, equipped with essential digital competencies for the future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scratch.jpg">
+</div>
 <h4><strong>Code For Fun @ BPS</strong></h4>
 <p>Our Primary 5 students had an exciting and enriching experience during
 the Code for Fun Programme! Through the sessions, they explored the world
@@ -214,6 +216,10 @@ future.</p>
 </tbody>
 </table>
 <h4><strong>AI for Fun (AIFF) </strong><br><strong>Primary 6 Post-Exam Programme</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_image.jpg">
+</div>
 <p>Building on this foundation, our Primary 6 students also took part in
 AI for Fun (AIFF) as a post-examination enrichment programme. AIFF provides
 students with meaningful and engaging learning experiences after exams,

@@ -30,10 +30,10 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Tan</p>
+<p>Ms Phua Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_hui_christine@moe.edu.sg</a>
+<p><a href="mailto:phua_mei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phua_mei_yin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -42,10 +42,10 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nursuhaila Bte Abdul Samad</p>
+<p>Ms Christine Tan Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nursuhaila_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursuhaila_abdul_samad@moe.edu.sg</a>
+<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_shu_hui_christine@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -54,10 +54,10 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Lee</p>
+<p>Mdm Nursuhaila Bte Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_teck_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_siang@moe.edu.sg</a>
+<p><a href="mailto:nursuhaila_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nursuhaila_abdul_samad@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -66,10 +66,10 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kalashobini d/o Chandrasaharan</p>
+<p>Mr Mohd Adha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalashobini_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalashobini_chandrasaharan@moe.edu.sg</a>
+<p><a href="mailto:mohd_adha_b_kamaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohd_adha_b_kamaron@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -78,10 +78,10 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Phyllis Kwei</p>
+<p>Mr Chia Zongyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwei_seng_poh@moe.edu.sg</a>
+<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_zongyu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -90,10 +90,10 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Zongyu</p>
+<p>Mdm Chua Xingrou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwei_seng_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_zongyu@moe.edu.sg</a>
+<p><a href="mailto:chua_xingrou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_xingrou@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English &amp; School Library Coordinator</p>
+<p>School Library Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seetha Kumari</p>
@@ -151,18 +151,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luke_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luke_goh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tamil Language Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm M Meenatchi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
