@@ -58,19 +58,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nora Ardilla</p>
+<p>Ms Phua Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nora_ardila_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_nora_ardilla_azman@moe.edu.sg</a>
+<p><a href="mailto:phua_mei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phua_mei_yin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shahanaz Begum</p>
+<p>Mrs Kannan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahanaz_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahanaz_begum@moe.edu.sg</a>
+<p><a href="mailto:rajalakshmi_kannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rajalakshmi_kannan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -79,28 +79,28 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Izyan Bte Wahid</p>
+<p>Ms Pan Si Yong Olivia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:izyan_wahid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izyan_wahid@moe.edu.sg</a>
+<p><a href="mailto:pan_si_yong_olivia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pan_si_yong_olivia@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Phua Mei Yin</p>
+<p>Mdm He Xueya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_mei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yin@moe.edu.sg</a>
+<p><a href="mailto:he_xueya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>he_xueya@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ramiah Saraswathi</p>
+<p>Ms Shahanaz Begum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramiah_saraswathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramiah_saraswathi@moe.edu.sg</a>
+<p><a href="mailto:shahanaz_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shahanaz_begum@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -109,10 +109,10 @@ variant: tiptap
 <p>1 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu Hui Christine</p>
+<p>Ms Ho Shang Wei Dorothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_hui_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_hui_christine@moe.edu.sg</a>
+<p><a href="mailto:ho_shang_wei_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shang_wei_dorothy@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
