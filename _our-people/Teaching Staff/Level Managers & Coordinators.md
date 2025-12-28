@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English &amp; School Library Coordinator</p>
+<p>School Library Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seetha Kumari</p>
@@ -151,18 +151,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luke_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luke_goh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tamil Language Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm M Meenatchi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_meenatchi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
