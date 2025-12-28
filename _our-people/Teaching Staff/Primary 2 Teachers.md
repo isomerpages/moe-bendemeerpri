@@ -52,7 +52,7 @@ variant: tiptap
 <p>Ms Suryati binte Shariff Marican</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Suryati_shariff_marican@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Suryati_shariff_marican@moe.edu.sg</a>
+<p><a href="mailto:Suryati_shariff_marican@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suryati_shariff_marican@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ variant: tiptap
 <p>Ms Venny Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_li_yi_venny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_li_yi_venny@moe.edu.sg</a> 
+<p><a href="mailto:chan_li_yi_venny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_li_yi_venny@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>Ms Cheong Gui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Cheong_Gui_Ying_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cheong_Gui_Ying_A@moe.edu.sg</a>
+<p><a href="mailto:Cheong_Gui_Ying_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_gui_ying_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ variant: tiptap
 <p>Mdm Haymalatha (Mrs Raj)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haymalatha_sithambaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haymalatha_sithambaram@moe.edu.sg</a> 
+<p><a href="mailto:haymalatha_sithambaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haymalatha_sithambaram@moe.edu.sg</a>
 </p>
 </td>
 </tr>
