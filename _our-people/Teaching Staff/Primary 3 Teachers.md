@@ -22,7 +22,7 @@ variant: tiptap
 <p>Ms Koh Mei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_mei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_shan@moe.edu.sg</a> 
+<p><a href="mailto:koh_mei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -126,6 +126,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:woo_siew_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woo_siew_foon@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
