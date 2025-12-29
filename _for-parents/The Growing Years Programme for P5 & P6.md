@@ -2,7 +2,7 @@
 title: The Growing Years Programme for P5 & P6
 permalink: /our-people/for-parents/growing-years/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Bendemeer Primary School</h3>
 <h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
@@ -58,7 +58,6 @@ themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.
-<br>
 <br>
 <br>5. The subjects that incorporate topics on sexuality include:
 <br>a. Science
