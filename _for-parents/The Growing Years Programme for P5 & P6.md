@@ -23,45 +23,46 @@ on sexuality issues.
 </p>
 </li>
 <li>
-<p>The <strong>Goals</strong> of Sexuality Education are:
-<br>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.
-<br>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.
-<br>(c) Help students develop a moral compass, respect for themselves and
+<p>The <strong>Goals </strong>of Sexuality Education are:</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass, respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit society.
+that are premised on the family as the basic unit society.</p>
+<p>
 <br>
 </p>
 </li>
 <li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:
-<br>(a) Love and respect yourself as you love and respect others;
-<br>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);
-<br>(c) Make responsible decisions for yourself, your family and society;
-and
-<br>(d) Abstinence before marriage is the best protection against STIs/HIV
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.
 <br>
-<br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
+<br>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
+information on MOE Sexuality Education.</p>
 <p></p>
 </li>
 </ol>
-<h4>OVERVIEW OF BENDEMEER PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</h4>
+<h4>OVERVIEW OF BENDEMEER PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2026 &nbsp;</h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the scope of Sexuality Education in the school curriculum.
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+in the school curriculum.
+<br>
 <br>
 <br>5. The subjects that incorporate topics on sexuality include:
 <br>a. Science
-<br>b. Character and Citizenship Education (CCE)
-<br>
-</p>
+<br>b. Character and Citizenship Education (CCE)</p>
 <h5><u>Sexuality Education Lessons: </u><br></h5>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
@@ -83,11 +84,11 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexually-related risks.
 <br>
 </p>
-<h5>At Bendemeer Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:<br></h5>
+<h5>At Bendemeer Primary School, the following Sexuality Education lessons will be taught in 2026:<br></h5>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/moe.png">
 </div>
-<h5>2025 SEXUALITY EDUCATION LESSONS IN CCE 2021</h5>
+<h5>2026 SEXUALITY EDUCATION LESSONS IN CCE2021</h5>
 <h4>PRIMARY 5</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -135,7 +136,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +148,7 @@ so that the students will feel more comfortable during the discussions.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+own responses when they encounter pornography by applying the strategy&nbsp;<strong>‘Stop-Think-Do’.</strong>
 <br>
 <br>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
@@ -171,7 +172,7 @@ and how to seek help for themselves and their friends.
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -251,15 +252,11 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.
 <br>
 <br>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year via Parents Gateway. The completed
-opt-out form is to be submitted by <strong>24 January 2025.</strong>
+lessons need to complete an opt-out form. This form will be communicated&nbsp;to
+parents at the start of the year via Parents Gateway. The completed opt-out
+form is to be submitted by&nbsp;<strong>23 January 2026.</strong>
 </p>
-<ol start="10" data-tight="true" class="tight">
-<li>
-<p>Parents can contact the school at <a href="mailto:kangeswari_ravindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a> or
+<p>Parents can contact the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lim_mei_ling@moe.edu.sg</a>&nbsp;or
 62982911 ext 312 for discussion or to seek clarification about school's
 Sexuality Education programme.</p>
-</li>
-</ol>
 <p></p>
