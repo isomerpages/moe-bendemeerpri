@@ -51,5 +51,14 @@ variant: tiptap
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
 </p>
 </li>
+<li>
+<p>2026 Term 1 Check in Survey Links</p>
+<p><strong>P1/P2:</strong>  <a href="https://forms.moe.edu.sg/forms/op8Awd" rel="noopener nofollow" target="_blank">Click here.</a>
+</p>
+<p><strong>P3/P4</strong>: <a href="https://forms.moe.edu.sg/forms/vGj1p7" rel="noopener nofollow" target="_blank">Click here.</a>
+</p>
+<p><strong>P5/P6</strong>: <a href="https://forms.moe.edu.sg/forms/J20g8Q" rel="noopener nofollow" target="_blank">Click Here.</a>
+</p>
+</li>
 </ol>
 <p></p>
