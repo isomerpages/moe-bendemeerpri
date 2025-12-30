@@ -9,10 +9,10 @@ variant: tiptap
 <h4>Teacher in charge</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Cynthia Foo&nbsp;(1st IC)</p>
+<p>Mr Mohammad Adha (1st IC)</p>
 </li>
 <li>
-<p>Mr Mohammad Adha (2nd IC)</p>
+<p>Mr Lee Zheng Wei (2nd IC)</p>
 </li>
 <li>
 <p>Mr Luke Goh</p>
@@ -21,10 +21,7 @@ variant: tiptap
 <p>Mr Chia Zongyu</p>
 </li>
 <li>
-<p>Mdm Jennifer Goon</p>
-</li>
-<li>
-<p>Ms Rachel Ong</p>
+<p>Ms Venny Chan</p>
 </li>
 </ol>
 <h3>CCA Schedule</h3>
