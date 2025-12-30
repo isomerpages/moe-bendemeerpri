@@ -91,7 +91,7 @@ variant: tiptap
 <p>Ms Nora Ardilla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nora_ardilla_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ardilla_azman@moe.edu.sg</a> 
+<p><a href="mailto:nora_ardilla_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ardilla_azman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>Mdm Sheila Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sheila_chow_hui_niang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheila_chow_hui_niang@moe.edu.sg</a> 
+<p><a href="mailto:sheila_chow_hui_niang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheila_chow_hui_niang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -157,27 +157,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_fahmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohd_fahmy@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>6 Gracious</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alvin Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jun_ming_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_jun_ming_alvin@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Xingrou</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xingrou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_xingrou@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
