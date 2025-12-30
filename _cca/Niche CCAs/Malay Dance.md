@@ -7,10 +7,17 @@ variant: tiptap
 ---
 <h3>MALAY DANCE</h3>
 <h4>Teachers in charge</h4>
-<p>1. Mdm Zakiyah A. Karim (1st IC)
-<br>2. Ms Nora Ardilla (2nd IC)
-<br>3.&nbsp;Mdm Izyan Bte Wahid
-<br>4. Ms Ummi Umairah</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm Zakiyah A. Karim (1st IC)</p>
+</li>
+<li>
+<p>Ms Nora Ardilla (2nd IC)</p>
+</li>
+<li>
+<p>Ms Cynthia Foo</p>
+</li>
+</ol>
 <p><strong>Trainer:</strong> Muhammad Nur Haziq</p>
 <h4>CCA Schedule</h4>
 <table style="minWidth: 50px">
