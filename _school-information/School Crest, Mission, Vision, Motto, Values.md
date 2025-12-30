@@ -41,11 +41,11 @@ To bring out the best in every child
 
 #### School Strategic Thrust
 
-Thrust 1 <br>
-Holistic Student Development
+Strategic Thrust 1 <br>
+Holistic Development of Future-Ready Learners
 
-Thrust 2 <br>
-Staff Well-being and Development
-
-Thrust 3 <br>
-Leveraging Partnerships
+Strategic Thrust 2 <br>
+Empowered Staff, Thriving Community
+ 
+Strategic Thrust 3 <br>
+Sustaining Partnerships and Community Connections
