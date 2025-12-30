@@ -18,13 +18,10 @@ variant: tiptap
 <p>Mdm Ding Xue</p>
 </li>
 <li>
-<p>Ms Tan Xin Xin</p>
-</li>
-<li>
 <p>Ms Fiona Prapta Utama</p>
 </li>
 <li>
-<p>Mdm Cherynn Tan</p>
+<p>Mr Thomas Gan</p>
 </li>
 </ol>
 <h4>CCA Schedule</h4>
