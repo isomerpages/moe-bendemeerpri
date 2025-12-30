@@ -4,7 +4,7 @@ permalink: /cca/modular/
 description: ""
 variant: tiptap
 ---
-<h3>Modular CCA Programme 2025</h3>
+<h3>Modular CCA Programme 2026</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_cca_20251.jpg">
