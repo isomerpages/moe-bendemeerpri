@@ -7,12 +7,23 @@ variant: tiptap
 ---
 <h3>MEDIA &amp; ENVIRONMENT CLUB</h3>
 <p><strong><u>Teachers in charge</u></strong>
-<br>Ms Geraldine Seow&nbsp;(1st IC)
-<br>Ms Yoo Pei Li (2nd IC)
-<br>Mdm Elis Tjandra
-<br>Ms Kalashobini D/O Chandrasaharan
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ms Geraldine Seow&nbsp;(1st IC)</p>
+</li>
+<li>
+<p>Ms Yoo Pei Li (2nd IC)</p>
+</li>
+<li>
+<p>Mdm Elis Tjandra (Covering 2nd IC)</p>
+</li>
+<li>
+<p>Ms Kalashobini D/O Chandrasaharan
 <br>
 </p>
+</li>
+</ol>
 <p><strong><u>CCA Schedule:</u></strong> 
 <br>Every Wednesday 2pm to 3.30pm
 <br>Science Lab 2 #04-16</p>
