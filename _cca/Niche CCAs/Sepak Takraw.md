@@ -9,22 +9,19 @@ variant: tiptap
 <h4><strong><u>Teachers in charge</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr. Azimi bin Ahmad ( 1<sup>st</sup> IC)</p>
+<p>Mr Azimi bin Ahmad (1st IC)</p>
 </li>
 <li>
-<p>Mr Lee Zheng Wei William&nbsp; (2<sup>nd</sup>&nbsp; IC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Farhanah Suratman (2nd IC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>Mr. Tay Zhi Qiang Shawn</p>
 </li>
 <li>
-<p>Mdm Farhanah Suratman</p>
-</li>
-<li>
 <p>Mr. Praven Raj</p>
 </li>
 <li>
-<p>Mdm Kwek Hui Ying Valerie</p>
+<p>Ms Joan Tan</p>
 </li>
 </ol>
 <h4><strong><u>Coach</u></strong></h4>
