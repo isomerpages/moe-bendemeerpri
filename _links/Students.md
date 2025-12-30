@@ -40,8 +40,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.channelnewsasia.com/" rel="noopener noreferrer nofollow" target="_blank">Chan</a>
-<a href="https://go.gov.sg/iikfvt" rel="noopener nofollow" target="_blank">4E</a><a href="https://www.channelnewsasia.com/" rel="noopener noreferrer nofollow" target="_blank">nel News Asia</a>
+<p><a href="https://www.channelnewsasia.com/" rel="noopener noreferrer nofollow" target="_blank">Channel News Asia</a>
 </p>
 </li>
 <li>
