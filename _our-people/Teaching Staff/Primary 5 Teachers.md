@@ -149,35 +149,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>5 Gracious</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norherliza Ab Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norherliza_ab_rahim@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm M Meenatchi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:m_meenatchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>m_meenatchi@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Larry Phoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
