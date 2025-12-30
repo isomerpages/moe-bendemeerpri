@@ -187,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Watt Kiat</p>
+<p>Ms Choo Watt Kian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

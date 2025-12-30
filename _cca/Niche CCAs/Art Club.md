@@ -18,10 +18,7 @@ be an independent learner with an inquiring mind and strong moral values.</p>
 <p>Mdm Sheila Chow (2nd IC)</p>
 </li>
 <li>
-<p>Ms Dorothy Ho</p>
-</li>
-<li>
-<p>Ms Nadine Soraya</p>
+<p>Mdm Suriyati</p>
 </li>
 <li>
 <p>Mr Lim Dali

@@ -7,12 +7,17 @@ variant: tiptap
 ---
 <h3>WUSHU</h3>
 <h4>Teachers in charge</h4>
-<p>Ms Sandy Yeo (1st IC)
-<br>Mdm He Xueya (2nd IC)
-<br>Ms Olivia Pan
-<br>Ms Soon Lay Har
-<br>Ms Choo Lee Tiang
-<br>Ms Venny Chan</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm He Xueya (1st IC)</p>
+</li>
+<li>
+<p>Ms Soon Lay Har (2nd IC)</p>
+</li>
+<li>
+<p>Mdm Kwek Hui Ying</p>
+</li>
+</ol>
 <h4>CCA Schedule</h4>
 <p>Time of CCA
 <br>Tuesday (7.30am – 9am) Semester 2</p>

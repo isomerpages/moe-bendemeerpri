@@ -7,9 +7,20 @@ variant: tiptap
 ---
 <h3>INDIAN DANCE</h3>
 <h4>Teachers in charge</h4>
-<p>1. Mrs Vannan (1st IC)
-<br>2. Ms Regina Kaur (2nd IC)
-<br>3. Mdm Shahanaz Begum</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm Regina Kaur (1st IC)</p>
+</li>
+<li>
+<p>Mdm Shahanaz Begum</p>
+</li>
+<li>
+<p>Ms Nadine Soraya</p>
+</li>
+<li>
+<p>Mrs Vannan</p>
+</li>
+</ol>
 <p>Instructor
 <br>Mdm Jeyanthi Kesavan</p>
 <h4>CCA Schedule</h4>

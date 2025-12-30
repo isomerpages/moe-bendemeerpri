@@ -7,11 +7,19 @@ variant: tiptap
 ---
 <h3>CHINESE DANCE</h3>
 <h4>Teachers in charge</h4>
-<p>Mdm Chua Xingrou&nbsp;(1st IC)
-<br>Ms Woo Siew Foon (2nd IC)
-<br>Ms Chia Jia Min
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm Chua Xingrou&nbsp;(1st IC)</p>
+</li>
+<li>
+<p>Ms Woo Siew Foon (2nd IC)</p>
+</li>
+<li>
+<p>Ms Chia Jia Min
 <br>
 </p>
+</li>
+</ol>
 <h4>Instructor</h4>
 <p>Mr Quek Jiang Da</p>
 <h4>CCA Schedule</h4>

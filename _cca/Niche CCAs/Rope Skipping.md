@@ -9,22 +9,19 @@ variant: tiptap
 <h4>Teachers in charge</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Siti Aisha (1<sup>st</sup> IC)</p>
+<p>Mdm Siti Aisha (1st IC)</p>
 </li>
 <li>
-<p>Mrs Sharon Lam (2<sup>nd</sup> IC)</p>
-</li>
-<li>
-<p>Mrs Seetha Dhillon</p>
+<p>Mdm Ng Lay Pheng (2nd IC)</p>
 </li>
 <li>
 <p>Mdm Gao Xin</p>
 </li>
 <li>
-<p>Mdm Suhaila</p>
+<p>Ms Tan Xin Xin</p>
 </li>
 <li>
-<p>Mrs Brindha Menon</p>
+<p>Mdm Cherryn Tan</p>
 <p></p>
 </li>
 </ol>
