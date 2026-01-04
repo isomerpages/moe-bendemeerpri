@@ -101,12 +101,18 @@ responsibility and the importance of sustainable practices.</p>
 as we strolled through <strong>Chengdu People’s Park</strong>. It was truly
 a sight to behold!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndlast.jpg">
+</div>
 <p>The cultural immersion was further enriched through hands-on activities
 such as <strong>opera mask painting</strong>, where students learned about
 the symbolism behind Sichuan Opera masks. The day culminated in a live <strong>Sichuan face-changing performance</strong> during
 dinner, leaving students in awe of this unique art form and deepening their
 appreciation of Chinese performing arts.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/last.jpg">
+</div>
 <p>In this fun-filled OLJ, our students stepped out of their comfort zones
 to demonstrate adaptability as they adjusted to new environments and routines.
 They learned to exercise self-discipline and independence in managing daily
