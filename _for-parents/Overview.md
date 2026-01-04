@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h3>FOR PARENTS</h3>
 <p></p>
-<p><a href="/our-people/for-parents/Parents-Engagement-Resources/overview" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Resources</a> 
+<p><a href="/p1-parents-seminar-2026/" rel="noopener nofollow" target="_blank">P1 Parents' Seminar 2026</a>
+<br><a href="/our-people/for-parents/Parents-Engagement-Resources/overview" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Resources</a> 
 <br><a href="/our-people/for-parents/Positive-Parenting-Programmes/overview" rel="noopener noreferrer nofollow" target="_blank">Positive Parenting Programmes</a>
 <br><a href="/our-people/for-parents/Academic-Matters/overview" rel="noopener noreferrer nofollow" target="_blank">Academic Matters</a>
 <br><a href="/our-people/for-parents/letter-to-parents/" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents</a>
