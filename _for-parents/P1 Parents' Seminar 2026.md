@@ -29,7 +29,7 @@ at home.</p>
 <p>Resources:
 <br><a href="/files/P1_EL_Subject_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 English Briefing 2026</a>
 <br><a href="/files/P1_Maths_Parents_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 Mathematics Briefing 2026</a>
-<br><a href="/files/P1_MTL_Parents_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 MT Languages  Briefing 2026</a>
+<br><a href="/files/P1_MTL_Parents_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 MT Languages Briefing 2026</a>
 <br><a href="/files/Primary_1_EdTech_Parenting_with_Confidence_Engagement_Talk_2026.pdf" rel="noopener nofollow" target="_blank">P1 EdTech Parenting with Confidence Engagement Talk 2026</a>
 <br>
 </p>
