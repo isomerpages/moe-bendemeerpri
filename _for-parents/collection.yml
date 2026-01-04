@@ -2,8 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Parents' Seminar 2026.md
       - Overview.md
+      - P1 Parents' Seminar 2026.md
+      - Important Information for Primary 1.md
       - Parents Engagement Resources/.keep
       - Parents Engagement Resources/Parents Engagement Resources.md
       - Parents Engagement Resources/Micro Learning Unit For Parents with SEN
@@ -24,7 +25,6 @@ collections:
       - HPB Modern Parent.md
       - The Growing Years Programme for P5 & P6.md
       - Featured on.md
-      - Important Information for Primary 1.md
       - Student Insurance Matters.md
       - Administering of Medicine.md
       - Acceptable Use Policy (AUP) Agreement For CyberWellness.md
