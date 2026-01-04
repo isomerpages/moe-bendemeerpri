@@ -10,7 +10,7 @@ variant: tiptap
 <h4>CCA Schedule</h4>
 <p>During curriculum time: Every Tuesday, 7.30am - 9.00am
 <br>After school: According to the details given in the respective consent
-forms</p>
+forms.</p>
 <p>The Overall CCA Programme in the school consists of Modular CCA and Niche
 CCA.</p>
 <p>Modular CCA is introduced for all students. &nbsp;In alignment to PERI
@@ -30,7 +30,7 @@ Environment Club.</p>
 to these CCAs and they will be trained for both internal and external competitions
 and performances. &nbsp;Depending on the training schedules, these Niche
 CCAs may be conducted during Modular CCA timing and/or outside curricular
-hours. Students will receive a Niche CCA Option Form upon their selection
+hours. &nbsp;Students will receive a Niche CCA Option Form upon their selection
 for the Niche CCAs and consent forms to inform parents of the training
 schedules and activities if the training is done outside curricular hours.</p>
 <h4>Rationale for Overall CCA Programme</h4>
@@ -44,5 +44,5 @@ schedules and activities if the training is done outside curricular hours.</p>
 </li>
 </ul>
 <p>It is a platform for all students to have a wide variety of learning experiences
-and to unearth hidden talents amongst students.</p>
+and to unearth hidden talents amongst students</p>
 <p></p>
