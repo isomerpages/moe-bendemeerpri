@@ -161,7 +161,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mu9i48" rel="noopener nofollow" target="_blank">6SD</a>
+<p><a href="https://go.gov.sg/ocevgg" rel="noopener nofollow" target="_blank">6SD</a>
 </p>
 </td>
 </tr>
