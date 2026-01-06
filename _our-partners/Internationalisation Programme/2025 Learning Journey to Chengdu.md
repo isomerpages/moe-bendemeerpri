@@ -8,7 +8,7 @@ third_nav_title: Internationalisation Programme
 <h4><strong>Overseas Learning Journey to Chengdu: Discovering Culture, Innovation and Sustainability (10 – 14 November 2025)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
 <p>On 10 November, our Primary 5 students and teachers set forth on a 5-day
 Overseas Learning Journey to Chengdu, China. Through immersive school exchanges,
