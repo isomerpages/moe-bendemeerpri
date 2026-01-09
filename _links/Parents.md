@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.bendemeerpri.moe.edu.sg/for-parents/Student-Insurance-Matters/" rel="noopener nofollow" target="_blank">Student Insurance Matters</a>
+<p><a href="https://www.bendemeerpri.moe.edu.sg/our-people/for-parents/student-insurance-matters/" rel="noopener nofollow" target="_blank">Student Insurance Matters</a>
 </p>
 </li>
 <li>
