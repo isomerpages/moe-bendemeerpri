@@ -21,7 +21,7 @@ variant: tiptap
 </li>
 </ol>
 <h4>Instructor</h4>
-<p>Mr Quek Jiang Da</p>
+<p>Ms Ellen Tan</p>
 <h4>CCA Schedule</h4>
 <p>Wednesday, 2 p.m. - 4 p.m.</p>
 <h4>Introduction</h4>
@@ -42,11 +42,15 @@ flexibility, balancing skills and co-ordination
 <br>5. To provide opportunities to perform in school events and competitions</p>
 <h4>Achievements</h4>
 <p>Students are given opportunities to showcase their talent in performances
-such as SYF(2022), Honours Day and Chinese New Year Concert, as well as
-external performances and competitions.</p>
-<p>Other Earlier Achievements:</p>
-<p>2018 SYF Arts Presentation&nbsp; - Certificate of Distinction
-<br>2016 SYF Arts Presentation&nbsp; - Certificate of Distinction</p>
+such as Singapore Youth Festival (SYF) Arts Presentation, Honours Day and
+Chinese New Year Concert, as well as external performances and competitions.</p>
+<p></p>
+<h4>Achievements:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 SYF Arts Presentation - Certificate of Distinction</p>
+</li>
+</ul>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">

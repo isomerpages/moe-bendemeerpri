@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h3>Modular CCA Programme 2026</h3>
 <p></p>
-<h4>Overview of the Modular CCA Programme</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_modcca.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_plan_2026.jpg">
 </div>
+<h4>Overview of the Modular CCA Programme</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_modcca.jpg">
@@ -19,8 +19,8 @@ of life skills lessons</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_modcca.jpg">
 </div>
-<p>P3 students learn to thread plastic needles and create patterns using
-cross-stitch techniques</p>
+<p>Primary 3 students learning how to thread a thick thread through a plastic
+needle for them to use cross stitch to create patterns</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_modcca.jpg">
 </div>
