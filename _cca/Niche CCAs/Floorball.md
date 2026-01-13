@@ -25,14 +25,130 @@ variant: tiptap
 </li>
 </ol>
 <h3>CCA Schedule</h3>
-<p>Every Wednesday (P3, P4, P5 and P6)
-<br>2pm to 4pm</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Students Involved</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 p.m. - 4 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4,P5 &amp; P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 p.m. - 4 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4, P5 &amp; P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m. - 9 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4 &amp; P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 p.m. - 4 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4 &amp; P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m. - 9 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4 &amp; P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 p.m. - 4 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4 &amp; P5</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Introduction</h4>
-<p>Floorball is an indoor sport which originated from Sweden and has gained
-popularity in countries like Singapore, Australia, Canada and Japan. It
-is a fast and exciting game that promotes end-to-end plays with quick transitions
-and fluid game play. Through the game, we hope to foster strong bonds between
-team members as well as a competitive spirit.</p>
+<p>The Floorball CCA offers students the opportunity to learn and enjoy a
+dynamic team sport in a supportive and structured environment. Aligned
+with MOE Physical Education outcomes, the CCA develops students’ fundamental
+movement skills, physical fitness, and understanding of game rules and
+safety practices.</p>
+<p>Through progressive training sessions, students learn essential floorball
+skills such as stick handling, passing, shooting, and game play. Participation
+in team-based activities helps to improve coordination, agility, endurance,
+and spatial awareness, while encouraging an active and healthy lifestyle.</p>
+<p>The Floorball CCA also supports students’ Social-Emotional Learning (SEL)
+by fostering teamwork, self-discipline, resilience, and sportsmanship.
+Students learn to work collaboratively with peers, manage emotions during
+play, and show respect for others. Opportunities for friendly matches and
+competitions allow students to apply these skills meaningfully and build
+confidence.</p>
 <h4>Objectives</h4>
 <ul>
 <li>
@@ -47,28 +163,86 @@ through their sustained participation</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
-<h4>2024 National School Games</h4>
-<p>Senior Boys – 25<sup>th</sup> position
-<br>Senior Girls – 31<sup>st</sup> position
-<br>Junior Boys – 28<sup>th</sup> position
-<br>Junior Girls – 24<sup>th</sup> position</p>
+<h4>2025 National School Games</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Pool Round</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>League Round</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pool C – 2<sup>nd</sup> in Group C3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 3 – 4<sup>th</sup> in Group C1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pool C – 3<sup>rd</sup> in Group GC2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 3 – 3<sup>rd</sup> in Group C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pool C – 1<sup>st</sup> in Group 3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 - 4<sup>th</sup> in Group 2C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pool C – 2<sup>nd </sup>in Group G3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 3 - 1<sup>st</sup> in Group G3B</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Photo Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Floorball_2025_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_2026_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Floorball_2025_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_2026_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Floorball_2025_3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Floorball_2025_4.jpg">
-</div>
 <p>
 <br>
 </p>
