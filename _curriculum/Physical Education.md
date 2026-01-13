@@ -177,20 +177,21 @@ self-management skills and work with others collaboratively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_9.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_10.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_9.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_11.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_11.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_12.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_10.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -210,11 +211,10 @@ year.</p>
 <p>More details will be shared at a later date.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_15.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_8.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_16.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_7.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
