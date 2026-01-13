@@ -235,11 +235,11 @@ through their sustained participation</p>
 <h4>Photo Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_2026_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_2026_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/floorball_2026_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_2026_2.jpg">
 </div>
 <p></p>
 <p></p>
