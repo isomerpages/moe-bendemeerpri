@@ -75,14 +75,14 @@ to 11.30 am, during their PE lessons for a total of 8 sessions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>3 April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-8 May 2025</p>
-<p>10 April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-15 May 2025</p>
-<p>17 April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-22 May 2025</p>
-<p>24 April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-29 May 2025</p>
+<p>2 April 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+30 April 2026</p>
+<p>9 April 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7
+May 2026</p>
+<p>16 April 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+14 May 2026</p>
+<p>23 April 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+21 May 2026</p>
 </td>
 </tr>
 <tr>
@@ -91,13 +91,13 @@ to 11.30 am, during their PE lessons for a total of 8 sessions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ang Mo Kio Swimming Complex</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Geylang East Swimming Complex</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Katong Swimming Complex</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE (Evans) Swimming Complex</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -107,95 +107,134 @@ to 11.30 am, during their PE lessons for a total of 8 sessions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Adaptability
-<br>4 Passion</p>
+<br>4 Passion
+<br>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Empathy
 <br>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Resilience
-<br>4 Self-Discipline</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>More details will be given out nearer to date.</p>
-<p>Below are some of the photos for the P4 SwimSafer Programme for 2024</p>
+<p>Below are some of the photos for the P4 SwimSafer Programme for 2025</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/swimsafer_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/swimsafer_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/swimsafer_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_3.jpg">
 </div>
 <h4>Annual Games Day</h4>
-<p>With the theme, ‘<em>Compete with Joy, Connect with Empathy’</em>, our
-Annual Games Day this year was conducted on 21 February 2025. The Annual
-Games Day provides opportunities for students from Primary 3 to 6 and staff
-to come together to compete passionately in the spirit of the activities
-and games.</p>
-<p>It is also a platform to inculcate in students, the ASPIRE values and
-demonstrate these values through the different activities throughout the
-event. With the ASPIRE values &amp; the EXPLORE Framework as the foundation,
-students work towards achieving personal success.</p>
-<p>It was heartening to see everyone coming together to put up their House
-decor in the school hall and cheering proudly during the cheer competition.</p>
-<p>Cheetah House emerged as the House Champion for Annual Games Day this
-year. Congratulations!</p>
+<p>Our Annual Games Day for 2026 will be conducted on 27 March 2026. All
+Primary 3 to Primary 6 students will get to games and sports events in
+the school.</p>
+<p>Students will be grouped according to their Houses: Rhino (red), Manta
+(blue), Cheetah (yellow) and Eagles (green) to compete in a variety of
+different games and sports events for each level to earn points for their
+respective Houses and medals for themselves. These House points will be
+tabulated to determine the Overall House Champion at the end of the year.</p>
+<p>We hope to provide a platform for our students to exhibit our ASPIRE school
+values through their participation in sporting events and build teamwork
+with students from other classes through these games.</p>
+<p>More details will be shared at a later date.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1.jpg">
-</div>
-<p>P3 students in action during the ‘Precision Passers’ game challenge</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
-</div>
-<p>P4 students taking part in the ‘Let’s Synergise 1’ game challenge</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo3.jpg">
-</div>
-<p>P5 students playing modified volleyball game</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo4.jpg">
-</div>
-<p>P6 students exhibiting good team work during the ‘Let’s Synergise 2’ game
-challenge</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_5.jpg">
 </div>
-<h4>Primary 5 Outdoor Adventure Camp 2025</h4>
-<p>From 7 to 9 July 2025, our Primary 5 students experienced three days of
-adventure, challenge, and discovery at the MOE Jalan Bahtera Outdoor Adventure
-Learning Centre (OALC). This Cohort Outdoor Adventure Camp is one of the
-key Student Development Experiences (SDEs) and supports the learning outcomes
-of Character and Citizenship Education (CCE).</p>
-<p>The camp provided meaningful opportunities for students to explore the
-outdoors and develop important life skills. Through activities such as
-high elements, outdoor cooking, shelter-building, orienteering, and communal
-living, students learnt to manage themselves, work as a team, and step
-outside of their comfort zones. These hands-on experiences allowed them
-to put our school’s ASPIRE values into practice.</p>
-<p>One of the most memorable moments of the camp was the campfire night.
-It began with the lighting of the campfire to cheers from the crowd, setting
-the stage for an evening of celebration and connection. Students took turns
-performing with their classes, showcasing skits, songs, and cheers they
-had practised together. Laughter filled the air during the exciting games,
-and many students shared that this was their favourite part of camp. It
-was a night where friendships were strengthened, confidence grew, and everyone
-felt the joy of coming together as one cohort under the stars.</p>
-<p>For many students, this was their first time staying away from home. They
-returned with a greater sense of independence, new friendships, and a deeper
-confidence in what they are capable of. We are proud of how they embraced
-each experience with enthusiasm and heart.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_t7c-_sS3_Y?si=ysZ8OpLFCk5MwrYP"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_7.jpg">
+</div>
+<h4>Primary 5 Cohort Camp</h4>
+<p>As one of the key Student Development Experiences (SDEs) by MOE to achieve
+our CCE learning outcomes, our school will be conducting our P5 Cohort
+Camp from 127 to 29 July 2026 at MOE Jalan Bahtera Adventure Centre.</p>
+<p>We hope to equip our students with knowledge, skills and values to explore
+and connect with natural and urban environments safely and responsibly.
+This 3D2N residential cohort camp will allow students to extend and deepen
+their learning beyond the classrooms into real life and also provides adventure
+and challenge for students to develop and demonstrate resilience, apply
+self-management skills and work with others collaboratively.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_14.jpg">
+</div>
+<h4>Lower Primary Sports Day</h4>
+<p>Our Lower Primary Sports Day for 2026 will be conducted on 18 September
+2026. Primary 1 and 2 students will have their chance to participate in
+games in their classrooms and also sports activities to compete against
+one another. The House points that they won will be tabulated to determine
+the Overall House Champion with the Annual Games Day at the end of the
+year.</p>
+<p>More details will be shared at a later date.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_19.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_20.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_21.jpg">
 </div>
 <p></p>
