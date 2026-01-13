@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Modular CCA Programme 2026</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_cca_plan_2026.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/modular_cca_plan_2026.jpg">
 </div>
 <h4>Overview of the Modular CCA Programme</h4>
 <p></p>
