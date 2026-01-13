@@ -124,15 +124,15 @@ May 2026</p>
 <p>Below are some of the photos for the P4 SwimSafer Programme for 2025</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_3.jpg">
 </div>
 <h4>Annual Games Day</h4>
 <p>Our Annual Games Day for 2026 will be conducted on 27 March 2026. All
@@ -175,31 +175,31 @@ and challenge for students to develop and demonstrate resilience, apply
 self-management skills and work with others collaboratively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_8.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_8.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_9.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_10.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_11.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_11.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_12.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_12.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_13.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_13.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_14.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_14.jpg">
 </div>
 <h4>Lower Primary Sports Day</h4>
 <p>Our Lower Primary Sports Day for 2026 will be conducted on 18 September
@@ -211,30 +211,30 @@ year.</p>
 <p>More details will be shared at a later date.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_15.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_15.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_16.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_17.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_17.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_18.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_19.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_19.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_20.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_20.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2026_21.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_21.jpg">
 </div>
 <p></p>
