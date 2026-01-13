@@ -218,13 +218,12 @@ year.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_17.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_6.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_18.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_5.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_4.png">
 </div>
