@@ -175,7 +175,7 @@ and challenge for students to develop and demonstrate resilience, apply
 self-management skills and work with others collaboratively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_8.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_9.jpg">
@@ -234,6 +234,6 @@ year.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_21.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_2.png">
 </div>
 <p></p>
