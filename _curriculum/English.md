@@ -21,8 +21,7 @@ learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Table.png">
 </div>
-<h4><strong>Programmes</strong></h4>
-<h5>STELLAR (Strategies for English Language Learning and Reading)</h5>
+<h4><strong>Programmes</strong><br><br>STELLAR (Strategies for English Language Learning and Reading)</h4>
 <p>STELLAR’s vision is for all children to develop a love for reading and
 hence the use of interesting and engaging stories in the STELLAR curriculum.
 The lower primary STELLAR strategies are the Shared Book Approach (SBA),
@@ -39,46 +38,48 @@ KWL and Retelling.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/EL/Stella1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella2.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/EL/Stella2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella4.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/EL/Stella4.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Different learning station activities and games help cultivate a love
+for the language.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Different learning station activities and games help cultivate a love
-for the language.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella5.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella5.jpg">
 </div>
 <p>Texts that spark critical thinking and connect to real-world issues —
 our students engaging in a meaningful discussion on the ‘Paralympic Games’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella6.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Stella7.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella7.jpg">
 </div>
 <p>Our students engaged in activities that encourage and inspire the love
 for English. Students made sandwiches in class and wrote about their experience.</p>
@@ -91,8 +92,9 @@ period is to inculcate in students a love of reading. During the reading
 period, teachers weave in discussions based on Critical Literacy, and use
 newspapers to share about current affairs as well as visit the library
 to be immersed in the wonderful world of books. Other reading programmes
-include:</p>
-<p><strong>Book Talk: </strong>Primary 1 to Primary 5 Students are encouraged
+include:
+<br>
+<br><strong>Book Talk: </strong>Primary 1 to Primary 5 Students are encouraged
 to write a synopsis of a book read. Then they would stand in front of their
 classmates and share what they have written. This also fosters confidence
 building and student-student relationship.</p>
@@ -114,9 +116,13 @@ building and student-student relationship.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our students enjoying a good book in our school library.</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>Our students enjoying a good book in our school library.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -131,18 +137,10 @@ building and student-student relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/EL/Reading4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL/Reading4.jpg">
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Our students at the library completing their I Love Reading Booklet!&nbsp;&nbsp;</p>
@@ -226,21 +224,24 @@ their writing.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/EL14.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL15.jpg">
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Writing is so much fun in Bendemeer!</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>Writing is so much fun in Bendemeer!</p>
+<p></p>
 <h5><strong>Celebrate Writing through our Bendemeer OTTER Times</strong></h5>
 <p><em>We celebrate our young authors with our very own Otter Times. The attractive format of the publication inspires students to write well while earning a chance to be featured.</em>
 </p>
@@ -288,11 +289,11 @@ strategies, according to the purpose, audience, context and culture.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Oracy2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Oracy2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Oracy3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL/Oracy3.jpg">
 </div>
 <p>Learning oracy through fun and authentic ways!
 <br>
@@ -326,7 +327,7 @@ during the lessons.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/BookCharacter2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/BookCharacter2.jpg">
 </div>
 <p>Students were encouraged to do a book talk on their character and promote
 the books.</p>
@@ -350,27 +351,12 @@ would like to talk about, we can build their confidence in speaking to
 an audience. Every child will have an opportunity to present to their class
 in this programme that aims to nurture and culture of conversation within
 the classroom.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Superspeaker1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Superspeaker1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/Superspeaker2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Superspeaker2.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <h4>Useful Links</h4>
 <p><strong>Good for online stories and games</strong>
 </p>
