@@ -62,7 +62,7 @@ KWL and Retelling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Different learning station activities and games help cultivate a love
+<p style="text-align:center;">Different learning station activities and games help cultivate a love
 for the language.</p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella5.jpg">
 </div>
-<p>Texts that spark critical thinking and connect to real-world issues —
+<p style="text-align:center;">Texts that spark critical thinking and connect to real-world issues —
 our students engaging in a meaningful discussion on the ‘Paralympic Games’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -81,7 +81,7 @@ our students engaging in a meaningful discussion on the ‘Paralympic Games’.<
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella7.jpg">
 </div>
-<p>Our students engaged in activities that encourage and inspire the love
+<p style="text-align:center;">Our students engaged in activities that encourage and inspire the love
 for English. Students made sandwiches in class and wrote about their experience.</p>
 <h5>Reading</h5>
 <p>Reading is crucial to a child’s success across all contexts in school.
@@ -118,7 +118,7 @@ building and student-student relationship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Our students enjoying a good book in our school library.</p>
+<p style="text-align:center;">Our students enjoying a good book in our school library.</p>
 </td>
 </tr>
 </tbody>
