@@ -103,6 +103,9 @@ and its culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_092819.png">
 </div>
+<p></p>
+<p>We hope that through these efforts, our students will cultivate good reading
+habits, spark creativity, sharpen their oracy and critical thinking skills.</p>
 <h4><strong>(5) CPES CL Drama Appreciation （文化随意门）</strong></h4>
 <p>In our efforts to enhance students’ interest in Chinese cultural performances,
 the CL department also bring Primary 4 CL students to watch a Chinese Drama
