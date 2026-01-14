@@ -6,7 +6,7 @@ image: ""
 variant: tiptap
 ---
 <h3>PRINCIPAL'S MESSAGE</h3>
-<p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025&nbsp;</strong>
+<p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2026&nbsp;</strong>
 </p>
 <p><strong>A warm welcome to all our parents and students!</strong>
 </p>
@@ -29,7 +29,7 @@ potential.</p>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BPS25_1780.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/BPS25_1780.jpg">
 </div>
 </td>
 </tr>
