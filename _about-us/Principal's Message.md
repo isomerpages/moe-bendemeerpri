@@ -6,7 +6,7 @@ image: ""
 variant: tiptap
 ---
 <h3>PRINCIPAL'S MESSAGE</h3>
-<p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2025&nbsp;</strong>
+<p><strong>Mrs Tan-Lim Kim Gek’s Welcome Back to School Message 2026&nbsp;</strong>
 </p>
 <p><strong>A warm welcome to all our parents and students!</strong>
 </p>
@@ -29,10 +29,20 @@ potential.</p>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BPS25_1780.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/BPS25_1780.jpg">
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="4">
 <p>Our ethos of “Bendemeer Cares, Collaborates and Connects” continues to
@@ -46,9 +56,7 @@ students build strong relationships with their teachers and peers, establish
 positive routines, and understand expectations. This programme reflects
 our belief that every classroom should be a sanctuary — a safe space where
 students feel confident to take risks, make mistakes, ask questions and
-grow as learners and individuals.
-<br>
-</p>
+grow as learners and individuals.</p>
 <p>This year, we remain intentional in cultivating classrooms and school
 spaces where trust, respect and psychological safety are prioritised. When
 students feel safe to be themselves, they are more willing to engage deeply,
@@ -84,13 +92,9 @@ to become a passionate learner and a confident leader.</p>
 safe, caring and connected spaces where every child can learn well and
 live well. With the dedication of our staff, the partnership of our families
 and the collective strength of our community, I am confident that Bendemeer
-will continue to grow from strength to strength.
-<br>
-</p>
+will continue to grow from strength to strength.</p>
 <p>Here’s to a meaningful, joyful and fulfilling year ahead — for our students,
-our staff and our entire Bendemeer family.
-<br>
-</p>
+our staff and our entire Bendemeer family.</p>
 <p>Your partner-in-education,</p>
 <p>Mrs Tan-Lim Kim Gek</p>
 <p>Principal</p>
