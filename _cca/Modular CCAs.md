@@ -14,8 +14,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_modcca.jpg">
 </div>
-<p>P5 students learn tent pitching in preparation for their P5 Camp as part
-of life skills lessons</p>
+<p>Primary 5 students learning tent pitching as a preparation for their P5
+Camp as part of their life skills lessons</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_modcca.jpg">
 </div>
