@@ -51,9 +51,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="awyeefung" src="https://file.for.edu.sg/awyeefung.JPG">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/DSC_7500.jpg">
 </div>
-<p>Ms AW YEE FUNG
+<p>Ms ANDREA-LYE SHU YUIN
 <br>ENGLISH LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
