@@ -43,7 +43,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Kampung games</strong>
+<p style="text-align:center;"><strong>Kampung games</strong>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Bunga rampai (Malay potpourri) hands-on session</strong>
+<p style="text-align:center;"><strong>Bunga rampai (Malay potpourri) hands-on session</strong>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Which spices do i need?</strong>
+<p style="text-align:center;"><strong>Which spices do i need?</strong>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ginger or galangal?</strong>
+<p style="text-align:center;"><strong>Ginger or galangal?</strong>
 </p>
 </td>
 </tr>
@@ -129,7 +129,7 @@ We had our student-emcees speaking in Malay and English as this is a good
 platform to encourage bilingualism amongst our students. It is also an
 opportunity to share with the school’s multi-racial community, the significance
 of the culture and practices during the celebrations.</p>
-<p><strong>Putting up a performance</strong>
+<p style="text-align:center;"><strong>Putting up a performance</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -146,7 +146,7 @@ of the culture and practices during the celebrations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Malay dancers in action</strong>
+<p style="text-align:center;"><strong>Our Malay dancers in action</strong>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ of the culture and practices during the celebrations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our lower primary students showing off their moves</strong>
+<p style="text-align:center;"><strong>Our lower primary students showing off their moves</strong>
 </p>
 </td>
 </tr>
