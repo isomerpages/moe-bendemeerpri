@@ -25,7 +25,7 @@ variant: tiptap
 </li>
 </ol>
 <h4><strong><u>Coach</u></strong></h4>
-<p>Mr. Mohamed Noor bin Mahmood</p>
+<p>Mr. Rithwan Kassim</p>
 <h2>CCA Schedule</h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -53,7 +53,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>7.30 a.m. to 9.00 a.m.
-<br>(For Semester 1)</p>
+<br>(For Semester 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P6 pupils</p>
