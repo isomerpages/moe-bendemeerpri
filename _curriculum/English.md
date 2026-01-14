@@ -236,7 +236,7 @@ their writing.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Writing is so much fun in Bendemeer!</p>
+<p style="text-align:">Writing is so much fun in Bendemeer!</p>
 </td>
 </tr>
 </tbody>
