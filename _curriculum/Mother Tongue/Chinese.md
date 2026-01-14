@@ -16,11 +16,7 @@ and enthuse students to read, write and communicate with confidence.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_091449.png">
 </div>
 <p></p>
-<blockquote>
-<p><strong>Key programmes/activities:</strong>
-</p>
-<p></p>
-</blockquote>
+<h3><strong>Key programmes/activities:</strong></h3>
 <h4><strong>(1)&nbsp; MTL SOAR Reading Programme （阅读计划）</strong></h4>
 <p>MTL SOAR, an MOE initiative, aims to (1)&nbsp;<strong><u>S</u></strong>park
 interest, (2)&nbsp;<strong><u>O</u></strong>pen minds, (3)&nbsp;<strong><u>A</u></strong>ppreciate
@@ -107,6 +103,9 @@ and its culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_092819.png">
 </div>
+<p></p>
+<p>We hope that through these efforts, our students will cultivate good reading
+habits, spark creativity, sharpen their oracy and critical thinking skills.</p>
 <h4><strong>(5) CPES CL Drama Appreciation （文化随意门）</strong></h4>
 <p>In our efforts to enhance students’ interest in Chinese cultural performances,
 the CL department also bring Primary 4 CL students to watch a Chinese Drama
@@ -115,6 +114,10 @@ with their teachers and complete student reflection to consolidate their
 learning experience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_094701.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL/CPES1.jpg">
 </div>
 <h4><strong>（6）Talent Development (才能培训）</strong></h4>
 <p>Students with good language ability will have the opportunity to represent
@@ -154,7 +157,7 @@ to engage students and build their confidence in CL learning.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>For P3 to P6 students remedial/supplementary class</p>
+<p>For P5 to P6 students support/supplementary class</p>
 </li>
 <li>
 <p>MTL consultation sessions for P6 students in preparation for their PSLE</p>
@@ -167,19 +170,18 @@ to engage students and build their confidence in CL learning.</p>
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>早报校园 Zao Bao Schools <a rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/</a>&nbsp;
-&nbsp;</p>
+<p>早报校园 Zao Bao Schools <a href="https://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/</a>&nbsp; &nbsp;</p>
 </li>
 <li>
-<p>联合早报Zao Bao Newspapers <a rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/</a>
+<p>NLB - <a href="https://childrenandteens.nlb.gov.sg/chinese-language/" rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/chinese-language/</a>
 </p>
 </li>
 <li>
-<p>NLB - <a rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/chinese-language/</a>
+<p>Ezhishi Learning portal: <a href="https://www.ezhishi.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1lJF1IRV5o8JfRDbjLaCzRuumHDxKot4n/view?usp=sharing" rel="noopener nofollow" target="_blank">PSLE Approved Dictionary List</a>
+<p>PSLE Approved Dictionary List: <a href="https://www.seab.gov.sg/calculators-and-dictionaries" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/calculators-and-dictionaries</a>
 </p>
 </li>
 </ul>

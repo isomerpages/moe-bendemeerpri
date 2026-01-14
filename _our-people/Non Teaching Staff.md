@@ -121,6 +121,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Bhavani d/o Thamizhmaraiyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bhavani_rajeswaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bhavani_rajeswaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
