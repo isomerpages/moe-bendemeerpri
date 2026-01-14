@@ -6,14 +6,17 @@ variant: tiptap
 ---
 <h3>ENGLISH</h3>
 <h4>Vision</h4>
-<p>The vision of the English Department is to ensure that every student of
-Bendemeer is a confident and competent communicator. In order to realise
-this vision, the department has planned a six-year programme to provide
-our students with a strong foundation and exposure to rich language. The
-mission of the English Department is to inspire the love of learning&nbsp;through
-rich learning activities and positive role modelling. The English department
-has also embarked on Strategy-based instruction as its key approach to
-teaching EL.</p>
+<p>The vision of the English Department is to ensure that every Bendemeer
+student becomes a confident and competent communicator. To realise this
+vision, the department has planned a six-year, progressive programme that
+develops a strong language foundation and provides rich, meaningful learning
+experiences.</p>
+<p>Our mission is to inspire a love for learning through engaging learning
+activities and positive role modelling. To achieve this, the English Department
+has adopted Strategy-Based Instruction as our core pedagogical approach
+and has also incorporated Thinking Routines to deepen students’ meaning-making,
+strengthen their reasoning skills, and nurture reflective, independent
+learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2025_1.jpg">
 </div>
