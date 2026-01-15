@@ -168,9 +168,7 @@ where every student can thrive.</p>
 <p><u>Co-Advisor</u> 
 <br>Mr Too Meng Ngee (Vice Principal Administration)</p>
 <p><u>PSG Coordination Team </u>
-<br>Mr Alvin Lee (Subject Head Partnership)
-<br>Mdm Aziana Aziz (Subject Head Aesthetics &amp; PSG Coordinator)</p>
-<p></p>
+<br>Mr Alvin Lee (Subject Head Partnership)</p>
 <h4>When Parents Partner, Children Thrive!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
