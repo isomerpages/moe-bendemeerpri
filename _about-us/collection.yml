@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - 2025 Academic Awards (Term 3).md
       - Overview.md
       - Principal's Message.md
       - School Information.md
