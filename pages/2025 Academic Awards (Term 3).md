@@ -1,13 +1,13 @@
 ---
-title: 2025 Academic Awards (Term 2)
-permalink: /2025-academic-awards-term-2/
+title: 2025 Academic Awards (Term 3)
+permalink: /2025-academic-awards-term-3/
 variant: tiptap
 description: ""
 ---
 <h2>Academic Awards</h2>
 <h4>Student Recognition Day</h4>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 1</strong></h4>
+<h4><strong>Star Students for Term 3 - Primary 1</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -31,16 +31,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>FANG CHENYAN</p>
+<p>YANA COLINE GABALDON KAW</p>
 </li>
 <li>
-<p>LIN YITONG</p>
+<p>ROSELIN LIMBU</p>
 </li>
 <li>
-<p>BUDHA MAGAR AARYANA</p>
+<p>ALISHA SHAAFIAH BINTE RAMLI</p>
 </li>
 <li>
-<p>CANDICE FANG YAN XI</p>
+<p>LIVIA INARA BINTE IBRAHIM</p>
 </li>
 </ol>
 </td>
@@ -53,16 +53,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>KIMBERLY ZHAO RUIYI</p>
+<p>DEESANTHIA KANOKRAT&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>REEHE THAPA MAGAR</p>
+<p>JAYNICE LIM MING SHI</p>
 </li>
 <li>
-<p>SANJIV SATHISH KUMAR</p>
+<p>LUCIANE CHENG SOUZA&nbsp;</p>
 </li>
 <li>
-<p>SAYYIDAH PUTRI SHAFANA BINTE SUHAIRY</p>
+<p>SIVARAMAN AAHAN&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -75,16 +75,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>XU YIXI ESTHER</p>
+<p>MANGANORM RAI</p>
 </li>
 <li>
-<p>ZHANG JINYU</p>
+<p>DAXTON CHAN YU JIE</p>
 </li>
 <li>
-<p>ZAYD BIN SHANURDIN</p>
+<p>ADVIK RAVINDRAN</p>
 </li>
 <li>
-<p>KIRA LIM RUI XUAN</p>
+<p>PONG QIAN RONG</p>
 </li>
 </ol>
 </td>
@@ -97,16 +97,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>GRACE LIMBU</p>
+<p>FARHA MARDHIYYAH BINTE MUHAMMAD FAISAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>SEE YA QI</p>
+<p>PAWAR YUNAY SUNIL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>LEONG JIE XIN, KAYE</p>
+<p>MASON LIM&nbsp;</p>
 </li>
 <li>
-<p>ANG NING XUAN</p>
+<p>YUSOF BIN KASSIM&nbsp;&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -119,16 +119,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>FARZEEN ABBAS</p>
+<p>ZHAO KANGLE</p>
 </li>
 <li>
-<p>GENELLE LAM PEI QI</p>
+<p>ADELA TUNG WAN ZI</p>
 </li>
 <li>
-<p>MAIA TEO YU QI</p>
+<p>HO QIN EN, EDLYN</p>
 </li>
 <li>
-<p>TOH JEEN THIONG</p>
+<p>KARIKALAN NIRTHANA</p>
 </li>
 </ol>
 </td>
@@ -136,7 +136,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 2</strong></h4>
+<h4><strong>Star Students for Term 3 - Primary 2</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -160,16 +160,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>HALIMA SHAREEF NOUFAL</p>
+<p>SARVIN SATHISH KUMAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>MIRA ARORA</p>
+<p>ETHAN ONG CHENG FENG&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>TAN KE WEN, OLIVER</p>
+<p>NUR DHURA QYVARA BINTE HADIDI FAIZAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>TENG JUN XUAN</p>
+<p>LOW RUI YI NICOLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -182,16 +182,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>THANG SHANE HARRAZ</p>
+<p>ARIHAAN DASS</p>
 </li>
 <li>
-<p>LHU JIA XIN</p>
+<p>JAYLER GAN ZE LEI</p>
 </li>
 <li>
-<p>FOO HAORAN ETHAN</p>
+<p>LEONARDO KWEK JUN XIANG</p>
 </li>
 <li>
-<p>HUANG XUZHE</p>
+<p>TANG ZHUO LING</p>
 </li>
 </ol>
 </td>
@@ -204,16 +204,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>KYAN ZHANG RENJIE</p>
+<p>EVANA CARMEL</p>
 </li>
 <li>
-<p>NASHMIA FAZLUNA BINTE MUHAMMAD FADZLI</p>
+<p>RAUDAH RHANIA TAN</p>
 </li>
 <li>
-<p>ADEN TAN JUN KAI</p>
+<p>RAUDAH RHALINE TAN</p>
 </li>
 <li>
-<p>LEE XUAN HANIA</p>
+<p>MAYMUNAH ISLKAM MAARIFAH</p>
 </li>
 </ol>
 </td>
@@ -226,16 +226,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>MAX ZHAO ZIMING</p>
+<p>GUO HUITING SAMMI</p>
 </li>
 <li>
-<p>TEO ZI XUAN</p>
+<p>LUO YICHEN DANIEL</p>
 </li>
 <li>
-<p>HUSNA IRDINA BINTE MUHAMMAD ASRI</p>
+<p>LIN YISHENG ELIJAH</p>
 </li>
 <li>
-<p>AUSTIN PRATHEEP ABEL DANNY</p>
+<p>TEH SWEE YOUNG</p>
 </li>
 </ol>
 </td>
@@ -248,16 +248,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>LEONG JING XUAN SHERRIANNE</p>
+<p>MUHAMMAD DARWIN SUFYAN BIN MUHAMMAD SYAFIQ</p>
 </li>
 <li>
-<p>XANDER LIANG ENKAI</p>
+<p>YANG CAIYI</p>
 </li>
 <li>
-<p>NG YU HENG CLOVEN</p>
+<p>GOH SENG JACK</p>
 </li>
 <li>
-<p>DOROTHY TJANG YU HAN</p>
+<p>LIN JINGYANG</p>
 </li>
 </ol>
 </td>
@@ -265,7 +265,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 3</strong></h4>
+<h4><strong>Star Students for Term 3 - Primary 3</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -289,19 +289,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ADISADENDRA RAZIN STAMBOEL</p>
+<p>JANELLE LUI YONG XI</p>
 </li>
 <li>
-<p>ANANYA LITING GURRALA</p>
+<p>KAVIYARASAN PRITHVIKA</p>
 </li>
 <li>
-<p>KHO JIA QI</p>
+<p>NEO JIA XIN</p>
 </li>
 <li>
-<p>NG XING LOONG</p>
+<p>MYSHA TAN</p>
 </li>
 <li>
-<p>STEPHANIE LEE RUO TONG</p>
+<p>SATVIKA ILAVARAM</p>
 </li>
 </ol>
 </td>
@@ -314,19 +314,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>WANG SHIQI</p>
+<p>ARISTOTLE LEE</p>
 </li>
 <li>
-<p>TAKAYUKI JOSHUA TEO</p>
+<p>FRAVASH BURZIS USTAD</p>
 </li>
 <li>
-<p>KINGSTEIN CHUA</p>
+<p>ERIC ONG SHENG JIE</p>
 </li>
 <li>
-<p>HU YIZE</p>
+<p>CHEN YANXI</p>
 </li>
 <li>
-<p>TOR JIAN LIANG</p>
+<p>EULIA PERRIE GABALDON KAW</p>
 </li>
 </ol>
 </td>
@@ -339,16 +339,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>HANIN ILYASA BIN MUHAMMAD ASRI</p>
+<p>LIM YI SHAN</p>
 </li>
 <li>
-<p>HONG YUN TZE</p>
+<p>ANDI FIRZAN BIN AHMAT ANDA</p>
 </li>
 <li>
-<p>SAPEHIA ARYAN</p>
+<p>MUHAMAD FAHMI BIN MUHAMAD RAHUM</p>
 </li>
 <li>
-<p>MOHANASUNDARAM ABARNA</p>
+<p>SAMANTHA ANG ZI XIN</p>
 </li>
 </ol>
 </td>
@@ -361,16 +361,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>DIYA AYSEGUL D/O BAHRIPASA TULUK</p>
+<p>ARYAN KUMAR&nbsp;</p>
 </li>
 <li>
-<p>GIAN ZHI QING</p>
+<p>LEW YAU YAN&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>LIM JIA EN ERINA</p>
+<p>SAI MRITTHUN RAM S/O SUDHAN&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>UQILA KHALFANI RAFLI BIN IBRAHIM</p>
+<p>UMMUL AMEERAH NACHIAR BINTE SYED MUHAMMAD ALI MARICAR</p>
 </li>
 </ol>
 </td>
@@ -383,16 +383,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>FARREL MATIN BIN MUHAMMAD HAIKAL</p>
+<p>MUHAMMAD SHAFIQ BIN NOUR MUHAMMAD ALLEY</p>
 </li>
 <li>
-<p>TAN YU TONG</p>
+<p>ASYIFAUL ZULIDA BINTE ZULKIFLI TAY</p>
 </li>
 <li>
-<p>LAM PEI WEN GISELLE</p>
-</li>
-<li>
-<p>TAN HWEE MAY</p>
+<p>TORRES KOH YU ZE</p>
 </li>
 </ol>
 </td>
@@ -400,7 +397,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 4</strong></h4>
+<h4><strong>Star Students for Term 3 - Primary 4</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -424,19 +421,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>TAN YONG SHIN</p>
+<p>FIONA MYSTICA</p>
 </li>
 <li>
-<p>TANG YU WEN</p>
+<p>HON RUI NA</p>
 </li>
 <li>
-<p>HEW ZI YU</p>
+<p>ARJUN NACHA BUDIMAN</p>
 </li>
 <li>
-<p>TANG HAOCHEN</p>
+<p>HAMANA YUMA</p>
 </li>
 <li>
-<p>M HARRIS MULIA SHAMSUDDIN</p>
+<p>WONG YING XI ISABELLE</p>
 </li>
 </ol>
 </td>
@@ -449,19 +446,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>GOH EN RUI ARIEL</p>
+<p>ONG LI YING</p>
 </li>
 <li>
-<p>BRANDON NG JING HENG</p>
+<p>LEE JUIN FENG</p>
 </li>
 <li>
-<p>OLIVIA WON ZHI YA</p>
+<p>HUANG KE</p>
 </li>
 <li>
-<p>SAHAYA PRATHEEP XAVIER MARIA NIRALYA</p>
+<p>CHIA JIA HUI STELLA</p>
 </li>
 <li>
-<p>PHAN LINH AN</p>
+<p>LEE ZHI QI QUEENIE</p>
 </li>
 </ol>
 </td>
@@ -474,19 +471,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ADIIBAH AN NUHA BINTI LUQMAN NUL HAKIM</p>
+<p>GUO HUI YAN</p>
 </li>
 <li>
-<p>MICHELLE LIM</p>
+<p>JEREMIAH TAY</p>
 </li>
 <li>
-<p>ALIEYQA NA'QEIYFA BINTE MUHAMMAD JUMAIRI</p>
+<p>TAN YEE PEI</p>
 </li>
 <li>
-<p>SHARVIN BRANN RAJENDRAN</p>
+<p>RAEESA NURELAINE BINTE MOHAMMED ROMEENO</p>
 </li>
 <li>
-<p>SANDHINI SANKAR</p>
+<p>MOHAMED RIYATH RISHA</p>
 </li>
 </ol>
 </td>
@@ -499,19 +496,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>SALSABILA NUR MAISYAH TALIYA BINTI BORHAN</p>
+<p>LORENA LIM JIA WEN.</p>
 </li>
 <li>
-<p>TAN ZHANG YUAN</p>
+<p>MUHAMMAD ZAIDAN</p>
 </li>
 <li>
-<p>TEH MING YOUNG</p>
+<p>NASUHA MUFIDAH BINTE MUHAMMAD NAZRI</p>
 </li>
 <li>
-<p>WONG SE YAN SHAINE</p>
+<p>NOR ARIFAH ADELIA</p>
 </li>
 <li>
-<p>VIGNESH INDHUMATHI RAEHAAN KRISHNA</p>
+<p>JENABELLE CHAN CHU XUAN</p>
 </li>
 </ol>
 </td>
@@ -524,13 +521,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>KWA XIAO XUAN, JOI</p>
+<p>LATHIFA INAYA BINTE IBRAHIM</p>
 </li>
 <li>
-<p>BUI THAO NHI</p>
+<p>SARAH NATHALIA BINTE SAHROM</p>
 </li>
 <li>
-<p>ZARIEL LEE XI YU</p>
+<p>NUR YURYQA BINTE MOHD YAZID</p>
 </li>
 </ol>
 </td>
@@ -543,13 +540,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>NUR AYESHA BINTE ABDUL MUTALIB</p>
+<p>PUTERI NUR ALISHA BINTE MUHAMMAD HAFIZ</p>
 </li>
 <li>
-<p>WAN JIA XIN</p>
+<p>WONG WEI QIAO</p>
 </li>
 <li>
-<p>SADHANANTHARAJ RIYA ANGEL</p>
+<p>LEE YUN ZHI</p>
 </li>
 </ol>
 </td>
@@ -557,7 +554,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 5</strong></h4>
+<h4><strong>Star Students for Term 3 - Primary 5</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -581,22 +578,22 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ARJUNA KEENAN ATTILA</p>
+<p>AKTHER ARFANA</p>
 </li>
 <li>
-<p>FLEMING KHAW SIAK TENG</p>
+<p>TEO YU TUNG, CANDY</p>
 </li>
 <li>
-<p>DANISH ZAWAWI BIN MUHAMAD YUZA</p>
+<p>LIAW HUI XUAN REINA</p>
 </li>
 <li>
-<p>CHANDINI VIKRAM</p>
+<p>NATHAN LIM KAI EN</p>
 </li>
 <li>
-<p>ISHANA JOSHI</p>
+<p>MADHAVI SINGH</p>
 </li>
 <li>
-<p>GWEE EE XU, ANDRAYE</p>
+<p>LUO YANQI</p>
 </li>
 </ol>
 </td>
@@ -609,19 +606,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ALYA BINTE MOHAMAD HARIS</p>
+<p>TEH SHI YING</p>
 </li>
 <li>
-<p>HMUE DYAN MIN HTIKE</p>
+<p>TAN ZIXUAN CHARMAINE</p>
 </li>
 <li>
-<p>KOTAKONDA AGASTYA</p>
+<p>LIM YU CHEN</p>
 </li>
 <li>
-<p>REANNA NUR SHASMEEN BINTE MOHAMMED ROMEENO</p>
+<p>JENNY LEE RUO XI</p>
 </li>
 <li>
-<p>TAY YU HUI</p>
+<p>JAMES TEOH YUEN JIN</p>
 </li>
 </ol>
 </td>
@@ -634,19 +631,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>MIMIKA SIZALI MAGAR</p>
+<p>KITHAVARSAN SUBBRAMANIAN</p>
 </li>
 <li>
-<p>LINN THU WON</p>
+<p>CHOO YAN EN, AMELIA</p>
 </li>
 <li>
-<p>TAY YI XUAN, BERLINDA</p>
+<p>HAGAN AMELIA ROSE</p>
 </li>
 <li>
-<p>SAI HARITH RAM S/O SUDHAN</p>
+<p>DELVRYNA KAUR</p>
 </li>
 <li>
-<p>TAKATSUKI YUKI</p>
+<p>HORMAZD PAETERASP VEVAINA&nbsp;&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -659,19 +656,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>XIE QINYU</p>
+<p>PRAKIT NARUEMON</p>
 </li>
 <li>
-<p>JOSIAH LEE ZHENG YING</p>
+<p>KUMARI ANISHA OJHA</p>
 </li>
 <li>
-<p>JOANNE KOH CUI SHAN</p>
+<p>VALENTIA RUSLI</p>
 </li>
 <li>
-<p>CHEN SHIQI</p>
+<p>TAZMEEN</p>
 </li>
 <li>
-<p>CHAN YONG JUNG</p>
+<p>JEYNARD LIMCHAN YONG JUNG</p>
 </li>
 </ol>
 </td>
@@ -684,16 +681,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
+<p>JOLEEN CHIA HUI NA</p>
+</li>
+<li>
 <p>LIM JIA XIN</p>
 </li>
 <li>
-<p>BLISS JANINE GOH</p>
+<p>TEO POH JIN GOLDEN</p>
 </li>
 <li>
-<p>SUMAIYA RAHMATH FATHIMA</p>
-</li>
-<li>
-<p>GOH CHUN JIE</p>
+<p>BRAYDN CHUA</p>
 </li>
 </ol>
 </td>
@@ -706,16 +703,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>ALYSSA ELAYNA BINTE MOHAMAD SURYADI</p>
+<p>MOHAMED RAYYAN MARECAR S/O MOHAMED RILUVAN MARECAR</p>
 </li>
 <li>
-<p>CHIN SIEW CHING</p>
+<p>MUHAMMAD DZAKRY RAYYAN BIN AERWAN</p>
 </li>
 <li>
-<p>HIEW JIA XUAN</p>
+<p>SIDRAH MOHAMAD HUSNI</p>
 </li>
 <li>
-<p>NG ZHENG KAI LUCAS</p>
+<p>NUR SARAH AQILAH BINTE MOHD NOOR</p>
 </li>
 </ol>
 </td>
@@ -723,7 +720,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h4><strong>Star Students for Term 2 - Primary 6</strong></h4>
+<h4><strong>Star Students for Term 3 - Primary 6</strong></h4>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -747,22 +744,22 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>GAN YU JUN</p>
+<p>TERAI MAI ALYCIA&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>WEN JIWU</p>
+<p>BARADHAN ATHIYAMAN</p>
 </li>
 <li>
-<p>ZHANG YUEJIA</p>
+<p>ELMA AZZAHRA BINTE MOHAMMAD ADHA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>SAI SHU QI</p>
+<p>ONG XIN EN PHOEBE&nbsp;</p>
 </li>
 <li>
-<p>WINT WAH SHWE YEE</p>
+<p>CHEE ZU YI</p>
 </li>
 <li>
-<p>SHOFIYYATUS INAYAH BINTE SUHAINI</p>
+<p>KAVIMANI THIYA&nbsp;&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -775,22 +772,22 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>AAHANA SAI MUTHURAJA</p>
+<p>ACHINTHYA SAI MUTHURAJA</p>
 </li>
 <li>
-<p>GAO ZHIYI</p>
+<p>ANG YU CHEN</p>
 </li>
 <li>
-<p>HEW ZI HAO</p>
+<p>PAIGE SEAH KAI XIN</p>
 </li>
 <li>
-<p>TAN WEI EN</p>
+<p>SHAJAKHAN MOHAMED FAADIL IMTHIYAZ</p>
 </li>
 <li>
-<p>WONG KAI YANG</p>
+<p>SNG LE XIN, CARIS</p>
 </li>
 <li>
-<p>XIA YICHENG</p>
+<p>ZHENG KE XIN, SOPHIA</p>
 </li>
 </ol>
 </td>
@@ -803,19 +800,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>NUR KESYA HUMYRA BINTE ABDUL KARIM</p>
+<p>MOHAMED YASIR AKRAM</p>
 </li>
 <li>
-<p>HANIYA DIYA</p>
+<p>EMMA WON LIQING</p>
 </li>
 <li>
-<p>CHONG XIN YI</p>
+<p>QAISER BIN ROHAIZAT</p>
 </li>
 <li>
-<p>SENTHIL KUMAR JYOTSNA</p>
+<p>JABIRAH D/O ABDUL RAHIM</p>
 </li>
 <li>
-<p>MARVIN QUAH ZI SHENG</p>
+<p>NOOR HAZIQAH BINTE ALLAUDIN</p>
 </li>
 </ol>
 </td>
@@ -828,16 +825,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>TAN XIN TING</p>
+<p>BALILIA ERICA MONTAG</p>
 </li>
 <li>
-<p>BALASUBRAMANIAN KIRUBASHINI</p>
+<p>MUHAMMAD IHSAN KURNIAWAN BIN MUHAMMAD SHOLIHIN</p>
 </li>
 <li>
-<p>TAY HUI RU</p>
+<p>SEE TOH ETHAN</p>
 </li>
 <li>
-<p>SZE CHENG DA</p>
+<p>MUFIDAH ZEENAT</p>
 </li>
 </ol>
 </td>
@@ -850,19 +847,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>PUTRA AQISH NAZIRIL BIN ABU BAKAR</p>
+<p>ASYFA FAYYADH RIF'QEY BIN ABDUL SAMAD</p>
 </li>
 <li>
-<p>REUBEN RAPHAEL TAN</p>
+<p>AFSHEEN SHAZANA</p>
 </li>
 <li>
-<p>REAMUS CHAN EN JIE</p>
+<p>CHARLOTTE SOPHIA CHOY YONG</p>
 </li>
 <li>
-<p>SYED FA'IZ RAYYAN AL-ZIYAD BIN SYED MOHD AL-JUFRI</p>
+<p>RIS SUANDI BIN ZAINUTDDIN</p>
 </li>
 <li>
-<p>FYNN LOW</p>
+<p>ONG SHENG POH ANGUS</p>
 </li>
 </ol>
 </td>
