@@ -53,6 +53,22 @@ and Fridays)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_30_092143.png">
 </div>
+<p><u>MOE SUPPLEMENTARY READERS GUIDE FOR PARENTS</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MTL_SOAR_P1_GUIDE_2.pdf" rel="noopener nofollow" target="_blank">MTL SOAR P1 GUIDE</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MTL_SOAR_P2_GUIDE_2.pdf" rel="noopener nofollow" target="_blank">MTL SOAR P2 GUIDE</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MTL_SOAR_P3_GUIDE_2.pdf" rel="noopener nofollow" target="_blank">MTL SOAR P3 GUIDE</a>
+</p>
+</li>
+</ul>
 <h4><strong>(2)&nbsp; Chinese New Year Celebrations （新年庆祝会）</strong></h4>
 <p>The Chinese New Year (CNY) celebrations is one of the festive occasions
 that students in Bendemeer Primary School celebrate to raise awareness
