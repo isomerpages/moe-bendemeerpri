@@ -182,11 +182,11 @@ and recognised for their efforts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2.png">
 </div>
-<p>Our Bucket Fillers</p>
+<p style="text-align: center;">Our Bucket Fillers</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2_2.png">
 </div>
-<p>Gratitude Notes with different themes</p>
+<p style="text-align: center;">Gratitude Notes with different themes</p>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
 school committee and are engaged in deep breathing exercises after that
