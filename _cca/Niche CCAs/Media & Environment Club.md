@@ -123,8 +123,9 @@ taking small actions in our daily lives.</p>
 journey to the City Developments Limited (CDL) EcoTrain. We embarked on
 a fun and interactive digital journey to learn more about Singapore’s lush
 forests, diverse wildlife, and conservation efforts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_2026_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/env_2026_1.png">
 </div>
 <p>Through engaging displays and hands-on exhibits, students discovered how
 nature and sustainability are connected to our daily lives. At the end
