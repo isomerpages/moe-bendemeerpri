@@ -179,8 +179,14 @@ in a moment of gratitude. In the latter, students who have been caught
 filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2.png">
+</div>
+<p>Our Bucket Fillers</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2_2.png">
+</div>
+<p>Gratitude Notes with different themes</p>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
 school committee and are engaged in deep breathing exercises after that
@@ -243,10 +249,9 @@ teachers and this provides opportunity for the form teacher to strengthen
 teacher-student relation and peer support relations. The lessons are designed
 and customised to meet the needs of the students and explicitly integrate
 school values into it to communicate to students the expected observables.</p>
-<p></p>
 <h4><u>6. Education and Career Guidance (ECG)</u></h4>
 <p>As part of our Education and Career Guidance (ECG) efforts, our upper
-primary students actively engaged with the <em>MySkillsFuture</em> portal
+primary students actively engaged with the&nbsp;<em>MySkillsFuture</em>&nbsp;portal
 — a dynamic platform designed to help them discover their interests, strengths,
 and aspirations. The portal also introduced students to Career Quest, enabling
 them to explore various industries and professions in a fun and engaging
