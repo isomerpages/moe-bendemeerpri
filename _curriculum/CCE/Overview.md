@@ -30,22 +30,26 @@ the respective portion of their schooling years.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>School Values</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P1 &amp; P2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P3 &amp; P4</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P5 &amp; P6</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>School Values</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1 &amp; P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P3 &amp; P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P5 &amp; P6</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adaptability</strong> 
+<p><strong>Adaptability</strong>
 <br>Handle changes positively and look for opportunities in challenges</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +66,7 @@ solutions to problems.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Self-discipline</strong> 
+<p><strong>Self-discipline</strong>
 <br>Control one’s words, actions and behaviour and work hard in all that one
 does</p>
 </td>
@@ -79,7 +83,7 @@ self-control in the way he interacts with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Passion</strong> 
+<p><strong>Passion</strong>
 <br>Love for Self, family, nation and learning</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +106,7 @@ proactive to extend their learning and shares the new knowledge with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Integrity</strong> 
+<p><strong>Integrity</strong>
 <br>Think, speak and live right</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +121,7 @@ proactive to extend their learning and shares the new knowledge with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Resilience</strong> 
+<p><strong>Resilience</strong>
 <br>Keep trying and never give up</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +138,7 @@ effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Empathy</strong> 
+<p><strong>Empathy</strong>
 <br>Think, feel and do good for others</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,13 +179,7 @@ in a moment of gratitude. In the latter, students who have been caught
 filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/mindful_3.jpg">
-</div>
 <p></p>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
