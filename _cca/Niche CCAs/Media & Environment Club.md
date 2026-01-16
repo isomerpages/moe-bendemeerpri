@@ -46,9 +46,22 @@ through the main thrusts:</p>
 </li>
 <li>
 <p>Working and collaborating with stakeholders on environment programmes.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<h4>Earth Day 2026 <br></h4>
+<p>In 2026, our school will be celebrating two important environmental events,
+World Water Day and Earth Day. It is to remind us of our shared responsibility
+to care for the planet.</p>
+<p>World Water Day, which will be observed on 30 March with the theme “Make
+Every Drop Count,” will highlight how precious water is and remind us that
+some communities around the world face difficulties in accessing clean
+and fresh water.</p>
+<p>Earth Day, which will be celebrated on 22 April with the theme “Our Power,
+Our Planet,” will emphasise the power of our daily choices in protecting
+the Earth.</p>
+<p>Through these events, we will learn how conserving water, reducing waste,
+and practising sustainable habits can make a positive difference.</p>
 <h4>Earth Day 2025 - Our Power, Our Planet</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SGLWZqYwAEA?si=YV0Um4NZnXhG1qNX"></iframe>
@@ -101,15 +114,38 @@ need to protect these vital water sources.</p>
 change are global responsibilities—and it starts with being informed and
 taking small actions in our daily lives.</p>
 <p></p>
-<h4>Learning Journeys</h4>
+<h4>CDL EcoTrain Learning Journey</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_LJ_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Env_8.jpg">
 </div>
-<p>In May, our Environmental Club members had an enriching learning journey
-to Co+Nut+Ink on May, where they discovered how the company contributes
+<p></p>
+<p>In November 2025, our Environment Club members went on an exciting learning
+journey to the City Developments Limited (CDL) EcoTrain. We embarked on
+a fun and interactive digital journey to learn more about Singapore’s lush
+forests, diverse wildlife, and conservation efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_2026_1.png">
+</div>
+<p>Through engaging displays and hands-on exhibits, students discovered how
+nature and sustainability are connected to our daily lives. At the end
+of the visit, students also wrote down their personal commitments to protect
+and save the environment, showing their promise to care for our planet
+through everyday actions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_2026_2.png">
+</div>
+<p></p>
+<h4>Co+Nut+Ink Learning Journey</h4>
+<p>In May 2025, our Environmental Club members had an enriching learning
+journey to Co+Nut+Ink on May, where they discovered how the company contributes
 to sustainability and environmental stewardship. The visit offered students
 a firsthand look at eco-friendly business practices, including waste reduction
 and upcycling efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_LJ_2025.png">
+</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_LJ_2025_1.png">
@@ -120,33 +156,4 @@ seedlings. This meaningful experience deepened their understanding of sustainabl
 living and inspired them to take small but impactful actions for the environment.</p>
 <p></p>
 <p></p>
-<p>In 2024, our students went to Gardens by the Bay and explored cutting-edge
-innovations and creative designs that promote sustainability, while learning
-about Singapore’s resource management. These experiences inspired students
-to think critically about environmental challenges and innovative solutions
-for a sustainable future.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/env_club_2025_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_3.jpg">
-</div>
-<p>The Environment Club members honed their 21st Century Competencies by
-learning to create basic app applications using Google AppSheet. They developed
-two impactful apps: one compiling information on Singapore parks to promote
-nature exploration and another guiding users on recycling right to encourage
-sustainable habits. Through this project, they demonstrated critical and
-inventive thinking, collaborative skills, and a sense of responsibility
-towards the environment. The experience empowered them to use technology
-as a tool for advocacy, showcasing how digital innovation can drive environmental
-education and awareness.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/env_club_2025_5.jpg">
-</div>
-<p></p>
-<p></p>
-<h4></h4>
 <p></p>
