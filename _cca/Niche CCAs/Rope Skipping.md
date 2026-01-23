@@ -22,7 +22,9 @@ variant: tiptap
 </li>
 <li>
 <p>Mdm Cherryn Tan</p>
-<p></p>
+</li>
+<li>
+<p>Mr Jordan Cha</p>
 </li>
 </ol>
 <h4>Coaches</h4>
@@ -58,7 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30am - 9am
-<br><strong>(in Semester 1 only)</strong>
+<br><strong>(in Semester 2 only)</strong>
 </p>
 </td>
 </tr>
@@ -121,6 +123,30 @@ and jogging.</p>
 </li>
 </ol>
 <h4>Achievements</h4>
+<p><strong><u>NSG Senior Competition 2025</u></strong>
+</p>
+<p><u>Senior Boys:</u>
+<br>Individual Speed – 4<sup>th</sup>
+<br>Double Under – 4<sup>th</sup>
+<br>Overall Championship – 3<sup>rd</sup>
+</p>
+<p><u>Senior Girls:</u>
+<br>Individual Freestyle – 4<sup>th</sup>
+<br>Individual Speed – 3<sup>rd</sup>
+<br>Double Under – 6<sup>th</sup>
+<br>Pair Freestyle – 6<sup>th</sup>
+</p>
+<p><strong><u>NSG Junior Competition 2025</u></strong>
+</p>
+<p><u>Junior Boys:</u>
+<br>Double Dutch – 3<sup>rd</sup>
+<br>Individual Artistic – 4<sup>th</sup>
+<br>Speed Relay – 4<sup>th</sup>
+</p>
+<p><u>Junior Girls:</u>
+<br>Individual Artistic – 7<sup>th</sup>
+<br>Individual Speed – 9<sup>th</sup>
+</p>
 <p><strong><u>NSG Senior Competition 2024</u></strong>
 </p>
 <p><u>Senior Boys:</u>
@@ -137,39 +163,9 @@ and jogging.</p>
 </p>
 <p><u>Junior Girls:</u>
 <br>Double Under - 1st</p>
-<p></p>
-<p><strong><u>NSG Senior Competition 2023</u></strong>
-</p>
-<p><u>Senior Boys:</u>
-<br>Double Dutch – 3rd
-<br>Double Under – 4th</p>
-<p><u>Senior Girls:</u>
-<br>Pair Freestyle – 5th
-<br>Speed Relay – 6th</p>
-<p><strong><u>NSG Junior Competition 2023</u></strong>
-</p>
-<p><u>Junior Boys:</u>
-<br>Speed Relay – 1st
-<br>Double Under – 2nd
-<br>Pair Freestyle – 2nd
-<br>Double Under - 3rd
-<br>Individual Speed – 4th
-<br>Individual Freestyle - 4th</p>
-<p><u>Junior Girls:</u>
-<br>Double Under - 1st
-<br>Individual Freestyle - 4th
-<br>Team Freestyle – 4th
-<br>Double Dutch – 5th
-<br>Speed Relay - 7th</p>
 <h4>Photos/Gallery</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_2.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
