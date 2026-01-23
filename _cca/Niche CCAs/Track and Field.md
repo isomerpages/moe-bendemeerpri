@@ -351,14 +351,14 @@ the diversity of student-athletes from all over Singapore.</p>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Seniors_and_Srika.jpg">
 </div>
+<p>Our Seniors and Srika with their trophies and medals</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Juniors.jpg">
 </div>
+<p><strong>&nbsp;</strong><em>Our Juniors with their Pins, Medals and Trophies</em>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_3.jpg">
-</div>
 <p></p>
