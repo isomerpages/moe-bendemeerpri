@@ -353,13 +353,13 @@ the diversity of student-athletes from all over Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Seniors_and_Srika.jpg">
 </div>
-<p><strong>Our Seniors and Srika with their trophies and medals</strong>
+<p style="text-align: center;"><strong>Our Seniors and Srika with their trophies and medals</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Juniors.jpg">
 </div>
-<p><strong>Our Juniors with their Pins, Medals and Trophies</strong>
+<p style="text-align: center;"><strong>Our Juniors with their Pins, Medals and Trophies</strong>
 </p>
 <p></p>
 <p></p>
