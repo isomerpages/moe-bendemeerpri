@@ -3,7 +3,7 @@ title: Overview
 permalink: /curriculum/cce/overview/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
 <h3>CHARACTER AND CITIZENSHIP EDUCATION</h3>
 <h4>Character Development @ Bendemeer Primary School</h4>
@@ -153,9 +153,8 @@ effectively.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE.png">
 </div>
 <h4><u>1. ASPIRE Wednesdays</u></h4>
 <h5>Objective</h5>
@@ -182,12 +181,12 @@ and recognised for their efforts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2.png">
 </div>
-<p style="text-align: center;"><strong>Our Bucket Fillers</strong>
+<p><strong>Our Bucket Fillers</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2_2.png">
 </div>
-<p style="text-align: center;"><strong>Gratitude Notes with different themes</strong>
+<p><strong>Gratitude Notes with different themes</strong>
 </p>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
