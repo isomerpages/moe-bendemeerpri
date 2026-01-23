@@ -165,8 +165,14 @@ and jogging.</p>
 <br>Double Under - 1st</p>
 <h4>Photos/Gallery</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Grp_Photo_1.png">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Grp_Photo_2.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_3.jpg">
