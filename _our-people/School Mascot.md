@@ -25,7 +25,7 @@ Bendemeer Primary embarks on our exciting new EdTech journey.</p>
 commitment to fearlessly navigating the digital landscape. Ben represents
 our commitment to fearlessly navigating the digital landscape, seeking
 out the vast possibilities for authentic and impactful learning that helps
-every student <strong>reach for the stars.!</strong>
+every student <strong>reach for the stars!</strong>
 </p>
 <hr>
 <p></p>
