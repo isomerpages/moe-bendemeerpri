@@ -14,6 +14,9 @@ But now, as our school looks toward the future, Ben is ready for his biggest
 mission yet.</p>
 <p><strong>Introducing Ben, the Adventurous Otter Astronaut!</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Bendemeer Logos/School Mascot/Ben_The_Astronaut_no_bg.png">
+</div>
 <p>We are thrilled to unveil the newest addition to Ben's digital persona.
 Floating high above the Earth with his flag in hand, Ben the Astronaut
 perfectly embodies the spirit of curiosity and exploration required as
