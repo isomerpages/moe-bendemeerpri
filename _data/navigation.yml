@@ -26,8 +26,6 @@ links:
         url: /our-people/non-teaching-staff
       - title: School Advisory Committee SAC
         url: /our-people/sac
-      - title: For Parents
-        url: /our-people/for-parents
       - title: School Mascot
         url: /our-people/school-mascot/
   - title: Curriculum
@@ -70,8 +68,8 @@ links:
         url: /ignite/
       - title: UPLIFT
         url: /uplift/
-  - title: Links
-    collection: links
+  - title: For Parents
+    collection: for-parents
   - title: Our Partners
     collection: our-partners
   - title: MK @ Bendemeer
