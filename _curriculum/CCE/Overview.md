@@ -1,9 +1,9 @@
 ---
 title: Overview
-permalink: /curriculum/CCE/overview/
+permalink: /curriculum/cce/overview/
 description: ""
 third_nav_title: CCE
-variant: tiptap
+variant: markdown
 ---
 <h3>CHARACTER AND CITIZENSHIP EDUCATION</h3>
 <h4>Character Development @ Bendemeer Primary School</h4>
@@ -30,22 +30,26 @@ the respective portion of their schooling years.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>School Values</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P1 &amp; P2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P3 &amp; P4</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P5 &amp; P6</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>School Values</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1 &amp; P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P3 &amp; P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P5 &amp; P6</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adaptability</strong> 
+<p><strong>Adaptability</strong>
 <br>Handle changes positively and look for opportunities in challenges</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +66,7 @@ solutions to problems.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Self-discipline</strong> 
+<p><strong>Self-discipline</strong>
 <br>Control one’s words, actions and behaviour and work hard in all that one
 does</p>
 </td>
@@ -79,7 +83,7 @@ self-control in the way he interacts with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Passion</strong> 
+<p><strong>Passion</strong>
 <br>Love for Self, family, nation and learning</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +106,7 @@ proactive to extend their learning and shares the new knowledge with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Integrity</strong> 
+<p><strong>Integrity</strong>
 <br>Think, speak and live right</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +121,7 @@ proactive to extend their learning and shares the new knowledge with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Resilience</strong> 
+<p><strong>Resilience</strong>
 <br>Keep trying and never give up</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +138,7 @@ effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Empathy</strong> 
+<p><strong>Empathy</strong>
 <br>Think, feel and do good for others</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,9 +153,8 @@ effectively.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE.png">
 </div>
 <h4><u>1. ASPIRE Wednesdays</u></h4>
 <h5>Objective</h5>
@@ -176,13 +179,15 @@ filling their teachers' buckets by doing the right things are affirmed
 and recognised for their efforts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2.png">
 </div>
-<p></p>
+<p style="text-align:center;"><strong>Our Bucket Fillers</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/mindful_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ASPIRE_pt2_2.png">
 </div>
-<p></p>
+<p style="text-align:center;"><strong>Gratitude Notes with different themes</strong>
+</p>
 <p>After every recess, students recite the Bendemeer Student Pledge that
 serves to remind them of their purpose as a student, as a member of the
 school committee and are engaged in deep breathing exercises after that
@@ -245,10 +250,9 @@ teachers and this provides opportunity for the form teacher to strengthen
 teacher-student relation and peer support relations. The lessons are designed
 and customised to meet the needs of the students and explicitly integrate
 school values into it to communicate to students the expected observables.</p>
-<p></p>
 <h4><u>6. Education and Career Guidance (ECG)</u></h4>
 <p>As part of our Education and Career Guidance (ECG) efforts, our upper
-primary students actively engaged with the <em>MySkillsFuture</em> portal
+primary students actively engaged with the&nbsp;<em>MySkillsFuture</em>&nbsp;portal
 — a dynamic platform designed to help them discover their interests, strengths,
 and aspirations. The portal also introduced students to Career Quest, enabling
 them to explore various industries and professions in a fun and engaging

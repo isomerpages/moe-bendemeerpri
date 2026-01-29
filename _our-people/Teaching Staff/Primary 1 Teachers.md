@@ -190,7 +190,8 @@ variant: tiptap
 <p>Ms Choo Watt Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:choo_watt_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_watt_kian@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>

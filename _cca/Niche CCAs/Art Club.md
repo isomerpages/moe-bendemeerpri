@@ -30,15 +30,27 @@ be an independent learner with an inquiring mind and strong moral values.</p>
 <p>Every Wednesday
 <br>2.00p.m. - 3.30p.m.</p>
 <h3>Highlights of our Creative Exposure Activities</h3>
-<p>•&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Drawing and&nbsp;Painting
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploration in
-Designing and Mixed-Media
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3D Sculpture &amp;
-Assemblage&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage Decorations
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art Competitions&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;School-Based Exhibitions
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Exchange/Collaboration</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exploration in designing and mixed media</p>
+</li>
+<li>
+<p>3D sculpture and assemblage</p>
+</li>
+<li>
+<p>Art competitions</p>
+</li>
+<li>
+<p>School based exhibition</p>
+</li>
+<li>
+<p>Artist In School Scheme (AISS)</p>
+</li>
+<li>
+<p>Collaboration with SAJC students on the use of art to express their emotions
+and improve mental health</p>
+</li>
+</ul>
 <h5>Art&nbsp;Club members in action...</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -70,18 +82,6 @@ Assemblage&nbsp;
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/CCA/Making_pencil_topper1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Making_pencil_topper.jpg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/working_in_team_projects.jpg">
@@ -97,9 +97,7 @@ Assemblage&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visiting_SYF_ARt_exhibition_2025.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>

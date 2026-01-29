@@ -15,9 +15,7 @@ variant: tiptap
 <p>Ms Woo Siew Foon (2nd IC)</p>
 </li>
 <li>
-<p>Ms Chia Jia Min
-<br>
-</p>
+<p>Ms Chia Jia Min</p>
 </li>
 </ol>
 <h4>Instructor</h4>

@@ -1,9 +1,9 @@
 ---
 title: Track and Field
-permalink: /cca/Niche/track-and-field/
+permalink: /cca/niche/track-and-field/
 description: ""
 third_nav_title: Niche CCAs
-variant: tiptap
+variant: markdown
 ---
 <h3>TRACK AND FIELD</h3>
 <h4>Teachers in charge</h4>
@@ -35,44 +35,47 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Pupil Involved</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Every Tuesday</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 9.00 a.m.</p>
+<p><strong>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
+<p><strong>Pupil Involved</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
+<p>2.00 p.m. – 3.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
+<p>P3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Friday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
+<p>2.00 p.m. – 4.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, P5 and P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 4.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4, P5 and P6</p>
@@ -102,32 +105,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Tuesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 9.00 a.m.</p>
+<p>2.00 p.m. – 3.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3, P4, P5 and P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Every Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Students Only</p>
+<p>P3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Friday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
+<p>2.00 p.m. – 4.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, P5 and P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 4.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4, P5 and P6</p>
@@ -157,10 +160,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Wednesday</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
+<p>7.30 a.m. – 9.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4 and P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 4.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3, P4 and P5</p>
@@ -190,10 +204,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Wednesday</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. - 4.00 p.m.</p>
+<p>7.30 a.m. – 9.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4 and P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 4.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3, P4 and P5</p>
@@ -201,17 +226,19 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>For more accurate dates and timing, please refer to the Parents Gateway
+consent form sent out termly for members.</p>
 <h4>Introduction</h4>
-<p>Track and Field CCA was started in 2019 in Bendemeer Primary School. Track
-and field is a sport comprising athletic events on running, jumping, and
-throwing. The events in track include individual events such as 60m, 80m
-120 metres, 200 metres, 1000 metres, 60 metres hurdles, 80 metres hurdles
-and team events such as 8 x 50 metres, 5 x 80m and 4 x 200 metres relays.
-Field events include high jump, scissors jump, long jump and shot put.</p>
-<p>Track and field is an effective way to increase students’ cardiovascular
+<p>The Track and Field CCA was started in 2019. Track and field is a sport
+comprising athletic events on running, jumping, and throwing. The events
+in track include individual events such as 60m, 80m 120 metres, 200 metres,
+1000 metres, 60 metres hurdles, 80 metres hurdles and team events such
+as 8 x 50 metres, 5 x 80m and 4 x 200 metres relays. Field events include
+high jump, scissors jump, long jump and shot put.</p>
+<p>Track and field is an effective way to increase pupils’ cardiovascular
 fitness as well as maintain a healthy weight. Through track and field,
-students develop a passion for exercising and healthy habits that will
-stay with them for life.</p>
+pupils develop a passion for exercising and healthy habits that will stay
+with them for life.</p>
 <h4>Objectives</h4>
 <p>During training, coaches and teachers work together to train our student-athletes
 in foot-work, endurance-building exercises, and team-work. These training
@@ -222,18 +249,55 @@ of their labour from their rigorous training sessions. They also learn
 to empathise with their fellow athletes regardless of the result and appreciate
 the diversity of student-athletes from all over Singapore.</p>
 <h4><strong>Achievements</strong></h4>
-<h4>National School Games Track &amp; Field Championships 2024</h4>
+<h4>SPSSC Primary School Track &amp; Field Championships 2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd position in Senior 2 Boys Long Implement Throw (400g)</p>
+</li>
+<li>
+<p>7th position in Junior 1 Boys Scissors Jump</p>
+</li>
+<li>
+<p>Gold Pin in Junior 1 Boys Multi Skill Event</p>
+</li>
+<li>
+<p>1st position in Senior 1 Girls 80m Hurdles (60cm)</p>
+</li>
+<li>
+<p>8th position in Senior 1 Girls Long Jump with 50cm T/O Zone</p>
+</li>
+<li>
+<p>2nd position in Junior 2 Girls Long Implement Throw (300g)</p>
+</li>
+<li>
+<p>7th position in Junior 2 Girls 60m Hurdles (52cm)</p>
+</li>
+<li>
+<p>Gold Pin in Junior 1 Girls Multi Skill Event</p>
+</li>
+<li>
+<p>Bronze Pin in Junior 1 Girls Multi Skill Event</p>
+</li>
+<li>
+<p>5th position in Junior 1 Girls in Overhand Beanbag Throw</p>
+</li>
+<li>
+<p>8th position in Junior 1 Girls 60m</p>
+</li>
+<li>
+<p>7th position in Junior 1 Girls 4 x 50 Metres Relay</p>
+</li>
+</ul>
+<h4>SPSSC Primary School Track &amp; Field Championships 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>4th position in Senior 1 Boys 30m</p>
-<p></p>
 </li>
 <li>
 <p>5th position in Junior 2 Boys Medicine Ball Throw (2kg)</p>
 </li>
 <li>
 <p>6th position in Junior 2 Boys 4 x 50 Meters Relay</p>
-<p></p>
 </li>
 <li>
 <p>7th position in Junior 2 Girls 60m Hurdles</p>
@@ -243,7 +307,6 @@ the diversity of student-athletes from all over Singapore.</p>
 </li>
 <li>
 <p>8th position in Junior 2 Girls 4 x 50 Metres Relay</p>
-<p></p>
 </li>
 <li>
 <p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
@@ -256,81 +319,47 @@ the diversity of student-athletes from all over Singapore.</p>
 </li>
 <li>
 <p>8th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
-<p></p>
 </li>
 <li>
-<p>Silver Pin in Junior 1 Girls Multi-Skill Event</p>
+<p>Silver Pin in Junior 1 Girls Multi Skill Event</p>
 </li>
 <li>
 <p>1st position in Junior 1 Girls Overhand Beanbag Throw</p>
 </li>
 <li>
 <p>8th position in Junior 1 Girls 4 x 50 Metres Relay</p>
-<p></p>
 </li>
 </ul>
-<h4>National School Games Track &amp; Field Championships 2023</h4>
+<h4>SPSSC Primary School Track &amp; Field Championships 2023</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>8th position in&nbsp; Junior 2 Boys 4 x 50 Metres Relay</p>
-<p></p>
+<p>Bronze Pin in Junior 1 Boys Multi Skill Event</p>
 </li>
 <li>
-<p>Bronze Pin in Junior 1 Boys Multi-Skill Event</p>
+<p>8<sup>th</sup> position in Junior 1 Boys 1000 Metres</p>
 </li>
 <li>
-<p>8th position in Junior 1 Boys 1000 metres</p>
+<p>4<sup>th</sup> position in Junior 1 Boys Medicine Ball Throw (2 kg)</p>
 </li>
 <li>
-<p>4th position in Junior 1 Boys Medicine Ball Throw (1 kg)</p>
-</li>
-<li>
-<p>7th position in Junior 1 Boys 8 x 50 Metres Relay</p>
-<p></p>
+<p>7<sup>th</sup> position in Junior 1 Boys 8 x 50 Metres Relay</p>
 </li>
 <li>
 <p>Bronze Pin in Junior 1 Girls Multi-Skill Event</p>
 </li>
-<li>
-<p>3rd position in Junior 1 Girls Scissors Jump</p>
-</li>
 </ul>
-<p></p>
-<h4>National School Games Track &amp; Field Championships 2022</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>1st position in Junior 2 Boys Medicine Ball Throw</p>
-</li>
-<li>
-<p>2nd position in Junior 2 Boys Scissors Jump</p>
-<p></p>
-</li>
-<li>
-<p>2nd position in Junior 1 Boys Scissors Jump</p>
-</li>
-<li>
-<p>5th position in Junior 1 Boys 1000 metres</p>
-</li>
-<li>
-<p>8th position in Junior 1 Boys Long Jump</p>
-</li>
-<li>
-<p>6th position in Junior 1 Boys 8 x 50 metres Relay</p>
-</li>
-</ul>
-<p></p>
-<p></p>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Seniors_and_Srika.jpg">
 </div>
+<p style="text-align: center;"><strong>Our Seniors and Srika with their trophies and medals</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Juniors.jpg">
 </div>
+<p style="text-align: center;"><strong>Our Juniors with their Pins, Medals and Trophies</strong>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/track_and_field_2025_3.jpg">
-</div>
 <p></p>

@@ -102,7 +102,7 @@ where every student can thrive.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anwar Sathath Shakila Banu</p>
+<p>Mdm Karen Ng Kim Ee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -113,7 +113,7 @@ where every student can thrive.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Karen Ng Kim Ee</p>
+<p>Mdm Ng Heng Boon Alina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -124,7 +124,7 @@ where every student can thrive.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Heng Boon Alina</p>
+<p>Mr Teo Beng Ngo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -135,7 +135,7 @@ where every student can thrive.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Beng Ngo</p>
+<p>Mdm Yong Wai Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -146,7 +146,7 @@ where every student can thrive.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Wai Lee</p>
+<p>Mdm Binaifer Kersi Aspar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -154,21 +154,22 @@ where every student can thrive.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Diane Kwok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><u>Co-Advisor</u> 
+<p><strong>Co-Advisor</strong> 
 <br>Mr Too Meng Ngee (Vice Principal Administration)</p>
-<p><u>PSG Coordination Team </u>
-<br>Mr Alvin Lee (Subject Head Partnership)</p>
+<p><strong>PSG Coordination Team</strong> 
+<br>1) Mr Alvin Lee (Subject Head Partnership)
+<br>2) Mdm Zakiyah Abdul Karim (PSG Coordinator)</p>
 <h4>When Parents Partner, Children Thrive!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -225,19 +226,13 @@ with the school:</p>
 <h5>Daily / Regular Activities:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Road Crossing Duty within school</p>
-</li>
-<li>
 <p>Swimming Programmes</p>
 </li>
 <li>
 <p>Recycling Programmes</p>
 </li>
 <li>
-<p>Reading Programmes</p>
-</li>
-<li>
-<p>Library Activities</p>
+<p>PAL Programmes</p>
 </li>
 <li>
 <p>Modular CCA</p>
