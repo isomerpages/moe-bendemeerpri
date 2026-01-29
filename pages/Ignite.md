@@ -31,127 +31,46 @@ are motivated to learn in school.</p>
 <p><strong><u>Snapshots of the various Interest Groups</u></strong>
 </p>
 <p></p>
-<p>Fashion Design is one of the workshops offered to our students.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IGNITE/Girls_Football.jpg">
 </div>
-<p>Students learnt nifty football skills from an FAS coach and students from
-Bendemeer Secondary School.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_3.jpg">
-</div>
-<p>Teamwork is cultivated through group activities in Board Games.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_4.jpg">
-</div>
-<p>Students are all smiles as they learnt the basics of speaking Japanese.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_5.jpg">
-</div>
-<p>They learnt the fundamentals of videography in Shoot and Tell.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_6.jpg">
-</div>
-<p>In Inclusive Sports, they learnt to play sports played by paralympic athletes.
-These activities allowed them to experience what being disabled feels like.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_7.jpg">
-</div>
-<p>Students learnt the fundamentals of debate.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_8.jpg">
-</div>
-<p>Girls also were given an opportunity to learn Girls’ Football under the
-guidance of a Football Coach from FAS.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_9.jpg">
-</div>
-<p>Some of our students got a rare musical treat from the SAJC concert band.
-They even had an opportunity to be able to play some of the instruments.</p>
-<p></p>
-<h3><strong>IGNITE @ BENDEMEER SEMESTER 2 OF 2024</strong></h3>
-<p><strong>&nbsp;</strong>In Semester 2, our students were treated a whole
-host of programmes and&nbsp; activities conducted under the IGNITE Programme
-and in collaboration with other schools. This would not have been possible
-without the generosity of the following schools -- Northlight, St Andrews
-Junior College, Catholic Junior College and Raffles Institution. Find out
-about the fantastic activities they were involved in this past semester.</p>
-<h4>Chef for a Day at Northlight School</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite_2025_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ignite_2025_2.jpg">
-</div>
-<p>On Thursday, 11 July, our students were chefs for a day. Students from
-Northlight School’s Chef De Cuisine CCA, opened up their kitchens to give
-our students an opportunity to cook up a storm!</p>
-<h4>Arduino Coding at Catholic Junior College</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ignite_2025_3.jpg">
-</div>
-<p>From 27-2 May, our P6 students participated in an Arduino Coding Workshop
-organized by students of the STEM club in Catholic Junior College. The
-students mastered the basics of coding and even programmed a car to successfully
-navigate a track. Thank you CJC for your patience and enthusiasm in teaching
-us Arduino Coding.</p>
-<blockquote>
-<p><sub>Reflection: </sub><em><sub>I enjoyed the race where we could adjust the speed of our car and the position of the IR sensors. I also learnt resilience and to adopt a winner’s mentality.</sub></em>
+<p><strong>Our girls training hard during a session of Girls’ Football. Thanks to Bendemeer Secondary and Football Association- Football is offered to both girls and boys.</strong>
 </p>
-<p><sub>TIMOTHY HUANG YOUXIN 6E (2024)</sub>
-</p>
-</blockquote>
-<h4>Laser Cutting Workshop at Catholic Junior College</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ignite_2025_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ignite_2025_5.jpg">
-</div>
-<p>On Friday, 5 July our P6 students signed up to learn more about laser
-cutting from the CJC STEM Club. They had so much fun unleashing their creativity
-and even brought home a customized keychain or two!</p>
-<blockquote>
-<p><sub>Reflection: </sub><em><sub>I enjoyed making the customized cards with our name. I learnt that I should always plan properly before I start work. Thank you CJC for making the workshop so fun and enjoyable.</sub></em>
-</p>
-<p><sub>KRESHA D/O KRISHNAMOORTHY 6P (2024)</sub>&nbsp;</p>
-</blockquote>
-<h4>Water Polo at Raffles Institution</h4>
-<p>Twelve of our boys from Bendemeer Primary School participated in the Water
-Polo programme conducted at Raffles Institution from 27 June to 25 July.
-Most of them had never played the sport before and were enthusiastic about
-the opportunity to learn the fundamentals of Water Polo through these sessions.</p>
-<p>Through this programme, besides learning the fundamentals of Water Polo,
-they were also given an opportunity to walk through the halls of RI. Our
-students certainly benefitted from this experience. Let’s read some of
-their reflections below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ignite_2025_6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Math_Board_Game.jpg">
 </div>
-<p>Making waves together, one goal at a time- our Water Polo Boys with the
-sports leaders from RI.</p>
-<blockquote>
-<p><em><sub>Even though I was struggling with my passes, you helped me with good pointers. They helped me learn new skills and improve over the weeks. Thank you!</sub></em>
+<p><strong><em>Teamwork is cultivated through group activities in Math Board Games.</em></strong>
 </p>
-<p><sub>SKYLER WANG SHENGWEI- 5E (2024)</sub>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Japanese.jpg">
+</div>
+<p><strong><em>Students are all smiles as they learnt the basics of speaking Japanese.</em></strong>
 </p>
-</blockquote>
 <p></p>
-<blockquote>
-<p><em><sub>They taught me the basics of Water Polo so patiently. They made each session more enjoyable and I’m more interested in the sport than when I first started. I hope to be able to learn Water Polo even after this programme!</sub></em>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Shoot_and_Tell.jpg">
+</div>
+<p><strong><em>They learnt the fundamentals of videography in Shoot and Tell.</em></strong>
 </p>
-<p><sub>HAMANA YUITO – 5A (2024)</sub>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Science_Workshop.jpg">
+</div>
+<p><strong>Peering into the wonderful world of Science during the Creative Science Workshop.</strong>
 </p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Learning_Journal.jpg">
+</div>
+<p><strong><em>Students were happy to share their IGNITE Learning Journal at Innovation Day.</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Water_Polo.jpg">
+</div>
+<p><strong><em>Our students making a splash during Water Polo thanks to Raffles Institution’s Water Polo Team.</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Arduino_Coding.jpg">
+</div>
+<p><strong>Our P6s learnt about Arduino Coding thanks to the wonderful guidance from the STEM club at Catholic Junior College.</strong>
+</p>
 <p></p>
