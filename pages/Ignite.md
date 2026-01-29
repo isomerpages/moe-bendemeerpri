@@ -5,27 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h3>IGNITE</h3>
-<h5><strong><u>Interest Groups for Nurturing and Transforming through Experiences</u></strong></h5>
-<p>IGNITE aims to offer our P5 students workshops or courses that our P5
-students can decide to take up based on their interest. The rationale for
-this programme is to give our students autonomy in their learning. When
-students are given opportunities to be independent, to be engaged and to
-pursue their own interests, they will be more motivated. When students
+<h5><strong><u>IGNITE Programme Interest Groups for Nurturing and Transforming Through Experiences</u></strong></h5>
+<p>IGNITE aims to offer our P4 and P5 students workshops or courses that
+they students can decide to take up based on their interest. The rationale
+for this programme is to give our students autonomy in their learning.
+When students are given opportunities to be independent, to be engaged
+and to pursue their own interests, they will be more motivated. When students
 have the ability to do that, they persist longer in the face of difficulties.
 They show more initiative and curiosity as well as develop a greater sense
 of confidence in their ability.</p>
-<p>In Semester 1, P5 supplementary is not conducted. Instead, the time is
-given to the IGNITE programme. Teachers from Bendemeer were given the freedom
+<p>In Term 1, P5 supplementary is not conducted. Instead, the time is given
+to the IGNITE programme. In Term 2, our P4s had the opportunity to participate
+in the IGNITE programme. Teachers from Bendemeer were given the freedom
 to come up with their own interest groups to be conducted during the time.
-Some examples of the interest groups conducted are: Debate, Learning Japanese,
-Football, Inclusive Sports, Learning about Board Games, Fashion Design
+Some examples of the interest groups conducted are: Learning Japanese,
+Football, Creative Science, Learning about Board Games, Fashion Design
 and Videography.</p>
-<p>This year we are also able to benefit from collaborations with SAJC, CJC,
-Northlight and RI. Our students had the opportunity to attend a musical
-appreciation workshop conducted by the SAJC concert band as well as a cooking
-workshop conducted by Northlight. In Term 3, we are looking forward to
-workshops related to STEM conducted by CJC and Water Polo conducted by
-RI.</p>
+<p>In 2025, we were also able to benefit from collaborations with Bendemeer
+Secondary, SAJC, CJC, Northlight and Raffles Institution.</p>
 <p>Students were given the autonomy to choose which workshops they would
 like to sign up for and can choose up to two workshops. The programme will
 culminate in the students sharing what they have learnt from the programme.
@@ -33,9 +30,6 @@ Through this programme, we hope that our students find their X-factor and
 are motivated to learn in school.</p>
 <p><strong><u>Snapshots of the various Interest Groups</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ignite2024_1.jpg">
-</div>
 <p></p>
 <p>Fashion Design is one of the workshops offered to our students.</p>
 <p></p>
