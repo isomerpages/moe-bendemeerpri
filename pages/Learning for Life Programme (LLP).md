@@ -8,8 +8,9 @@ description: ""
 <p>Our Learning for Life programme (LLP) entitled Bendemeer’s TEMPO, is designed
 to foster a love for music and performing arts, personal growth and positive
 relationships.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_2025_1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chart.jpg">
 </div>
 <p>Grounded in Positive Education principles, our programme aims to develop
 students’ strengths, resilience and well-being. Through music and performing
