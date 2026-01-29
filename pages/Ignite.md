@@ -34,43 +34,43 @@ are motivated to learn in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IGNITE/Girls_Football.jpg">
 </div>
-<p><strong>Our girls training hard during a session of Girls’ Football. Thanks to Bendemeer Secondary and Football Association- Football is offered to both girls and boys.</strong>
+<p style="text-align:center;"><strong>Our girls training hard during a session of Girls’ Football. Thanks to Bendemeer Secondary and Football Association- Football is offered to both girls and boys.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Math_Board_Game.jpg">
 </div>
-<p><strong><em>Teamwork is cultivated through group activities in Math Board Games.</em></strong>
+<p style="text-align:center;"><strong><em>Teamwork is cultivated through group activities in Math Board Games.</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Japanese.jpg">
 </div>
-<p><strong><em>Students are all smiles as they learnt the basics of speaking Japanese.</em></strong>
+<p style="text-align:center;"><strong><em>Students are all smiles as they learnt the basics of speaking Japanese.</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Shoot_and_Tell.jpg">
 </div>
-<p><strong><em>They learnt the fundamentals of videography in Shoot and Tell.</em></strong>
+<p style="text-align:center;"><strong><em>They learnt the fundamentals of videography in Shoot and Tell.</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Science_Workshop.jpg">
 </div>
-<p><strong>Peering into the wonderful world of Science during the Creative Science Workshop.</strong>
+<p style="text-align:center;"><strong>Peering into the wonderful world of Science during the Creative Science Workshop.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Learning_Journal.jpg">
 </div>
-<p><strong><em>Students were happy to share their IGNITE Learning Journal at Innovation Day.</em></strong>
+<p style="text-align:center;"><strong><em>Students were happy to share their IGNITE Learning Journal at Innovation Day.</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Water_Polo.jpg">
 </div>
-<p><strong><em>Our students making a splash during Water Polo thanks to Raffles Institution’s Water Polo Team.</em></strong>
+<p style="text-align:center;"><strong><em>Our students making a splash during Water Polo thanks to Raffles Institution’s Water Polo Team.</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IGNITE/Arduino_Coding.jpg">
 </div>
-<p><strong>Our P6s learnt about Arduino Coding thanks to the wonderful guidance from the STEM club at Catholic Junior College.</strong>
+<p style="text-align:center;"><strong>Our P6s learnt about Arduino Coding thanks to the wonderful guidance from the STEM club at Catholic Junior College.</strong>
 </p>
 <p></p>
