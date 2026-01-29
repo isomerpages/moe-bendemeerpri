@@ -6,15 +6,14 @@ description: ""
 ---
 <h2>Learning for Life Programme (LLP) - Bendemeer’s TEMPO</h2>
 <p>Our Learning for Life programme (LLP) entitled Bendemeer’s TEMPO, is designed
-to foster a love for music and the performing arts, personal growth and
-positive relationships.</p>
-<p></p>
+to foster a love for music and performing arts, personal growth and positive
+relationships.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_2025_1.jpg">
 </div>
 <p>Grounded in Positive Education principles, our programme aims to develop
 students’ strengths, resilience and well-being. Through music and performing
-arts education, we inculcate the school values of ASPIRE.</p>
+arts education, we inculcate the school values of ‘ASPIRE’.</p>
 <p>Each letter in the word TEMPO represents the cornerstones of the programme
 as shown below:</p>
 <table style="minWidth: 50px">
@@ -27,11 +26,10 @@ as shown below:</p>
 <th rowspan="1" colspan="1">
 <h3>T</h3>
 </th>
-<th rowspan="1" colspan="1">
-<p>Talent Development: This reflects the programme’s focus on nurturing individual
-talents, especially in the second tier, where specialized training and
-mentorship are provided for students with deeper passion and skills.</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Talent Development: This reflects the programme’s focus on nurturing individual talents, especially in the second tier, where specialized training and mentorship are provided for students with deeper passion and skills.</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,15 +69,15 @@ mentorship are provided for students with deeper passion and skills.</p>
 </tr>
 </tbody>
 </table>
-<p>Bendemeer’s TEMPO adopts a <strong>2-tiered approach</strong> towards enhancement
+<p>Bendemeer’s TEMPO adopts a <strong>2-tiered approach </strong>towards enhancement
 of Music and Performing Arts opportunities.</p>
-<p><strong>‘Music and Performing Arts for All’ </strong>provides a foundational
+<p>‘<strong>Music and Performing Arts for All</strong>’ provides a foundational
 tier, offering inclusive and engaging music and performing arts experiences
 for every student, regardless of background or skill level. This first
 tier focuses on developing music and performing arts awareness, appreciation
 and basic musical and performing arts skills.</p>
-<p>The second tier,<strong> ‘Music and Performing Arts for Life’</strong>,
-offers specialised training and mentorship for students who demonstrate
+<p>The second tier, ‘<strong>Music and Performing Arts for Life</strong>’,
+offers specialized training and mentorship for students who demonstrate
 a deeper passion and talent for music and the performing arts. This tier
 nurtures advanced skills, creativity and performance excellence, preparing
 students for a lifelong journey of musical and performing arts exploration
