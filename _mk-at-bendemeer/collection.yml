@@ -2,11 +2,11 @@ collections:
   mk-at-bendemeer:
     output: true
     order:
-      - MK Experience/.keep
       - Latest Annoucements.md
       - About MK@Bendemeer.md
       - MK Team.md
       - Registration and Fees.md
       - MK Environment.md
+      - MK Experience/.keep
       - KCare at Bendemeer.md
       - Video & Photo Gallery.md
