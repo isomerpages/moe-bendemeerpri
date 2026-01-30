@@ -50,9 +50,8 @@ and inventive thinking, and effective communication skills.</p>
 to enrich students’ learning in authentic settings. This included the hydroponics
 programme, through which the P3 students learnt a sustainable way to grow
 vegetables in a land-scarce country like Singapore.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/new_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Collage_Instagram_Post.png">
 </div>
 <p>The department also infused Environment Education elements into the Science
 curriculum with the aim of deepening conceptual understanding and promoting
@@ -63,7 +62,7 @@ the need to conserve mangroves, and the different forms of plant and animal
 adaptation in the mangrove community, among other learning objectives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/science_LJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetic_Cosmetic_Brand_Photo_Collage_Your_Story.jpg">
 </div>
 <h5>Resources</h5>
 <p>The school has two science laboratories that are fully equipped with apparatus
@@ -79,5 +78,5 @@ for the students.</p>
 <h5>Useful Links</h5>
 <p>How Stuff Works -&nbsp;<a href="http://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.howstuffworks.com</a> 
 <br>National Geographic kids -&nbsp;<a href="http://video.nationalgeographic.com/video/kids/" rel="noopener noreferrer nofollow" target="_blank">http://video.nationalgeographic.com/video/kids/</a> 
-<br>National Geographic channel -&nbsp;<a href="http://video.nationalgeographic.com/video/national-geographic-channel" rel="noopener noreferrer nofollow" target="_blank">http://video.nationalgeographic.com/video/national-geographic-channel</a> 
+<br>National Geographic channel -&nbsp;<a href="http://video.nationalgeographic.com/video/national-geographic-channel" rel="noopener noreferrer nofollow" target="_blank">http://video.nationalgeographic.com/video/national-geographic-channel</a>
 </p>
