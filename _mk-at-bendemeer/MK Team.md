@@ -5,10 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h3>Team MK @ Bendemeer</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="nasreennasir" src="https://file.for.edu.sg/nasreennasir.JPG">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MK/Team/Nasreen.jpg">
 </div>
-<p>MS NASREEN NASER, DEPUTY CENTRE HEAD</p>
+<p>MS NASREEN NASER
+<br>DEPUTY CENTRE HEAD</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -19,21 +31,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="nurraihaini" src="https://file.for.edu.sg/nurraihaini.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Team/Raihani.jpg">
 </div>
 <p>MS NUR RAIHANI ABDUL AZIZ
-<br>ENGLISH LANGUAGE TEACHER</p>
+<br>SENIOR TEACHER (ENGLISH LANGUAGE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="haslina" src="https://file.for.edu.sg/haslina.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Team/Haslina.jpg">
 </div>
 <p>MS NHUR HASLINA SARFRAZUL AMEEN
 <br>ENGLISH LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="aldrain" src="https://file.for.edu.sg/aldrain.JPG">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/MK/Team/Aldrian.jpg">
 </div>
 <p>MR ALDRIAN FERNANDEZ
 <br>ENGLISH LANGUAGE TEACHER</p>
@@ -51,23 +63,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/DSC_7500.jpg">
-</div>
-<p>Ms ANDREA-LYE SHU YUIN
-<br>ENGLISH LANGUAGE TEACHER</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="misyaumaira" src="https://file.for.edu.sg/misyaumaira.JPG">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/Team/Misya.jpg">
 </div>
 <p>MS MISYA UMAIRA
 <br>ENGLISH LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ghayathri" src="https://file.for.edu.sg/ghayathri.JPG">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/Team/Ghayathri.jpg">
 </div>
 <p>MS GHAYATHRI ARIVU SELVAM
+<br>ENGLISH LANGUAGE TEACHER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS ANDREA-LYE SHU YUIN
 <br>ENGLISH LANGUAGE TEACHER</p>
 </td>
 </tr>
