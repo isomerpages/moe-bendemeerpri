@@ -62,7 +62,7 @@ KWL and Retelling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p style="text-align:center;">Different learning station activities and games help cultivate a love
+<p>Different learning station activities and games help cultivate a love
 for the language.</p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella5.jpg">
 </div>
-<p style="text-align:center;">Texts that spark critical thinking and connect to real-world issues —
+<p>Texts that spark critical thinking and connect to real-world issues —
 our students engaging in a meaningful discussion on the ‘Paralympic Games’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -81,7 +81,7 @@ our students engaging in a meaningful discussion on the ‘Paralympic Games’.<
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/Stella7.jpg">
 </div>
-<p style="text-align:center;">Our students engaged in activities that encourage and inspire the love
+<p>Our students engaged in activities that encourage and inspire the love
 for English. Students made sandwiches in class and wrote about their experience.</p>
 <h5>Reading</h5>
 <p>Reading is crucial to a child’s success across all contexts in school.
@@ -118,7 +118,7 @@ building and student-student relationship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p style="text-align:center;">Our students enjoying a good book in our school library.</p>
+<p>Our students enjoying a good book in our school library.</p>
 </td>
 </tr>
 </tbody>
@@ -236,7 +236,7 @@ their writing.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p style="text-align:center;">Writing is so much fun in Bendemeer!</p>
+<p>Writing is so much fun in Bendemeer!</p>
 </td>
 </tr>
 </tbody>
@@ -273,11 +273,22 @@ their writing.&nbsp;</p>
 </p>
 <p></p>
 <h5><strong>A Pocketful of Phrases</strong></h5>
-<p>The EL department has also come up wit a compilation of useful words and
-phrases for students to widen their vocabulary for speech and writing.</p>
+<p>The EL department has also come up with a compilation of useful words
+and phrases for students to widen their vocabulary for speech and writing.</p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 25%;" height="auto" width="100%" alt="" src="/images/EL/Pocketful_of_Phrases__P4_to_P6_.png">
-</div><br><br><br><br><br><br><br><br><br>
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/EL/Pocketful_of_Phrases__P4_to_P6_.png">
+</div>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 <p>A Pocketful of Phrases (P4 to P6)</p>
 <h5><strong>Oracy</strong></h5>
 <p>The objectives of the Bendemeer Oracy Programme are to build confident
@@ -295,7 +306,7 @@ strategies, according to the purpose, audience, context and culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL/Oracy3.jpg">
 </div>
-<p style="text-align:center;">Learning oracy through fun and authentic ways!
+<p>Learning oracy through fun and authentic ways!
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -329,18 +340,18 @@ during the lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/BookCharacter2.jpg">
 </div>
-<p style="text-align:center;">Students were encouraged to do a book talk on their character and promote
+<p>Students were encouraged to do a book talk on their character and promote
 the books.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/BookCharacter3.jpg">
 </div>
-<p style="text-align:center;">Students and teachers all caught up in the fun of dressing up as characters.</p>
+<p>Students and teachers all caught up in the fun of dressing up as characters.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/BookCharacter4.jpg">
 </div>
-<p style="text-align:center;">Our students and School Leaders looking resplendent in their costumes
+<p>Our students and School Leaders looking resplendent in their costumes
 on Come as a Book Character Day.</p>
 <h5><strong><u>Superspeaker Programme</u></strong></h5>
 <p>The EL Department aims to build a culture of communication and conversation
