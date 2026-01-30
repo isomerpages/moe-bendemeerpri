@@ -133,46 +133,10 @@ Maker activity using the various activities from the Maker’s cart.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(30).jpg">
 </div>
-<p><strong>Staff PD in Maker Education &amp; Facilitation of Maker’s Activity</strong>
+<p><strong>Our PSG preparing Mother’s Day and Father’s Day cards with students</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/3%20(24).jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/4%20(18).jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/makers_lab_2025_4.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Comb_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Comb_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

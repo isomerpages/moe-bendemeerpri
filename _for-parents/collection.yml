@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Overview.md
       - P1 Parents' Seminar 2026.md
       - Important Information for Primary 1.md
       - Parents Engagement Resources/.keep
