@@ -49,14 +49,13 @@ joyful and meaningful way.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/Outdoor__4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6190467661331287307_y.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6190467661331287307_y.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -67,4 +66,26 @@ joyful and meaningful way.</p>
 </tr>
 </tbody>
 </table>
+<h4>Let’s Find Out</h4>
+<p>Our Let’s Find Out outdoor programme builds on children’s <strong>sense of wonder and curiosity</strong>.
+Children with this disposition express excitement about learning and show
+keen interest in the world around them. They are confident in asking questions
+and enjoy exploring, investigating, and discovering new things.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/sense_of_wonder__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_0568.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6339148150534685847_y.jpg">
+</div>
+<h4>YES Day!</h4>
+<p>Our YES Day programme nurtures children’s <strong>inventiveness</strong> by
+encouraging flexible thinking and creative problem-solving. Children are
+provided with a variety of resources and given the autonomy to choose the
+materials they wish to explore and how they engage with them.</p>
 <p></p>
