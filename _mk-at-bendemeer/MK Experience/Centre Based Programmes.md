@@ -36,15 +36,15 @@ members of society.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/PG9.jpg">
 </div>
 <h4>Cultural Celebrations: Chinese New Year</h4>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dAUvqg_OMEw?si=JTgGxaTotp3FqaMO"></iframe>
 </div>
 <h4>Cultural Celebrations: Hari Raya Aidilfitri</h4>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a5XGBZseBqI?si=ETi-WKo5PmKypJP1"></iframe>
 </div>
 <h4>Cultural Celebrations: Deepavali</h4>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p-Qv4wuQlEE?si=bCz_AAnqtVt6FW7h"></iframe>
 </div>
 <h4>MKReads!</h4>
@@ -74,10 +74,10 @@ language skills and cultivate a genuine joy in reading.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/DSC_2761.jpg">
 </div>
 <p></p>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sm77N8ZPCek?si=GlIxqc5hliWfLKeS"></iframe>
 </div>
-<p><em>A skit of </em><strong><em>Goldilocks and the Three Bears </em></strong><em>performed for our MKReads! Celebration 2024</em>
+<p style="text-align:center;"><em>A skit of </em><strong><em>Goldilocks and the Three Bears </em></strong><em>performed for our MKReads! Celebration 2024</em>
 </p>
 <h4>SSDB</h4>
 <p>Start Small Dream Big <strong>(SSDB) </strong>is an initiative by the Early
@@ -91,31 +91,31 @@ a harmonious and inclusive society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2025_04_29_at_13_27_05__6_.jpg">
 </div>
-<p><em>Children engaging in an obstacle course after learning about the journey of plastic waste.</em>
+<p style="text-align:center;"><em>Children engaging in an obstacle course after learning about the journey of plastic waste.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_5443.jpg">
 </div>
-<p><em>Children roleplaying saving the sea creatures from plastic waste.</em>
+<p style="text-align:center;"><em>Children roleplaying saving the sea creatures from plastic waste.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_9876.jpg">
 </div>
-<p><em>Children sorting plastic into recyclable and non-recyclable materials.</em>
+<p style="text-align:center;"><em>Children sorting plastic into recyclable and non-recyclable materials.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/K2_Celebrates_SSDB_Photos.png">
 </div>
-<p><em>Children prepared and delivered gifts to our partners at </em><strong><em>Down Syndrome Association </em></strong><em>(DSA).</em>
+<p style="text-align:center;"><em>Children prepared and delivered gifts to our partners at </em><strong><em>Down Syndrome Association </em></strong><em>(DSA).</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_2638.jpg">
 </div>
-<p><em>Partnering with</em><strong><em> Early Years Centre </em></strong><em>(EYC) on Earth Day for our sustainability SSDB project.</em>
+<p style="text-align:center;"><em>Partnering with</em><strong><em> Early Years Centre </em></strong><em>(EYC) on Earth Day for our sustainability SSDB project.</em>
 </p>
 <p>We collaborate with a variety of stakeholders to introduce children to
 important topics such as <strong>Inclusivity</strong> and <strong>Sustainability</strong>,
