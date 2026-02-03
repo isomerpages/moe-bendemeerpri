@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4><strong>Open for nominations:</strong></h4>
+<h3><strong>Open for nominations: </strong><br><strong>Inspiring Teacher of English Award, </strong><br><strong>Arif Budiman Malay Language Teacher Award (AGAB) and </strong><br><strong>The Most Inspiring Tamil Teacher Award (MITT)</strong></h3>
 <h4><strong>Inspiring Teacher of English Award 2026</strong></h4>
 <p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are <strong>now open</strong>.&nbsp;
 Presented by the Speak Good English Movement and The Straits Times with
