@@ -48,5 +48,9 @@ members of society.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p-Qv4wuQlEE?si=bCz_AAnqtVt6FW7h"></iframe>
 </div>
 <h4>MKReads!</h4>
-<p></p>
+<p>Our <strong>MKReads! Celebration</strong> celebrates stories and books in
+both English and Mother Tongue Languages. Through dramatizations, storytelling,
+and theatre performances, children develop bilingualism while engaging
+with carefully selected stories. These immersive experiences deepen their
+language skills and cultivate a genuine joy in reading.</p>
 <p></p>
