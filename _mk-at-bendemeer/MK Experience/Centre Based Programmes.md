@@ -35,4 +35,6 @@ members of society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/PG9.jpg">
 </div>
+<h4>Cultural Celebrations: Chinese New Year</h4>
+<p></p>
 <p></p>
