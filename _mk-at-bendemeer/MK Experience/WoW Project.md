@@ -16,19 +16,19 @@ both English and their Mother Tongue Language (MTL).
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6305454918080335265_y.jpg">
 </div>
-<p><em>Children learning how to make slime.</em>
+<p style="text-align:center;"><em>Children learning how to make slime.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6301060118564507437_y.jpg">
 </div>
-<p><em>Children exploring the pigments in a flower.</em>
+<p style="text-align:center;"><em>Children exploring the pigments in a flower.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/58d94163_b429_4d93_b658_4f52f7dbb823.jpg">
 </div>
-<p><em>Children sharing about the Great Pyramid of Giza.</em>
+<p style="text-align:center;"><em>Children sharing about the Great Pyramid of Giza.</em>
 </p>
 <h4>WoW Project (MTL)</h4>
 <p></p>
