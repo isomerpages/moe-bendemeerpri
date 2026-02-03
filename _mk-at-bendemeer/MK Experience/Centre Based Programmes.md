@@ -74,3 +74,11 @@ language skills and cultivate a genuine joy in reading.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/DSC_2761.jpg">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sm77N8ZPCek?si=GlIxqc5hliWfLKeS"></iframe>
+</div>
+<p><em>A skit of </em><strong><em>Goldilocks and the Three Bears </em></strong><em>performed for our MKReads! Celebration 2024</em>
+</p>
+<h4>SSDB</h4>
+<p></p>
+<p></p>
