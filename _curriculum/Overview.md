@@ -55,7 +55,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/DSB09868.jpg">
 </div>
-<p><a href="/curriculum/CCE/overview" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
+<p><a href="/curriculum/cce/overview/" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
