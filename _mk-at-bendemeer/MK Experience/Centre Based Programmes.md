@@ -80,5 +80,43 @@ language skills and cultivate a genuine joy in reading.</p>
 <p><em>A skit of </em><strong><em>Goldilocks and the Three Bears </em></strong><em>performed for our MKReads! Celebration 2024</em>
 </p>
 <h4>SSDB</h4>
+<p>Start Small Dream Big <strong>(SSDB) </strong>is an initiative by the Early
+Childhood Development Agency (ECDA) that encourages preschoolers to engage
+in community service projects. Through SSDB, children cultivate empathy,
+respect for diversity, and a strong sense of community responsibility.
+These experiences help to develop the values and global mindset needed
+for children to become thoughtful citizens who actively contribute to building
+a harmonious and inclusive society.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2025_04_29_at_13_27_05__6_.jpg">
+</div>
+<p><em>Children engaging in an obstacle course after learning about the journey of plastic waste.</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_5443.jpg">
+</div>
+<p><em>Children roleplaying saving the sea creatures from plastic waste.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_9876.jpg">
+</div>
+<p><em>Children sorting plastic into recyclable and non-recyclable materials.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/K2_Celebrates_SSDB_Photos.png">
+</div>
+<p><em>Children prepared and delivered gifts to our partners at </em><strong><em>Down Syndrome Association </em></strong><em>(DSA).</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_2638.jpg">
+</div>
+<p><em>Partnering with</em><strong><em> Early Years Centre </em></strong><em>(EYC) on Earth Day for our sustainability SSDB project.</em>
+</p>
+<p>We collaborate with a variety of stakeholders to introduce children to
+important topics such as <strong>Inclusivity</strong> and <strong>Sustainability</strong>,
+helping them develop awareness and understanding of the world around them.</p>
