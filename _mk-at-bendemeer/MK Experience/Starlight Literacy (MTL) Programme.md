@@ -20,4 +20,31 @@ such as Big Books, songs, games, and interactive learning experiences.</p>
 <p>The programme <strong>strengthens listening, speaking, and early literacy skills</strong>,
 fostering bilingualism and cultural appreciation while supporting a smooth
 transition to primary school.</p>
+<h4>Starlight Literacy (CL)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2025_04_03_at_11_04_24_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2026_01_20_at_4_26_29_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/editedCL.jpg">
+</div>
+<h4>Starlight Literacy (TL)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2025_04_02_at_13_25_34__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2025_02_12_at_13_49_22.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/WhatsApp_Image_2025_03_10_at_15_22_40.jpg">
+</div>
+<p></p>
 <p></p>
