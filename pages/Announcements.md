@@ -5,12 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4><strong>Open for nominations: </strong></h4>
+<h4><strong>Open for nominations:</strong></h4>
 <h4><strong>Inspiring Teacher of English Award 2026</strong></h4>
 <p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are <strong>now open</strong>.&nbsp;
 Presented by the Speak Good English Movement and The Straits Times with
 the support of the Ministry of Education, the Award has two categories
 – the Teaching Award and the Leadership Award.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English.jpg">
+</div>
 <p>The Award is open to all in-service teachers of English Language, including
 teachers of Literature in English and General Paper. All students, their
 parents, and teachers are invited to send in nominations for the Teaching
@@ -33,6 +37,9 @@ to affirm their contributions to the teaching of Malay Language.</p>
 <p>👉 <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
 get started.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGAB_2026_Poster.jpg">
+</div>
 <h4><strong>The Most Inspiring Tamil Teacher Award (MITT) 2026</strong></h4>
 <p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
 jointly organised by the Tamil Murasu ™ with the partnership of the Tamil
@@ -45,8 +52,12 @@ in our schools.</p>
 <p>👉 <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
 get started.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__MITT_2026_Poster.jpg">
+</div>
 <hr>
 <p></p>
+<hr>
 <p>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
