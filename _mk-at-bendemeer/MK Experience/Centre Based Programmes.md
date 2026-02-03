@@ -10,4 +10,29 @@ in line with our vision of building a gracious community of passionate
 learners and confident leaders who contribute back to the community.</p>
 <p>The vision aligns closely with our school’s Motto, <strong>‘Today’s learners, Tomorrow’s leaders.”</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Nasreen_with_MK.jpg">
+</div>
+<p>Through the diverse learning experiences at MK@Bendemeer, our children
+develop into critical thinkers who understand the world around them. They
+grow not only in competence, but also in character—grounded in strong values
+and equipped with the dispositions of lifelong learners.</p>
+<h4>Cultural Celebrations</h4>
+<p>Our festive celebrations and immersion in the major cultural celebration
+provides an avenue for our children to deepen their knowledge and develop
+their appreciation towards Singapore's diverse cultural heritage whilst
+instilling core values that shape them into compassionate, contributing
+members of society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/PG3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/Deepavali_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/PG9.jpg">
+</div>
 <p></p>
