@@ -49,27 +49,37 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/DSC07757.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Environment/hl.jpg">
+</div>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image 1" src="/images/music%20and%20movement%20room.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_9328.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image 2" src="/images/musicandmovementroom.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6161481614245351854_y.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image 3" src="/images/musicandmovementroom2.jpeg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/WhatsApp_Image_2025_09_16_at_15_00_31__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image 4" src="/images/musicandmovement3.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
