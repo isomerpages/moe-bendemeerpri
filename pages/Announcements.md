@@ -5,28 +5,18 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4><strong>Open for nominations: </strong><br><strong>President’s Award for Teachers (PAT)</strong> and <strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
-<p>Every year, the <strong>President’s Award for Teachers (PAT)</strong> and
-the <strong>Outstanding Youth in Education Award (OYEA)</strong> are given
-out to teachers in Singapore to recognise their professional excellence.</p>
-<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
-will <strong>close on Friday, 9 January 2026</strong>. Submit your nomination(s)
-for one or more deserving teacher(s) by clicking on the URLs or scanning
-the QR codes below. Your nomination(s) will be a source of encouragement
-for the teacher(s).</p>
-<p>👉 <a href="https://form.gov.sg/68ae474d09f68097e77beda3" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for PAT]</u></a> or <strong>scan the QR code below</strong> to
-get started.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT_Banner.jpg">
-</div>
-<p>👉 <a href="https://form.gov.sg/68ae5a5dd7758bf48048b574" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for OYEA]</u></a> or <strong>scan the QR code below</strong> to
-get started.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA_Banner.jpg">
-</div>
-<p>
-<br>
-</p>
+<h4><strong>Open for nominations: </strong><br><strong>Inspiring Teacher of English Award</strong></h4>
+<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are <strong>now open</strong>.&nbsp;
+Presented by the Speak Good English Movement and The Straits Times with
+the support of the Ministry of Education, the Award has two categories
+– the Teaching Award and the Leadership Award.&nbsp;</p>
+<p>Please click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download nomination forms for the Teaching Award. The Award is open to
+all in-service teachers of English Language, including teachers of Literature
+in English and General Paper. All students, their parents, and teachers
+are invited to send in nominations for the Teaching Award to the Principal
+of the nominee’s school by <strong>6 p.m. on Monday, 23 March 2026</strong>.&nbsp;</p>
+<p>Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <hr>
 <h4><strong>Open for nominations: Caring Teachers Awards (CTA)</strong></h4>
 <p>The<strong> Caring Teacher Awards (CTA) </strong>celebrate educators who
