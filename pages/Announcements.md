@@ -58,6 +58,7 @@ get started.</p>
 <hr>
 <p></p>
 <hr>
+<h4>Calling All BPS Alumni: Let's Reconnect!</h4>
 <p>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
