@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4><strong>Open for nominations: Inspiring Teacher of English Award 2026</strong></h4>
+<h4><strong>Open for nominations: </strong></h4>
+<h4><strong>Inspiring Teacher of English Award 2026</strong></h4>
 <p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are <strong>now open</strong>.&nbsp;
 Presented by the Speak Good English Movement and The Straits Times with
 the support of the Ministry of Education, the Award has two categories
@@ -17,8 +18,8 @@ Award to the Principal of the nominee’s school by <strong>6 p.m. on Monday, 23
 <p>👉 <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">[Click here to download the nomination forms]</a> to
 get started.</p>
 <p>Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
-<hr>
-<h4><strong>Open for nominations: Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
+<p></p>
+<h4><strong>Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
 <p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 is an annual
 award jointly organised by the Malay Language Council, Singapore (MBMS),
 Malay Language Teachers’ Association (PGBM), Berita Harian (BH) and Malay
@@ -32,8 +33,7 @@ to affirm their contributions to the teaching of Malay Language.</p>
 <p>👉 <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
 get started.</p>
 <p></p>
-<hr>
-<h4><strong>Open for nominations: The Most Inspiring Tamil Teacher Award (MITT) 2026</strong></h4>
+<h4><strong>The Most Inspiring Tamil Teacher Award (MITT) 2026</strong></h4>
 <p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
 jointly organised by the Tamil Murasu ™ with the partnership of the Tamil
 Language Learning and Promotion Committee (TLLPC) and the Singapore Tamil
@@ -88,5 +88,4 @@ are any concerns
 <br>
 </p>
 <hr>
-<p></p>
 <p></p>
