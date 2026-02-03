@@ -88,4 +88,19 @@ and enjoy exploring, investigating, and discovering new things.</p>
 encouraging flexible thinking and creative problem-solving. Children are
 provided with a variety of resources and given the autonomy to choose the
 materials they wish to explore and how they engage with them.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ggnTe3CWOV8"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/choosing.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6100222422688057707_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/edited.jpg">
+</div>
 <p></p>
