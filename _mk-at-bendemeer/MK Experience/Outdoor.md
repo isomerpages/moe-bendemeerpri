@@ -111,6 +111,8 @@ materials they wish to explore and how they engage with them.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ggnTe3CWOV8"></iframe>
 </div>
+<p><em>Children enjoying a combined YES Day with their friends from other classes.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/choosing.jpg">
@@ -123,5 +125,40 @@ materials they wish to explore and how they engage with them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/edited.jpg">
 </div>
+<h4>Structured Play</h4>
+<p>Our Structured Play programme helps children develop <strong>perseverance</strong> as
+they work towards completing tasks despite challenges. Through teacher-directed
+games and activities such as skill-focused relays and group games with
+rules, children learn to stay engaged and resilient. Structured Play may
+also serve as an extension of our HI-Light activities.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D5hw6Zzf3Lc"></iframe>
+</div>
+<p><em>Children learning the skill of leaping from their HI-Light lesson.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/DSC06910__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6179178696276033453_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/6.jpg">
+</div>
+<p></p>
+<h4>Unstructured Play</h4>
+<p>Unstructured Play involves a balance of teacher- and child-directed experiences,
+where teachers provide materials and a broad theme for exploration. Through
+this programme, children develop <strong>appreciation</strong> as they work
+collaboratively, learn from one another, and recognise that everyone has
+ideas to contribute.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iqSiesaOVp4"></iframe>
+</div>
+<p><em>Children building a luggage conveyor belt during Loose Parts Play.</em>
+</p>
 <p></p>
 <p></p>
