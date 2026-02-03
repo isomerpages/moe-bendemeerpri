@@ -167,36 +167,23 @@ variant: tiptap
 </tbody>
 </table>
 <h3>MK Exploration Space</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mkopenspace.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6100222422688057728_y.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mkopenspace4.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/701f5e0e_0e19_4517_b8c8_750d018a80c9.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mkopenspece3.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6273660417645593665_y.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mkopenspace2.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1246.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/mk1405254954edited.jpg">
+</div>
 <p></p>
