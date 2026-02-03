@@ -5,47 +5,60 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
-<h4><strong>Open for nominations: </strong><br><strong>President’s Award for Teachers (PAT)</strong> and <strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
-<p>Every year, the <strong>President’s Award for Teachers (PAT)</strong> and
-the <strong>Outstanding Youth in Education Award (OYEA)</strong> are given
-out to teachers in Singapore to recognise their professional excellence.</p>
-<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
-will <strong>close on Friday, 9 January 2026</strong>. Submit your nomination(s)
-for one or more deserving teacher(s) by clicking on the URLs or scanning
-the QR codes below. Your nomination(s) will be a source of encouragement
-for the teacher(s).</p>
-<p>👉 <a href="https://form.gov.sg/68ae474d09f68097e77beda3" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for PAT]</u></a> or <strong>scan the QR code below</strong> to
-get started.</p>
+<h3><strong>Open for nominations: </strong><br><strong>Inspiring Teacher of English Award, </strong><br><strong>Arif Budiman Malay Language Teacher Award (AGAB) and </strong><br><strong>The Most Inspiring Tamil Teacher Award (MITT)</strong></h3>
+<h4><strong>Inspiring Teacher of English Award 2026</strong></h4>
+<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are <strong>now open</strong>.&nbsp;
+Presented by the Speak Good English Movement and The Straits Times with
+the support of the Ministry of Education, the Award has two categories
+– the Teaching Award and the Leadership Award.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English.jpg">
 </div>
-<p>👉 <a href="https://form.gov.sg/68ae5a5dd7758bf48048b574" rel="noopener nofollow" target="_blank"><u>[Click here to submit your nomination for OYEA]</u></a> or <strong>scan the QR code below</strong> to
+<p>The Award is open to all in-service teachers of English Language, including
+teachers of Literature in English and General Paper. All students, their
+parents, and teachers are invited to send in nominations for the Teaching
+Award to the Principal of the nominee’s school by <strong>6 p.m. on Monday, 23 March 2026</strong>.&nbsp;</p>
+<p>👉 <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">[Click here to download the nomination forms]</a> to
 get started.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA_Banner.jpg">
-</div>
-<p>
-<br>
-</p>
-<hr>
-<h4><strong>Open for nominations: Caring Teachers Awards (CTA)</strong></h4>
-<p>The<strong> Caring Teacher Awards (CTA) </strong>celebrate educators who
-exemplify care and compassion in their teaching, going beyond the call
-of duty to nurture the holistic development of their students. These dedicated
-teachers play a vital role in shaping confident, independent, and resilient
-learners who contribute meaningfully to our nation.</p>
-<p>👉 <a href="https://www.cta.nie.edu.sg/" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
+<p>Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
+<p></p>
+<h4><strong>Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
+<p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 is an annual
+award jointly organised by the Malay Language Council, Singapore (MBMS),
+Malay Language Teachers’ Association (PGBM), Berita Harian (BH) and Malay
+Language Learning and Promotion Committee (MLLPC).</p>
+<p>This award recognises outstanding Malay Language teachers who have made
+significant contributions to the teaching and learning of the Malay Language
+in our schools.</p>
+<p>The closing date for nominations is <strong>Friday, 13 March 2026</strong>.
+All are invited to nominate our Malay Language teachers for this award
+to affirm their contributions to the teaching of Malay Language.</p>
+<p>👉 <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
 get started.</p>
-<p>For step-by-step instructions, please refer to the <strong><a href="/files/CTA_2026_Administrator_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">CTA Administrator Guide</a></strong> on
-how to start nominating.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGAB_2026_Poster.jpg">
 </div>
-<p>
-<br>
-</p>
+<h4><strong>The Most Inspiring Tamil Teacher Award (MITT) 2026</strong></h4>
+<p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
+jointly organised by the Tamil Murasu ™ with the partnership of the Tamil
+Language Learning and Promotion Committee (TLLPC) and the Singapore Tamil
+Teachers’ Union (STTU).</p>
+<p>This award recognises outstanding Tamil language teachers who have made
+significant contributions to the teaching and learning of Tamil language
+in our schools.</p>
+<p>The closing date for nominations is <strong>Friday, 13 March 2026</strong>.</p>
+<p>👉 <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
+get started.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__MITT_2026_Poster.jpg">
+</div>
 <hr>
 <p></p>
+<hr>
+<h4>Calling All BPS Alumni: Let's Reconnect!</h4>
 <p>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
@@ -87,5 +100,4 @@ are any concerns
 <br>
 </p>
 <hr>
-<p></p>
 <p></p>
