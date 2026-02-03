@@ -72,17 +72,37 @@ Children with this disposition express excitement about learning and show
 keen interest in the world around them. They are confident in asking questions
 and enjoy exploring, investigating, and discovering new things.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/sense_of_wonder__4_.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/IMG_0568.jpg">
 </div>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6339148150534685847_y.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>YES Day!</h4>
 <p>Our YES Day programme nurtures children’s <strong>inventiveness</strong> by
 encouraging flexible thinking and creative problem-solving. Children are
@@ -93,14 +113,15 @@ materials they wish to explore and how they engage with them.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/choosing.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/choosing.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6100222422688057707_y.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/photo_6100222422688057707_y.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Experience/edited.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Experience/edited.jpg">
 </div>
+<p></p>
 <p></p>
