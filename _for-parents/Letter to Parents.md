@@ -27,8 +27,7 @@ learning, well-being, and growth at BPS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2a__2026_1_T1_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 1</a>
-</p>
-<p><a href="/files/2b__2026_1_T1_Parents_Letter_Appendix___Traffic_Police_Letter_of_Advisory__Bendemeer_Pri_.pdf" rel="noopener nofollow" target="_blank">Traffic Police Letter of Advisory</a>
+<br><a href="/files/2b__2026_1_T1_Parents_Letter_Appendix___Traffic_Police_Letter_of_Advisory__Bendemeer_Pri_.pdf" rel="noopener nofollow" target="_blank">Traffic Police Letter of Advisory</a>
 </p>
 </td>
 </tr>
