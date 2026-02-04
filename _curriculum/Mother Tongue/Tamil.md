@@ -75,11 +75,9 @@ of Deepavali. At the same time, the programme celebrates and encourages
 students’ successes and achievements, fostering confidence and a strong
 sense of belonging within the school community.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Deepavali25.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <hr>
