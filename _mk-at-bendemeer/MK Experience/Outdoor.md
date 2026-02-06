@@ -109,10 +109,10 @@ and enjoy exploring, investigating, and discovering new things.</p>
 encouraging flexible thinking and creative problem-solving. Children are
 provided with a variety of resources and given the autonomy to choose the
 materials they wish to explore and how they engage with them.</p>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ggnTe3CWOV8"></iframe>
 </div>
-<p><em>Children enjoying a combined YES Day with their friends from other classes.</em>
+<p style="text-align:center;"><em>Children enjoying a combined YES Day with their friends from other classes.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -132,10 +132,10 @@ they work towards completing tasks despite challenges. Through teacher-directed
 games and activities such as skill-focused relays and group games with
 rules, children learn to stay engaged and resilient. Structured Play may
 also serve as an extension of our HI-Light activities.</p>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D5hw6Zzf3Lc"></iframe>
 </div>
-<p><em>Children learning the skill of leaping from their HI-Light lesson.</em>
+<p style="text-align:center;"><em>Children learning the skill of leaping from their HI-Light lesson.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -156,10 +156,10 @@ where teachers provide materials and a broad theme for exploration. Through
 this programme, children develop <strong>appreciation</strong> as they work
 collaboratively, learn from one another, and recognise that everyone has
 ideas to contribute.</p>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iqSiesaOVp4"></iframe>
 </div>
-<p><em>Children building a luggage conveyor belt during Loose Parts Play.</em>
+<p style="text-align:center;"><em>Children building a luggage conveyor belt during Loose Parts Play.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
