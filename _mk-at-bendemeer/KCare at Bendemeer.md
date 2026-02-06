@@ -71,7 +71,7 @@ of engaging modular activities, such <strong>as cookery, music and movement, dra
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/K Care/photo_6321146559621434932_y.jpg">
 </div>
-<h4>Arts and Craft Modular</h4>
+<h4>Art and Craft Modular</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/K Care/Picture5.png">
