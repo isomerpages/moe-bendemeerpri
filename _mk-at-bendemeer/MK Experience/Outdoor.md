@@ -1,7 +1,7 @@
 ---
 title: Outdoor
 permalink: /outdoor/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: MK Experience
 ---
@@ -30,10 +30,11 @@ and environmental awareness.</p>
 </tr>
 </tbody>
 </table>
-<p>Through a spectrum of teacher-guided, teacher-child shared and child-initiated
-learning, MK@Bendemeer fosters learning dispositions from the NEL framework: <strong>Perseverance, Reflectiveness, Appreciation, Inventiveness, a Sense of Wonder, and Engagement. </strong>Outdoor
-learning plays an important role in our curriculum as it nurtures children
-into confident leaders, passionate learners and members of a gracious community.</p>
+<p>Through a spectrum of child-led, teacher-child shared and teacher guided
+activities, MK@Bendemeer fosters learning dispositions from the NEL framework:&nbsp; <strong>Perseverance, Reflectiveness, Appreciation, Inventiveness, a Sense of Wonder, and Engagement</strong> through
+the outdoor .&nbsp;Outdoor learning plays an important role in our curriculum
+as it nurtures children into confident leaders, passionate learners and
+members of a gracious community.</p>
 <h4>Playground &amp; Wheeled Vehicles Time</h4>
 <p>Our Playground and Wheeled Vehicles time focuses on nurturing the disposition
 of <strong>Engagement</strong>, where children are deeply interested and
@@ -108,10 +109,10 @@ and enjoy exploring, investigating, and discovering new things.</p>
 encouraging flexible thinking and creative problem-solving. Children are
 provided with a variety of resources and given the autonomy to choose the
 materials they wish to explore and how they engage with them.</p>
-<div align="middle" class="iframe-wrapper">
+<div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ggnTe3CWOV8"></iframe>
 </div>
-<p style="text-align:center;"><em>Children enjoying a combined YES Day with their friends from other classes.</em>
+<p><em>Children enjoying a combined YES Day with their friends from other classes.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -131,10 +132,10 @@ they work towards completing tasks despite challenges. Through teacher-directed
 games and activities such as skill-focused relays and group games with
 rules, children learn to stay engaged and resilient. Structured Play may
 also serve as an extension of our HI-Light activities.</p>
-<div align="middle" class="iframe-wrapper">
+<div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D5hw6Zzf3Lc"></iframe>
 </div>
-<p style="text-align:center;"><em>Children learning the skill of leaping from their HI-Light lesson.</em>
+<p><em>Children learning the skill of leaping from their HI-Light lesson.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -155,10 +156,10 @@ where teachers provide materials and a broad theme for exploration. Through
 this programme, children develop <strong>appreciation</strong> as they work
 collaboratively, learn from one another, and recognise that everyone has
 ideas to contribute.</p>
-<div align="middle" class="iframe-wrapper">
+<div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iqSiesaOVp4"></iframe>
 </div>
-<p style="text-align:center;"><em>Children building a luggage conveyor belt during Loose Parts Play.</em>
+<p><em>Children building a luggage conveyor belt during Loose Parts Play.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
