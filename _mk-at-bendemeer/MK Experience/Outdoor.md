@@ -30,10 +30,11 @@ and environmental awareness.</p>
 </tr>
 </tbody>
 </table>
-<p>Through a spectrum of teacher-guided, teacher-child shared and child-initiated
-learning, MK@Bendemeer fosters learning dispositions from the NEL framework: <strong>Perseverance, Reflectiveness, Appreciation, Inventiveness, a Sense of Wonder, and Engagement. </strong>Outdoor
-learning plays an important role in our curriculum as it nurtures children
-into confident leaders, passionate learners and members of a gracious community.</p>
+<p>Through a spectrum of child-led, teacher-child shared and teacher guided
+activities, MK@Bendemeer fosters learning dispositions from the NEL framework:&nbsp; <strong>Perseverance, Reflectiveness, Appreciation, Inventiveness, a Sense of Wonder, and Engagement</strong> through
+the outdoor .&nbsp;Outdoor learning plays an important role in our curriculum
+as it nurtures children into confident leaders, passionate learners and
+members of a gracious community.</p>
 <h4>Playground &amp; Wheeled Vehicles Time</h4>
 <p>Our Playground and Wheeled Vehicles time focuses on nurturing the disposition
 of <strong>Engagement</strong>, where children are deeply interested and
