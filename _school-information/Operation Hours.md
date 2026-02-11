@@ -2,6 +2,7 @@
 title: Operation Hours
 permalink: /about-us/School-Information/operation-hours/
 description: ""
+variant: markdown
 ---
 ### OPERATION HOURS
 
@@ -28,7 +29,7 @@ Monday – Friday <br>
 | Levels | Recess Time | Snack Break |
 | --- | --- | --- |
 | Primary 2 &amp; Primary 5 | &nbsp;9.30 a.m. - 10.00 a.m. | 12.00 noon |
-| Primary 1 &amp; Primary 4 | &nbsp;10.00 a.m. - 10.30 a.m. | 12.00 noon <br>\*Additional snack break for P1 at 8.30am |
+| Primary 1 &amp; Primary 4 | &nbsp;10.00 a.m. - 10.30 a.m. | 12.00 noon |
 | Primary 3 &amp; Primary 6 | &nbsp;10.30 a.m. - 11.00 a.m. | 8.30 a.m. |
 
 
