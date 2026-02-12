@@ -10,8 +10,11 @@ description: ""
 valuable opportunity to explore our warm and nurturing learning environment
 and learn how we nurture joyful, curious, and confident learners. Visitors
 will have the chance to meet our dedicated educators, tour our facilities,
-and gain insights into our engaging curriculum. Details for our 2026 MK
-Open House will be shared soon—please stay tuned.</p>
+and gain insights into our engaging curriculum.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Website_Poster.png">
+</div>
+<p></p>
 <hr>
 <p></p>
 <p><strong>Register for MOE Kindergarten</strong>
