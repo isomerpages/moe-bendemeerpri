@@ -200,7 +200,7 @@ growth through workshops, training sessions and collaborative projects
 with the school.</p>
 <p>Be part of the heartbeat of our school! Share your skills, contribute
 your time and make a difference in your child’s school journey!</p>
-<p>To join us, simply complete the online <a href="https://form.gov.sg/5db53f0707f16e00125e7390" rel="noopener nofollow" target="_blank">PSG Application Form [HERE]</a>or
+<p>To join us, simply complete the online <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1mdTHDyyleApZyrGuzWmr6ADWgWeoHq4920xXrMPI2bz92Q/viewform" rel="noopener nofollow" target="_blank">PSG Application Form [HERE]</a>or
 request a hardcopy form from our General Office. Together, let’s make school
 life brighter for every child!</p>
 <p></p>
