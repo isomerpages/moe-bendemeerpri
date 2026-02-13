@@ -4,7 +4,6 @@ permalink: /announcements/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h4><strong>MK@Bendemeer Open House 2026</strong></h4>
 <p>Our MOE Kindergarten (MK) Open House offers parents a valuable opportunity
 to explore our warm and nurturing learning environment and learn how we
