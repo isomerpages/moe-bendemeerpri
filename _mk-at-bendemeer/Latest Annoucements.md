@@ -5,17 +5,19 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p><strong>2026 MK Open House</strong>
-<br>Our<strong> MOE Kindergarten (MK) Open House</strong> offers parents a
-valuable opportunity to explore our warm and nurturing learning environment
-and learn how we nurture joyful, curious, and confident learners. Visitors
-will have the chance to meet our dedicated educators, tour our facilities,
-and gain insights into our engaging curriculum. Details for our 2026 MK
-Open House will be shared soon—please stay tuned.</p>
-<hr>
+<h4><strong>MK@Bendemeer Open House 2026</strong></h4>
+<p>Our MOE Kindergarten (MK) Open House offers parents a valuable opportunity
+to explore our warm and nurturing learning environment and learn how we
+nurture joyful, curious, and confident learners. Visitors will have the
+chance to meet our dedicated educators, tour our facilities, and gain insights
+into our engaging curriculum.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Updated_Website_Poster.jpg">
+</div>
 <p></p>
-<p><strong>Register for MOE Kindergarten</strong>
-</p>
+<hr>
+<h4><strong>Register for MOE Kindergarten</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_04_at_3_15_51_PM.jpg">
 </div>
