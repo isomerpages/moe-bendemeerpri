@@ -12,7 +12,7 @@ nurture joyful, curious, and confident learners. Visitors will have the
 chance to meet our dedicated educators, tour our facilities, and gain insights
 into our engaging curriculum.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Website_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Updated_Website_Poster.jpg">
 </div>
 <p></p>
 <hr>
