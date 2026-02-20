@@ -96,7 +96,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1369.jpg">
 </div>
-<p style="text-align:center;"><strong><em>Taking turns and enjoying the playground activities in a safe and orderly manner</em></strong>
+<p style="text-align:center;"><strong>Taking turns and enjoying the playground activities in a safe and orderly manner</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6179178696276033457_y.jpg">
