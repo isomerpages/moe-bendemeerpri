@@ -96,7 +96,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1369.jpg">
 </div>
-<p><strong><em>Taking turns and enjoying the playground activities in a safe and orderly manner</em></strong>
+<p style="text-align:center;"><strong><em>Taking turns and enjoying the playground activities in a safe and orderly manner</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6179178696276033457_y.jpg">
@@ -117,7 +117,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/mk1405255251.jpg">
 </div>
-<p><strong><em>Showing the value of teamwork</em></strong>
+<p style="text-align:center;"><strong><em>Showing the value of teamwork</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -126,7 +126,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6273660417645593667_y.jpg">
 </div>
-<p><strong><em>Friends helping one-another</em></strong>
+<p style="text-align:center;"><strong><em>Friends helping one-another</em></strong>
 </p>
 <h3>MK Exploration Space</h3>
 <div class="isomer-image-wrapper">
