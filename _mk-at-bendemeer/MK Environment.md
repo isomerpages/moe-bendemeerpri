@@ -2,7 +2,7 @@
 title: MK Environment
 permalink: /mk-at-bendemeer/mk-experience/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>MK@Bendemeer Environment</h3>
 <div class="isomer-image-wrapper">
@@ -85,87 +85,50 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Playground and Wheeled Vehicles Area</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1369.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/b849b5e1_1352_45a9_b716_d4a65a785068.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6282810604955307566_y.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6179178696276033457_y.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Environment/edited.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6282810604955307566_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1369.jpg">
+</div>
+<p style="text-align:center;"><strong>Taking turns and enjoying the playground activities in a safe and orderly manner</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6179178696276033457_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/b849b5e1_1352_45a9_b716_d4a65a785068.jpg">
+</div>
 <h3>Sand and Water Play Area</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Environment/Outdoor__1_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/mk1405255251.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/mk1405255251.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1184.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Environment/mk1405255484edited.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/Outdoor__1_.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p style="text-align:center;"><strong><em>Showing the value of teamwork</em></strong>
+</p>
+
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/IMG_1184.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6273660417645593667_y.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6273660417645593667_y.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/mk1405255484edited.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p style="text-align:center;"><strong><em>Friends helping one-another</em></strong>
+</p>
 <h3>MK Exploration Space</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/MK Environment/photo_6100222422688057728_y.jpg">

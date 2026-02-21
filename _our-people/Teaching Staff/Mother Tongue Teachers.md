@@ -132,18 +132,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Choo Watt Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:choo_watt_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_watt_kian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Wai Kuin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_wai_kuin_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wai_kuin_c@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
