@@ -50,10 +50,6 @@ building memories with your child, and being part of a vibrant school community
 where every student can thrive.</p>
 <h4>PSG Executive Committee</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_06_191035.png">
-</div>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
