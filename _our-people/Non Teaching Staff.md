@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Rabi'ah Binte Mohamad Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_rabiah_mohamad_yazid@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_rabiah_mohamad_yazid@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +225,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gwee_ann_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_ann_soon@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>

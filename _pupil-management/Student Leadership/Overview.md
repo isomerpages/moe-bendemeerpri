@@ -6,19 +6,18 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>STUDENT LEADERSHIP</h3>
-<p><strong>Advisor</strong> 
+<p><strong>Advisor</strong>
+<br>Mr Toh Kim Sing
 <br>Ms Adeline Tan</p>
 <p><strong>Student Leadership Team</strong>
 <br>Mr Luke Goh (Student Leadership Coordinator)
-<br>Mdm Chua Xingrou
 <br>Ms Olivia Pan
-<br>Mr Jerald Tan
-<br>Mrs Vannan
-<br>Mdm He Xueya
-<br>Mdm Farhanah
-<br>Ms Wong Yee Yee
-<br>Ms Nadine Soraya
 <br>Ms Venny Chan
+<br>Ms Wong Yee Yee
+<br>Ms Leong Sue Ning
+<br>Mr Praven Raj
+<br>Mr Tay Zhi Qiang
+<br>Mdm Suriyati
 <br>
 </p>
 <p>Good leaders are those who lead others towards the path of growth and
