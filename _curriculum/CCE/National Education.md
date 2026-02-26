@@ -51,7 +51,6 @@ roles in the student leadership of the school. The NE Champs are trained
 to engage the other students during recess time and during the NE Core
 Events. Therefore, they help anchor and spread the NE Citizenship Dispositions
 and exhibit the school values to fellow students and staff.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ne_Champs_2026.jpg">
 </div>
