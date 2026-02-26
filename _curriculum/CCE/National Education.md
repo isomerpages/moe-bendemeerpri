@@ -70,7 +70,6 @@ generation.</p>
 </p>
 <p><strong><u>Total Defence Day Commemoration (TDD) 2026 @BPS</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD_Logo1.jpg">
 </div>
@@ -78,7 +77,6 @@ generation.</p>
 2026. The theme this year was, “Together We Keep Singapore Strong”. Our
 school’s focus was on the following NE Dispositions: A Sense of Belonging,
 A Sense of Reality, A Sense of Hope, A Will to Act.</p>
-<p>&nbsp;</p>
 <p>As crises and disruptions become increasingly common, it is important
 for our students to be prepared to respond to the potential disruptions
 in their lives. By experiencing simulations of disruptions to Singapore,
@@ -93,7 +91,6 @@ people.</p>
 <p><em>Although the focus is on Psychological Defence through this disruption, all the 6 pillars of Total Defence were addressed during this commemoration in class or through school-wide activities. This year, the students experienced Power and Digital Connectivity Disruption (Sense of Reality).</em>
 </p>
 <p>Here is a glimpse of the activities we experienced:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
 </div>
@@ -103,8 +100,6 @@ people.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
 </div>
-<p></p>
-<p></p>
 <h4><strong><u>International Friendship Day (IFD) 2025 @ BPS</u></strong></h4>
 <p>&nbsp;The theme this year was “Forging friendships in a Complex World.”
 The ASEAN country in focus was Malaysia. This is a day dedicated to the
