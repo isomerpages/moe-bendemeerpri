@@ -51,6 +51,10 @@ roles in the student leadership of the school. The NE Champs are trained
 to engage the other students during recess time and during the NE Core
 Events. Therefore, they help anchor and spread the NE Citizenship Dispositions
 and exhibit the school values to fellow students and staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ne_Champs_2026.jpg">
+</div>
 <h4><strong><u>Core Events</u></strong></h4>
 <p>Annually schools observe 4 NE commemorative days which have been identified
 as defining moments in Singapore's history.&nbsp; The aim is to entrench
