@@ -68,42 +68,37 @@ generation.</p>
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp; National Day
 <br>
 </p>
-<p><strong><u>Total Defence Day Commemoration (TDD) 2025 @BPS</u></strong>
+<p><strong><u>Total Defence Day Commemoration (TDD) 2026 @BPS</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_1_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD_Logo1.jpg">
 </div>
 <p>Bendemeer Primary School commemorated Total Defence Day (TDD) in February
-2025. The theme this year was, “Together We Keep Singapore Strong”. Our
+2026. The theme this year was, “Together We Keep Singapore Strong”. Our
 school’s focus was on the following NE Dispositions: A Sense of Belonging,
 A Sense of Reality, A Sense of Hope, A Will to Act.</p>
-<p>&nbsp;As crises and disruptions become increasingly common, it is important
+<p>As crises and disruptions become increasingly common, it is important
 for our students to be prepared to respond to the potential disruptions
 in their lives. By experiencing simulations of disruptions to Singapore,
 students will learn:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>How to respond and help one another calmly and responsibly in such circumstances.</p>
-</li>
-<li>
-<p>The importance for everyone in Singapore to be ready to respond to the
-ever-evolving threats and challenges to our nation.</p>
-</li>
-<li>
-<p>How everyone in Singapore can work together and play our part in Total
-Defence, to remain a strong, united and resilient people.</p>
-</li>
-</ul>
-<p><em>Although the focus is on Psychological Defence through this disruption, all the 6 pillars of Total Defence were addressed during this commemoration in class or through school-wide activities. This year, the students experienced Power Disruption (Sense of Reality). They experienced power disruption for 30 minutes.</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;How to respond and help one another calmly and
+responsibly in such circumstances.</p>
+<p>·&nbsp;&nbsp; The importance for everyone in Singapore to be ready to
+respond to the ever-evolving threats and challenges to our nation.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;How everyone in Singapore can work together and
+play our part in Total Defence, to remain a strong, united and resilient
+people.</p>
+<p><em>Although the focus is on Psychological Defence through this disruption, all the 6 pillars of Total Defence were addressed during this commemoration in class or through school-wide activities. This year, the students experienced Power and Digital Connectivity Disruption (Sense of Reality).</em>
 </p>
 <p>Here is a glimpse of the activities we experienced:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
 </div>
 <h4><strong><u>International Friendship Day (IFD) 2025 @ BPS</u></strong></h4>
 <p>&nbsp;The theme this year was “Forging friendships in a Complex World.”
