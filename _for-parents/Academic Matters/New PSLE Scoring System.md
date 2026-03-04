@@ -1,8 +1,9 @@
 ---
 title: New PSLE Scoring System
-permalink: /for-parents/academic-matters/permalink/
+permalink: /our-people/for-parents/academic-matters/psle/
 description: ""
 third_nav_title: Academic Matters
+variant: tiptap
 ---
 New PSLE Scoring System
 -----------------------

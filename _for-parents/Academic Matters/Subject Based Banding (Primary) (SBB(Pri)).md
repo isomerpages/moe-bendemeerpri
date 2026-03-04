@@ -1,8 +1,9 @@
 ---
 title: Subject Based Banding (Primary) (SBB(Pri))
-permalink: /our-people/for-parents/Academic-Matters/sbb/
+permalink: /our-people/for-parents/academic-matters/sbb/
 description: ""
 third_nav_title: Academic Matters
+variant: tiptap
 ---
 ### SUBJECT-BASED BANDING (PRIMARY) \[SBB (PRI)\]
 
