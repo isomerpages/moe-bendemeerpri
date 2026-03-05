@@ -10,7 +10,7 @@ to explore our warm and nurturing learning environment and learn how we
 nurture joyful, curious, and confident learners. Visitors will have the
 chance to meet our dedicated educators, tour our facilities, and gain insights
 into our engaging curriculum.</p>
-<div class="iframe-wrapper">
+<div align="middle" class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PdR4BbqTV7o?si=uL0ssrejlAgzAKbi"></iframe>
 </div>
 <h4><strong>Join us at the Open House for a tour!</strong></h4>
