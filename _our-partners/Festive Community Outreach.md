@@ -33,6 +33,12 @@ family!</p>
 <h4><strong>Deepavali Festive Outreach 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Festive_2025_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Slide1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/Slide2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Our Partners/Slide3.jpg">
 </div>
 <p></p>
