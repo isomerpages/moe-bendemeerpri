@@ -170,7 +170,7 @@ variant: tiptap
 <p></p>
 </li>
 <li>
-<p><strong>2026 P4 Scratch Programme Survey Link:</strong>  <a href="https://tinyurl.com/bendemeerp4" rel="noopener nofollow" target="_blank">Click here.</a>
+<p><strong>P4 Scratch Programme Survey Link:</strong>  <a href="https://tinyurl.com/bendemeerp4" rel="noopener nofollow" target="_blank">Click here.</a>
 </p>
 </li>
 </ol>
