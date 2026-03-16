@@ -11,6 +11,18 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/fault-reporting-form-bps" rel="noopener nofollow" target="_blank">BPS Fault Reporting Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/5e58b50cf64a6600116a0e84" rel="noopener nofollow" target="_blank">Print Plus Quota Request Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/68dceb187a712cc877521b7e" rel="noopener nofollow" target="_blank">BPS iMedia Folder Access Request Form</a>
+</p>
+</li>
+<li>
 <p><a href="https://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
 </p>
 </li>
