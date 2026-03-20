@@ -99,7 +99,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,16 +120,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ng Wai Kuin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wai_kuin_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wai_kuin_c@moe.edu.sg</a> 
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,6 +137,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_mei_ling@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Ng Min Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_min_keong_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_keong_kevin@moe.edu.sg</a>
 </p>
 </td>
 </tr>

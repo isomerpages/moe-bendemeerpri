@@ -97,6 +97,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Ng Min Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_min_keong_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_keong_kevin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Information Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
