@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Min Keong Kevin</p>
+<p>Mr Kevin Ng Min Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_min_keong_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_keong_kevin@moe.edu.sg</a>
