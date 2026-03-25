@@ -152,16 +152,6 @@ to borrow books.</p>
 <p>Storytelling is brought to life with the use of puppets, pop-up books
 and Kamishibai (i.e., story cards). Students are given opportunities to
 do book talks and share their reads with their classmates too.</p>
-<p><u>A student doing a Book Talk in the classroom</u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/5%20(3).jpg">
-</div>
-<p><u>A vibrant Book Talk session in the library</u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="6.jpg" src="/images/6%20(2).jpg">
-</div>
 <p>Through reading circles, students have opportunities to engage in rich
 discussions about their reads with their peers as well. With the use of
 critical literacy books, students are also encouraged to think critically
