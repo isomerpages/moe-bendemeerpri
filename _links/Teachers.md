@@ -23,6 +23,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://core.eon-xr.com/Identity/Account/Login" rel="noopener nofollow" target="_blank">EON XR Portal</a>
+</p>
+</li>
+<li>
 <p><a href="https://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
 </p>
 </li>
