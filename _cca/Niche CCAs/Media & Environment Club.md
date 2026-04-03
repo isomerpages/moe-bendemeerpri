@@ -62,9 +62,46 @@ Our Planet,” will emphasise the power of our daily choices in protecting
 the Earth.</p>
 <p>Through these events, we will learn how conserving water, reducing waste,
 and practising sustainable habits can make a positive difference.</p>
+<h4>World Water Day 2026 - Make Every Drop Count </h4>
+<p>In celebration of World Water Day, our school organised a meaningful and
+engaging programme centred on the theme, <em>“Make Every Drop Count.”</em> The
+aim was to raise students’ awareness of the importance of water conservation
+and to help them understand that water is a precious and limited resource.</p>
+<p>The event began with an informative talk that highlighted the global challenges
+of water scarcity. Students learned that in many parts of the world, people
+do not have easy access to clean water and may need to spend hours collecting
+it for daily use. This helped students reflect on how easily water is often
+taken for granted in our daily lives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD.jpg">
+</div>
+<p>To deepen their understanding, students participated in a water rationing
+exercise conducted during all three recess sessions. During the activity,
+only a limited amount of water was provided for handwashing. Students experienced
+firsthand how to use water sparingly while still maintaining proper hygiene.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WWD_3.jpg">
+</div>
+<p>Our school’s Eco Champs played an important role in guiding their peers
+throughout the exercise. They demonstrated how to use minimal water effectively
+and reminded others to be mindful of their usage. Their leadership helped
+make the activity smooth and meaningful for all.</p>
+<p>Through this hands-on experience, students gained a deeper appreciation
+of water as a valuable resource. The activity reinforced the message that
+small actions, such as turning off taps and using only what is needed,
+can make a big difference.</p>
+<p>The World Water Day programme served as a powerful reminder to all students:
+every drop truly counts. By developing good habits now, we can all play
+a part in conserving water for the future.</p>
 <h4>Earth Day 2025 - Our Power, Our Planet</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SGLWZqYwAEA?si=YV0Um4NZnXhG1qNX"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SGLWZqYwAEA?si=YV0Um4NZnXhG1qNX"></iframe>
 </div>
 <p>In celebration of Earth Day, our school came together under the theme <em>Our Power, Our Planet</em> to
 raise awareness about the importance of renewable energy and caring for
@@ -92,28 +129,6 @@ are working towards a greener future and how they, too, can play a part.</p>
 </div>
 <p>It was a meaningful and educational event that reminded everyone that
 protecting the planet starts with us.</p>
-<h4>World Water Day 2025 - Glacier Preservation</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E038UCd1hCw?si=BhGfm8nSnpd8FHl9"></iframe>
-</div>
-<p>In support of the worldwide <em>World Water Day</em> movement, our school
-focused this year’s theme on <em>Save Our Glaciers</em>. The Media and Environment
-Clubs took the lead by researching glaciers across different continents
-and exploring how global warming has caused them to shrink at an alarming
-rate.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WWD_2025_1.jpg">
-</div>
-<p>Through their presentation, the students shared how the melting of glaciers
-not only threatens ecosystems but also affects human populations that rely
-on glaciers for freshwater and stable climates. Their well-researched findings
-were presented to the whole school, raising awareness about the urgent
-need to protect these vital water sources.</p>
-<p>The event reminded everyone that conserving water and fighting climate
-change are global responsibilities—and it starts with being informed and
-taking small actions in our daily lives.</p>
-<p></p>
 <h4>CDL EcoTrain Learning Journey</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Env_8.jpg">
