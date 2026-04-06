@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><strong>To register with MK@Bendemeer please fill in our waitlist form :</strong>
 </p>
-<p><a href="https://go.gov.sg/waitlist-mk-bendemeer" rel="noopener nofollow" target="_blank">https://go.gov.sg/waitlist-mk-bendemeer </a>
+<p><a href="https://form.gov.sg/6989a4a274986394962c801f" rel="noopener nofollow" target="_blank">https://go.gov.sg/waitlist-mk-bendemeer</a>
 </p>
 <p><strong>You will be contacted once there is suitable vacancy for your child.</strong>
 <br>
