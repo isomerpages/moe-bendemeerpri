@@ -11,6 +11,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf51RS0bpZ5mReBaRTDqxExGwSpFzmVy7N4UDAI8TLRFKwxwg/viewform" rel="noopener nofollow" target="_blank">Feedback for Open Classroom</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/fault-reporting-form-bps" rel="noopener nofollow" target="_blank">BPS Fault Reporting Form</a>
 </p>
 </li>
