@@ -151,10 +151,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norherliza Ab Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norherliza_ab_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norherliza_ab_rahim@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
