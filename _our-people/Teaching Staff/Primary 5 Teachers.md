@@ -99,7 +99,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,6 +116,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farhanah_suratman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farhanah_suratman@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Ng Min Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_min_keong_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_keong_kevin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -142,11 +151,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Ng Min Keong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_min_keong_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_keong_kevin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
