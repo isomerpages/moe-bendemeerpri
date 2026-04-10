@@ -135,34 +135,22 @@ May 2026</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_2026_3.jpg">
 </div>
 <h4>Annual Games Day</h4>
-<p>Our Annual Games Day for 2026 will be conducted on 27 March 2026. All
-Primary 3 to Primary 6 students will get to games and sports events in
-the school.</p>
-<p>Students will be grouped according to their Houses: Rhino (red), Manta
-(blue), Cheetah (yellow) and Eagles (green) to compete in a variety of
-different games and sports events for each level to earn points for their
-respective Houses and medals for themselves. These House points will be
-tabulated to determine the Overall House Champion at the end of the year.</p>
-<p>We hope to provide a platform for our students to exhibit our ASPIRE school
-values through their participation in sporting events and build teamwork
-with students from other classes through these games.</p>
-<p>More details will be shared at a later date.</p>
+<p>Our Annual Games Day took place on Friday 27 March 2026, where our Primary
+3 to 6 students participated in various games and activities displaying
+our ASPIRE values.</p>
+<p>Adhering to the theme <strong><em>Compete with Heart, Play with Integrity, Triumph as a Team</em></strong>,
+the students showed passion and dedication in every activity. They demonstrated
+exceptional sportsmanship and respect for all competitors and celebrated
+victories earned through unity and cooperation.</p>
+<p>The school hall also came alive with vibrant House decorations, created
+collaboratively by teachers and students, culminating in an energetic cheer
+competition where each House displayed remarkable pride and unity.</p>
+<p>Congratulations to <strong>Eagles House</strong> for emerging as this year's
+House Champions! Their success exemplifies the spirit of joyful competition
+and empathetic connection that made this day so memorable.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_5.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PE_2026_7.jpg">
-</div>
 <h4>Primary 5 Cohort Camp</h4>
 <p>As one of the key Student Development Experiences (SDEs) by MOE to achieve
 our CCE learning outcomes, our school will be conducting our P5 Cohort
