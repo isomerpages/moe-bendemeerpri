@@ -6,7 +6,7 @@ third_nav_title: Cyber Wellness
 variant: tiptap
 ---
 <h3>CYBER WELLNESS</h3>
-<h4>What is Cyber Wellness?</h4>
+<h4><strong>What is Cyber Wellness?</strong></h4>
 <p>Cyber Wellness (CW) refers to the positive well-being of Internet users.
 It involves an understanding of online behaviour and awareness of how to
 protect oneself in cyberspace. CW helps students to become responsible
@@ -34,10 +34,11 @@ CW.</p>
 <p>Cyber Wellness is promoted in school through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Termly Assembly Programme</p>
+<p>Assembly Programme every Semester</p>
 </li>
 <li>
-<p>Bite-sized Cyber Wellness Sharing during Pre-assembly</p>
+<p>Termly CW tips for students using the CW Microsite - <a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
+</p>
 </li>
 <li>
 <p>Sharing of CW tips using the TV Messaging System during recess</p>
@@ -46,7 +47,7 @@ CW.</p>
 <p>Leveraging on FTGP as a platform to share key messages in Cyber Wellness</p>
 </li>
 </ul>
-<h4>Cyber Wellness Ambassador Programme @ Bendemeer Primary School</h4>
+<h4><strong>Cyber Wellness Ambassador Programme @ Bendemeer Primary School</strong></h4>
 <h5>Yearly Training for Cyber Wellness Student Ambassadors</h5>
 <p>Primary 3 to Primary 6 students who are selected as the Cyber Wellness
 Student Ambassador (CWSA) of their class attend a training session where
@@ -55,18 +56,44 @@ expected to promote and raise cyber wellness awareness among their peers.
 They actively support the school’s cyber wellness programme in helping
 to conduct and create cyber wellness learning resources such as games,
 puzzles and posters.</p>
+<h4><strong>Achievements </strong></h4>
+<blockquote>
+<p><strong>2025</strong>
+</p>
+</blockquote>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7c9DX0-HRjZYI9TZ0_nX9RmQkIv28xvHXu9ehwUkYjggQck8SgDW9Fksu3ESaj22r8Y585_jcmfeA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<blockquote>
+<p><strong>2024</strong>
+</p>
+</blockquote>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTj_KHvpFNhTq5GWe_q8RkS-HArAeWKC_KAaH3RXjUgnIWa6ovwq5UWeRTaPzqyUN7fd2FcGETkuWXd/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<blockquote>
+<p><strong>2023</strong>
+</p>
+</blockquote>
+<p><a href="https://drive.google.com/file/d/1Ggfnudc1JtHS3lSh_-b6oCSY-1mqER8E/view?usp=drive_link" rel="noopener nofollow" target="_blank">Silver Award in National Cyber Wellness Advocacy Challenge (NCAC) 2023</a>
+</p>
 <h5>Working with Parents</h5>
 <p>Bendemeer Primary School believes that parents play an important role
 in developing their child to be future ready and digitally responsible
 citizen.&nbsp; Parents can look out for our termly Cyber Wellness tips,
 resources and useful links which help to reinforce Cyber Wellness education
 at home. &nbsp;</p>
-<p>&nbsp;Click on the following links to find out more information on Cyber
-Wellness.
-<br>1.&nbsp;<a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
-<br>2.&nbsp;&nbsp;<a href="/files/Cyberthreats%20Tip%20Sheet%202017.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Threats Tip Sheet (PDF)</a>
-<br>3.&nbsp;&nbsp;<a href="/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click on the following links to find out more information on Cyber Wellness.
+<br><a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
+<br><a href="/files/Cyberthreats%20Tip%20Sheet%202017.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Threats Tip Sheet (PDF)</a>
+<br><a href="/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a>
 </p>
+<p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
+</p>
+</li>
+</ul>
 <p><strong>Useful Links</strong>
 </p>
 <p>Health Hub:
