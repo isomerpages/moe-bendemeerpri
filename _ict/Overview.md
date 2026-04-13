@@ -42,8 +42,15 @@ in their learning.</p>
 <td rowspan="1" colspan="1">
 <p>1. Learning parts of the computer – Hardware Awareness
 <br>2. Learning the steps to login to school device &amp; SLS Learning Portal
-<br>3. Introduction to Touch Typing with BBC Bitesize
-<br>4. Microsoft Office Word</p>
+<br>3. Introduction to Touch Typing with BBC Bitesize</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Basic Photography skills using iPad</p>
+</li>
+<li>
+<p>Microsoft Office PowerPoint</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
