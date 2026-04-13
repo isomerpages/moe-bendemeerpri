@@ -65,7 +65,7 @@ at home. &nbsp;</p>
 <p>Click on the following links to find out more information on Cyber Wellness.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
+<p><a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a>
 </p>
 </li>
 <li>
