@@ -56,6 +56,31 @@ expected to promote and raise cyber wellness awareness among their peers.
 They actively support the school’s cyber wellness programme in helping
 to conduct and create cyber wellness learning resources such as games,
 puzzles and posters.</p>
+<h5>Working with Parents</h5>
+<p>Bendemeer Primary School believes that parents play an important role
+in developing their child to be future ready and digitally responsible
+citizen.&nbsp; Parents can look out for our termly Cyber Wellness tips,
+resources and useful links which help to reinforce Cyber Wellness education
+at home. &nbsp;</p>
+<p>Click on the following links to find out more information on Cyber Wellness.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
+</p>
+</li>
+<li>
+<p><a href="/files/Cyberthreats%20Tip%20Sheet%202017.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Threats Tip Sheet (PDF)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
+</p>
+</li>
+</ul>
 <h4><strong>Achievements</strong></h4>
 <blockquote>
 <p><strong>2025</strong>
@@ -85,23 +110,7 @@ puzzles and posters.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTVBY3NBbSPNRDOsvhk5whkZnq_-00NHvNCF1Y3Wo8eYRs8irWBJX5735O4rN9MPyFKZy0yEvugq-gp/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h5>Working with Parents</h5>
-<p>Bendemeer Primary School believes that parents play an important role
-in developing their child to be future ready and digitally responsible
-citizen.&nbsp; Parents can look out for our termly Cyber Wellness tips,
-resources and useful links which help to reinforce Cyber Wellness education
-at home. &nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click on the following links to find out more information on Cyber Wellness.
-<br><a href="/files/Cyber%20Bullying%20Tip%20Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
-<br><a href="/files/Cyberthreats%20Tip%20Sheet%202017.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Threats Tip Sheet (PDF)</a>
-<br><a href="/files/Excessive%20Internet%20Use%20Tip%20sheet_%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a>
-</p>
-<p><a href="https://sites.google.com/moe.edu.sg/bps-cybersmart-hub/home" rel="noopener nofollow" target="_blank">BPS CyberSMART Hub</a>
-</p>
-</li>
-</ul>
+<h5></h5>
 <p><strong>Useful Links</strong>
 </p>
 <p>Health Hub:
