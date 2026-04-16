@@ -28,10 +28,33 @@ learning, well-being, and growth at BPS.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2a__2026_1_T1_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 1</a>
 <br><a href="/files/2b__2026_1_T1_Parents_Letter_Appendix___Traffic_Police_Letter_of_Advisory__Bendemeer_Pri_.pdf" rel="noopener nofollow" target="_blank">Traffic Police Letter of Advisory</a>
-<br><a href="/files/2026_3_T2_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 2</a>
+</p>
+<p>
+<br>
+<br>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 2 Letter to Parents</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026_3_T2_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 2</a>
+</p>
+<p><a href="/files/Parent_Letter_Strategic_Plan_2026_2028_Partnering_for_Your_Childs_Future__24_Mar_2026_.pdf" rel="noopener nofollow" target="_blank">School Strategic Plan 2026–2028: Partnering for Your Child’s Future</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Ter</p>
