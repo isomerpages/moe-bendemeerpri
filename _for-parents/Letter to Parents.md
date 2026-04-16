@@ -47,10 +47,19 @@ learning, well-being, and growth at BPS.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026_3_T2_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 2</a>
 </p>
+<p><a href="/files/World_Water_Day_2026_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">World Water Day 2026 Letter to Parents</a>
+</p>
+<p><a href="/files/2026_Term_2_P3_P5_WA1_and_P6_WA2_Info.pdf" rel="noopener nofollow" target="_blank">Term 2_P3-P5_WA1 and P6 WA2 2026</a>
+</p>
+<p><a href="/files/Letter_to_Parents_P6_Oral_Test_2026.pdf" rel="noopener nofollow" target="_blank">P6 Oral Test_Letter to Parents </a>
+<br><a href="/files/Come_as_a_Book_Character_Day.pdf" rel="noopener nofollow" target="_blank">Come As A Book Character Day 2026</a>
+</p>
 <p><a href="/files/Parent_Letter_Strategic_Plan_2026_2028_Partnering_for_Your_Childs_Future__24_Mar_2026_.pdf" rel="noopener nofollow" target="_blank">School Strategic Plan 2026–2028: Partnering for Your Child’s Future</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
