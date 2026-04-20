@@ -119,7 +119,9 @@ street game.</p>
 about Philippines and the importance of the spirit of friendship and collaboration
 amongst different people.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_20_101035.jpg">
+</div>
 <h4><strong><u>Racial Harmony Day (RHD) 2025 @ BPS</u></strong></h4>
 <p>The theme for this year was “Multicultural Tapestry”. Just like the threads
 in a tapestry, each of us are unique cultural threads in Singapore. In
