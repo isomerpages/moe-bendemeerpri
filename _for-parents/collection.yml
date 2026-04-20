@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Direct School Admission.md
       - P1 Parents' Seminar 2026.md
       - Important Information for Primary 1.md
       - Parents Engagement Resources/.keep
