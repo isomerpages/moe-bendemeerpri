@@ -98,31 +98,31 @@ people.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
 </div>
-<h4><strong><u>International Friendship Day (IFD) 2025 @ BPS</u></strong></h4>
-<p>&nbsp;The theme this year was “Forging friendships in a Complex World.”
-The ASEAN country in focus was Malaysia. This is a day dedicated to the
-understanding of Singapore's relations with neighbouring countries and
-beyond. The commemoration of IFD allowed our students to be sensitised
-to Singapore's geopolitical realities, and to reflect on the importance
-of&nbsp;the spirit of friendship and collaboration amongst different people.</p>
-<p><em>&nbsp;</em>The commemoration began with a presentation by our international
-students on Malaysia and its connectivity to Singapore. The students were
-introduced to the food, traditions, costumes, and customs of Malaysia.
-The students were also involved in making friendship bracelets and bookmarks
-using recycled materials like plastic and paper. The PSG members guided
-the students through these activities. The students also learnt about the
-partnerships that our school has with schools from other countries as part
-of our partnership collaboration. They learnt that friendship can exists
-between friends, schools and even countries. This was a collaboration between
-the NE Champs, International Students and PSG.</p>
+<h4><strong><u>International Friendship Day (IFD) 2026 @ BPS</u></strong></h4>
+<p>In Term 2, we commemorated International Friendship Day with the theme:
+Forging friendships in a Complex World. The ASEAN country in focus was
+Philippines. This is a day dedicated to the understanding of Singapore's
+relations with neighbouring countries and beyond. The commemoration of
+IFD allowed our students to be sensitised to Singapore's geopolitical realities,
+and to reflect on the importance of the spirit of friendship and collaboration
+amongst different people.</p>
+<p>International Friendship Day 2026 commenced with the Pre-assembly presentation,
+informing students of the IFD programme that they could anticipate throughout
+the week. It was followed by assembly programme which is a drama, “Flight”.
+Students learnt more about our neighbour, Philippines, during Aspire meeting
+on Wednesday.</p>
+<p>International Friendship Day 2026 concluded with students enjoying recess
+activities, Craft Corner: Mini “Parol of Friendship” and the main activity:
+“Friendship Tumbang Preso” which is inspired by a traditional Filipino
+street game.</p>
+<p>With the activities that ran throughout the week, students learnt more
+about Philippines and the importance of the spirit of friendship and collaboration
+amongst different people.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_20_101035.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_5.png">
-</div>
 <h4><strong><u>Racial Harmony Day (RHD) 2025 @ BPS</u></strong></h4>
 <p>The theme for this year was “Multicultural Tapestry”. Just like the threads
 in a tapestry, each of us are unique cultural threads in Singapore. In
