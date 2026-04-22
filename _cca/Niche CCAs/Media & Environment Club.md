@@ -71,7 +71,7 @@ environmental awareness in a fun and meaningful way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_5.jpg">
 </div>
-<p><em>Students engaged in a hands-on puzzle activity, uncovering important recycling messages. </em>
+<p><em>Students engaged in a hands-on puzzle activity, uncovering important recycling messages.</em>
 </p>
 <p></p>
 <p>Through these activities, students were taught self-discipline in following
@@ -124,36 +124,7 @@ can make a big difference.</p>
 <p>The World Water Day programme served as a powerful reminder to all students:
 every drop truly counts. By developing good habits now, we can all play
 a part in conserving water for the future.</p>
-<h4>Earth Day 2025 - Our Power, Our Planet</h4>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SGLWZqYwAEA?si=YV0Um4NZnXhG1qNX"></iframe>
-</div>
-<p>In celebration of Earth Day, our school came together under the theme <em>Our Power, Our Planet</em> to
-raise awareness about the importance of renewable energy and caring for
-our environment. The Media and Environment Club kick-started the day with
-an engaging school presentation, educating students on various types of
-renewable energy and how they contribute to a more sustainable future.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_1.jpg">
-</div>
-<p>During recess, students were treated to a fun and interactive puzzle-matching
-game designed by members of the Media and Environment Clubs. The puzzles
-were creatively made from recycled cereal boxes, reinforcing the message
-of reusing materials to reduce waste.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_2.jpg">
-</div>
-<p>In addition, an informative display board showcased how countries such
-as Singapore, Canada, Japan, Sweden, and New Zealand are adopting renewable
-energy practices. Through these visuals, students learned how global communities
-are working towards a greener future and how they, too, can play a part.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earth_Day_2025_3.jpg">
-</div>
-<p>It was a meaningful and educational event that reminded everyone that
-protecting the planet starts with us.</p>
 <h4>CDL EcoTrain Learning Journey</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Env_8.jpg">
