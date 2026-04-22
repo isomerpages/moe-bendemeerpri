@@ -49,20 +49,45 @@ through the main thrusts:</p>
 <p></p>
 </li>
 </ul>
-<h4>Earth Day 2026 <br></h4>
-<p>In 2026, our school will be celebrating two important environmental events,
-World Water Day and Earth Day. It is to remind us of our shared responsibility
-to care for the planet.</p>
-<p>World Water Day, which will be observed on 30 March with the theme “Make
-Every Drop Count,” will highlight how precious water is and remind us that
-some communities around the world face difficulties in accessing clean
-and fresh water.</p>
-<p>Earth Day, which will be celebrated on 22 April with the theme “Our Power,
-Our Planet,” will emphasise the power of our daily choices in protecting
-the Earth.</p>
-<p>Through these events, we will learn how conserving water, reducing waste,
-and practising sustainable habits can make a positive difference.</p>
-<h4>World Water Day 2026 - Make Every Drop Count </h4>
+<h4>Earth Day 2026 - Our Power Our Planet<br></h4>
+<p>In celebration of Earth Day 2026, themed “Our Power, Our Planet,” students
+took part in engaging recess activities facilitated by the school Eco Champs
+to learn how they can care for the environment.</p>
+<p>Through hands-on experiences, students explored the importance of recycling
+and how their daily actions can make a difference. A key activity was a
+recycling sorting game, where students identified items meant for the blue
+recycling bin and learned what can and cannot be recycled.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_1.jpg">
+</div>
+<p><em>Eco Champs in action, guiding their schoolmates on how to recycle right through the sorting game activity.</em>
+</p>
+<p></p>
+<p>Students also completed interactive puzzles that revealed messages on
+reducing waste, reusing materials, and recycling right, deepening their
+environmental awareness in a fun and meaningful way.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_5.jpg">
+</div>
+<p><em>Students engaged in a hands-on puzzle activity, uncovering important recycling messages. </em>
+</p>
+<p></p>
+<p>Through these activities, students were taught self-discipline in following
+correct recycling steps and empathy in understanding how proper recycling
+helps protect the environment for others and future generations.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Earth_6.jpg">
+</div>
+<p><em>Students taking a self-quiz on recycling right, checking their understanding of items that can be recycled into the blue bin.</em>
+</p>
+<p>Earth Day reminds us that each of us has the power to care for our planet,
+and together, we can create a greener future through small but meaningful
+actions such as recycling correctly, reducing waste, and reusing materials.</p>
+<h4>World Water Day 2026 - Make Every Drop Count</h4>
 <p>In celebration of World Water Day, our school organised a meaningful and
 engaging programme centred on the theme, <em>“Make Every Drop Count.”</em> The
 aim was to raise students’ awareness of the importance of water conservation
