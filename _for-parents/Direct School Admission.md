@@ -16,4 +16,4 @@ Office for support.</p>
 <br>🔗 MOE DSA Website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 <br>📄 2026 DSA-Sec Infosheet: <a href="/files/Info_Sheet_on_2026_DSA_Sec_for_Primary_6_Students.pdf" rel="noopener nofollow" target="_blank">2026 DSA-Sec Infosheet</a>
 </p>
-<p>Thank you.</p>
+<p></p>
