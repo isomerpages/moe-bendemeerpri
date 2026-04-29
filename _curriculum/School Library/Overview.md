@@ -173,10 +173,10 @@ literary characters, transforming the school into a colourful tapestry
 that reflected the richness and diversity of stories. The atmosphere was
 filled with excitement as students eagerly shared about their characters,
 bringing narratives to life through their voices and expressions.</p>
-<p></p>
-<p>Book characters came alive as both staff and students stepped into the
-shoes of their favourite literary figures
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_1.jpg">
+</div>
+<p><em>Book characters came alive as both staff and students stepped into the shoes of their favourite literary figures</em> 
 <br>
 </p>
 <p>A key highlight of the celebration was the exploration of literary genres.
@@ -185,9 +185,10 @@ introduced to a wide range of genres, including fantasy, adventure, mystery,
 folklore and non-fiction. These experiences deepened their understanding
 of genre characteristics and themes, while nurturing a genuine curiosity
 about the world of books.</p>
-<p></p>
-<p>Our talented teacher-actors, who truly brought their characters to life!
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_2.jpg">
+</div>
+<p><em>Our talented teacher-actors, who truly brought their characters to life! </em>
 <br>
 </p>
 <p>Throughout the week, students engaged in interactive activities such as
@@ -203,6 +204,14 @@ stories, making connections across texts and embracing diverse perspectives.
 The immersive nature of the activities encouraged them to step into different
 roles and viewpoints, strengthening their adaptability and confidence as
 learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_4.jpg">
+</div>
 <p>Students dressed as the book characters</p>
 <p>Come as a Book Character Day was more than a celebration - it was a powerful
 reminder of how stories can inspire, connect and shape young minds. It
