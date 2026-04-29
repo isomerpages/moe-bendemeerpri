@@ -176,7 +176,7 @@ bringing narratives to life through their voices and expressions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_1.jpg">
 </div>
-<p><em>Book characters came alive as both staff and students stepped into the shoes of their favourite literary figures</em> 
+<p style="text-align:center;"><em>Book characters came alive as both staff and students stepped into the shoes of their favourite literary figures</em> 
 <br>
 </p>
 <p>A key highlight of the celebration was the exploration of literary genres.
@@ -188,7 +188,7 @@ about the world of books.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_2.jpg">
 </div>
-<p><em>Our talented teacher-actors, who truly brought their characters to life! </em>
+<p style="text-align:center;"><em>Our talented teacher-actors, who truly brought their characters to life! </em>
 <br>
 </p>
 <p>Throughout the week, students engaged in interactive activities such as
@@ -212,7 +212,7 @@ learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_4.jpg">
 </div>
-<p>Students dressed as the book characters</p>
+<p style="text-align:center;">Students dressed as the book characters</p>
 <p>Come as a Book Character Day was more than a celebration - it was a powerful
 reminder of how stories can inspire, connect and shape young minds. It
 underscored the school’s commitment to nurturing reflective, curious and
