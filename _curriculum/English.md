@@ -317,42 +317,59 @@ opportunities to hone their speaking and presentation skills as they present
 to their classmates and school!</p>
 <h5><strong>A Vibrant English Environment</strong></h5>
 <h5><strong><u>Come as a Book Character Day&nbsp;</u></strong></h5>
-<p>We celebrated our annual Come as a Book Character Day with the theme,
-“Paradise is a library”. Our students and teachers were encouraged to dress
-up as a character from a book.</p>
-<p>The objectives of Come as a Book Character Day are to develop a lifelong
-habit of reading for enjoyment and nurture a love of reading in students.&nbsp;</p>
-<p>In conjunction with Earth Day, students were encouraged to create a costume
-using recycled materials. During Art lessons, teachers supported the students
-with the crafting of the masks and costumes. Students were also given opportunities
-in class to share about the characters they dressed up as.</p>
-<p>Reading was infused across various subjects throughout that day. During
-the Mother Tongue lessons, students shared about their characters in the
-respective Mother Tongue languages. Students heard engaging Math stories
-during their Math lessons and Science related activities were conducted
-during the lessons.</p>
+<p>On 24 April, the school came alive in a vibrant celebration of imagination
+and creativity as students participated in our much anticipated Come as
+a Book Character Day, themed “Genres Come Alive.” From beloved classic
+figures to contemporary heroes, students arrived dressed as their favourite
+literary characters, transforming the school into a colourful tapestry
+that reflected the richness and diversity of stories. The atmosphere was
+filled with excitement as students eagerly shared about their characters,
+bringing narratives to life through their voices and expressions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_1.jpg">
+</div>
+<p style="text-align:center;"><em>Book characters came alive as both staff and students stepped into the shoes of their favourite literary figures</em> 
+<br>
+</p>
+<p>A key highlight of the celebration was the exploration of literary genres.
+Through peer sharing and thoughtfully designed activities, students were
+introduced to a wide range of genres, including fantasy, adventure, mystery,
+folklore and non-fiction. These experiences deepened their understanding
+of genre characteristics and themes, while nurturing a genuine curiosity
+about the world of books.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_2.jpg">
+</div>
+<p style="text-align:center;"><em>Our talented teacher-actors, who truly brought their characters to life! </em>
+<br>
+</p>
+<p>Throughout the week, students engaged in interactive activities such as
+storytelling sessions led by the Principal, Vice-Principals and parent
+volunteers, as well as hands-on book-making experiences in the Maker’s
+Space. These platforms provided meaningful opportunities for students to
+express their ideas, think creatively and collaborate with their peers.
+In the process, they developed essential communication, collaboration,
+adaptability and social awareness.</p>
+<p>Beyond the festivities, the event played a significant role in cultivating
+a sustained love for reading. Students demonstrated enthusiasm in discussing
+stories, making connections across texts and embracing diverse perspectives.
+The immersive nature of the activities encouraged them to step into different
+roles and viewpoints, strengthening their adaptability and confidence as
+learners.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/BookCharacter1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_3.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL/BookCharacter2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CABCD_4.jpg">
 </div>
-<p>Students were encouraged to do a book talk on their character and promote
-the books.</p>
+<p style="text-align:center;">Students dressed as the book characters</p>
+<p>Come as a Book Character Day was more than a celebration - it was a powerful
+reminder of how stories can inspire, connect and shape young minds. It
+underscored the school’s commitment to nurturing reflective, curious and
+future-ready learners through meaningful and engaging literacy experiences.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/BookCharacter3.jpg">
-</div>
-<p>Students and teachers all caught up in the fun of dressing up as characters.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL/BookCharacter4.jpg">
-</div>
-<p>Our students and School Leaders looking resplendent in their costumes
-on Come as a Book Character Day.</p>
 <h5><strong><u>Superspeaker Programme</u></strong></h5>
 <p>The EL Department aims to build a culture of communication and conversation
 within the classroom. This is done in order to give students voice and
