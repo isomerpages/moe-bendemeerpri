@@ -114,11 +114,11 @@ them to be an active leader and confident performers.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance_3.png">
 </div>
 <p></p>
 <p></p>
