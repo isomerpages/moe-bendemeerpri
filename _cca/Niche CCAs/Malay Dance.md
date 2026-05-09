@@ -110,15 +110,15 @@ them to be an active leader and confident performers.</p>
 <h4>Photos / Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_3.jpg">
 </div>
 <p></p>
 <p></p>
