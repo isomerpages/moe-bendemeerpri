@@ -95,6 +95,9 @@ them to be an active leader and confident performers.</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>2026 SYF Arts Presentation - Certificate of Distinction</p>
+</li>
+<li>
 <p>2024 SYF Arts Presentation – Certificate of Accomplishment</p>
 </li>
 <li>
@@ -107,17 +110,17 @@ them to be an active leader and confident performers.</p>
 <h4>Photos / Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_09_0955172.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_Dance_2026_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_dance_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance_2.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Malay_dance_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance_3.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
