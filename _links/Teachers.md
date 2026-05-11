@@ -27,11 +27,19 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScqTtScirVKH9kydXT8U35vtsZkLYDnqqNzX-F4typFs9xtdA/viewform?pli=1" rel="noopener nofollow" target="_blank">24/7 Staff Feedback Form</a>
+</p>
+</li>
+<li>
 <p><a href="https://core.eon-xr.com/Identity/Account/Login" rel="noopener nofollow" target="_blank">EON XR Portal</a>
 </p>
 </li>
 <li>
 <p><a href="https://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://glow.digital.moe.gov.sg/" rel="noopener nofollow" target="_blank">GLOW!</a>
 </p>
 </li>
 <li>
