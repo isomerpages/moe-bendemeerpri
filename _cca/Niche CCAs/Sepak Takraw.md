@@ -144,6 +144,8 @@ subsequently went on to qualify and performed well in the National competition.<
 <p>To provide quality competition experiences for our school athletes to
 support character development through the pursuit of sporting excellence.</p>
 <h4>Achievements</h4>
+<p><strong>2026</strong>
+<br>Senior Team achieved 5<sup>th</sup> &nbsp;in the Nationals</p>
 <p><strong>2025</strong>
 <br>Senior Team achieved 3<sup>rd</sup> in the Nationals.</p>
 <p>Junior Team achieved:
@@ -174,47 +176,15 @@ Special Provision)</p>
 <br>Junior Team achieved 1st in Tiered 2 rounds in the Nationals.</p>
 <h4><strong>Photos/ Gallery</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075538.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST1_ud.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075555.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST2_ud.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075610.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075624.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075452.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075659.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075715.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075728.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075739.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075750.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_10_10_075801.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST3.jpg">
 </div>
 <p></p>
