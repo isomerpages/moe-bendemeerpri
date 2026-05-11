@@ -163,6 +163,54 @@ through their sustained participation</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
+<h4>2026 National School Games</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pool Round</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>League Round</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> in Group C2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> in Group B3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> in Group D1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> in Group C2</p>
+<p>League 3 Champions</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2025 National School Games</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -235,15 +283,26 @@ through their sustained participation</p>
 <h4>Photo Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_2026_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_2026_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_3.png">
+</div>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball_6.png">
+</div>
 <p></p>
