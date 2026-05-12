@@ -67,8 +67,8 @@ movements among team members.</p>
 </li>
 </ul>
 <h4>Achievements</h4>
-<p>42-Style Taijiquan (1<sup>st</sup> position National)</p>
-<p>42-Style Taijijian (2<sup>nd</sup> position National)</p>
+<p>42-Style Taijiquan (1<sup>st</sup> position National)
+<br>42-Style Taijijian (2<sup>nd</sup> position National)</p>
 <h4>Photos</h4>
 <p></p>
 <div class="isomer-image-wrapper">
