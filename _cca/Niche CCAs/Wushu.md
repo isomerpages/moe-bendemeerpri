@@ -67,18 +67,15 @@ movements among team members.</p>
 </li>
 </ul>
 <h4>Achievements</h4>
-<p>1st&nbsp;International Broadsword (2nd&nbsp;position National)</p>
+<p>42-Style Taijiquan (1<sup>st</sup> position National)</p>
+<p>42-Style Taijijian (2<sup>nd</sup> position National)</p>
 <h4>Photos</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_pic1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2025_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2025_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_pic2.jpg">
 </div>
 <p></p>
