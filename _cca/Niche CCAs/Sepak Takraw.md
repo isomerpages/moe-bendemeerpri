@@ -181,7 +181,7 @@ Special Provision)</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
