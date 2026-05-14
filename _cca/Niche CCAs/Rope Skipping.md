@@ -164,15 +164,15 @@ and jogging.</p>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ropeskip1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ropeskip2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ropeskip3.png">
 </div>
 <p></p>
 <p></p>
