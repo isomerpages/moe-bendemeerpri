@@ -175,9 +175,6 @@ and jogging.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip3.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_3.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
