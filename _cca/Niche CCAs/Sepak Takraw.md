@@ -194,9 +194,6 @@ Special Provision)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sepak_takraw_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST3.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sepak_takraw_6.png">
 </div>
 <p></p>
