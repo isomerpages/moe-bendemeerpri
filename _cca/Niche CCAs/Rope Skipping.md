@@ -123,22 +123,35 @@ and jogging.</p>
 </li>
 </ol>
 <h4>Achievements</h4>
-<p><strong><u>NSG Senior Competition 2025</u></strong>
+<p><strong><u>NSG Senior Competition 2026</u></strong>
+<br>Individual Double Under (Boys) – 6<sup>th</sup>
+<br>Freestyle Pair (Boys) – 3<sup>rd</sup>
+<br>Double Dutch (Boys) – 2<sup>nd</sup>
+<br>Senior Boys Divisional Champion – Overall 3<sup>rd</sup>
 </p>
-<p><u>Senior Boys:</u>
+<p><strong><u>NSG Junior Competition 2026</u></strong>
+<br>Individual Junior Artistic (Girls) – 2<sup>nd</sup>
+<br>Pair Creative (Girls) – 4<sup>th</sup>
+<br>Individual Speed (Boys) – Silver &amp; Bronze achievement
+<br>Double Under (Boys) – 8<sup>th</sup> &amp; Bronze achievement
+<br>Double Under (Girls) – 4<sup>th</sup>
+<br>Double Dutch (Boys) – 4<sup>th</sup>
+<br>Speed relay (Boys) – 6<sup>th</sup>
+</p>
+<p><strong><u>NSG Senior Competition 2025</u></strong>
+<br><u>Senior Boys:</u>
 <br>Individual Speed – 4<sup>th</sup>
 <br>Double Under – 4<sup>th</sup>
 <br>Overall Championship – 3<sup>rd</sup>
-</p>
-<p><u>Senior Girls:</u>
+<br>
+<br><u>Senior Girls:</u>
 <br>Individual Freestyle – 4<sup>th</sup>
 <br>Individual Speed – 3<sup>rd</sup>
 <br>Double Under – 6<sup>th</sup>
 <br>Pair Freestyle – 6<sup>th</sup>
 </p>
 <p><strong><u>NSG Junior Competition 2025</u></strong>
-</p>
-<p><u>Junior Boys:</u>
+<br><u>Junior Boys:</u>
 <br>Double Dutch – 3<sup>rd</sup>
 <br>Individual Artistic – 4<sup>th</sup>
 <br>Speed Relay – 4<sup>th</sup>
@@ -147,31 +160,19 @@ and jogging.</p>
 <br>Individual Artistic – 7<sup>th</sup>
 <br>Individual Speed – 9<sup>th</sup>
 </p>
-<p><strong><u>NSG Senior Competition 2024</u></strong>
-</p>
-<p><u>Senior Boys:</u>
-<br>Individual Creative – 4<sup>th</sup> &nbsp;
-<br>Pair Creative – 3<sup>rd</sup> &nbsp;</p>
-<p>&nbsp;<strong><u>NSG Junior Competition 2024</u></strong>
-</p>
-<p><u>Junior Boys:</u>
-<br>Individual Speed – 1<sup>st</sup>
-<br>Double Under – 1<sup>st</sup>
-<br>Speed Relay – 3<sup>rd</sup>
-<br>Individual Creative – 3<sup>rd</sup>
-<br>Pair Creative – 4<sup>th</sup>
-</p>
-<p><u>Junior Girls:</u>
-<br>Double Under - 1st</p>
+<p></p>
 <h4>Photos/Gallery</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Grp_Photo_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip1.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip2.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Grp_Photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ropeskip3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -179,11 +180,5 @@ and jogging.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Rope_Skipping_2025_5.jpg">
-</div>
 <p></p>
