@@ -44,12 +44,14 @@ fists and weapons.</p>
 <br>- 5-Duan Cudgel (五段棍)</p>
 <p>Fist Routines for Advance Learners:
 <br>- Jing Sai Nan Quan (竞赛南拳)
-<br>- Jing Sai Chang Quan (竞赛长拳)</p>
+<br>- Jing Sai Chang Quan (竞赛长拳)
+<br>- 42-Style Taijiquan （42 段太极拳）</p>
 <p>Weapon Routines for Advance Learners:
 <br>- Jing Sai Broadsword (竞赛刀)
 <br>- Jing Sai Spear (竞赛枪)
 <br>- Jing Sai Sword(竞赛剑)
-<br>- Jing Sai Cudgel (竞赛棍)&nbsp;</p>
+<br>- Jing Sai Cudgel (竞赛棍)&nbsp;
+<br>- 42-Style Taijijian (42 段太极剑)</p>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -72,10 +74,22 @@ movements among team members.</p>
 <h4>Photos</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_pic1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_1_2026.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_pic2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_2_2026.jpg">
 </div>
+<p>Our pupils proudly represented the school at the 1<sup>st</sup> International
+Cudgel Competition, showcasing resilience, discipline and sportsmanship.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_3_2026.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wushu_4_2026.jpg">
+</div>
+<p>Our Young Wushu athletes displayed confidence, determination and skill
+during their competition performances.</p>
 <p></p>
