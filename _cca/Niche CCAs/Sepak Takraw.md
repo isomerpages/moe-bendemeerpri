@@ -176,15 +176,31 @@ Special Provision)</p>
 <br>Junior Team achieved 1st in Tiered 2 rounds in the Nationals.</p>
 <h4><strong>Photos/ Gallery</strong></h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST1_ud.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST2_ud.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sepak_takraw_7.png">
 </div>
 <p></p>
