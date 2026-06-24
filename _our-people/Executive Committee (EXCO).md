@@ -326,7 +326,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head Student Leadership</p>
+<p>Subject Head Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Luke Goh Hong Kian</p>
