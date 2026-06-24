@@ -61,20 +61,19 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Prapta Utama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fiona_prapta_utama@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fiona_prapta_utama@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Kwek Hui Ying Valerie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwek_hui_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwek_hui_ying@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
