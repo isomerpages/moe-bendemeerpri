@@ -253,18 +253,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jeannette Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mei_lian_jeannette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_lian_jeannette@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,6 +321,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seetha_kumari_jeet_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetha_kumari_jeet_singh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Luke Goh Hong Kian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:luke_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luke_goh@moe.edu.sg</a>
 </p>
 </td>
 </tr>

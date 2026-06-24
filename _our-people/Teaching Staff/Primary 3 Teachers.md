@@ -61,10 +61,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Prapta Utama</p>
+<p>Mdm Yoo Pei Li (Mrs Ang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fiona_prapta_utama@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fiona_prapta_utama@moe.edu.sg</u></a>
+<p><a href="mailto:yoo_pei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yoo_pei_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>

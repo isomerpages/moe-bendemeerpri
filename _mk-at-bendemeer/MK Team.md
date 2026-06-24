@@ -31,21 +31,14 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Team/Raihani.jpg">
-</div>
-<p style="text-align:center;">MS NUR RAIHANI ABDUL AZIZ
-<br>SENIOR TEACHER (ENGLISH LANGUAGE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Team/Haslina.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/MK/Team/Haslina.jpg">
 </div>
 <p style="text-align:center;">MS NHUR HASLINA SARFRAZUL AMEEN
 <br>ENGLISH LANGUAGE TEACHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/MK/Team/Aldrian.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MK/Team/Aldrian.jpg">
 </div>
 <p style="text-align:center;">MR ALDRIAN FERNANDEZ
 <br>ENGLISH LANGUAGE TEACHER</p>
