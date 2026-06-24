@@ -55,5 +55,9 @@ variant: tiptap
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
 </p>
 </li>
+<li>
+<p><a href="https://form.gov.sg/6a1e727d4b90d5dc205eb05a" rel="noopener nofollow" target="_blank">My School Experiences Survey (For P4 and P6)</a>
+</p>
+</li>
 </ol>
 <p></p>
