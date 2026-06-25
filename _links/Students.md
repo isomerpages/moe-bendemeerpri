@@ -54,21 +54,6 @@ variant: tiptap
 <li>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture (Primary) portal link</a>
 </p>
-<hr>
-<p></p>
-</li>
-</ol>
-<blockquote>
-<h4>School Experience and IGNITE Programme Survey</h4>
-</blockquote>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://form.gov.sg/6a1e727d4b90d5dc205eb05a!" rel="noopener nofollow" target="_blank">My School Experiences Survey (For P4 and P6)</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/2026p5ignite!" rel="noopener nofollow" target="_blank">P5 2026 IGNITE Feedback Form (Students)</a>
-</p>
 </li>
 </ol>
 <hr>
