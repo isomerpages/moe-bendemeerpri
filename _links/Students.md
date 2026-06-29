@@ -63,15 +63,15 @@ variant: tiptap
 </blockquote>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://forms.moe.edu.sg/forms/JB3RAj!" rel="noopener nofollow" target="_blank">P1 and P2</a>
+<p><a href="https://forms.moe.edu.sg/forms/JB3RAj" rel="noopener nofollow" target="_blank">P1 and P2</a>
 </p>
 </li>
 <li>
-<p><a href="https://forms.moe.edu.sg/forms/J495O8!" rel="noopener nofollow" target="_blank">P3 and P4</a>
+<p><a href="https://forms.moe.edu.sg/forms/J495O8" rel="noopener nofollow" target="_blank">P3 and P4</a>
 </p>
 </li>
 <li>
-<p><a href="https://forms.moe.edu.sg/forms/J702Bx!" rel="noopener nofollow" target="_blank">P5 and P6</a>
+<p><a href="https://forms.moe.edu.sg/forms/J702Bx" rel="noopener nofollow" target="_blank">P5 and P6</a>
 </p>
 </li>
 </ol>
