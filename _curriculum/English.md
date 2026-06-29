@@ -403,7 +403,6 @@ the classroom.</p>
 </p>
 <h4>Reference Resources</h4>
 <p><strong>Advice on Teaching English and Reading</strong>
-<br><a href="http://www.rif.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.rif.org/</a> 
 <br><a href="http://www.teachingenglish.org.uk/" rel="noopener noreferrer nofollow" target="_blank">http://www.teachingenglish.org.uk/</a> 
 <br><a href="http://www.pbs.org/launchingreaders/" rel="noopener noreferrer nofollow" target="_blank">http://www.pbs.org/launchingreaders/</a>
 </p>
