@@ -56,6 +56,24 @@ learning, well-being, and growth at BPS.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3 Letter to Parents</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026_5_T3_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 3</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
