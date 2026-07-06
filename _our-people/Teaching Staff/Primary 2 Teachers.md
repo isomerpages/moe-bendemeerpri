@@ -121,19 +121,19 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cynthia Foo Siew I</p>
+<p>Ms Leong Sue Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_siew_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_siew_cynthia@moe.edu.sg</u></a>
+<p><a href="mailto:leong_sue_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leong_sue_ning@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Sue Ning</p>
+<p>Mrs Rajalakshmi Kannan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_sue_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leong_sue_ning@moe.edu.sg</u></a>
+<p><a href="mailto:rajalakshmi_kannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajalakshmi_kannan@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
