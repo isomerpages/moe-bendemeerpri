@@ -69,6 +69,7 @@ learning, well-being, and growth at BPS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026_5_T3_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter for 2026 Term 3</a>
+<br><a href="/files/2026_6_T3_BCRS_Implementation.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of the Beverage Container Return Scheme (BCRS) in schools</a>
 </p>
 </td>
 </tr>
