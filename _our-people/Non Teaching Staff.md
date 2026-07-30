@@ -139,7 +139,7 @@ variant: tiptap
 <p>Mr Charles Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:charles_tay_boon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charles_tay_boon_ping@moe.edu.sg</a>
+<p><a href="mailto:charles_tay_boon_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">charles_tay_boon_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ variant: tiptap
 <p>Ms Fatehah Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_fatehah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_fatehah_abdullah@moe.edu.sg</a>
+<p><a href="mailto:Nur_Fatehah_Abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Fatehah_Abdullah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -187,7 +187,7 @@ variant: tiptap
 <p>Ms Louise Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_puay_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_puay_lee@moe.edu.sg</a>
+<p><a href="mailto:leong_puay_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_puay_lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
