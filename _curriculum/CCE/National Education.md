@@ -136,8 +136,9 @@ that Singaporeans used to play during the Kampong Days. People from different
 races and religions bonded through these activities back in those days.
 The students also experienced making colourful rangolis. In addition, the
 students also played interactive Racial Harmony games at ASPIRE Arena.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_08_085445.jpg">
+</div>
 <h4><strong><u>National Day 2025 @ BPS</u></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
