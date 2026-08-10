@@ -122,28 +122,22 @@ amongst different people.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_20_101035.jpg">
 </div>
-<h4><strong><u>Racial Harmony Day (RHD) 2025 @ BPS</u></strong></h4>
+<h4><strong><u>Racial Harmony Day (RHD) 2026 @ BPS</u></strong></h4>
 <p>The theme for this year was “Multicultural Tapestry”. Just like the threads
 in a tapestry, each of us are unique cultural threads in Singapore. In
 BPS, we focused on the key element of living in harmony with others and
 not taking peace for granted. The students and staff commemorated Racial
 Harmony Day in July. Fun-filled activities were carried out in collaboration
-with our PSG. The students created their own BPS Tapestry where we were
-different colours that represented different areas; red represented courage,
-pink represented care, blue represented peace/calm, green represented the
-environment and purple represented resilience. The colour orange weaved
-all these unique colours together to form the tapestry. The students learnt
-more about the ‘old school’ snacks and games that Singaporeans used to
-play during the Kampong Days. People from different races and religions
-bonded through these activities back in those days. This year, the students
-also played interactive Racial Harmony games at ASPIRE Arena.</p>
-<p></p>
+with our PSG. The students created their own Class Tapestry during their
+Social Studies lessons. The students learnt more about the different percussion
+instruments during the Assembly Programme where the students and staff
+bonded through music. During recess, students played ‘old school’ games
+that Singaporeans used to play during the Kampong Days. People from different
+races and religions bonded through these activities back in those days.
+The students also experienced making colourful rangolis. In addition, the
+students also played interactive Racial Harmony games at ASPIRE Arena.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_6.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_Aug_2025_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_08_085445.jpg">
 </div>
 <h4><strong><u>National Day 2025 @ BPS</u></strong></h4>
 <p></p>

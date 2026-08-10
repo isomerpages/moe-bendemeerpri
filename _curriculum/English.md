@@ -251,7 +251,6 @@ their writing.&nbsp;</p>
 </p>
 <p>Volume 2 (2023)
 <br><a href="https://drive.google.com/file/d/1Tt-NycrqxTlGUMFaThqh3F5sn5m-Gxy7/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 1</a>
-<br><a href="https://drive.google.com/file/d/1zgjd-4xlABW54ThlF0FERqqmF3YEOtpp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 2</a>
 </p>
 <p>Volume 3 (2024)
 <br><a href="https://drive.google.com/file/d/1i8jJLbjj803S_SRiKQeCFM7kkfVF04Qg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Issue 1</a>
