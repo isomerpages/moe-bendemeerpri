@@ -4,61 +4,34 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Announcements</h3>
-<h3><strong>Open for nominations: </strong><br><strong>Inspiring Teacher of English Award, </strong><br><strong>Arif Budiman Malay Language Teacher Award (AGAB) and </strong><br><strong>The Most Inspiring Tamil Teacher Award (MITT)</strong></h3>
-<h4><strong>Inspiring Teacher of English Award 2026</strong></h4>
-<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are <strong>now open</strong>.&nbsp;
-Presented by the Speak Good English Movement and The Straits Times with
-the support of the Ministry of Education, the Award has two categories
-– the Teaching Award and the Leadership Award.&nbsp;</p>
+<h1>Announcements</h1>
+<h2><strong>​Alumni and Parents' E-Tribute to Bendemeer Primary School Teachers 2026!</strong></h2>
+<p>This Teacher’s Day, let’s say thank you the Bendemeer way. Calling all
+Bendemeer Primary School Alumni members to pen your well wishes for your
+ex-teachers ✨</p>
+<p>Scan the QR code below or click here to access the link (<a href="https://bit.ly/4qdfKR5" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/4qdfKR5)</a> and
+leave your message!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for alumni to pen down messages for BPS teachers" src="/images/WhatsApp_Image_2026_08_17_at_5_38_33_PM.jpg">
 </div>
-<p>The Award is open to all in-service teachers of English Language, including
-teachers of Literature in English and General Paper. All students, their
-parents, and teachers are invited to send in nominations for the Teaching
-Award to the Principal of the nominee’s school by <strong>6 p.m. on Monday, 23 March 2026</strong>.&nbsp;</p>
-<p>👉 <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">[Click here to download the nomination forms]</a> to
-get started.</p>
-<p>Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
-<p></p>
-<h4><strong>Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
-<p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 is an annual
-award jointly organised by the Malay Language Council, Singapore (MBMS),
-Malay Language Teachers’ Association (PGBM), Berita Harian (BH) and Malay
-Language Learning and Promotion Committee (MLLPC).</p>
-<p>This award recognises outstanding Malay Language teachers who have made
-significant contributions to the teaching and learning of the Malay Language
-in our schools.</p>
-<p>The closing date for nominations is <strong>Friday, 13 March 2026</strong>.
-All are invited to nominate our Malay Language teachers for this award
-to affirm their contributions to the teaching of Malay Language.</p>
-<p>👉 <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
-get started.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGAB_2026_Poster.jpg">
-</div>
-<h4><strong>The Most Inspiring Tamil Teacher Award (MITT) 2026</strong></h4>
-<p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
-jointly organised by the Tamil Murasu ™ with the partnership of the Tamil
-Language Learning and Promotion Committee (TLLPC) and the Singapore Tamil
-Teachers’ Union (STTU).</p>
-<p>This award recognises outstanding Tamil language teachers who have made
-significant contributions to the teaching and learning of Tamil language
-in our schools.</p>
-<p>The closing date for nominations is <strong>Friday, 13 March 2026</strong>.</p>
-<p>👉 <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">[Click here to submit your nomination]</a> or <strong>scan the QR code below</strong> to
-get started.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__MITT_2026_Poster.jpg">
-</div>
-<hr>
 <p></p>
 <hr>
-<h4>Calling All BPS Alumni: Let's Reconnect!</h4>
+<h2><strong>Calling all Bendemeer Primary School Alumni! </strong></h2>
+<p>​Something exciting is blasting off soon, and Ben the astronaut is here
+to tell you to WATCH THIS SPACE! 🪐✨</p>
+<p>​It's time to reconnect, walk down memory lane, and catch up with old
+friends and teachers. Block your calendars and come visit us back home
+at BPS!</p>
+<p>​📍 Where: Bendemeer Primary School
+<br>📅 When: 3 September 2026</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for alumni and ex-students to come back for teacher's day" src="/images/WhatsApp_Image_2026_08_17_at_5_38_00_PM.jpg">
+</div>
+<p></p>
+<hr>
+<h2><strong>Calling All BPS Alumni: Let's Reconnect!</strong></h2>
 <p>Dear BPS Alumni,
 <br>
 <br>We are on a mission to reconnect and stay in touch with each and every
